@@ -1,0 +1,91 @@
+{
+  "status": "DRAFT_NOT_FOR_RUNTIME",
+  "basis": {
+    "generation": "264",
+    "incarnationId": "e806d0154fe440e2ad763990610ebbb9",
+    "count": 76,
+    "stableBeforeAfter": true
+  },
+  "entries": [
+    {
+      "cartridgeId": "legacy-32e76b3a09c2cf",
+      "oldCount": 31,
+      "actualCount": 31,
+      "registryCount": 31,
+      "matchingRows": 31,
+      "groupsSame": true,
+      "eligibleSoloUnits": 28,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-4979df297df107",
+      "oldCount": 31,
+      "actualCount": 31,
+      "registryCount": 31,
+      "matchingRows": 31,
+      "groupsSame": true,
+      "eligibleSoloUnits": 28,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-185d6cec2da5c7",
+      "oldCount": 32,
+      "actualCount": 32,
+      "registryCount": 32,
+      "matchingRows": 32,
+      "groupsSame": true,
+      "eligibleSoloUnits": 28,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "oldCount": 33,
+      "actualCount": 33,
+      "registryCount": 33,
+      "matchingRows": 22,
+      "groupsSame": false,
+      "eligibleSoloUnits": 26,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-1a28074288ef38",
+      "oldCount": 32,
+      "actualCount": 32,
+      "registryCount": 32,
+      "matchingRows": 32,
+      "groupsSame": true,
+      "eligibleSoloUnits": 26,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-2e92d45956bee4",
+      "oldCount": 33,
+      "actualCount": 33,
+      "registryCount": 33,
+      "matchingRows": 33,
+      "groupsSame": true,
+      "eligibleSoloUnits": 26,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-bb318ea0f599b8",
+      "oldCount": 119,
+      "actualCount": 119,
+      "registryCount": 119,
+      "matchingRows": 119,
+      "groupsSame": true,
+      "eligibleSoloUnits": 74,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-8e67c75631d294",
+      "oldCount": 99,
+      "actualCount": 99,
+      "registryCount": 99,
+      "matchingRows": 99,
+      "groupsSame": true,
+      "eligibleSoloUnits": 61,
+      "invalidRows": []
+    }
+  ]
+}
