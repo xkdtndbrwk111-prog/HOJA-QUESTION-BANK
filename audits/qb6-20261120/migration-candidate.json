@@ -1,0 +1,1384 @@
+{
+  "status": "GUARDED_MIGRATION_CANDIDATE_NOT_APPLIED",
+  "bankBase": "0f5945858f0e9af1c19a4e9f9d346100fae2e311",
+  "identityAuditCommit": "01111391d23316b919a462fa796c1de706aa3985",
+  "registryBasis": {
+    "generation": "264",
+    "incarnationId": "e806d0154fe440e2ad763990610ebbb9",
+    "count": 76,
+    "stableBeforeAfter": true
+  },
+  "summary": {
+    "mappingCount": 76,
+    "restoredSourceTitles": 32,
+    "choiceRows": 16,
+    "heldCount": 3
+  },
+  "mapping": [
+    {
+      "cartridgeId": "legacy-3e5b32190d12cd",
+      "path": "cartridges/legacy-3e5b32190d12cd/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-7단원-I Went on a Tri",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-7단원-I Went on a Trip",
+      "proposedLegacySheetId": "1205712928",
+      "proposedQuestionCount": 42,
+      "expectedPriorTitle": "YBM(김)-7단원-I Went on a Tri",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-52700fc5c42dd6",
+      "path": "cartridges/legacy-52700fc5c42dd6/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-8단원-What Does He Lo",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-8단원-What Does He Look Like",
+      "proposedLegacySheetId": "1010160220",
+      "proposedQuestionCount": 40,
+      "expectedPriorTitle": "YBM(김)-8단원-What Does He Lo",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-32dfc3cb7c6687",
+      "path": "cartridges/legacy-32dfc3cb7c6687/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-9단원-I Ride a Bike",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-9단원-I Ride a Bike",
+      "proposedLegacySheetId": "783283098",
+      "proposedQuestionCount": 41,
+      "expectedPriorTitle": "YBM(김)-9단원-I Ride a Bike",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-0c06d97309744c",
+      "path": "cartridges/legacy-0c06d97309744c/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-10단원-Whats Wrong",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-10단원-Whats Wrong",
+      "proposedLegacySheetId": "1358884332",
+      "proposedQuestionCount": 42,
+      "expectedPriorTitle": "YBM(김)-10단원-Whats Wrong",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-0d5aefe4c4cba5",
+      "path": "cartridges/legacy-0d5aefe4c4cba5/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-11단원-Where Is the L",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-11단원-Where Is the Library",
+      "proposedLegacySheetId": "659866276",
+      "proposedQuestionCount": 42,
+      "expectedPriorTitle": "YBM(김)-11단원-Where Is the L",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-a46db49754c73a",
+      "path": "cartridges/legacy-a46db49754c73a/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-YBM(김)-12단원-What Will You ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-YBM(김)-12단원-What Will You Do This Winter",
+      "proposedLegacySheetId": "1503268744",
+      "proposedQuestionCount": 42,
+      "expectedPriorTitle": "YBM(김)-12단원-What Will You ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-72e14a4ec6c9ec",
+      "path": "cartridges/legacy-72e14a4ec6c9ec/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-7단원 How Can I Get t",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-7단원 How Can I Get to the Police Station",
+      "proposedLegacySheetId": "1202104483",
+      "proposedQuestionCount": 41,
+      "expectedPriorTitle": "YBM(김)-7단원 How Can I Get t",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-3b665775164e4c",
+      "path": "cartridges/legacy-3b665775164e4c/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-8단원 I Want to Be a ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-8단원 I Want to Be a Drone Pilot",
+      "proposedLegacySheetId": "1811248284",
+      "proposedQuestionCount": 43,
+      "expectedPriorTitle": "YBM(김)-8단원 I Want to Be a ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-e1d665a6aa5310",
+      "path": "cartridges/legacy-e1d665a6aa5310/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-9단원 Who Painted the",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-9단원 Who Painted the Picture",
+      "proposedLegacySheetId": "1371299660",
+      "proposedQuestionCount": 44,
+      "expectedPriorTitle": "YBM(김)-9단원 Who Painted the",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-766c5847c0d1d3",
+      "path": "cartridges/legacy-766c5847c0d1d3/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-10단원 What Season Do",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-10단원 What Season Do You Like",
+      "proposedLegacySheetId": "1413743859",
+      "proposedQuestionCount": 45,
+      "expectedPriorTitle": "YBM(김)-10단원 What Season Do",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-cb7a110c5f820c",
+      "path": "cartridges/legacy-cb7a110c5f820c/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-11단원 I Think It Loo",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-11단원 I Think It Looks Bright",
+      "proposedLegacySheetId": "535746103",
+      "proposedQuestionCount": 44,
+      "expectedPriorTitle": "YBM(김)-11단원 I Think It Loo",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-25dd19ff375a26",
+      "path": "cartridges/legacy-25dd19ff375a26/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-YBM(김)-12단원 Do You Know An",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-YBM(김)-12단원 Do You Know Anything About Jige",
+      "proposedLegacySheetId": "995739924",
+      "proposedQuestionCount": 46,
+      "expectedPriorTitle": "YBM(김)-12단원 Do You Know An",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-4a04319a064c80",
+      "path": "cartridges/legacy-4a04319a064c80/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-7단원 Can You Come to ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-7단원 Can You Come to the Movie Festival",
+      "proposedLegacySheetId": "677799852",
+      "proposedQuestionCount": 39,
+      "expectedPriorTitle": "천재(함)-7단원 Can You Come to ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-b3a58db4c84c23",
+      "path": "cartridges/legacy-b3a58db4c84c23/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-8단원 Its Taller Than ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-8단원 It's Taller Than the Tree",
+      "proposedLegacySheetId": "1369177589",
+      "proposedQuestionCount": 39,
+      "expectedPriorTitle": "천재(함)-8단원 Its Taller Than ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-4dbb7cb223e42e",
+      "path": "cartridges/legacy-4dbb7cb223e42e/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-9단원 What Are You Goi",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-9단원 What Are You Going to Do",
+      "proposedLegacySheetId": "1968204495",
+      "proposedQuestionCount": 44,
+      "expectedPriorTitle": "천재(함)-9단원 What Are You Goi",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-9ff2803db41b4c",
+      "path": "cartridges/legacy-9ff2803db41b4c/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-10단원 How Often Do Yo",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-10단원 How Often Do You Eat Vegetables",
+      "proposedLegacySheetId": "255205830",
+      "proposedQuestionCount": 45,
+      "expectedPriorTitle": "천재(함)-10단원 How Often Do Yo",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-b85861dbe774f0",
+      "path": "cartridges/legacy-b85861dbe774f0/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-11단원 Do You Know Any",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-11단원 Do You Know Anything About Tuho",
+      "proposedLegacySheetId": "2034991334",
+      "proposedQuestionCount": 45,
+      "expectedPriorTitle": "천재(함)-11단원 Do You Know Any",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-6806a1209ba39c",
+      "path": "cartridges/legacy-6806a1209ba39c/cartridge.json",
+      "expectedOldLegacySheetName": "6-영어-천재(함)-12단원 We Made a Class",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-영어-천재(함)-12단원 We Made a Class Album",
+      "proposedLegacySheetId": "2045519390",
+      "proposedQuestionCount": 43,
+      "expectedPriorTitle": "천재(함)-12단원 We Made a Class",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-eb8c043d48695a",
+      "path": "cartridges/legacy-eb8c043d48695a/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-1단원 Where Are You From",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-1단원 Where Are You From",
+      "proposedLegacySheetId": "1337124346",
+      "proposedQuestionCount": 36,
+      "expectedPriorTitle": "비상-1단원 Where Are You From",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-66e1341f707ab3",
+      "path": "cartridges/legacy-66e1341f707ab3/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-2단원 Whose Umbrella Is T",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-2단원 Whose Umbrella Is This",
+      "proposedLegacySheetId": "1238025690",
+      "proposedQuestionCount": 36,
+      "expectedPriorTitle": "비상-2단원 Whose Umbrella Is T",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-a987f76de53388",
+      "path": "cartridges/legacy-a987f76de53388/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-3단원 My Favorite Subject",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-3단원 My Favorite Subject Is Art",
+      "proposedLegacySheetId": "1789686945",
+      "proposedQuestionCount": 38,
+      "expectedPriorTitle": "비상-3단원 My Favorite Subject",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-72fca37242fc6c",
+      "path": "cartridges/legacy-72fca37242fc6c/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-7단원 I Visited My Grandp",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-7단원 I Visited My Grandparents",
+      "proposedLegacySheetId": "998769706",
+      "proposedQuestionCount": 38,
+      "expectedPriorTitle": "비상-7단원 I Visited My Grandp",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "path": "cartridges/legacy-91c988cb269ed7/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-8단원 What Time Do You Ge",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-8단원 What Time Do You Get Up",
+      "proposedLegacySheetId": "1921885910",
+      "proposedQuestionCount": 35,
+      "expectedPriorTitle": "비상-8단원 What Time Do You Ge",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-a348ac08eaaa82",
+      "path": "cartridges/legacy-a348ac08eaaa82/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-비상-9단원 How Much Are These ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-비상-9단원 How Much Are These Socks",
+      "proposedLegacySheetId": "1909977233",
+      "proposedQuestionCount": 36,
+      "expectedPriorTitle": "비상-9단원 How Much Are These ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-f9e2e20f0a0f2c",
+      "path": "cartridges/legacy-f9e2e20f0a0f2c/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-1단원 Where Are You Fr",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-1단원 Where Are You From",
+      "proposedLegacySheetId": "1099358598",
+      "proposedQuestionCount": 40,
+      "expectedPriorTitle": "천재(함)-1단원 Where Are You Fr",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-80f7cfaef4b254",
+      "path": "cartridges/legacy-80f7cfaef4b254/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-2단원 What Are These",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-2단원 What Are These",
+      "proposedLegacySheetId": "384056582",
+      "proposedQuestionCount": 38,
+      "expectedPriorTitle": "천재(함)-2단원 What Are These",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-79e63e0ca607a7",
+      "path": "cartridges/legacy-79e63e0ca607a7/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-3단원 Can I Take Pictu",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-3단원 Can I Take Pictures",
+      "proposedLegacySheetId": "2036901766",
+      "proposedQuestionCount": 31,
+      "expectedPriorTitle": "천재(함)-3단원 Can I Take Pictu",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-ec3bd34a5e0c7e",
+      "path": "cartridges/legacy-ec3bd34a5e0c7e/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-4단원 Whose Pen Is Thi",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-4단원 Whose Pen Is This",
+      "proposedLegacySheetId": "548038625",
+      "proposedQuestionCount": 30,
+      "expectedPriorTitle": "천재(함)-4단원 Whose Pen Is Thi",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-fff1cdbc4fc698",
+      "path": "cartridges/legacy-fff1cdbc4fc698/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-5단원 Let’s Go Shoppin",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-5단원 Let’s Go Shopping",
+      "proposedLegacySheetId": "509485837",
+      "proposedQuestionCount": 31,
+      "expectedPriorTitle": "천재(함)-5단원 Let’s Go Shoppin",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-bc6755383c77f5",
+      "path": "cartridges/legacy-bc6755383c77f5/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-6단원 What Will You Do",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-6단원 What Will You Do This Summer",
+      "proposedLegacySheetId": "2086568358",
+      "proposedQuestionCount": 30,
+      "expectedPriorTitle": "천재(함)-6단원 What Will You Do",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-32e76b3a09c2cf",
+      "path": "cartridges/legacy-32e76b3a09c2cf/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-7단원 I Went to a Wate",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-7단원 I Went to a Watermelon Festival",
+      "proposedLegacySheetId": "1972829252",
+      "proposedQuestionCount": 31,
+      "expectedPriorTitle": "천재(함)-7단원 I Went to a Wate",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-4979df297df107",
+      "path": "cartridges/legacy-4979df297df107/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-8단원 What Would You L",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-8단원 What Would You Like",
+      "proposedLegacySheetId": "422135384",
+      "proposedQuestionCount": 31,
+      "expectedPriorTitle": "천재(함)-8단원 What Would You L",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-185d6cec2da5c7",
+      "path": "cartridges/legacy-185d6cec2da5c7/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-9단원 They Are Twenty ",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-9단원 They Are Twenty Thousand Won",
+      "proposedLegacySheetId": "1367359666",
+      "proposedQuestionCount": 32,
+      "expectedPriorTitle": "천재(함)-9단원 They Are Twenty ",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-10단원 What Time Do Yo",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-10단원 What Time Do You Get Up",
+      "proposedLegacySheetId": "27022534",
+      "proposedQuestionCount": 33,
+      "expectedPriorTitle": "천재(함)-10단원 What Time Do Yo",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-1a28074288ef38",
+      "path": "cartridges/legacy-1a28074288ef38/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-11단원 My Favorite Sub",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-11단원 My Favorite Subject Is Math",
+      "proposedLegacySheetId": "1622587136",
+      "proposedQuestionCount": 32,
+      "expectedPriorTitle": "천재(함)-11단원 My Favorite Sub",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-2e92d45956bee4",
+      "path": "cartridges/legacy-2e92d45956bee4/cartridge.json",
+      "expectedOldLegacySheetName": "5-영어-천재(함)-12단원 What Do You Wan",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-영어-천재(함)-12단원 What Do You Want to Be",
+      "proposedLegacySheetId": "1354863502",
+      "proposedQuestionCount": 33,
+      "expectedPriorTitle": "천재(함)-12단원 What Do You Wan",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-a7e58227f8c40a",
+      "path": "cartridges/legacy-a7e58227f8c40a/cartridge.json",
+      "expectedOldLegacySheetName": "기타-FUN-수수께끼와 넌센스",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-FUN-수수께끼와 넌센스",
+      "proposedLegacySheetId": "1191659768",
+      "proposedQuestionCount": 80,
+      "expectedPriorTitle": "수수께끼와 넌센스",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-bb318ea0f599b8",
+      "path": "cartridges/legacy-bb318ea0f599b8/cartridge.json",
+      "expectedOldLegacySheetName": "기타-문해력-심화어휘",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-문해력-심화어휘",
+      "proposedLegacySheetId": "1617630883",
+      "proposedQuestionCount": 119,
+      "expectedPriorTitle": "심화어휘",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-8e67c75631d294",
+      "path": "cartridges/legacy-8e67c75631d294/cartridge.json",
+      "expectedOldLegacySheetName": "기타-문해력-기초어휘",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-문해력-기초어휘",
+      "proposedLegacySheetId": "779877495",
+      "proposedQuestionCount": 99,
+      "expectedPriorTitle": "기초어휘",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-b5388dfdf1aef3",
+      "path": "cartridges/legacy-b5388dfdf1aef3/cartridge.json",
+      "expectedOldLegacySheetName": "기타-문해력-한글 맞춤법 기초",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-문해력-한글 맞춤법 기초",
+      "proposedLegacySheetId": "1152109981",
+      "proposedQuestionCount": 70,
+      "expectedPriorTitle": "한글 맞춤법 기초",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-2047d72a6855e8",
+      "path": "cartridges/legacy-2047d72a6855e8/cartridge.json",
+      "expectedOldLegacySheetName": "기타-문해력-한글 맞춤법 심화",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-문해력-한글 맞춤법 심화",
+      "proposedLegacySheetId": "13485392",
+      "proposedQuestionCount": 62,
+      "expectedPriorTitle": "한글 맞춤법 심화",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-41d866c497ebaa",
+      "path": "cartridges/legacy-41d866c497ebaa/cartridge.json",
+      "expectedOldLegacySheetName": "기타-속담-대한민국 속담",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-속담-대한민국 속담",
+      "proposedLegacySheetId": "1794316160",
+      "proposedQuestionCount": 675,
+      "expectedPriorTitle": "대한민국 속담",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-710beb6ed42e9b",
+      "path": "cartridges/legacy-710beb6ed42e9b/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-Stray Kids",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-Stray Kids",
+      "proposedLegacySheetId": "1393452176",
+      "proposedQuestionCount": 52,
+      "expectedPriorTitle": "Stray Kids",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-b6c22e7694c1a7",
+      "path": "cartridges/legacy-b6c22e7694c1a7/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-BOYNEXTDOOR",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-BOYNEXTDOOR",
+      "proposedLegacySheetId": "380125968",
+      "proposedQuestionCount": 67,
+      "expectedPriorTitle": "BOYNEXTDOOR",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-8de5a8080297ef",
+      "path": "cartridges/legacy-8de5a8080297ef/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-CORTIS",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-CORTIS",
+      "proposedLegacySheetId": "1019821166",
+      "proposedQuestionCount": 61,
+      "expectedPriorTitle": "CORTIS",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-8622e6505e828a",
+      "path": "cartridges/legacy-8622e6505e828a/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-IVE",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-IVE",
+      "proposedLegacySheetId": "1464474007",
+      "proposedQuestionCount": 65,
+      "expectedPriorTitle": "IVE",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-6bbe7a8f2497f5",
+      "path": "cartridges/legacy-6bbe7a8f2497f5/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-aespa",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-aespa",
+      "proposedLegacySheetId": "1219220862",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "aespa",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-6df5f4cbfee383",
+      "path": "cartridges/legacy-6df5f4cbfee383/cartridge.json",
+      "expectedOldLegacySheetName": "기타-kpop-ILLIT",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "기타-kpop-ILLIT",
+      "proposedLegacySheetId": "1475229885",
+      "proposedQuestionCount": 52,
+      "expectedPriorTitle": "ILLIT",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-c1403d6ac0502c",
+      "path": "cartridges/legacy-c1403d6ac0502c/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-세계의 다양한 지형",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-세계의 다양한 지형",
+      "proposedLegacySheetId": "1537915056",
+      "proposedQuestionCount": 141,
+      "expectedPriorTitle": "세계의 다양한 지형",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-990fc1737f685b",
+      "path": "cartridges/legacy-990fc1737f685b/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-세계의 다양한 기후",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-세계의 다양한 기후",
+      "proposedLegacySheetId": "1393492635",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "세계의 다양한 기후",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-1d5826e82d6af1",
+      "path": "cartridges/legacy-1d5826e82d6af1/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-가계와 기업의 역할",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-가계와 기업의 역할",
+      "proposedLegacySheetId": "1893664453",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "가계와 기업의 역할",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-80ac1d47884619",
+      "path": "cartridges/legacy-80ac1d47884619/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-우리나라의 경제 성장",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-우리나라의 경제 성장",
+      "proposedLegacySheetId": "1416693575",
+      "proposedQuestionCount": 147,
+      "expectedPriorTitle": "우리나라의 경제 성장",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-85fb365dd27267",
+      "path": "cartridges/legacy-85fb365dd27267/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-세계의 무역",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-세계의 무역",
+      "proposedLegacySheetId": "1897130358",
+      "proposedQuestionCount": 138,
+      "expectedPriorTitle": "세계의 무역",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-24c30cc3b99868",
+      "path": "cartridges/legacy-24c30cc3b99868/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-세계의 인구",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-세계의 인구",
+      "proposedLegacySheetId": "1466622384",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "세계의 인구",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-86145468deb8be",
+      "path": "cartridges/legacy-86145468deb8be/cartridge.json",
+      "expectedOldLegacySheetName": "6-사회-평화로운 지구촌과 지속가능한 미래",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-사회-평화로운 지구촌과 지속가능한 미래",
+      "proposedLegacySheetId": "99565535",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "평화로운 지구촌과 지속가능한 미래",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-bc65b3561b1fdb",
+      "path": "cartridges/legacy-bc65b3561b1fdb/cartridge.json",
+      "expectedOldLegacySheetName": "6-과학-계절의 변화 (날아라펭귄)",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-과학-계절의 변화 (날아라펭귄)",
+      "proposedLegacySheetId": "1153353767",
+      "proposedQuestionCount": 75,
+      "expectedPriorTitle": "계절의 변화 (날아라펭귄)",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-bf084b9ddef8fa",
+      "path": "cartridges/legacy-bf084b9ddef8fa/cartridge.json",
+      "expectedOldLegacySheetName": "6-과학-물질의 연소 (날아라펭귄)",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-과학-물질의 연소 (날아라펭귄)",
+      "proposedLegacySheetId": "1783943249",
+      "proposedQuestionCount": 75,
+      "expectedPriorTitle": "물질의 연소 (날아라펭귄)",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-aedbfffda4da7e",
+      "path": "cartridges/legacy-aedbfffda4da7e/cartridge.json",
+      "expectedOldLegacySheetName": "6-과학-전기의 이용 (날아라펭귄)",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "6-과학-전기의 이용 (날아라펭귄)",
+      "proposedLegacySheetId": "729375846",
+      "proposedQuestionCount": 75,
+      "expectedPriorTitle": "전기의 이용 (날아라펭귄)",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-130d81dd9a4606",
+      "path": "cartridges/legacy-130d81dd9a4606/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-선사 시대와 고조선 사람들의 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-선사 시대와 고조선 사람들의 생활 모습",
+      "proposedLegacySheetId": "1610831612",
+      "proposedQuestionCount": 144,
+      "expectedPriorTitle": "선사 시대와 고조선 사람들의 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-134cb87e47ddce",
+      "path": "cartridges/legacy-134cb87e47ddce/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-고대 사람들의 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-고대 사람들의 생활 모습",
+      "proposedLegacySheetId": "643220931",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "고대 사람들의 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-8f9d4234838937",
+      "path": "cartridges/legacy-8f9d4234838937/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-고려 시대 사회 모습과 사람들의 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-고려 시대 사회 모습과 사람들의 생활 모습",
+      "proposedLegacySheetId": "562073633",
+      "proposedQuestionCount": 148,
+      "expectedPriorTitle": "고려 시대 사회 모습과 사람들의 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-147937b3323011",
+      "path": "cartridges/legacy-147937b3323011/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-조선 시대의 유교 문화",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-조선 시대의 유교 문화",
+      "proposedLegacySheetId": "1075460009",
+      "proposedQuestionCount": 149,
+      "expectedPriorTitle": "조선 시대의 유교 문화",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-32eb8738425847",
+      "path": "cartridges/legacy-32eb8738425847/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-조선 후기의 변화와 달라진 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-조선 후기의 변화와 달라진 생활 모습",
+      "proposedLegacySheetId": "252801203",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "조선 후기의 변화와 달라진 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-1b9e08b79cc463",
+      "path": "cartridges/legacy-1b9e08b79cc463/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-일제 식민 통치와 우리 민족의 저항",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-일제 식민 통치와 우리 민족의 저항",
+      "proposedLegacySheetId": "864616925",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "일제 식민 통치와 우리 민족의 저항",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-0cc96c18f24cfa",
+      "path": "cartridges/legacy-0cc96c18f24cfa/cartridge.json",
+      "expectedOldLegacySheetName": "5-사회-8·15 광복과 6·25 전쟁",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "5-사회-8·15 광복과 6·25 전쟁",
+      "proposedLegacySheetId": "247056102",
+      "proposedQuestionCount": 150,
+      "expectedPriorTitle": "8·15 광복과 6·25 전쟁",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-0431e13127d39d",
+      "path": "cartridges/legacy-0431e13127d39d/cartridge.json",
+      "expectedOldLegacySheetName": "3학년-사회-사회 변화로 달라진 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "3학년-사회-사회 변화로 달라진 생활 모습",
+      "proposedLegacySheetId": "1596105709",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "사회 변화로 달라진 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-8e08b7c17891e0",
+      "path": "cartridges/legacy-8e08b7c17891e0/cartridge.json",
+      "expectedOldLegacySheetName": "3학년-사회-다양한 문화에 대한 이해와 존중",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "3학년-사회-다양한 문화에 대한 이해와 존중",
+      "proposedLegacySheetId": "297252641",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "다양한 문화에 대한 이해와 존중",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-3f9d2455b98658",
+      "path": "cartridges/legacy-3f9d2455b98658/cartridge.json",
+      "expectedOldLegacySheetName": "3학년-사회-옛날과 오늘날의 풍습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "3학년-사회-옛날과 오늘날의 풍습",
+      "proposedLegacySheetId": "1668852329",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "옛날과 오늘날의 풍습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-e74ecb7f3eb0f7",
+      "path": "cartridges/legacy-e74ecb7f3eb0f7/cartridge.json",
+      "expectedOldLegacySheetName": "3학년-사회-교통의 변화로 달라진 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "3학년-사회-교통의 변화로 달라진 생활 모습",
+      "proposedLegacySheetId": "1859808634",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "교통의 변화로 달라진 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-95d738a6a784c4",
+      "path": "cartridges/legacy-95d738a6a784c4/cartridge.json",
+      "expectedOldLegacySheetName": "3학년-사회-통신수단의 변화로 달라진 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "3학년-사회-통신수단의 변화로 달라진 생활 모습",
+      "proposedLegacySheetId": "424547105",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "통신수단의 변화로 달라진 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-04552882f5519d",
+      "path": "cartridges/legacy-04552882f5519d/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-학교생활 속 민주주의",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-학교생활 속 민주주의",
+      "proposedLegacySheetId": "1504851866",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "학교생활 속 민주주의",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-f7eb973ab1bd84",
+      "path": "cartridges/legacy-f7eb973ab1bd84/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-주민 자치와 민주주의",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-주민 자치와 민주주의",
+      "proposedLegacySheetId": "951661886",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "주민 자치와 민주주의",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-a5ef776b562e95",
+      "path": "cartridges/legacy-a5ef776b562e95/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-지역문제의 해결",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-지역문제의 해결",
+      "proposedLegacySheetId": "1325428570",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "지역문제의 해결",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-563b214c98ebaf",
+      "path": "cartridges/legacy-563b214c98ebaf/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-지역을 알리는 노력",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-지역을 알리는 노력",
+      "proposedLegacySheetId": "2070620206",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "지역을 알리는 노력",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-915c5b3e00b81b",
+      "path": "cartridges/legacy-915c5b3e00b81b/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-지역의 환경과 변화",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-지역의 환경과 변화",
+      "proposedLegacySheetId": "1701999196",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "지역의 환경과 변화",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    },
+    {
+      "cartridgeId": "legacy-cdd447365c1e5f",
+      "path": "cartridges/legacy-cdd447365c1e5f/cartridge.json",
+      "expectedOldLegacySheetName": "4학년-사회-도시의 특징과 생활 모습",
+      "expectedOldLegacySheetId": null,
+      "proposedLegacySheetName": "4학년-사회-도시의 특징과 생활 모습",
+      "proposedLegacySheetId": "1810134219",
+      "proposedQuestionCount": 50,
+      "expectedPriorTitle": "도시의 특징과 생활 모습",
+      "publication": "NOT_APPROVED",
+      "ranking": "NOT_AUTHORIZED"
+    }
+  ],
+  "patches": [
+    {
+      "cartridgeId": "legacy-4a04319a064c80",
+      "path": "cartridges/legacy-4a04319a064c80/cartridge.json",
+      "questionId": "legacy-4a04319a064c80:19",
+      "sourceRow": 19,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "46294",
+        "46285",
+        "46316",
+        "46324"
+      ],
+      "replacementOptions": [
+        "9월 29일",
+        "9월 20일",
+        "10월 21일",
+        "10월 29일"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "path": "cartridges/legacy-91c988cb269ed7/cartridge.json",
+      "questionId": "legacy-91c988cb269ed7:15",
+      "sourceRow": 15,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "07:30",
+        "07:00",
+        "08:30",
+        "05:00"
+      ],
+      "replacementOptions": [
+        "7:30",
+        "7:00",
+        "8:30",
+        "5:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "path": "cartridges/legacy-91c988cb269ed7/cartridge.json",
+      "questionId": "legacy-91c988cb269ed7:23",
+      "sourceRow": 23,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "04:30",
+        "05:00",
+        "02:00",
+        "07:00"
+      ],
+      "replacementOptions": [
+        "4:30",
+        "5:00",
+        "2:00",
+        "7:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "path": "cartridges/legacy-91c988cb269ed7/cartridge.json",
+      "questionId": "legacy-91c988cb269ed7:24",
+      "sourceRow": 24,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "5 in the morning",
+        "04:30",
+        "2 in the afternoon",
+        "7 in the morning"
+      ],
+      "replacementOptions": [
+        "5 in the morning",
+        "4:30",
+        "2 in the afternoon",
+        "7 in the morning"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "path": "cartridges/legacy-91c988cb269ed7/cartridge.json",
+      "questionId": "legacy-91c988cb269ed7:26",
+      "sourceRow": 26,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "2 in the afternoon",
+        "5 in the morning",
+        "04:30",
+        "12:30"
+      ],
+      "replacementOptions": [
+        "2 in the afternoon",
+        "5 in the morning",
+        "4:30",
+        "12:30"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:18",
+      "sourceRow": 18,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "08:20",
+        "07:00",
+        "05:00",
+        "10:00"
+      ],
+      "replacementOptions": [
+        "8:20",
+        "7:00",
+        "5:00",
+        "10:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:20",
+      "sourceRow": 20,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "05:00",
+        "10:00",
+        "08:20",
+        "07:00"
+      ],
+      "replacementOptions": [
+        "5:00",
+        "10:00",
+        "8:20",
+        "7:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:23",
+      "sourceRow": 23,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "5 in the afternoon",
+        "7 in the morning",
+        "6 in the evening",
+        "08:30"
+      ],
+      "replacementOptions": [
+        "5 in the afternoon",
+        "7 in the morning",
+        "6 in the evening",
+        "8:30"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:24",
+      "sourceRow": 24,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "6 in the evening",
+        "5 in the afternoon",
+        "7 in the morning",
+        "08:30"
+      ],
+      "replacementOptions": [
+        "6 in the evening",
+        "5 in the afternoon",
+        "7 in the morning",
+        "8:30"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:25",
+      "sourceRow": 25,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "08:30",
+        "06:00",
+        "05:00",
+        "07:00"
+      ],
+      "replacementOptions": [
+        "8:30",
+        "6:00",
+        "5:00",
+        "7:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:27",
+      "sourceRow": 27,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "07:30",
+        "07:00",
+        "08:10",
+        "09:00"
+      ],
+      "replacementOptions": [
+        "7:30",
+        "7:00",
+        "8:10",
+        "9:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:28",
+      "sourceRow": 28,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "08:10",
+        "09:00",
+        "07:30",
+        "07:00"
+      ],
+      "replacementOptions": [
+        "8:10",
+        "9:00",
+        "7:30",
+        "7:00"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:29",
+      "sourceRow": 29,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "08:30",
+        "07:30",
+        "12:00",
+        "04:20"
+      ],
+      "replacementOptions": [
+        "8:30",
+        "7:30",
+        "12:00",
+        "4:20"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:31",
+      "sourceRow": 31,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "04:20",
+        "12:00",
+        "05:00",
+        "08:30"
+      ],
+      "replacementOptions": [
+        "4:20",
+        "12:00",
+        "5:00",
+        "8:30"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:32",
+      "sourceRow": 32,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "05:00",
+        "04:20",
+        "07:30",
+        "08:30"
+      ],
+      "replacementOptions": [
+        "5:00",
+        "4:20",
+        "7:30",
+        "8:30"
+      ]
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "path": "cartridges/legacy-b0c419ba243afa/cartridge.json",
+      "questionId": "legacy-b0c419ba243afa:33",
+      "sourceRow": 33,
+      "choiceIds": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "answerChoiceId": "c1",
+      "expectedOldOptions": [
+        "03:00",
+        "09:00",
+        "01:00",
+        "10:00"
+      ],
+      "replacementOptions": [
+        "3:00",
+        "9:00",
+        "1:00",
+        "10:00"
+      ]
+    }
+  ],
+  "held": [
+    {
+      "cartridgeId": "legacy-a348ac08eaaa82",
+      "liveTitle": "5-영어-비상-9단원 How Much Are These Socks",
+      "eligibleSoloUnits": 32,
+      "invalidRows": [
+        15
+      ]
+    },
+    {
+      "cartridgeId": "legacy-f9e2e20f0a0f2c",
+      "liveTitle": "5-영어-천재(함)-1단원 Where Are You From",
+      "eligibleSoloUnits": 23,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-a7e58227f8c40a",
+      "liveTitle": "기타-FUN-수수께끼와 넌센스",
+      "eligibleSoloUnits": 4,
+      "invalidRows": []
+    }
+  ],
+  "tests": [
+    {
+      "cartridgeId": "legacy-4a04319a064c80",
+      "patchedRows": 1,
+      "questionCountUnchanged": true,
+      "identitiesAndAnswersUnchanged": true,
+      "distinctChoices": true
+    },
+    {
+      "cartridgeId": "legacy-91c988cb269ed7",
+      "patchedRows": 4,
+      "questionCountUnchanged": true,
+      "identitiesAndAnswersUnchanged": true,
+      "distinctChoices": true
+    },
+    {
+      "cartridgeId": "legacy-b0c419ba243afa",
+      "patchedRows": 11,
+      "questionCountUnchanged": true,
+      "identitiesAndAnswersUnchanged": true,
+      "distinctChoices": true
+    }
+  ],
+  "requirements": [
+    "Before applying, recheck catalog generation and source content; use stable IDs and expected-old guards.",
+    "Keep original manifest baseline; produce separate revision and version/hash manifest after applying.",
+    "Review dates/time display and educational correctness; resolve held cartridges; no production catalog approval or ranking migration implied.",
+    "Keep game repository and original sheets read-only."
+  ]
+}
