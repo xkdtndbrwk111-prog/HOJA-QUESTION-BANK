@@ -1,0 +1,41 @@
+{
+  "status": "DRAFT_NOT_FOR_RUNTIME",
+  "basis": {
+    "generation": "264",
+    "incarnationId": "e806d0154fe440e2ad763990610ebbb9",
+    "count": 76,
+    "stableBeforeAfter": true
+  },
+  "entries": [
+    {
+      "cartridgeId": "legacy-563b214c98ebaf",
+      "oldCount": 50,
+      "actualCount": 50,
+      "registryCount": 50,
+      "matchingRows": 50,
+      "groupsSame": true,
+      "eligibleSoloUnits": 37,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-915c5b3e00b81b",
+      "oldCount": 50,
+      "actualCount": 50,
+      "registryCount": 50,
+      "matchingRows": 50,
+      "groupsSame": true,
+      "eligibleSoloUnits": 37,
+      "invalidRows": []
+    },
+    {
+      "cartridgeId": "legacy-cdd447365c1e5f",
+      "oldCount": 50,
+      "actualCount": 50,
+      "registryCount": 50,
+      "matchingRows": 50,
+      "groupsSame": true,
+      "eligibleSoloUnits": 37,
+      "invalidRows": []
+    }
+  ]
+}
