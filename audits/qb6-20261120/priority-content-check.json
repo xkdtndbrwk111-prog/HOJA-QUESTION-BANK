@@ -1,0 +1,111 @@
+{
+  "status": "PARTIAL_AUDIT_NOT_FOR_RUNTIME",
+  "basis": "qb1 draft fixed main, live Sheets public catalog read only; rows compared by exact trimmed question,type,answer,ordered options and group partition",
+  "limitations": "2 English title candidates initially bounded to registry row count+2, not whole 3001 row maximum; two social entries and other five checked entire allowed range. No semantic answer review or ranking authorization.",
+  "entries": [
+    {
+      "cartridgeId": "legacy-8f9d4234838937",
+      "oldCount": 148,
+      "actualCount": 148,
+      "registryCount": 150,
+      "matchingRows": 148,
+      "groupsSame": true,
+      "groupCount": 50,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-147937b3323011",
+      "oldCount": 149,
+      "actualCount": 149,
+      "registryCount": 150,
+      "matchingRows": 149,
+      "groupsSame": true,
+      "groupCount": 50,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-3e5b32190d12cd",
+      "oldCount": 42,
+      "actualCount": 42,
+      "registryCount": 42,
+      "matchingRows": 42,
+      "groupsSame": true,
+      "groupCount": 42,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-52700fc5c42dd6",
+      "oldCount": 40,
+      "actualCount": 40,
+      "registryCount": 40,
+      "matchingRows": 40,
+      "groupsSame": true,
+      "groupCount": 40,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-0d5aefe4c4cba5",
+      "oldCount": 42,
+      "actualCount": 42,
+      "registryCount": 42,
+      "matchingRows": 42,
+      "groupsSame": true,
+      "groupCount": 42,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-a46db49754c73a",
+      "oldCount": 42,
+      "actualCount": 42,
+      "registryCount": 42,
+      "matchingRows": 42,
+      "groupsSame": true,
+      "groupCount": 42,
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-a348ac08eaaa82",
+      "oldCount": 36,
+      "actualCount": 36,
+      "registryCount": 36,
+      "matchingRows": 36,
+      "groupsSame": true,
+      "eligibleSoloUnits": 32,
+      "invalidRows": [
+        15
+      ],
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-f9e2e20f0a0f2c",
+      "oldCount": 40,
+      "actualCount": 40,
+      "registryCount": 40,
+      "matchingRows": 40,
+      "groupsSame": true,
+      "eligibleSoloUnits": 23,
+      "invalidRows": [],
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    },
+    {
+      "cartridgeId": "legacy-a7e58227f8c40a",
+      "oldCount": 80,
+      "actualCount": 80,
+      "registryCount": 80,
+      "matchingRows": 80,
+      "groupsSame": true,
+      "eligibleSoloUnits": 4,
+      "invalidRows": [],
+      "status": "CONTENT_AND_GROUPS_MATCH",
+      "publication": "NOT_APPROVED"
+    }
+  ]
+}
