@@ -1,0 +1,62 @@
+{
+  "questionCount": 36,
+  "types": {
+    "MCQ": 25,
+    "SHORT": 5,
+    "OX": 6
+  },
+  "soloUnits": 30,
+  "teamUnits": 30,
+  "issues": [],
+  "minimum25": true,
+  "assets": [
+    "assets/bed_clock_9_40.webp",
+    "assets/breakfast_clock_7_30.webp",
+    "assets/clock_8_20.webp",
+    "assets/come_home.webp",
+    "assets/eat_breakfast.webp",
+    "assets/eat_lunch.webp",
+    "assets/get_up.webp",
+    "assets/get_up_clock_7_00.webp",
+    "assets/go_to_bed.webp",
+    "assets/go_to_school.webp",
+    "assets/hamster_night.webp",
+    "assets/study_english.webp",
+    "assets/surprised_talk.webp",
+    "assets/take_a_walk.webp"
+  ],
+  "structuralGate": true,
+  "publication": "NOT_APPROVED",
+  "assetBytes": {
+    "assets/get_up.webp": 9776,
+    "assets/eat_breakfast.webp": 9800,
+    "assets/go_to_school.webp": 9800,
+    "assets/go_to_bed.webp": 9744,
+    "assets/come_home.webp": 9454,
+    "assets/study_english.webp": 10216,
+    "assets/get_up_clock_7_00.webp": 9682,
+    "assets/breakfast_clock_7_30.webp": 9486,
+    "assets/clock_8_20.webp": 9116,
+    "assets/bed_clock_9_40.webp": 9702,
+    "assets/surprised_talk.webp": 9652,
+    "assets/hamster_night.webp": 9164,
+    "assets/eat_lunch.webp": 9744,
+    "assets/take_a_walk.webp": 9580
+  },
+  "averageAssetBytes": 9636.857142857143,
+  "imageBudgetWarnings": [],
+  "independentUnits": 24,
+  "variantUnits": 6,
+  "candidateCount": 14,
+  "intentCount": 12,
+  "activeIntents": 11,
+  "blueprintUnits": 30,
+  "educationalRecordGate": true,
+  "reviewStatusCounts": {
+    "PASS": 36
+  },
+  "gameCheckReported": "NOT_RUN",
+  "teacherApproval": "PENDING",
+  "packageKind": "CANDIDATE_ONLY",
+  "gameCompatibility": "NOT_CERTIFIED"
+}

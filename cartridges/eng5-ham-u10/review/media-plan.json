@@ -1,0 +1,151 @@
+[
+  {
+    "src": "assets/bed_clock_9_40.webp",
+    "role": "9:40 벽시계가 통합된 밤 침실 취침 장면(Method B3)",
+    "questionIds": [
+      "eng5-ham-u10:q22",
+      "eng5-ham-u10:q37"
+    ],
+    "origin": "coded",
+    "visualCheck": "PASS",
+    "evidence": "AI 밤 침실 배경 + Python Pillow 정밀 작도 9:40 시계(시침 290.0°·분침 240.0°) 원근·조명·방향성 그림자 합성, 320x320 WebP(9702B, q=40), 비교판 육안 검수 PASS"
+  },
+  {
+    "src": "assets/breakfast_clock_7_30.webp",
+    "role": "7:30 벽시계가 통합된 아침 주방 식사 장면(Method B3)",
+    "questionIds": [
+      "eng5-ham-u10:q20"
+    ],
+    "origin": "coded",
+    "visualCheck": "PASS",
+    "evidence": "AI 아침 주방 배경 + Python Pillow 정밀 작도 7:30 시계(시침 225.0°·분침 180.0°) 원근·그림자 합성, 320x320 WebP(9486B, q=46), 비교판 육안 검수 PASS"
+  },
+  {
+    "src": "assets/clock_8_20.webp",
+    "role": "8:20 아날로그 시계 판독 자료",
+    "questionIds": [
+      "eng5-ham-u10:q21"
+    ],
+    "origin": "coded",
+    "visualCheck": "PASS",
+    "evidence": "Python Pillow 정밀 작도(320x320, 9116B, 시침 250.0도/분침 120.0도), 몽타주 육안 검수 PASS: 시침 8~9 사이 1/3·분침 4 정확"
+  },
+  {
+    "src": "assets/come_home.webp",
+    "role": "귀가(come home) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9454B), 몽타주 육안 검수 PASS: 책가방 메고 집 현관으로 돌아오는 장면, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/eat_breakfast.webp",
+    "role": "아침 식사(eat breakfast) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q03",
+      "eng5-ham-u10:q07"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9800B), 몽타주 육안 검수 PASS: 토스트·달걀·우유 식사 장면, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/eat_lunch.webp",
+    "role": "점심 식사(eat lunch) 확장 일과 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q35"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 여백 크롭 및 pack_grid.py 분할(320x319, 9744B), 몽타주 육안 검수 PASS: 학교 급식판 점심 식사 장면, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/get_up.webp",
+    "role": "아침 기상(get up) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q01",
+      "eng5-ham-u10:q02",
+      "eng5-ham-u10:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9776B), 몽타주 육안 검수 PASS: 기지개 켜는 아이, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/get_up_clock_7_00.webp",
+    "role": "7:00 벽시계가 통합된 아침 침실 기상 장면(Method B3)",
+    "questionIds": [
+      "eng5-ham-u10:q19"
+    ],
+    "origin": "coded",
+    "visualCheck": "PASS",
+    "evidence": "AI 아침 침실 배경 + Python Pillow 정밀 작도 7:00 시계(시침 210.0°·분침 0.0°) 원근·그림자 합성, 320x320 WebP(9682B, q=52), 비교판 육안 검수 PASS"
+  },
+  {
+    "src": "assets/go_to_bed.webp",
+    "role": "취침(go to bed) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q05",
+      "eng5-ham-u10:q06",
+      "eng5-ham-u10:q07"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9744B), 몽타주 육안 검수 PASS: 별과 달이 뜬 밤 침대 취침 장면, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/go_to_school.webp",
+    "role": "등교(go to school) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q04",
+      "eng5-ham-u10:q05",
+      "eng5-ham-u10:q07",
+      "eng5-ham-u10:q21"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9800B), 몽타주 육안 검수 PASS: 책가방·학교 건물 앞 등교 장면, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/hamster_night.webp",
+    "role": "야행성 햄스터의 밤 활동 맥락 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q32"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 여백 크롭 및 pack_grid.py 분할(320x319, 9164B), 몽타주 육안 검수 PASS: 별·달 밤 창문 앞 쳇바퀴 타는 햄스터, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/study_english.webp",
+    "role": "영어 공부(study English) 행동 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q07"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "rev.2 교체: ABC 영어 책·공책·벽 알파벳 차트 단독 삽화 생성 후 320x320 WebP 최적화(10216B), 육안 검수 PASS(영어 공부 명확 식별, 정답 단어/문장/워터마크 없음)"
+  },
+  {
+    "src": "assets/surprised_talk.webp",
+    "role": "대화 중 놀람(Really?) 표정 맥락 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q24"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 여백 크롭 및 pack_grid.py 분할(320x320, 9652B), 몽타주 육안 검수 PASS: 교실에서 친구 말을 듣고 놀라는 표정, 텍스트/잘림 없음"
+  },
+  {
+    "src": "assets/take_a_walk.webp",
+    "role": "산책(take a walk) 확장 일과 시각화",
+    "questionIds": [
+      "eng5-ham-u10:q36"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 여백 크롭 및 pack_grid.py 분할(320x320, 9580B), 몽타주 육안 검수 PASS: 공원 나무 길 산책 장면, 텍스트/잘림 없음"
+  }
+]

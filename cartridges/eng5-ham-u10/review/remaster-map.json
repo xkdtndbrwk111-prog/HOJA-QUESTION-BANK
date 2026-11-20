@@ -1,0 +1,296 @@
+{
+  "baseCartridgeId": "eng5-ham-u10",
+  "baseRevision": 3,
+  "baseVersion": "02d6bd23cb8e4326c94a7973c65b9f32a01aec18029b22501b918cb3d21810e1",
+  "oldQuestions": [
+    {
+      "oldQuestionId": "eng5-ham-u10:q01",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q01"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q02",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q02"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q03",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q03"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q04",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q04"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q05",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q05"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q06",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q06"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q07",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q07"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q08",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q08"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q09",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q09"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q10",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q10"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q11",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q11"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q12",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q12"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q13",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q13"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q14",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q14"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q15",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q15"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q39",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q39"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q17",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q17"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q18",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q18"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q19",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q19"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q20",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q20"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q21",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q21"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q22",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q22"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q37",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q37"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q24",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q24"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q25",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q25"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q26",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q26"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q27",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q27"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q28",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q28"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q29",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q29"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q30",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q30"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q31",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q31"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q32",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q32"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q38",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q38"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q34",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q34"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q35",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q35"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q36",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q36"
+      ],
+      "reason": "분류 메타데이터만 개정; 문항과 참조 자산 보존"
+    }
+  ],
+  "newQuestionIds": []
+}

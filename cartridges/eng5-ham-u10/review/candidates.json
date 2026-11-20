@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C001",
+    "focus": "핵심 일과 어구 6개 의미와 형태: get up, eat breakfast, go to school, come home, study English, go to bed",
+    "evidence": "단원 도입 Words 6개 제시 및 붙임딱지 활동, 3차시·5차시·스스로 다지기에서 반복 학습",
+    "locator": "PDF p.1 (인쇄 135쪽), p.6 (140쪽), p.10 (144쪽), p.54 (188쪽), p.65 (199쪽)"
+  },
+  {
+    "id": "C002",
+    "focus": "일과 시각 묻기 핵심 의문문: What time do you [일과 어구]?",
+    "evidence": "단원 제목 및 1~3차시, 6차시, Special 10에서 일과 시각을 묻는 핵심 질문 패턴",
+    "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.7 (141쪽), p.13 (147쪽), p.14 (148쪽)"
+  },
+  {
+    "id": "C003",
+    "focus": "일과 시각 답하기 핵심 평서문과 전치사 at: I [일과 어구] at [시각].",
+    "evidence": "I get up at 7., I go to school at 8:30., I study English at 3:30., I come home at 5., I go to bed at 10., I eat breakfast at 7:20.",
+    "locator": "PDF p.5 (139쪽), p.6 (140쪽), p.7 (141쪽), p.11 (145쪽), p.13 (147쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C004",
+    "focus": "정시 및 시:분 시각 표현 읽고 연결하기 (3:00, 4:30, 7:20, 7:30, 8:00, 8:20, 8:30, 8:40, 9:40, 10:00 등)",
+    "evidence": "Listen and Match 디지털 시각, Play 2 시각 칸, Read and Talk 아날로그 시계, Read and Write 시각 표기",
+    "locator": "PDF p.2 (136쪽), p.5 (139쪽), p.6 (140쪽), p.8~9 (142~143쪽), p.10 (144쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C005",
+    "focus": "놀람 표현하기: Really?",
+    "evidence": "2차시 Study Point '놀람 표현하기', Talk Like This 2번 'Really?', Play 2 '?' 칸 규칙, My Work 2번",
+    "locator": "PDF p.4 (138쪽), p.5 (139쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C006",
+    "focus": "시간대 표현: in the morning, in the afternoon, in the evening",
+    "evidence": "4차시 Let's Read 'My Day and Cookie's Day'와 스스로 다지기에서 시각 뒤에 시간대 어구를 붙여 오전·오후·저녁 구분",
+    "locator": "PDF p.8~9 (142~143쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C007",
+    "focus": "주어에 따른 동사 형태 변화 (1인칭 I vs 3인칭 단수 She: get/gets, go/goes, eat/eats, come/comes)",
+    "evidence": "4차시 Cookie 소개(She goes to bed / She gets up / She eats breakfast) 및 5차시 Ready to Write Sentences(I get up vs She gets up, I come home vs She comes home)",
+    "locator": "PDF p.9 (143쪽), p.10 (144쪽)"
+  },
+  {
+    "id": "C008",
+    "focus": "일과 어구의 동사-명사/부사 짝짓기 및 철자 완성 (get up, eat breakfast, go to school, study English, come home, go to bed)",
+    "evidence": "5차시 Ready to Write Words 빈칸 채우기(____ up, ____ breakfast, go to ____, ____ English, come ____, go to ____)",
+    "locator": "PDF p.10 (144쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C009",
+    "focus": "일과 소개 글 읽고 일어난 순서 파악하기",
+    "evidence": "4차시 After You Read에서 아침 기상 → 등교 → 오후 영어 공부 → 취침 순서대로 번호 쓰기",
+    "locator": "PDF p.8~9 (142~143쪽)"
+  },
+  {
+    "id": "C010",
+    "focus": "일과 소개 글·일과표 읽고 세부 정보(활동·시각) 파악 및 비교하기",
+    "evidence": "4차시 나와 야행성 햄스터 Cookie의 반대 일과 대조, 5차시 Anna의 일과표, 6차시 My Work Hajun의 일과 글",
+    "locator": "PDF p.8~9 (142~143쪽), p.11 (145쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C011",
+    "focus": "확장 일과 어구 이해: eat lunch, play together, take a walk",
+    "evidence": "4차시 'Cookie and I play together at 8:30.', 6차시 My Work 'I eat lunch at 12.', Special 10 'I take a walk at 3.'",
+    "locator": "PDF p.9 (143쪽), p.13 (147쪽), p.14 (148쪽)"
+  },
+  {
+    "id": "C012",
+    "focus": "일과 소개 글/대화의 맥락에 맞게 문장 완성하기",
+    "evidence": "3차시 Read and Talk 말풍선 채우기, 5차시 Let's Write 일과 글 완성, 6차시 My Work 4번 Hajun 글 보고 응답 문장 완성",
+    "locator": "PDF p.6 (140쪽), p.11 (145쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C013",
+    "focus": "Special 10 칸트의 규칙적인 생활 이야기 이해",
+    "evidence": "칸트가 9시 등교, 3시 산책, 10시 취침 등 규칙적인 일과를 지키는 역사 이야기",
+    "locator": "PDF p.14 (148쪽)"
+  },
+  {
+    "id": "C014",
+    "focus": "듣기 활동(Fun Talk 1 우주의 기상/취침 시각, Fun Talk 2 Baker 씨의 기상 시각과 아침 메뉴)",
+    "evidence": "오디오 대본이 PDF에 포함되어 있지 않고 듣기 활동 전용 장면",
+    "locator": "PDF p.2 (136쪽), p.4 (138쪽)"
+  }
+]

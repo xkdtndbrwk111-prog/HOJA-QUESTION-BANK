@@ -1,0 +1,296 @@
+{
+  "baseCartridgeId": "eng5-ham-u10",
+  "baseRevision": 2,
+  "baseVersion": "d726c101781e3d58c89d6a0e39507b98d6c0ab5b9684692dd148443deba73c27",
+  "oldQuestions": [
+    {
+      "oldQuestionId": "eng5-ham-u10:q01",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q01"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q02",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q02"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q03",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q03"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q04",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q04"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q05",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q05"
+      ],
+      "reason": "KEEP(비적용): 일과 어휘 의미 이해 문항으로 시각 정보가 핵심이 아니므로 기존 방식 유지"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q06",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q06"
+      ],
+      "reason": "KEEP(비적용): 일과 어휘 의미 이해 문항으로 시각 정보가 핵심이 아니므로 기존 방식 유지"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q07",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q07"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q08",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q08"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q09",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q09"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q10",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q10"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q11",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q11"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q12",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q12"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q13",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q13"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q14",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q14"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q15",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q15"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q39",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q39"
+      ],
+      "reason": "KEEP(비적용): 이미지가 없는 순수 텍스트 교차표현 문항이며 4개 보기 모두 at 10으로 통일되어 시계 통합 가치가 없음"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q17",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q17"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q18",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q18"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q19",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u10:q19"
+      ],
+      "reason": "APPLY(통합 시계 삽화 적용): 시각(7:00)이 정답 핵심인 실내 침실 장면이므로 Method B3 통합 삽화(get_up_clock_7_00.webp)로 교체하고 발문을 단수 그림에 맞게 보정(학습 의미 동일, ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q20",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u10:q20"
+      ],
+      "reason": "APPLY(통합 시계 삽화 적용): 시각(7:30)이 정답 핵심인 실내 주방 장면이므로 Method B3 통합 삽화(breakfast_clock_7_30.webp)로 교체하고 발문을 단수 그림에 맞게 보정(학습 의미 동일, ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q21",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q21"
+      ],
+      "reason": "KEEP(비적용): 시각(8:20)이 핵심이나 야외 등굣길 장면 특성상 320px 가독성을 확보할 크기로 시계를 넣으면 비례가 부자연스러워 기존 분리 방식 유지"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q22",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u10:q22"
+      ],
+      "reason": "APPLY(통합 시계 삽화 적용): 시각(9:40)이 정답 핵심인 밤 침실 장면이므로 Method B3 통합 삽화(bed_clock_9_40.webp, q37과 공유)로 교체하고 발문 보정(학습 의미 동일, ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q37",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u10:q37"
+      ],
+      "reason": "APPLY(통합 시계 삽화 적용): 시각(9:40)이 정답 핵심인 밤 침실 구두 응답 문항이므로 Method B3 통합 삽화(bed_clock_9_40.webp, q22와 공유)로 교체(학습 의미 동일, ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q24",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q24"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q25",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q25"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q26",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q26"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q27",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q27"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q28",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q28"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q29",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q29"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q30",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q30"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q31",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q31"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q32",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q32"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q38",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q38"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q34",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q34"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q35",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q35"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u10:q36",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u10:q36"
+      ],
+      "reason": "KEEP(비적용): 시계가 핵심 정보가 아닌 정상 문항으로 원본 ID 및 내용 보존"
+    }
+  ],
+  "newQuestionIds": []
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "unitId": "UQ001",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q01",
+      "eng5-ham-u10:q02"
+    ],
+    "assessment": "get up 그림-영어 어구 연결 및 구두 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "아침에 침대에서 일어나는 삽화를 보고 get up을 선택/구두 응답",
+    "distinctReason": "핵심 어휘 get up의 시각적 의미 식별"
+  },
+  {
+    "unitId": "UQ002",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q03"
+    ],
+    "assessment": "eat breakfast 그림-영어 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "아침 식사 삽화를 보고 eat breakfast 선택",
+    "distinctReason": "핵심 어휘 eat breakfast의 시각적 의미 식별"
+  },
+  {
+    "unitId": "UQ003",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q04"
+    ],
+    "assessment": "go to school 그림-영어 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "등교 삽화를 보고 go to school 선택",
+    "distinctReason": "핵심 어휘 go to school의 시각적 의미 식별"
+  },
+  {
+    "unitId": "UQ004",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q05"
+    ],
+    "assessment": "come home 영어-그림 역방향 교차표현 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "영어 어구 come home을 보고 4개 그림 중 귀가 그림 선택",
+    "distinctReason": "영어→그림 역방향 매칭 및 come home 의미 구분"
+  },
+  {
+    "unitId": "UQ005",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q06"
+    ],
+    "assessment": "go to bed와 get up 반의 일과 대조 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "밤 취침 그림에 get up을 제시한 거짓 OX 문항",
+    "distinctReason": "아침 기상(get up)과 밤 취침(go to bed)의 혼동 여부 점검"
+  },
+  {
+    "unitId": "UQ006",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q07"
+    ],
+    "assessment": "study English 문장 속 핵심 활동 그림 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "I study English at 4. 문장을 읽고 4개 그림 중 공부 그림 선택",
+    "distinctReason": "문장 맥락 속 study English 의미 파악"
+  },
+  {
+    "unitId": "UQ007",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q08"
+    ],
+    "assessment": "eat breakfast 동사 연어 빈칸 완성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "5차시 Ready to Write Words 빈칸 유형(____ breakfast)",
+    "distinctReason": "식사 명사와 결합하는 동사 eat 선택"
+  },
+  {
+    "unitId": "UQ008",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q09"
+    ],
+    "assessment": "핵심 일과 동사-목적어/부사 바른 짝 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "오결합 3개(eat English 등)와 정결합 1개(get up) 대조",
+    "distinctReason": "여러 일과 어구 간 동사-명사 교차 오결합 구별"
+  },
+  {
+    "unitId": "UQ009",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q10"
+    ],
+    "assessment": "go to school 전치사 to 필수 포함 여부 판별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "go school과 go to school 대조 OX",
+    "distinctReason": "한국어 화자의 전치사 to 누락 오개념 점검"
+  },
+  {
+    "unitId": "UQ010",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q11"
+    ],
+    "assessment": "한국어 상황에서 기상 시각 의문문 선택",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "몇 시에 일어나는지 묻는 상황 제시 후 영어 질문 선택",
+    "distinctReason": "의사소통 목적에 맞는 What time do you get up? 선택"
+  },
+  {
+    "unitId": "UQ011",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q12"
+    ],
+    "assessment": "시각 의문문 핵심 의문사 What 선택",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "_____ time do you study English? 빈칸 채우기",
+    "distinctReason": "What/Who/Where/How 의문사 기능 구별"
+  },
+  {
+    "unitId": "UQ012",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q13"
+    ],
+    "assessment": "What time do you come home? 질문 의미 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "come home 의문문을 등교 질문으로 잘못 해석한 OX",
+    "distinctReason": "의문문 속 일과 어구(come home vs go to school) 독해 정확성"
+  },
+  {
+    "unitId": "UQ013",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q14",
+      "eng5-ham-u10:q15"
+    ],
+    "assessment": "시각 앞 전치사 at 선택 및 구두 산출",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I eat breakfast _____ 7:20. 전치사 빈칸",
+    "distinctReason": "시각 표현 앞 전치사 at과 in/on/to 구별"
+  },
+  {
+    "unitId": "UQ014",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q39"
+    ],
+    "assessment": "한국어 상황(취침 시각 응답)에 알맞은 영어 일과 문장 선택",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "‘나는 10시에 잠자리에 들어.’에 해당하는 영어 문장을 시각 통일 보기 4개 중 선택",
+    "distinctReason": "문자열 복사 없이 한국어 일과 상황을 영어 응답 문장으로 산출·식별"
+  },
+  {
+    "unitId": "UQ015",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q17"
+    ],
+    "assessment": "일과 응답 문장 어순 배열",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "at / 5. / come home / I 낱말 배열",
+    "distinctReason": "주어+동사구+전치사구 영어 기본 어순 이해"
+  },
+  {
+    "unitId": "UQ016",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q18"
+    ],
+    "assessment": "등교 일과 대화의 자연스러운 호응 판별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "What time do you go to school? - I go to school at 8:30. OX",
+    "distinctReason": "일과 문답 대화 전체의 적절성 판단"
+  },
+  {
+    "unitId": "UQ017",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q19"
+    ],
+    "assessment": "정시 아날로그 시계(7:00)와 기상 그림 문장 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "7:00 벽시계가 걸린 아침 침실 통합 삽화(get_up_clock_7_00.webp)를 영어 문장으로 연결",
+    "distinctReason": "정시 아날로그 시계 읽기와 영어 일과 문장 결합"
+  },
+  {
+    "unitId": "UQ018",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q20"
+    ],
+    "assessment": "30분 단위 아날로그 시계(7:30)와 아침 식사 그림 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "7:30 벽시계가 걸린 아침 주방 통합 삽화(breakfast_clock_7_30.webp)를 영어 문장으로 연결",
+    "distinctReason": "시침·분침(30분) 판독과 6:35/8:30 오독 방지"
+  },
+  {
+    "unitId": "UQ019",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q21"
+    ],
+    "assessment": "20분 단위 아날로그 시계(8:20)와 등교 그림 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "go_to_school + clock_8_20 조합을 영어 문장으로 연결",
+    "distinctReason": "분침 4=20분 판독과 8:04/4:40 오독 방지"
+  },
+  {
+    "unitId": "UQ020",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q22",
+      "eng5-ham-u10:q37"
+    ],
+    "assessment": "40분 단위 아날로그 시계(9:40)와 취침 그림 판별 및 영어 시각·일과 문장 구두 응답",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "9:40 벽시계가 걸린 밤 침실 통합 삽화(bed_clock_9_40.webp) OX(q22) 및 영어 구두 응답(q37)",
+    "distinctReason": "분침 8=40분 및 시침 9~10 사이 위치 판독"
+  },
+  {
+    "unitId": "UQ021",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q24",
+      "eng5-ham-u10:q25"
+    ],
+    "assessment": "놀람 표현하기(Really?)의 대화 맥락 선택 및 화용적 쓰임 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "놀라는 표정 삽화+새벽 5시 기상 대화 MCQ(q24) 및 이른 기상 시각 놀람 표현 OX(q25) 변형 묶음(g21)",
+    "distinctReason": "단원 2차시 놀람 표현(Really?) 기능을 객관식·OX 변형으로 통합 평가"
+  },
+  {
+    "unitId": "UQ023",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q26"
+    ],
+    "assessment": "시간대 표현 in the afternoon 의미 파악",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I study English at 4:30 in the afternoon. 중 시간대 뜻 선택",
+    "distinctReason": "in the afternoon의 정확한 한국어 의미 연결"
+  },
+  {
+    "unitId": "UQ024",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q27"
+    ],
+    "assessment": "아침/저녁 시간대 표현 영어 짝짓기",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "아침에-저녁에에 해당하는 영어 시간대 표현 선택",
+    "distinctReason": "in the morning과 in the evening 대조 구별"
+  },
+  {
+    "unitId": "UQ025",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q28",
+      "eng5-ham-u10:q29"
+    ],
+    "assessment": "1인칭 I vs 3인칭 단수 She 동사 변화(get up/gets up)",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I get up at 7:30. / She ____ at 8. 대조 빈칸",
+    "distinctReason": "주어에 따른 일반동사 -s 부착 규칙 적용"
+  },
+  {
+    "unitId": "UQ026",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q30"
+    ],
+    "assessment": "3인칭 단수 주어 뒤 go의 불규칙 철자 변화(goes)",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "She ____ to bed at 7 in the morning. 빈칸",
+    "distinctReason": "go→goes(-es) 변화와 타 동사 구별"
+  },
+  {
+    "unitId": "UQ027",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q31"
+    ],
+    "assessment": "일과 소개 글 읽고 시간 순서대로 배열하기",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 민지의 5문장 일과 글을 읽고 순서 선택",
+    "distinctReason": "다문장 일과 글의 시간 흐름 구조화 독해"
+  },
+  {
+    "unitId": "UQ028",
+    "intentIds": [
+      "I010"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q32"
+    ],
+    "assessment": "야행성 햄스터 일과 글 세부 사실 일치 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "햄스터 코코 지문 + 밤 쳇바퀴 삽화 보고 일치 내용 선택",
+    "distinctReason": "시간대와 일과가 사람과 반대인 글의 세부 정보 독해"
+  },
+  {
+    "unitId": "UQ029",
+    "intentIds": [
+      "I010"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q38",
+      "eng5-ham-u10:q34"
+    ],
+    "assessment": "일과 소개 글과 영어 대화에서 특정 일과 시각을 파악해 우리말 의미/시각 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 지호 일과 글·영어 대화를 읽고 come home 시각 응답 내용을 한국어로 선택(q38) 및 구두 산출(q34)",
+    "distinctReason": "일과 글 정보 추출 후 대화 응답 적용"
+  },
+  {
+    "unitId": "UQ030",
+    "intentIds": [
+      "I011"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q35"
+    ],
+    "assessment": "확장 일과 eat lunch 지문-그림-시각 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "급식 삽화 + 3문장 일과 글 보고 활동과 시각 짝짓기",
+    "distinctReason": "확장 어구 eat lunch 의미 및 지문 시각 연결"
+  },
+  {
+    "unitId": "UQ031",
+    "intentIds": [
+      "I011"
+    ],
+    "questionIds": [
+      "eng5-ham-u10:q36"
+    ],
+    "assessment": "Special 10 칸트 지문 속 확장 어구 take a walk 시각 파악",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "공원 산책 삽화 + 칸트 일과 지문 읽고 산책 시각 선택",
+    "distinctReason": "Special 10 지문 맥락 속 take a walk 의미와 시각 독해"
+  }
+]

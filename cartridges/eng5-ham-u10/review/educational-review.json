@@ -1,0 +1,190 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini AI (hoja-question-bank V0.3.0-rc1 REMASTER rev.3)",
+  "teacherApproval": "PENDING",
+  "notes": "rev.2 기반 부분 개정(rev.3): 시각이 핵심인 실내 4문항(q19, q20, q22, q37)에만 Method B3 통합 시계 삽화 3종을 선별 적용하고 320px WebP 가독성·시침/분침 정확성을 육안 검수했다. 나머지 32문항(q21, q39, q05, q06 포함)은 KEEP 유지. rev.3 자체의 공통 렌더러·실게임 시험은 미실행(gameCheck: NOT_RUN), 교사 승인·출판 보류(PENDING).",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u10:q01",
+      "status": "PASS",
+      "evidence": "get_up.webp 육안 확인, 오답 3개 모두 단원 핵심 어구이며 정답 c2(get up) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q02",
+      "status": "PASS",
+      "evidence": "UQ001 팀전 SHORT 변형, get_up.webp와 단답 get up 일치, 토큰 없음 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q03",
+      "status": "PASS",
+      "evidence": "eat_breakfast.webp 육안 확인, 오답 3개 명확 구분, 정답 c1(eat breakfast) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q04",
+      "status": "PASS",
+      "evidence": "go_to_school.webp 육안 확인, come home 등과 명확 구분, 정답 c3(go to school) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q05",
+      "status": "PASS",
+      "evidence": "영어→그림 교차표현, 4개 그림 보기 모두 별도 WebP이며 정답 c4(come_home.webp) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q06",
+      "status": "PASS",
+      "evidence": "go_to_bed.webp(밤 취침)와 get up 대조, 명백한 거짓(false) OX (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q07",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: 교체된 study_english.webp(ABC 책·공책·차트) 육안 확인, 삽화만으로 영어 공부 명확 구별, 정답 문자열 없음"
+    },
+    {
+      "questionId": "eng5-ham-u10:q08",
+      "status": "PASS",
+      "evidence": "교과서 p.144 Ready to Write 근거, ____ breakfast 정답 c3(eat) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q09",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: 오답 3개(come to home, go bed, study at English) 모두 단원 핵심 어구 범주의 실제 학생 혼동 전치사 오류로 개선, 정답 c4(get up) 유일"
+    },
+    {
+      "questionId": "eng5-ham-u10:q10",
+      "status": "PASS",
+      "evidence": "go school vs go to school 전치사 to 필수 여부, 명백한 참(true) OX (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q11",
+      "status": "PASS",
+      "evidence": "한국어 상황→영어 의문문 교차표현, 단원·교과서 실제 질문 구문으로 오답 구성, 정답 c1 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q12",
+      "status": "PASS",
+      "evidence": "시각 의문문 핵심 의문사 What(c2) 유일 정답, 오답 3개 부적합 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q13",
+      "status": "PASS",
+      "evidence": "come home을 학교 가기로 잘못 해석한 명백한 거짓(false) OX (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q14",
+      "status": "PASS",
+      "evidence": "시각 7:20 앞 전치사 at(c4) 유일 정답, in/on/to 명확 배제 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q15",
+      "status": "PASS",
+      "evidence": "UQ013 팀전 SHORT 변형, 평문 단답 at 확인 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q39",
+      "status": "PASS",
+      "evidence": "rev.2 REBUILD 검수 PASS: 기존 q16의 문자열 복사 단서 제거, 한국어 상황→영어 응답 교차표현 및 4개 보기 시각 at 10 통일, 정답 c2 유일"
+    },
+    {
+      "questionId": "eng5-ham-u10:q17",
+      "status": "PASS",
+      "evidence": "어순 배열 정답 c1(I come home at 5.) 유일한 정문 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q18",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: 영어 문자열 반복만으로 O를 찍지 않도록 한국어 의미와 영어 대화의 일치 여부 판별로 개선, 명백한 참(true)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q19",
+      "status": "PASS",
+      "evidence": "rev.3 APPLY 검수 PASS: get_up_clock_7_00.webp(9682B, 시침 210°·분침 0°) 320px 확대 가독성·자연스러움 확인, 기존 ID 유지"
+    },
+    {
+      "questionId": "eng5-ham-u10:q20",
+      "status": "PASS",
+      "evidence": "rev.3 APPLY 검수 PASS: breakfast_clock_7_30.webp(9486B, 시침 225°·분침 180°) 320px 확대 가독성·자연스러움 확인, 기존 ID 유지"
+    },
+    {
+      "questionId": "eng5-ham-u10:q21",
+      "status": "PASS",
+      "evidence": "go_to_school.webp + clock_8_20.webp(시침 8~9 사이 1/3·분침 4) 정밀 검증, 정답 c4 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q22",
+      "status": "PASS",
+      "evidence": "rev.3 APPLY 검수 PASS: bed_clock_9_40.webp(9702B, 시침 290°·분침 240°, q37 공유) 320px 확대 가독성·자연스러움 확인, 기존 ID 유지"
+    },
+    {
+      "questionId": "eng5-ham-u10:q37",
+      "status": "PASS",
+      "evidence": "rev.3 APPLY 검수 PASS: bed_clock_9_40.webp(9702B, q22 공유) 320px 확대 가독성 및 영어 구두 응답 일치 확인, 기존 ID 유지"
+    },
+    {
+      "questionId": "eng5-ham-u10:q24",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: q25와 함께 Really? 놀람 표현 변형 묶음 g21로 통합, 오답 3개 적절, 정답 c2 유일"
+    },
+    {
+      "questionId": "eng5-ham-u10:q25",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: q24와 함께 Really? 놀람 표현 변형 묶음 g21로 통합, 중복 단위 제거 완료"
+    },
+    {
+      "questionId": "eng5-ham-u10:q26",
+      "status": "PASS",
+      "evidence": "in the afternoon 영어→한국어 교차표현, 정답 c2(오후에) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q27",
+      "status": "PASS",
+      "evidence": "아침에-저녁에 한국어→영어 교차표현, 정답 c3(in the morning - in the evening) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q28",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: 보기 4개를 get up 형태 변화(gets up/get up/get ups/gets)로 통일해 표면 소거 차단, 정답 c1 유일"
+    },
+    {
+      "questionId": "eng5-ham-u10:q29",
+      "status": "PASS",
+      "evidence": "UQ025 팀전 SHORT 변형, 평문 단답 gets up 확인 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q30",
+      "status": "PASS",
+      "evidence": "교과서 p.143 근거, She goes to bed 정답 c4(goes) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q31",
+      "status": "PASS",
+      "evidence": "가상 지문 제공(본문 암기 배제), 영어 지문→한국어 순서 교차표현, 정답 c2 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q32",
+      "status": "PASS",
+      "evidence": "가상 햄스터 지문+hamster_night.webp 제공, 영어 지문→한국어 보기 교차표현, 정답 c3(오후 5시 기상) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q38",
+      "status": "PASS",
+      "evidence": "rev.2 REBUILD 검수 PASS: 기존 q33의 지문-보기 동일 문자열 매칭 차단, 영어 지문·대화→한국어 응답 내용 선택 교차표현 적용, 정답 c1 유일"
+    },
+    {
+      "questionId": "eng5-ham-u10:q34",
+      "status": "PASS",
+      "evidence": "UQ029 팀전 SHORT 변형, 지문 내 3:40 평문 단답 확인 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q35",
+      "status": "PASS",
+      "evidence": "eat_lunch.webp+지문 제공, 영어 지문→한국어 교차표현, 정답 c2(점심 먹기 - 12시) 유일 (rev.2 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u10:q36",
+      "status": "PASS",
+      "evidence": "rev.2 재검수 PASS: 교과서 p.148(PDF p.14) Special 10 칸트 원문 발화 3문장 그대로 일치, 원문에 없는 시간대 표현 제거, 정답 c3(3시) 유일"
+    }
+  ]
+}

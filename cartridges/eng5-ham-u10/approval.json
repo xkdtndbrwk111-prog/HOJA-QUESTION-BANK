@@ -1,0 +1,19 @@
+{
+  "cartridgeId": "eng5-ham-u10",
+  "revision": 4,
+  "version": "b4813e38616bba36952e1eae581a2111e410dd7ecbebf96ee331a8067d22e645",
+  "teacherApproval": "APPROVED",
+  "approvedContentRevision": 3,
+  "approvedContentVersion": "02d6bd23cb8e4326c94a7973c65b9f32a01aec18029b22501b918cb3d21810e1",
+  "evidence": "2026-11-20 교사: 10단원은 이렇게 확정. 이어 저장용 분류 규칙 수정 및 등록 요청. rev.4는 문항·이미지 동일성을 확인한 메타데이터 전용 개정.",
+  "deliveryStatus": "HOLD",
+  "supersedesLegacyId": "legacy-b0c419ba243afa",
+  "gameCertification": "NOT_CERTIFIED",
+  "rc3RetrospectiveReview": "NOT_RUN",
+  "classificationSourceCertification": "NOT_CERTIFIED",
+  "migrationCheck": {
+    "questionsIdentical": 36,
+    "assetBytesIdentical": 14,
+    "classificationRecordGate": true
+  }
+}

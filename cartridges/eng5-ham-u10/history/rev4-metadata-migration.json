@@ -1,0 +1,10 @@
+{
+  "baseVersion": "02d6bd23cb8e4326c94a7973c65b9f32a01aec18029b22501b918cb3d21810e1",
+  "version": "b4813e38616bba36952e1eae581a2111e410dd7ecbebf96ee331a8067d22e645",
+  "classificationRecordGate": true,
+  "rc3RecordGate": "NOT_RUN",
+  "sourceCheck": "NOT_RUN",
+  "scope": "metadata only",
+  "teacherApprovalRecord": "approval.json",
+  "originalSourcePackageSHA256": "7b47e926a9532cf58cc368a1c6b41087d6f01ad2059c56b0cbd2ba745028e9de"
+}

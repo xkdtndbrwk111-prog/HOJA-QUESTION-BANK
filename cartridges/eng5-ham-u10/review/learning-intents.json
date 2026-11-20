@@ -1,0 +1,86 @@
+[
+  {
+    "id": "I001",
+    "status": "KEEP",
+    "candidateIds": ["C001"],
+    "focus": "핵심 일과 어구 6개(get up, eat breakfast, go to school, come home, study English, go to bed)의 의미와 그림 연결",
+    "reason": "단원 전체의 기초 어휘이자 모든 듣기·말하기·읽기·쓰기 활동의 핵심 요소"
+  },
+  {
+    "id": "I002",
+    "status": "KEEP",
+    "candidateIds": ["C008"],
+    "focus": "핵심 일과 어구의 동사-명사/부사 연어(collocation) 및 어구 완성",
+    "reason": "5차시 Ready to Write와 스스로 다지기에서 명시적으로 평가하는 어구 구성 능력"
+  },
+  {
+    "id": "I003",
+    "status": "KEEP",
+    "candidateIds": ["C002"],
+    "focus": "일과 시각을 묻는 의문문(What time do you ~?)의 구조와 의미 이해",
+    "reason": "단원 대표 의사소통 기능(질문하기)의 핵심 구문"
+  },
+  {
+    "id": "I004",
+    "status": "KEEP",
+    "candidateIds": ["C003"],
+    "focus": "일과 시각을 답하는 문장(I ~ at [시각].)의 구조, 전치사 at 사용 및 질문-응답 호응",
+    "reason": "단원 대표 의사소통 기능(답하기)의 핵심 구문 및 정확성 요소"
+  },
+  {
+    "id": "I005",
+    "status": "KEEP",
+    "candidateIds": ["C004"],
+    "focus": "아날로그/디지털 시계 시각과 영어 일과 문장 연결하기",
+    "reason": "1~6차시 전반에서 그림 속 시계 시각을 읽어 영어 문장과 연결하는 핵심 활동"
+  },
+  {
+    "id": "I006",
+    "status": "KEEP",
+    "candidateIds": ["C005"],
+    "focus": "상대의 일과를 듣고 놀람 표현하기(Really?)의 적절한 사용 맥락 이해",
+    "reason": "2차시 Study Point로 명시된 두 번째 핵심 의사소통 기능"
+  },
+  {
+    "id": "I007",
+    "status": "KEEP",
+    "candidateIds": ["C006"],
+    "focus": "시간대 표현(in the morning, in the afternoon, in the evening)의 의미와 일과 맥락 적용",
+    "reason": "4차시 읽기 본문과 스스로 다지기에서 오전·오후·저녁 일과를 구분하는 핵심 표현"
+  },
+  {
+    "id": "I008",
+    "status": "KEEP",
+    "candidateIds": ["C007"],
+    "focus": "주어(I vs She/He)에 따른 동사 형태 구별(get/gets, go/goes, eat/eats, come/comes)",
+    "reason": "4차시 읽기 및 5차시 Ready to Write Sentences에서 직접 대조·연습하는 핵심 문법 요소"
+  },
+  {
+    "id": "I009",
+    "status": "KEEP",
+    "candidateIds": ["C009"],
+    "focus": "일과 소개 글을 읽고 사건이 일어난 시간 순서 파악하기",
+    "reason": "4차시 After You Read의 핵심 독해 활동"
+  },
+  {
+    "id": "I010",
+    "status": "MERGED",
+    "candidateIds": ["C010", "C012"],
+    "focus": "일과 소개 글·일과표·대화를 읽고 세부 정보(활동·시각)를 파악하거나 맥락에 맞게 완성하기",
+    "reason": "C010(글/일과표 세부 정보 파악)과 C012(글 기반 대화/문장 완성)는 모두 단원 독해·응용 능력으로 통합 관리"
+  },
+  {
+    "id": "I011",
+    "status": "MERGED",
+    "candidateIds": ["C011", "C013"],
+    "focus": "단원 본문·Special 10의 확장 일과 표현(eat lunch, play together, take a walk)을 지문 맥락 속에서 이해하기",
+    "reason": "C011과 C013 모두 단원 내 제시된 확장 일과 표현을 짧은 지문과 함께 이해하는 목표로 통합 (단순 인물 암기 배제)"
+  },
+  {
+    "id": "I012",
+    "status": "DROP",
+    "candidateIds": ["C014"],
+    "focus": "오디오 대본이 없는 교과서 듣기 대화(우주, Baker 씨) 내용 암기",
+    "reason": "PDF에 듣기 대본이 없고, 영어 전문 지침상 본문/오디오 없이 교과서 인물 행적을 기억해야 하는 문항은 출제 금지"
+  }
+]

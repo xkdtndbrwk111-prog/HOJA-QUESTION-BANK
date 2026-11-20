@@ -1,0 +1,1964 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "eng5-ham-u10",
+  "revision": 4,
+  "title": "초등학교 영어 5 (천재·함순애) Lesson 10 What Time Do You Get Up?",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "publisher": "천재교과서",
+    "author": "함순애 외 9인",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+    "unitNumber": 10,
+    "unitTitle": "What Time Do You Get Up?",
+    "sourcePdf": "초_영어5(함순애)_교과서.pdf (PDF p.1~14, p.54, p.65 / 인쇄 135~148, 188, 199쪽)",
+    "mode": "REMASTER",
+    "skillVersion": "0.3.0-rc1",
+    "baseRevision": 3,
+    "revisionNotes": "rev.4 metadata-only; 문항·보기·정답·삽화 그대로 유지",
+    "curriculum": "2022",
+    "semester": 2,
+    "sourcePublisher": "(주)천재교과서",
+    "leadAuthor": "함순애",
+    "sourceUnitTitle": "Lesson 10 What Time Do You Get Up?",
+    "classificationEvidence": {
+      "curriculum": "rev.3 제출본 metadata.edition에 2022 개정 교육과정 명시",
+      "grade": "rev.3 metadata.grade=5 및 제출 제작보고서 교과서 서지",
+      "semester": "사용자와 합의한 분류: 5학년 2학기; 5학년 PDF 원본 독립 확인 미실시",
+      "subject": "rev.3 metadata.subject 및 교과서 서지",
+      "unit": "rev.3 unit-map U001 Lesson 10, 인쇄 135~148/PDF 1~14",
+      "publisher": "rev.3 metadata.publisher (주)천재교과서",
+      "leadAuthor": "rev.3 metadata.author 함순애 외 9인",
+      "edition": "rev.3 metadata.edition 및 제작 보고서, 2026.3.1 초판 ISBN 979-11-7236-860-9 63740"
+    },
+    "classificationSchema": "rc4.1",
+    "classificationMigration": "rev.3 교사 확정 내용 유지, 분류 정보만 추가·정규화"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u10:q01",
+      "groupId": "eng5-ham-u10:g01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 일과를 나타내는 영어 표현으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/get_up.webp",
+          "alt": "아침 햇살이 드는 침대에서 기지개를 켜며 일어나는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go to bed"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get up"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat breakfast"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "come home"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "아침에 잠에서 일어나는 일과는 영어로 get up이라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "단원 핵심 어휘 6개 중 get up 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q02",
+      "groupId": "eng5-ham-u10:g01",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 일과를 영어로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/get_up.webp",
+          "alt": "아침 햇살이 드는 침대에서 기지개를 켜며 일어나는 어린이"
+        }
+      ],
+      "answer": {
+        "text": "get up"
+      },
+      "acceptedAnswers": [
+        "get up",
+        "I get up."
+      ],
+      "explanation": "침대에서 일어나는 행동은 영어로 get up입니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.10 (144쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ001 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 일과를 나타내는 영어 표현으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/eat_breakfast.webp",
+          "alt": "식탁에서 토스트, 달걀프라이, 우유로 아침 식사를 하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat breakfast"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "study English"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go to school"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go to bed"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "아침 식사를 하는 일과는 영어로 eat breakfast입니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.10 (144쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "단원 핵심 어휘 eat breakfast 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 일과를 나타내는 영어 표현으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/go_to_school.webp",
+          "alt": "책가방을 메고 학교 건물 앞 길을 걸어 등교하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "come home"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "take a walk"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go to school"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get up"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "학교에 가는 일과는 영어로 go to school입니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "단원 핵심 어휘 go to school 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 표현이 나타내는 그림을 고르세요.\ncome home"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/go_to_school.webp",
+              "alt": "학교 앞에서 등교하는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/get_up.webp",
+              "alt": "침대에서 일어나는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/go_to_bed.webp",
+              "alt": "밤에 침대에서 자는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/come_home.webp",
+              "alt": "책가방을 메고 집 현관으로 돌아오는 어린이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "come home은 ‘집에 오다’라는 뜻이므로 집으로 돌아오는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "단원 핵심 어휘 come home 영어-그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q06",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 일과는 영어로 get up입니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/go_to_bed.webp",
+          "alt": "별과 달이 뜬 밤에 침대에서 이불을 덮고 잠든 어린이"
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "밤에 잠자리에 드는 그림이므로 get up(일어나다)이 아니라 go to bed(잠자리에 들다)입니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "go to bed와 get up 반의 일과 대조 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q07",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문장의 일과에 알맞은 그림을 고르세요.\nI study English at 4."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/eat_breakfast.webp",
+              "alt": "아침을 먹는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/study_english.webp",
+              "alt": "A, B, C가 적힌 영어 책과 공책, 알파벳 차트 앞에서 영어 공부하는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/go_to_school.webp",
+              "alt": "학교에 가는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/go_to_bed.webp",
+              "alt": "침대에서 자는 어린이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "study English는 ‘영어를 공부하다’라는 뜻이므로 A, B, C 영어 책과 공책으로 공부하는 그림이 알맞습니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.7 (141쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "study English 문장-그림 교차표현",
+        "revisionNote": "rev.2: 삽화만으로 영어 공부임이 명확히 구별되도록 ABC 교재 삽화로 교체"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q08",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘아침을 먹다’가 되도록 빈칸에 들어갈 알맞은 단어를 고르세요.\n_____ breakfast"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "come"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "‘아침을 먹다’는 동사 eat을 써서 eat breakfast라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.10 (144쪽 Ready to Write Words)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "5차시 어구 빈칸 채우기(____ breakfast) 적용"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q09",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 일과를 나타내는 영어 어구가 바르게 쓰인 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "come to home"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go bed"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "study at English"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get up"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "바른 영어 어구는 get up이며, 나머지는 각각 come home, go to bed, study English로 써야 바릅니다.",
+      "provenance": {
+        "locator": "PDF p.10 (144쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 일과 동사-목적어/부사 연어 정확성 판별",
+        "revisionNote": "rev.2: 지나치게 부자연스러운 오답(eat English 등)을 학생 실제 혼동 전치사 오류(come to home, go bed, study at English)로 교체"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘학교에 가다’는 영어로 go school이 아니라 go to school이라고 씁니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "‘~에 가다’를 나타낼 때는 go 뒤에 to를 붙여 go to school, go to bed처럼 씁니다.",
+      "provenance": {
+        "locator": "PDF p.10 (144쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "go to + 장소/침대 전치사 to 누락 오개념 점검"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 몇 시에 일어나는지 영어로 묻고 싶을 때 알맞은 말을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go to bed?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite subject?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "몇 시에 일어나는지 물을 때는 What time do you get up?이라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.1 (135쪽), p.6 (140쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "한국어 상황 -> 영어 의문문 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 영어를 공부하는지 묻는 문장의 빈칸에 알맞은 말을 고르세요.\n_____ time do you study English?"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "시각을 물을 때는 What time을 써서 What time do you ~?로 묻습니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽), p.7 (141쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "시각 의문문 핵심 의문사 What 확인"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"What time do you come home?\"은 상대방에게 몇 시에 학교에 가는지 묻는 말입니다."
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "come home은 ‘집에 오다’이므로 몇 시에 집에 오는지 묻는 말입니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽), p.13 (147쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "일과 의문문 의미 정확성 판별 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q14",
+      "groupId": "eng5-ham-u10:g13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈칸에 들어갈 알맞은 말을 고르세요.\nI eat breakfast _____ 7:20."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "at"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "구체적인 시각 앞에는 전치사 at을 씁니다. (at 7:20)",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽), p.7 (141쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "시각 앞 전치사 at 사용 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q15",
+      "groupId": "eng5-ham-u10:g13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시각 앞에 쓰는 전치사를 넣어 빈칸을 채워 말해 보세요.\nI eat breakfast _____ 7:20."
+        }
+      ],
+      "answer": {
+        "text": "at"
+      },
+      "acceptedAnswers": [
+        "at"
+      ],
+      "explanation": "시각 앞에는 전치사 at을 씁니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ013 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 몇 시에 잠자리에 드는지 물었을 때, ‘나는 10시에 잠자리에 들어.’라고 답하는 영어 문장을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I get up at 10."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to bed at 10."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat breakfast at 10."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at 10."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "‘잠자리에 들다’는 go to bed이므로 ‘나는 10시에 잠자리에 들어.’는 I go to bed at 10.입니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽 Read and Talk)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.2 REBUILD(from q16): 영어를 이해하지 않고 go to bed 문자열 복사로 맞히는 결함 제거, 한국어 상황→영어 응답 교차표현 적용 및 모든 보기 시각 at 10 통일"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주어진 낱말을 바르게 배열하여 ‘나는 5시에 집에 와.’라는 문장을 완성한 것을 고르세요.\n( at / 5. / come home / I )"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I come home at 5."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I at 5 come home."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Come home I at 5."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "At 5 come home I."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "일과를 답하는 문장은 「주어(I) + 일과 어구(come home) + at + 시각(5)」 순서로 씁니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽), p.7 (141쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "일과 응답 문장 어순 구성 능력"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 대화는 몇 시에 학교에 가는지 묻고 8시 30분에 학교에 간다고 답하는 내용입니다."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What time do you go to school?"
+            },
+            {
+              "speaker": "B",
+              "text": "I go to school at 8:30."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "go to school은 ‘학교에 가다’이므로 몇 시에 등교하는지 묻고 8시 30분에 등교한다고 답하는 대화와 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.5 (139쪽 Talk Like This)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "일과 질문-응답 호응 판별 OX",
+        "revisionNote": "rev.2: 영어 문자열 반복만으로 O를 찍지 않도록 한국어 의미와 영어 대화의 일치 여부 판별로 발문 개선"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림을 보고 알맞은 영어 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/get_up_clock_7_00.webp",
+          "alt": "7시 정각을 가리키는 벽시계가 걸린 아침 침실에서 기지개를 켜며 일어나는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I get up at 12."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to bed at 7."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I get up at 7."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat breakfast at 7."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "침실에서 일어나는 모습(get up)과 벽시계가 7시 정각을 가리키고 있으므로 I get up at 7.이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽 Read and Talk)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "정시 아날로그 시계(7:00) + 일과 그림 해석",
+        "revisionNote": "rev.3 APPLY: 아침 침실 배경 + 코드 작도 7:00 벽시계 통합 삽화(Method B3, get_up_clock_7_00.webp) 적용, ID 유지"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림을 보고 알맞은 영어 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/breakfast_clock_7_30.webp",
+          "alt": "7시 30분을 가리키는 벽시계가 걸린 아침 주방 식탁에서 아침 식사를 하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat breakfast at 7:30."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat breakfast at 8:30."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat breakfast at 6:35."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at 7:30."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "식탁에서 아침을 먹는 모습(eat breakfast)과 벽시계가 7시 30분(7:30)을 가리키므로 I eat breakfast at 7:30.이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.10 (144쪽), p.11 (145쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "30분 단위 아날로그 시계(7:30) + 일과 그림 해석",
+        "revisionNote": "rev.3 APPLY: 아침 주방 배경 + 코드 작도 7:30 벽시계 통합 삽화(Method B3, breakfast_clock_7_30.webp) 적용, ID 유지"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 그림을 보고 알맞은 영어 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/go_to_school.webp",
+          "alt": "책가방을 메고 학교에 가는 어린이"
+        },
+        {
+          "kind": "image",
+          "src": "assets/clock_8_20.webp",
+          "alt": "짧은 바늘이 8을 지나고 긴 바늘이 4를 가리키는 아날로그 시계"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at 8:04."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at 4:40."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I come home at 8:20."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at 8:20."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "시계가 8시 20분(8:20)을 가리키고 학교에 가는 그림이므로 I go to school at 8:20.이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.5 (139쪽), p.8 (142쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "20분 단위 아날로그 시계(8:20) + 일과 그림 해석"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q22",
+      "groupId": "eng5-ham-u10:g20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림을 설명하는 문장은 \"I go to bed at 9:40.\"입니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/bed_clock_9_40.webp",
+          "alt": "9시 40분을 가리키는 벽시계가 걸린 밤 침실에서 잠든 어린이"
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "밤 침실에서 잠든 모습(go to bed)과 벽시계가 9시 40분(9:40)을 가리키므로 문장과 정확히 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽 Read and Write 3번)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "40분 단위 아날로그 시계(9:40) + 취침 그림 OX",
+        "revisionNote": "rev.3 APPLY: 밤 침실 배경 + 코드 작도 9:40 벽시계 통합 삽화(Method B3, bed_clock_9_40.webp) 적용, q37과 공유, ID 유지"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q37",
+      "groupId": "eng5-ham-u10:g20",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림을 보고 질문에 알맞게 영어로 답해 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What time do you go to bed?"
+            },
+            {
+              "speaker": "B",
+              "text": "_________________________"
+            }
+          ]
+        },
+        {
+          "kind": "image",
+          "src": "assets/bed_clock_9_40.webp",
+          "alt": "9시 40분을 가리키는 벽시계가 걸린 밤 침실에서 잠든 어린이"
+        }
+      ],
+      "answer": {
+        "text": "I go to bed at 9:40."
+      },
+      "acceptedAnswers": [
+        "I go to bed at 9:40.",
+        "I go to bed at nine forty.",
+        "at 9:40",
+        "at nine forty"
+      ],
+      "explanation": "몇 시에 잠자리에 드는지 묻는 질문에 그림 속 벽시계(9:40)와 취침 장면을 바탕으로 I go to bed at 9:40.이라고 영어로 답합니다.",
+      "provenance": {
+        "locator": "PDF p.6 (140쪽 Read and Write 3번)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.2 REBUILD(from q23): 단순 시계 숫자 읽기를 넘어 영어 질문 이해 및 영어 시각·일과 표현(I go to bed at 9:40.) 구두 산출로 재제작",
+        "revisionNote": "rev.3 APPLY: 밤 침실 배경 + 코드 작도 9:40 벽시계 통합 삽화(Method B3, bed_clock_9_40.webp) 적용, q22와 공유, ID 유지"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림과 대화를 보고, 놀람을 표현하는 빈칸의 말로 가장 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/surprised_talk.webp",
+          "alt": "친구의 말을 듣고 눈이 휘둥그레지며 놀라는 어린이"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What time do you get up?"
+            },
+            {
+              "speaker": "B",
+              "text": "I get up at 5 in the morning."
+            },
+            {
+              "speaker": "A",
+              "text": "__________"
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thank you."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Really?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "See you."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm sorry."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "상대의 말을 듣고 놀람을 표현할 때는 Really?(정말?)라고 말합니다.",
+      "provenance": {
+        "locator": "PDF p.4~5 (138~139쪽 Study Point 2, Talk Like This 2)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "놀람 표현 Really? 상황 대화 완성",
+        "revisionNote": "rev.2: q25와 동일한 Really? 놀람 표현 학습 상황이므로 변형 묶음 g21로 통합"
+      },
+      "groupId": "eng5-ham-u10:g21"
+    },
+    {
+      "questionId": "eng5-ham-u10:q25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 생각보다 아주 일찍 일어난다고 말했을 때, 놀람을 표현하며 \"Really?\"라고 말할 수 있습니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "Really?는 예상 밖의 일과 시각 등을 듣고 놀람을 표현할 때 쓰는 자연스러운 말입니다.",
+      "provenance": {
+        "locator": "PDF p.5 (139쪽 Play 2), p.13 (147쪽 My Work 2)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Really? 화용적 기능 이해 OX",
+        "revisionNote": "rev.2: q24와 동일한 Really? 놀람 표현 학습 상황이므로 변형 묶음 g21로 통합"
+      },
+      "groupId": "eng5-ham-u10:g21"
+    },
+    {
+      "questionId": "eng5-ham-u10:q26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 문장에서 in the afternoon이 뜻하는 시간대로 알맞은 것을 고르세요.\nI study English at 4:30 in the afternoon."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오후에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저녁에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한밤중에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "in the morning은 아침에, in the afternoon은 오후에, in the evening은 저녁에라는 뜻입니다.",
+      "provenance": {
+        "locator": "PDF p.8 (142쪽), p.54 (188쪽)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "시간대 표현 in the afternoon 영어-한국어 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘아침에’와 ‘저녁에’를 영어로 바르게 짝지은 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in the morning - in the afternoon"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in the afternoon - in the evening"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in the morning - in the evening"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in the evening - in the morning"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "‘아침에’는 in the morning, ‘저녁에’는 in the evening입니다.",
+      "provenance": {
+        "locator": "PDF p.8~9 (142~143쪽)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "시간대 표현 한국어-영어 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q28",
+      "groupId": "eng5-ham-u10:g25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 문장을 비교하여 빈칸에 들어갈 알맞은 어구를 고르세요.\nI get up at 7:30.\nShe __________ at 8."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "gets up"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get up"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "get ups"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "gets"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "주어가 She(3인칭 단수)일 때는 동사 get에 -s를 붙이고 부사 up은 그대로 두어 gets up이라고 씁니다.",
+      "provenance": {
+        "locator": "PDF p.9 (143쪽), p.10 (144쪽 Ready to Write Sentences 1)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "I get up vs She gets up 3인칭 단수 동사 변화",
+        "revisionNote": "rev.2: 앞 문장 get up과의 표면 비교로 타 동사(come home, go to bed)를 쉽게 제거하던 결함을 개선하여 get up 형태 변화 4종으로 오답 정교화"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q29",
+      "groupId": "eng5-ham-u10:g25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주어에 맞게 빈칸에 들어갈 영어 어구를 말해 보세요.\nI get up at 7:30.\nShe __________ at 8."
+        }
+      ],
+      "answer": {
+        "text": "gets up"
+      },
+      "acceptedAnswers": [
+        "gets up"
+      ],
+      "explanation": "주어가 She이므로 gets up이 알맞습니다.",
+      "provenance": {
+        "locator": "PDF p.10 (144쪽 Ready to Write Sentences 1)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ025 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘그녀는 아침 7시에 잠자리에 든다.’가 되도록 빈칸에 알맞은 단어를 고르세요.\nShe _____ to bed at 7 in the morning."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eats"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "comes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "goes"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "주어가 She일 때 go는 goes로 바뀌므로 She goes to bed라고 씁니다.",
+      "provenance": {
+        "locator": "PDF p.9 (143쪽 Let's Read)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "3인칭 단수 동사 goes(-es) 형태 구별"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민지의 일과 글을 읽고, 하루 일과가 일어난 순서대로 바르게 나열한 것을 고르세요.\n\n\"Hi, I'm Minji. I get up at 7:10 in the morning. I eat breakfast at 7:40. I go to school at 8:20. I study English at 4 in the afternoon. I go to bed at 9:50.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일어나기 → 학교 가기 → 아침 먹기 → 영어 공부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일어나기 → 아침 먹기 → 학교 가기 → 영어 공부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침 먹기 → 일어나기 → 영어 공부 → 잠자기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 가기 → 아침 먹기 → 영어 공부 → 잠자기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "글의 시각 순서대로 7:10 일어나기 → 7:40 아침 먹기 → 8:20 학교 가기 → 오후 4시 영어 공부 → 9:50 잠자기입니다.",
+      "provenance": {
+        "locator": "PDF p.8~9 (142~143쪽 After You Read 유형 응용)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "가상 인물 일과 지문 독해 및 시간 순서 배열"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햄스터 코코의 일과 글을 읽고, 글의 내용과 일치하는 것을 고르세요.\n\n\"This is Coco. She goes to bed at 7 in the morning. She gets up at 5 in the afternoon. She eats breakfast at 6 in the evening. Coco and I play together at 8:30.\""
+        },
+        {
+          "kind": "image",
+          "src": "assets/hamster_night.webp",
+          "alt": "별과 달이 뜬 밤에 사육장 쳇바퀴에서 활발하게 노는 햄스터"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "코코는 아침 7시에 일어난다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "코코는 저녁 6시에 잠자리에 든다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "코코는 오후 5시에 일어난다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 코코와 아침 7시에 함께 논다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "글에서 \"She gets up at 5 in the afternoon.\"이라고 했으므로 코코는 오후 5시에 일어납니다.",
+      "provenance": {
+        "locator": "PDF p.8~9 (142~143쪽 My Day and Cookie's Day 응용)",
+        "intentIds": [
+          "I010"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "야행성 햄스터 일과 지문 세부 정보 파악"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q38",
+      "groupId": "eng5-ham-u10:g29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지호의 일과 글과 대화를 읽고, B의 빈칸에 들어갈 알맞은 대답의 내용을 우리말로 고르세요.\n\n\"My name is Jiho. I get up at 7:20. I go to school at 8:10. I eat lunch at 12:10. I come home at 3:40. I study English at 5.\""
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What time do you come home, Jiho?"
+            },
+            {
+              "speaker": "B",
+              "text": "_________________________"
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3시 40분에 집에 온다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5시에 영어를 공부한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8시 10분에 학교에 간다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12시 10분에 점심을 먹는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "A가 몇 시에 집에 오는지(come home) 물었고, 글에서 지호는 \"I come home at 3:40.\"이라고 했으므로 ‘3시 40분에 집에 온다.’가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.13 (147쪽 My Work 3~4번 유형 응용)",
+        "intentIds": [
+          "I010"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.2 REBUILD(from q33): 지문과 보기의 동일 영어 문자열 매칭을 차단하기 위해 영어 대화·지문→한국어 의미 이해 교차표현으로 재제작"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q34",
+      "groupId": "eng5-ham-u10:g29",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지호의 일과 글을 읽고, 지호가 집에 오는 시각을 숫자로 말해 보세요.\n\n\"My name is Jiho. I get up at 7:20. I go to school at 8:10. I eat lunch at 12:10. I come home at 3:40. I study English at 5.\""
+        }
+      ],
+      "answer": {
+        "text": "3:40"
+      },
+      "acceptedAnswers": [
+        "3:40",
+        "3시 40분"
+      ],
+      "explanation": "\"I come home at 3:40.\"에서 집에 오는 시각이 3:40임을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.13 (147쪽 My Work 3~4번 유형 응용)",
+        "intentIds": [
+          "I010"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ029 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "글을 읽고, 아래 그림에 해당하는 활동과 시각이 바르게 짝지어진 것을 고르세요.\n\n\"I go to school at 8:30. I eat lunch at 12. I come home at 3:30.\""
+        },
+        {
+          "kind": "image",
+          "src": "assets/eat_lunch.webp",
+          "alt": "식당에서 급식판에 담긴 점심을 먹는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침 먹기 - 8시 30분"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "점심 먹기 - 12시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "점심 먹기 - 3시 30분"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집에 오기 - 12시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "그림은 점심을 먹는 모습(eat lunch)이며 글에서 \"I eat lunch at 12.\"라고 했으므로 12시입니다.",
+      "provenance": {
+        "locator": "PDF p.13 (147쪽 My Work 3번)",
+        "intentIds": [
+          "I011"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "확장 일과 표현 eat lunch 지문-그림 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u10:q36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 속 칸트의 규칙적인 생활에 관한 글을 읽고, 그림의 활동을 하는 시각을 고르세요.\n\n\"I go to school at 9. I take a walk at 3. I go to bed at 10.\""
+        },
+        {
+          "kind": "image",
+          "src": "assets/take_a_walk.webp",
+          "alt": "나무가 우거진 공원 길을 산책하는 사람"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "9시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "교과서 Special 10에서 칸트는 \"I take a walk at 3.\"이라고 말했으므로 산책하는 시각은 3시입니다.",
+      "provenance": {
+        "locator": "PDF p.14 (148쪽 Special 10 Into the History)",
+        "intentIds": [
+          "I011"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 10 칸트 일과 지문 및 확장 어구 take a walk 독해",
+        "revisionNote": "rev.2: 교과서 p.148(PDF p.14) 원문 발화 3문장 그대로 일치시키고 원문에 없는 in the afternoon·아침/오후/밤 표현 제거"
+      }
+    }
+  ]
+}

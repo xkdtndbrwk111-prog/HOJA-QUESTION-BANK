@@ -1,0 +1,98 @@
+{
+  "source": {
+    "id": "chunjae-eng5-ham-2026-pdf-excerpt",
+    "title": "초등학교 영어 5 (함순애 외 9인)",
+    "publisher": "(주)천재교과서",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+    "pdfFile": "초_영어5(함순애)_교과서.pdf",
+    "pdfTotalPages": 66,
+    "notes": "첨부 PDF는 교과서 135~200쪽 분권/발췌본으로 Lesson 10~12 본문, Review 2(Lessons 7~12), 스스로 다지기(Lessons 1~12), 자료 출처·판권, 붙임딱지를 포함한다. PDF 내 첫 번째 본문 단원은 Lesson 10이다."
+  },
+  "units": [
+    {
+      "id": "U001",
+      "title": "Lesson 10 What Time Do You Get Up?",
+      "printedStart": "135",
+      "printedEnd": "148",
+      "pdfStart": 1,
+      "pdfEnd": 14,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 10",
+          "printedPage": "188",
+          "pdfPage": 54
+        },
+        {
+          "label": "붙임딱지 Lesson 10 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "U002",
+      "title": "Lesson 11 My Favorite Subject Is Math",
+      "printedStart": "149",
+      "printedEnd": "162",
+      "pdfStart": 15,
+      "pdfEnd": 28,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 11",
+          "printedPage": "189",
+          "pdfPage": 55
+        },
+        {
+          "label": "붙임딱지 Lesson 11 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "U003",
+      "title": "Lesson 12 What Do You Want to Be?",
+      "printedStart": "163",
+      "printedEnd": "176",
+      "pdfStart": 29,
+      "pdfEnd": 42,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 12",
+          "printedPage": "190",
+          "pdfPage": 56
+        },
+        {
+          "label": "붙임딱지 Lesson 12 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "title": "Review 2 (Lessons 7~12)",
+      "printedStart": "177",
+      "printedEnd": "178",
+      "pdfStart": 43,
+      "pdfEnd": 44
+    },
+    {
+      "id": "WS_ALL",
+      "title": "스스로 다지기 (Lessons 1~12 워크시트)",
+      "printedStart": "179",
+      "printedEnd": "190",
+      "pdfStart": 45,
+      "pdfEnd": 56
+    },
+    {
+      "id": "BACKMATTER",
+      "title": "자료 출처 목록·QR코드·집필진·판권·붙임딱지",
+      "printedStart": "191",
+      "printedEnd": "200",
+      "pdfStart": 57,
+      "pdfEnd": 66
+    }
+  ],
+  "currentUnit": "U001"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eng5-ham-u10",
+  "version": "02d6bd23cb8e4326c94a7973c65b9f32a01aec18029b22501b918cb3d21810e1",
+  "files": {
+    "assets/bed_clock_9_40.webp": "11e7d43e60e61b32e54d56a3ca18ee259a254a91a1222b51697f9d5da330f100",
+    "assets/breakfast_clock_7_30.webp": "6d6a2c4c07f1482721c03561c4eaae846342a432d281dc32c8f0066dc39ee651",
+    "assets/clock_8_20.webp": "de2a7927d9d47dde432cfb28b3c17ab6cd7d4414acf846cace66197732ea0bf0",
+    "assets/come_home.webp": "972a545264e0f3840219e3d306ac1985cb9c15885ec6309251873aa3c0d29be8",
+    "assets/eat_breakfast.webp": "6ff73eca95619e7a2080d49685e041f966b739a603e4204296e2130ceff40241",
+    "assets/eat_lunch.webp": "84554a2872b357efe987259c23d4568e2db3dee6c05f1ca3efd09bb1277b1380",
+    "assets/get_up.webp": "32623d93543316e091fe6e176ad744ef75ac08c2ad1045203c5518208f2ad831",
+    "assets/get_up_clock_7_00.webp": "45580ea0b8b29c873a64c5d68812cbb8cad41cd366449f1147d6d57741f9c257",
+    "assets/go_to_bed.webp": "cb140cd154e7f1d041f970131bdb09f31b4fd57a6475a0957660407fea065ffd",
+    "assets/go_to_school.webp": "6b61c70b5e88900a10a91c776aeece81e8c82605f7cdba8ffbe86bd0228f9305",
+    "assets/hamster_night.webp": "8b93d173bfef6262297e5b6b635851182475b523e24a6417ba39c58caf58a81f",
+    "assets/study_english.webp": "02db5a3bb793c561d510fc86d66acc56ef55e32b23ccf5578ae5ccad1de998b9",
+    "assets/surprised_talk.webp": "769eaaa6ab8dc6bdd024fbd52d3966b3ce1083f4118e0d88626256a658bc76c1",
+    "assets/take_a_walk.webp": "42a9f3ee6fb013658615638fdfd70a1801cc3041aa850f31d7746dfb75224f10",
+    "cartridge.json": "73a8676363374e5196b12f339531c6617b1470fa2fab7854a7ca194ea1c018ed"
+  }
+}
