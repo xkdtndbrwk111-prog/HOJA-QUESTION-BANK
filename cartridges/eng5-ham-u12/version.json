@@ -1,0 +1,17 @@
+{
+  "id": "eng5-ham-u12",
+  "version": "f58f223a5c32e3b09c7c5f31ef5b0225ee54af9cc494fa5dda9b955155b0a9d8",
+  "files": {
+    "assets/act_going_new_places.webp": "a2dc8766cd2ee99978f9e994591e0e35da125bbfbe0989480f228cd41d9481d9",
+    "assets/act_reading_books.webp": "dd9ae67afd57d65bd90d92babe7aab942a8c3a28370c083a7a9dae73b3687982",
+    "assets/job_actor.webp": "e6aed4139f802ab694f50d494aa6c1849877a86db19adeabe637196217341746",
+    "assets/job_animal_trainer.webp": "b212e9d23c97391dc8a30b80df4e5f2825d685b2c222f3e40b94157f256339a7",
+    "assets/job_designer.webp": "001d907e201ba6be83b10d41aaf356e489092218cb74399df85db277801f80b4",
+    "assets/job_pianist.webp": "5eae9056fe2c811578ae77474ea8861d818f5af15325f2c339f89bb46140ecfc",
+    "assets/job_scientist.webp": "58e5e8ef300ca754484e6606bf3d7fe1cf9892f815f30d738fb646446adf79e9",
+    "assets/job_soccer_player.webp": "94c15462e5fa1f04b669cf681a602f13fa6a15182b9ef870bb5dfc38503f8357",
+    "assets/job_travel_writer.webp": "40e59dcb135e5e6da36b918f01bf552247660d657f48c45e997e5f40eb1c9e14",
+    "assets/job_violinist.webp": "1bc1d3ae84ed0f4bd1d0cdbaafb5fe7aa15e6d47282d0b6c8095fc9a3c4b9c93",
+    "cartridge.json": "844145325ad99f74078403935ed350f52fc46a89786bda192c81ddd0c58bf890"
+  }
+}

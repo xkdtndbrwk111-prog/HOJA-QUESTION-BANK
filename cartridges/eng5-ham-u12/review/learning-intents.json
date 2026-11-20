@@ -1,0 +1,12 @@
+[
+  {"id": "I001", "status": "KEEP", "candidateIds": ["C001"], "focus": "핵심 직업 어휘 7개(actor, designer, pianist, scientist, animal trainer, soccer player, travel writer)의 의미와 그림 연결", "reason": "단원 기초 핵심 직업 어휘"},
+  {"id": "I002", "status": "KEEP", "candidateIds": ["C002"], "focus": "직업 어휘의 정확한 철자 및 어구 형태 완성", "reason": "5차시 Ready to Write 및 스스로 다지기 핵심 쓰기 목표"},
+  {"id": "I003", "status": "KEEP", "candidateIds": ["C003"], "focus": "장래 희망을 묻는 의문문(What do you want to be?)의 구조와 의미", "reason": "단원 첫 번째 핵심 의사소통 기능(질문하기)"},
+  {"id": "I004", "status": "KEEP", "candidateIds": ["C004"], "focus": "장래 희망을 답하는 문장(I want to be a/an ~.)의 어순과 구조", "reason": "단원 첫 번째 핵심 의사소통 기능(답하기)"},
+  {"id": "I005", "status": "KEEP", "candidateIds": ["C005"], "focus": "직업 명사 앞 부정관사 a와 an의 정확한 구별(an actor, an animal trainer 등)", "reason": "3차시 Read and Write 및 Play 3에서 명시적으로 연습하는 핵심 문법 요소"},
+  {"id": "I006", "status": "KEEP", "candidateIds": ["C006"], "focus": "좋아하는 활동을 표현하는 문장(I like ~ing.)의 의미와 동명사 형태", "reason": "단원 두 번째 핵심 의사소통 기능"},
+  {"id": "I007", "status": "KEEP", "candidateIds": ["C007"], "focus": "장래 희망 직업과 어울리는 좋아하는 활동 어구 연결하기", "reason": "4~6차시 읽기·쓰기·프로젝트의 핵심 의미 연결 능력"},
+  {"id": "I008", "status": "KEEP", "candidateIds": ["C008"], "focus": "장래 희망 소개 글을 읽고 세부 정보(좋아하는 것·능력·희망 직업) 파악 및 빈칸 추론", "reason": "4차시·My Work·스스로 다지기의 핵심 독해 목표"},
+  {"id": "I009", "status": "KEEP", "candidateIds": ["C009"], "focus": "Special 12 아인슈타인 원문 지문과 확장 표현(playing the violin, violinist) 이해", "reason": "Special 12 역사 읽기 지문 및 단원 표현 응용(원문 일치 유지)"},
+  {"id": "I010", "status": "DROP", "candidateIds": ["C010"], "focus": "오디오 대본 없는 교과서 듣기 대화 내용 암기", "reason": "PDF에 듣기 대본이 없고 교과서 장면 암기 문항은 영어 지침상 금지"}
+]

@@ -1,0 +1,1776 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "eng5-ham-u12",
+  "revision": 3,
+  "title": "초등학교 영어 5 (천재·함순애) Lesson 12 What Do You Want to Be?",
+  "metadata": {
+    "curriculum": "2022",
+    "grade": 5,
+    "semester": 2,
+    "subject": "영어",
+    "publisher": "천재교과서",
+    "sourcePublisher": "(주)천재교과서",
+    "leadAuthor": "함순애",
+    "author": "함순애 외 9인",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+    "unitNumber": 12,
+    "unitTitle": "What Do You Want to Be?",
+    "sourcePdf": "초_영어5(함순애)_교과서.pdf (PDF p.29~42, p.56, p.65 / 인쇄 163~176, 190, 199쪽)",
+    "mode": "REMASTER",
+    "baseRevision": 2,
+    "skillVersion": "0.3.0-rc4",
+    "classificationEvidence": {
+      "curriculum": "교과서 판권(PDF p.60, 2026. 3. 1. 초판 발행 2022 개정 교육과정 적용판) 및 감독 지시 명시",
+      "grade": "교과서 판권(PDF p.60 \"초등학교 영어 5\") 및 본문 쪽표기",
+      "semester": "교과서 Review 2(PDF p.43 \"Lessons 7~12\" 후반부 편성) 및 감독 지시(\"2학기\") 명시",
+      "subject": "교과서 판권(PDF p.60 \"초등학교 영어 5\")",
+      "unit": "교과서 단원 표지(PDF p.29, 163쪽 \"Lesson 12 What Do You Want to Be?\") 및 unit-map.json U003 일치",
+      "publisher": "교과서 판권(PDF p.60 발행인 \"(주)천재교과서\")에서 법인 접두사 제외 정규명 \"천재교과서\"",
+      "leadAuthor": "교과서 집필진·판권(PDF p.59~60 \"함순애(명지대학교 명예 교수, 대표 저자, 전 단원)\")",
+      "edition": "교과서 판권(PDF p.60 \"2026. 3. 1. 초판 발행\", \"ISBN 979-11-7236-860-9 63740\")"
+    },
+    "revisionNotes": "rev.3 최종 부분 개정: q23·q24 동일 어휘 관계(designer-drawing pictures) 변형 묶음 g20 통합(soloUnits 27→26), q17 현행 유지 및 rc3-review 정밀화, 기타 30문항 KEEP 보존"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u12:q01",
+      "groupId": "eng5-ham-u12:g01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 직업의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_actor.webp",
+          "alt": "무대 조명과 촬영 카메라 앞에서 망토를 입고 연기하는 배우"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "actor"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "무대와 카메라 앞에서 연기하는 직업은 배우(actor)입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 직업 actor 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q02",
+      "groupId": "eng5-ham-u12:g01",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 직업을 영어로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_actor.webp",
+          "alt": "무대 조명과 촬영 카메라 앞에서 망토를 입고 연기하는 배우"
+        }
+      ],
+      "answer": {
+        "text": "actor"
+      },
+      "acceptedAnswers": [
+        "actor",
+        "an actor"
+      ],
+      "explanation": "그림의 직업은 영어로 actor입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ001 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 직업의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_designer.webp",
+          "alt": "책상 위 디지털 펜 태블릿으로 귀여운 캐릭터를 그리는 디자이너"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "travel writer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "animal trainer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "soccer player"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "캐릭터나 물건을 디자인하는 직업은 designer입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.36 (170쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 직업 designer 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 직업의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_scientist.webp",
+          "alt": "흰 실험복과 보안경을 쓰고 현미경과 플라스크로 실험하는 과학자"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "actor"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "실험실에서 현미경과 플라스크로 연구하는 직업은 과학자(scientist)입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 직업 scientist 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 직업 이름에 알맞은 그림을 고르세요.\nanimal trainer"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_pianist.webp",
+              "alt": "그랜드 피아노를 연주하는 피아니스트"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_soccer_player.webp",
+              "alt": "축구공을 차는 축구선수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_travel_writer.webp",
+              "alt": "야외에서 여행 노트에 글을 쓰는 여행작가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_animal_trainer.webp",
+              "alt": "공원에서 강아지를 훈련시키는 반려동물 훈련사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "animal trainer는 ‘동물 훈련사’이므로 강아지를 훈련시키는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.31 (165쪽), p.34 (168쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 직업 animal trainer 영어→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q06",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문장이 나타내는 직업의 그림을 고르세요.\nI want to be a travel writer."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_designer.webp",
+              "alt": "태블릿으로 캐릭터를 그리는 디자이너"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_travel_writer.webp",
+              "alt": "산과 강 앞에서 여행 노트에 글을 쓰고 있는 여행작가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_actor.webp",
+              "alt": "무대에서 연기하는 배우"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/job_scientist.webp",
+              "alt": "실험복을 입고 실험하는 과학자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "travel writer는 ‘여행 작가’이므로 여행지에서 글을 쓰는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.36~37 (170~171쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 직업 travel writer 문장→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q07",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 직업은 영어로 soccer player입니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_pianist.webp",
+          "alt": "무대에서 검은 그랜드 피아노를 연주하는 피아니스트"
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "그랜드 피아노를 연주하는 그림이므로 soccer player(축구선수)가 아니라 pianist(피아니스트)입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "pianist와 soccer player 대조 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q08",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 직업이 자신의 장래 희망이라고 말할 때 알맞은 영어 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_soccer_player.webp",
+          "alt": "유니폼을 입고 골대 앞 잔디에서 축구공을 차는 축구선수"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want to be a soccer player."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want to be a pianist."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want to be an animal trainer."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want to be a travel writer."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "축구선수 그림이므로 I want to be a soccer player.가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.33 (167쪽 Talk Like This 1), p.34 (168쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "soccer player 그림→문장 연결",
+        "revisionNote": "rev.2(RC4): 그림(축구선수)과 장래 희망(want to be) 역할 상황을 발문에 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q09",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘과학자’를 뜻하는 영어 단어의 철자가 바르게 쓰인 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "sientist"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientest"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scentist"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "‘과학자’의 바른 철자는 s-c-i-e-n-t-i-s-t(scientist)입니다.",
+      "provenance": {
+        "locator": "PDF p.38 (172쪽 Ready to Write Words 5번), p.56 (190쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "5차시 Ready to Write scientist 철자 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘디자이너’를 뜻하는 단어의 빈칸에 들어갈 알파벳이 순서대로 바르게 짝지어진 것을 고르세요.\n___ esig ___ er"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "d - n"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "b - n"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "d - m"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "t - n"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "designer의 철자는 d-e-s-i-g-n-e-r이므로 빈칸에 d와 n이 들어갑니다.",
+      "provenance": {
+        "locator": "PDF p.38 (172쪽 Ready to Write Words 6번)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "교과서 p.172 _esig_er 철자 빈칸 평가"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 장래 희망이 무엇인지 영어로 물을 때 알맞은 말을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite subject?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do last weekend?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "장래 희망을 물을 때는 What do you want to be?라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.35 (169쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "한국어 상황→영어 장래 희망 의문문 교차표현",
+        "revisionNote": "rev.2(RC4): q12와 동일한 What do you want to be? 의미 평가이므로 변형 묶음 g10으로 통합"
+      },
+      "groupId": "eng5-ham-u12:g10"
+    },
+    {
+      "questionId": "eng5-ham-u12:q12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"What do you want to be?\"는 상대방에게 무엇이 되고 싶은지(장래 희망) 묻는 말입니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "What do you want to be?는 장래 희망을 묻는 핵심 의문문입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "장래 희망 의문문 의미 확인 OX",
+        "revisionNote": "rev.2(RC4): q11과 동일한 What do you want to be? 의미 평가이므로 변형 묶음 g10으로 통합"
+      },
+      "groupId": "eng5-ham-u12:g10"
+    },
+    {
+      "questionId": "eng5-ham-u12:q13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주어진 낱말을 바르게 배열하여 ‘나는 동물 훈련사가 되고 싶어.’라는 문장을 완성한 것을 고르세요.\n( want / I / be / an animal trainer. / to )"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want be to an animal trainer."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want to be an animal trainer."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I to want be an animal trainer."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Want I to be an animal trainer."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "‘~이 되고 싶다’는 「I want to be + 직업」 어순으로 씁니다.",
+      "provenance": {
+        "locator": "PDF p.41 (175쪽 My Work 4번)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "교과서 My Work 4번 낱말 배열 어순 평가"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q14",
+      "groupId": "eng5-ham-u12:g13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 피아니스트가 되고 싶어.’가 되도록 빈칸에 알맞은 말을 고르세요.\nI want _____ a pianist."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "be"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to be"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "being"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "‘~이 되고 싶다’는 want 뒤에 to be를 붙여 I want to be a pianist.라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.35 (169쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "want to be 구문 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q15",
+      "groupId": "eng5-ham-u12:g13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 직업이 자신의 장래 희망이라고 생각하고, 질문에 알맞게 영어로 답해 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What do you want to be?"
+            },
+            {
+              "speaker": "B",
+              "text": "_________________________"
+            }
+          ]
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_pianist.webp",
+          "alt": "그랜드 피아노를 연주하는 피아니스트"
+        }
+      ],
+      "answer": {
+        "text": "I want to be a pianist."
+      },
+      "acceptedAnswers": [
+        "I want to be a pianist.",
+        "a pianist",
+        "pianist"
+      ],
+      "explanation": "피아니스트 그림이므로 I want to be a pianist.라고 답합니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.41 (175쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ013 팀전 구두 변형",
+        "revisionNote": "rev.2(RC4): 그림의 직업이 장래 희망이라는 역할 상황 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈칸에 들어갈 직업으로 문법적으로 알맞은 것을 고르세요.\nI want to be an __________."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "actor"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "모음 소리로 시작하는 actor 앞에는 부정관사 an을 씁니다. (an actor)",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Write 1번), p.35 (169쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "부정관사 an + 모음 시작 직업(actor) 구별"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q17",
+      "groupId": "eng5-ham-u12:g15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 동물 훈련사가 되고 싶어.’가 되도록 빈칸에 들어갈 문법적으로 바른 표현을 고르세요.\nI want to be _______________."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a animal trainer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "an animal trainer"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "animal trainer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "an animal trainers"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "직업 명사 앞에는 부정관사를 쓰며 animal이 모음 소리(/æ/)로 시작하므로 단수형과 함께 an animal trainer로 씁니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.35 (169쪽 Play 3 2번)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "an animal trainer 부정관사 선택",
+        "revisionNote": "rev.2(RC4): 3지선다 추출 시 a가 빠져도 관사 필수 여부·단복수 일치·a/an 구별이 모두 유지되도록 오답 3종 전면 재설계"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q18",
+      "groupId": "eng5-ham-u12:g15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈칸에 a와 an 중 알맞은 말을 넣어 말해 보세요.\nI want to be _____ animal trainer."
+        }
+      ],
+      "answer": {
+        "text": "an"
+      },
+      "acceptedAnswers": [
+        "an"
+      ],
+      "explanation": "animal 앞에는 an을 씁니다.",
+      "provenance": {
+        "locator": "PDF p.35 (169쪽 Play 3 2번)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ015 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"I want to be an scientist.\"는 부정관사가 바르게 쓰인 문장입니다."
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "scientist는 자음 소리(/s/)로 시작하므로 an이 아니라 a를 써서 I want to be a scientist.라고 해야 합니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.35 (169쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "자음 시작 직업 앞 a/an 오용 판별 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 사람이 자신이 하고 있는 활동을 좋아한다고 말할 때, 가장 알맞은 영어 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_going_new_places.webp",
+          "alt": "배낭을 메고 해변 성곽 풍경을 카메라로 찍으며 여행하는 사람"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like going to new places."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like playing the piano."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like doing science projects."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like playing with animals."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "새로운 장소를 여행하는 모습은 going to new places입니다.",
+      "provenance": {
+        "locator": "PDF p.36 (170쪽 Before You Read), p.37 (171쪽)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "going to new places 그림→영어 문장 연결",
+        "revisionNote": "rev.2(RC4): 그림 속 행동과 선호(like) 구분을 위해 발문에 조건 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 하고 있는 활동을 나타내는 영어 표현을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_reading_books.webp",
+          "alt": "소파에 앉아 동물 그림이 그려진 그림책을 즐겁게 읽는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "watching videos"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing soccer"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "reading picture books"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "helping animals"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "그림책을 읽는 활동은 reading picture books입니다.",
+      "provenance": {
+        "locator": "PDF p.36 (170쪽 Let's Read), p.39 (173쪽)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "reading picture books 그림-영어 연결",
+        "revisionNote": "rev.2(RC4): 그림으로 입증되는 행동 표현(reading picture books)만 묻도록 발문 수정"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 피아노 치는 것을 좋아해.’가 되도록 빈칸에 알맞은 형태를 고르세요.\nI like __________ the piano."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "plays"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "교과서 핵심 표현은 I like + 동사-ing 형태이므로 I like playing the piano.가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.33 (167쪽 Talk Like This 2), p.38 (172쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "I like ~ing 동명사 형태 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "디자이너(designer)가 하는 일과 가장 직접적으로 관련이 깊은 활동을 골라 문장을 자연스럽게 연결하세요.\nI want to be a designer. I like _______________."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing soccer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing with animals"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing science projects"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "디자이너의 업무와 가장 직접적으로 관련이 깊은 활동은 그림 그리기(drawing pictures)입니다.",
+      "provenance": {
+        "locator": "PDF p.36 (170쪽), p.38 (172쪽 Sentences 2), p.40 (174쪽 Project STEP 1)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "직업(designer)-활동(drawing pictures) 의미 연결",
+        "revisionNote": "rev.3(RC4): q23과 q24 모두 designer - drawing pictures 어휘 관계를 평가하므로 하나의 변형 묶음(g20)으로 통합(기존 ID 유지)"
+      },
+      "groupId": "eng5-ham-u12:g20"
+    },
+    {
+      "questionId": "eng5-ham-u12:q24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 배운 직업과 그 직업이 하는 일과 가장 관련이 깊은 활동이 바르게 짝지어진 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer - drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist - going to new places"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "soccer player - watching videos"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "actor - playing with animals"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "교과서 Project STEP 1에서 디자이너(designer)는 그림 그리기(drawing pictures)와 직접 연결됩니다.",
+      "provenance": {
+        "locator": "PDF p.40 (174쪽 Project STEP 1)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "교과서 p.174 직업-활동 짝짓기 정확성",
+        "revisionNote": "rev.3(RC4): q23과 q24 모두 designer - drawing pictures 어휘 관계를 평가하므로 하나의 변형 묶음(g20)으로 통합(기존 ID 유지)"
+      },
+      "groupId": "eng5-ham-u12:g20"
+    },
+    {
+      "questionId": "eng5-ham-u12:q25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"I like meeting new people. I want to be a travel writer.\"는 새로운 사람들을 만나는 것을 좋아하고 여행 작가가 되고 싶다는 뜻입니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "meeting new people은 새로운 사람 만나기, travel writer는 여행 작가이므로 우리말 해석이 정확히 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.37 (171쪽 Let's Read), p.38 (172쪽 Sentences 3)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "travel writer-meeting new people 의미 해석 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서연의 장래 희망 글을 읽고, 글의 내용과 일치하는 것을 고르세요.\n\n\"My name is Seoyeon. I like drawing pictures. I like reading picture books. I can design fun characters for my friends. I want to be a character designer.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서연이는 새로운 장소에 가는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서연이는 친구들을 위해 재미있는 캐릭터를 디자인할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서연이는 피아니스트가 되고 싶어 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서연이는 동물들과 노는 것을 좋아한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "글에서 \"I can design fun characters for my friends.\"라고 했으므로 친구들을 위해 재미있는 캐릭터를 디자인할 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.36 (170쪽 Let's Read 유형 응용)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "장래 희망 소개 글 세부 정보 독해(영어→한국어)"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q34",
+      "groupId": "eng5-ham-u12:g24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도윤의 글을 읽고, 빈칸에 들어갈 가장 알맞은 직업을 고르세요.\n\n\"I like playing the piano. I can play the piano very well. I want to play the piano as my job. I want to be a ________.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "travel writer"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "피아노 연주를 직업으로 삼고 싶다(I want to play the piano as my job.)고 명시했으므로 pianist가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.56 (190쪽 스스로 다지기 넷째 시간 유형 응용)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.2(RC4) REBUILD(from q27): 취미·능력만으로 장래 희망을 단정하던 비약을 해소하기 위해 \"I want to play the piano as my job.\" 직접 근거 추가"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q35",
+      "groupId": "eng5-ham-u12:g24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도윤의 글을 읽고, 빈칸에 들어갈 직업 이름을 영어로 말해 보세요.\n\n\"I like playing the piano. I can play the piano very well. I want to play the piano as my job. I want to be a ________.\""
+        }
+      ],
+      "answer": {
+        "text": "pianist"
+      },
+      "acceptedAnswers": [
+        "pianist",
+        "a pianist"
+      ],
+      "explanation": "피아노 연주를 직업으로 삼고 싶다고 명시했으므로 pianist입니다.",
+      "provenance": {
+        "locator": "PDF p.56 (190쪽 스스로 다지기 넷째 시간)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.2(RC4) REBUILD(from q28): UQ024 팀전 구두 변형, 직접 직업 의도 근거 추가"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민호의 글을 읽고, 민호가 잘할 수 있는 일과 되고 싶은 직업을 바르게 짝지은 것을 고르세요.\n\n\"I like going to new places. I like meeting new people. I can write stories very well. I want to be a travel writer.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이야기 쓰기 - 여행 작가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림 그리기 - 캐릭터 디자이너"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물 돌보기 - 동물 훈련사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학 실험하기 - 과학자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "\"I can write stories very well. I want to be a travel writer.\"에서 이야기를 잘 쓰고 여행 작가가 되고 싶음을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.37 (171쪽 Let's Read 유형 응용)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "I can ~ 능력과 장래 희망 통합 독해"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 Special 12(176쪽)의 대화를 읽고, 글의 내용과 일치하는 것을 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "아인슈타인",
+              "text": "I like playing the violin."
+            },
+            {
+              "speaker": "아인슈타인",
+              "text": "What do you want to be?"
+            },
+            {
+              "speaker": "친구",
+              "text": "I want to be a violinist."
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아인슈타인은 피아노 치는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아인슈타인은 바이올린 연주하는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구는 과학자가 되고 싶다고 말했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아인슈타인은 그림책 읽는 것을 좋아한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "교과서 176쪽 원문에서 아인슈타인은 \"I like playing the violin.\"이라고 말했으므로 바이올린 연주하는 것을 좋아합니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12 Into the History)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 12 아인슈타인 원문 발화 독해",
+        "revisionNote": "rev.2(RC4): 그림(job_violinist.webp)만으로 정답을 고르는 우회 현상을 방지하기 위해 이미지를 제거하고 순수 대화 독해로 개선"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q31",
+      "groupId": "eng5-ham-u12:g27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 직업에 알맞은 영어 표현을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_violinist.webp",
+          "alt": "활로 바이올린을 연주하는 바이올리니스트"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pianist"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scientist"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "violinist"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "designer"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "바이올린을 연주하는 사람은 영어로 violinist입니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 12 확장 직업 어휘 violinist 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q32",
+      "groupId": "eng5-ham-u12:g27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 직업이 자신의 장래 희망이라고 생각하고, I want to be a로 시작하는 영어 문장으로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/job_violinist.webp",
+          "alt": "활로 바이올린을 연주하는 바이올리니스트"
+        }
+      ],
+      "answer": {
+        "text": "I want to be a violinist."
+      },
+      "acceptedAnswers": [
+        "I want to be a violinist.",
+        "a violinist",
+        "violinist"
+      ],
+      "explanation": "바이올리니스트가 되고 싶다고 말할 때는 I want to be a violinist.라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ027 팀전 구두 변형",
+        "revisionNote": "rev.2(RC4): 그림의 직업이 장래 희망이라는 역할 상황 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u12:q33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽으면, 지훈이는 영상 보기와 책 읽기를 좋아하고 배우가 되고 싶어 한다는 것을 알 수 있습니다.\n\n\"My name is Jihun. I like watching videos. I like reading books. I want to be an actor.\""
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "watching videos(영상 보기), reading books(책 읽기), an actor(배우)가 우리말 설명과 정확히 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.39 (173쪽 Let's Write 유형 응용)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "장래 희망 소개 글 내용 일치 판별 OX(영어→한국어)"
+      }
+    }
+  ]
+}

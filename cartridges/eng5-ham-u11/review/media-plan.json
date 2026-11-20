@@ -1,0 +1,111 @@
+[
+  {
+    "src": "assets/act_drawing_pictures.webp",
+    "role": "그림 그리기(drawing pictures) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q17"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9806B), 몽타주 육안 검수 PASS: 이젤 그림 그리기 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/act_making_robots.webp",
+    "role": "로봇 만들기(making robots) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q16"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9406B), 몽타주 육안 검수 PASS: 로봇 조립 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/act_playing_music.webp",
+    "role": "음악 연주(playing music) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q18",
+      "eng5-ham-u11:q19"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9636B), 몽타주 육안 검수 PASS: 피아노 연주 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/act_playing_sports.webp",
+    "role": "운동하기(playing sports) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q20"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9606B), 몽타주 육안 검수 PASS: 축구하는 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/subj_art.webp",
+    "role": "미술(art) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q05",
+      "eng5-ham-u11:q06",
+      "eng5-ham-u11:q07",
+      "eng5-ham-u11:q15"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9768B), 몽타주 육안 검수 PASS: 팔레트·붓·이젤 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/subj_english.webp",
+    "role": "영어(English) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q01",
+      "eng5-ham-u11:q02",
+      "eng5-ham-u11:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9986B), 몽타주 육안 검수 PASS: ABC 교과서·공책 명확, 정답 단어 없음"
+  },
+  {
+    "src": "assets/subj_math.webp",
+    "role": "수학(math) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9172B), 몽타주 육안 검수 PASS: 1+2=3·사칙연산·도형 명확, 정답 단어 없음"
+  },
+  {
+    "src": "assets/subj_music.webp",
+    "role": "음악(music) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q05",
+      "eng5-ham-u11:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 12034B), 몽타주 육안 검수 PASS: 피아노·바이올린·음표 명확, 20KB 이하"
+  },
+  {
+    "src": "assets/subj_pe.webp",
+    "role": "체육(P.E.) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q04",
+      "eng5-ham-u11:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 10380B), 몽타주 육안 검수 PASS: 체육관·농구공·축구공·라켓 명확, 20KB 이하"
+  },
+  {
+    "src": "assets/subj_science.webp",
+    "role": "과학(science) 과목 시각화",
+    "questionIds": [
+      "eng5-ham-u11:q03",
+      "eng5-ham-u11:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9628B), 몽타주 육안 검수 PASS: 현미경·플라스크·시험관 명확, 텍스트 없음"
+  }
+]

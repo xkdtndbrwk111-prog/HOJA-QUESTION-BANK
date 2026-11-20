@@ -1,0 +1,175 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini AI (hoja-question-bank V0.3.0-rc4 REMASTER Lesson 12 rev.3)",
+  "teacherApproval": "PENDING",
+  "notes": "rev.3 최종 부분 개정: q23·q24를 동일 변형 묶음(g20)으로 통합(soloUnits 27→26), q17 현행 유지 및 심화 검수 기록 정밀화. rev.3 실게임·공통 렌더러 시험 미실행(NOT_RUN), 교사 승인 보류(PENDING).",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u12:q01",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q02",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q03",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.36 (170쪽), p.56 (190쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q04",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q05",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.31 (165쪽), p.34 (168쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q06",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.36~37 (170~171쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q07",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q08",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림(축구선수)과 장래 희망(want to be) 역할 상황을 발문에 명시"
+    },
+    {
+      "questionId": "eng5-ham-u12:q09",
+      "status": "PASS",
+      "evidence": "출처(PDF p.38 (172쪽 Ready to Write Words 5번), p.56 (190쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q10",
+      "status": "PASS",
+      "evidence": "출처(PDF p.38 (172쪽 Ready to Write Words 6번)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q11",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): q12와 동일한 What do you want to be? 의미 평가이므로 변형 묶음 g10으로 통합"
+    },
+    {
+      "questionId": "eng5-ham-u12:q12",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): q11과 동일한 What do you want to be? 의미 평가이므로 변형 묶음 g10으로 통합"
+    },
+    {
+      "questionId": "eng5-ham-u12:q13",
+      "status": "PASS",
+      "evidence": "출처(PDF p.41 (175쪽 My Work 4번)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q14",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽), p.35 (169쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q15",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림의 직업이 장래 희망이라는 역할 상황 명시"
+    },
+    {
+      "questionId": "eng5-ham-u12:q16",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Write 1번), p.35 (169쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q17",
+      "status": "PASS",
+      "evidence": "rev.3 KEEP 검수 PASS: 명사구 문법 정확성(관사 유무·a/an·단복수 일치) 평가 문항 현행 유지, 3지선다 조합별 실제 평가 내용을 rc3-review.json에 정밀 기술"
+    },
+    {
+      "questionId": "eng5-ham-u12:q18",
+      "status": "PASS",
+      "evidence": "출처(PDF p.35 (169쪽 Play 3 2번)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q19",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽), p.35 (169쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q20",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림 속 행동과 선호(like) 구분을 위해 발문에 조건 명시"
+    },
+    {
+      "questionId": "eng5-ham-u12:q21",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림으로 입증되는 행동 표현(reading picture books)만 묻도록 발문 수정"
+    },
+    {
+      "questionId": "eng5-ham-u12:q22",
+      "status": "PASS",
+      "evidence": "출처(PDF p.33 (167쪽 Talk Like This 2), p.38 (172쪽), p.56 (190쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q23",
+      "status": "PASS",
+      "evidence": "rev.3 IMPROVE 검수 PASS: 동일 어휘 관계(designer-drawing pictures) 평가 중복을 해소하기 위해 변형 묶음 g20(UQ020)으로 통합 완료"
+    },
+    {
+      "questionId": "eng5-ham-u12:q24",
+      "status": "PASS",
+      "evidence": "rev.3 IMPROVE 검수 PASS: 동일 어휘 관계(designer-drawing pictures) 평가 중복을 해소하기 위해 변형 묶음 g20(UQ020)으로 통합 완료"
+    },
+    {
+      "questionId": "eng5-ham-u12:q25",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37 (171쪽 Let's Read), p.38 (172쪽 Sentences 3)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q26",
+      "status": "PASS",
+      "evidence": "출처(PDF p.36 (170쪽 Let's Read 유형 응용)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q34",
+      "status": "PASS",
+      "evidence": "rev.2 REBUILD 검수 PASS: \"I want to play the piano as my job.\" 직접 근거 추가로 직업 추론 논리적 유일성 확보"
+    },
+    {
+      "questionId": "eng5-ham-u12:q35",
+      "status": "PASS",
+      "evidence": "rev.2 REBUILD 검수 PASS: \"I want to play the piano as my job.\" 직접 근거 추가로 직업 추론 논리적 유일성 확보"
+    },
+    {
+      "questionId": "eng5-ham-u12:q29",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37 (171쪽 Let's Read 유형 응용)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q30",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림(job_violinist.webp)만으로 정답을 고르는 우회 현상을 방지하기 위해 이미지를 제거하고 순수 대화 독해로 개선"
+    },
+    {
+      "questionId": "eng5-ham-u12:q31",
+      "status": "PASS",
+      "evidence": "출처(PDF p.42 (176쪽 Special 12)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u12:q32",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림의 직업이 장래 희망이라는 역할 상황 명시"
+    },
+    {
+      "questionId": "eng5-ham-u12:q33",
+      "status": "PASS",
+      "evidence": "출처(PDF p.39 (173쪽 Let's Write 유형 응용)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    }
+  ]
+}

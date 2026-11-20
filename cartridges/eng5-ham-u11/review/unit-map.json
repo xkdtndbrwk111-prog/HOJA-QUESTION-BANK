@@ -1,0 +1,17 @@
+{
+  "source": {
+    "id": "chunjae-eng5-ham-2026-pdf-excerpt",
+    "title": "초등학교 영어 5 (함순애 외 9인)",
+    "publisher": "(주)천재교과서",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+    "pdfFile": "초_영어5(함순애)_교과서.pdf",
+    "pdfTotalPages": 66
+  },
+  "units": [
+    {"id": "U001", "title": "Lesson 10 What Time Do You Get Up?", "printedStart": "135", "printedEnd": "148", "pdfStart": 1, "pdfEnd": 14},
+    {"id": "U002", "title": "Lesson 11 My Favorite Subject Is Math", "printedStart": "149", "printedEnd": "162", "pdfStart": 15, "pdfEnd": 28, "supplementPages": [{"label": "스스로 다지기 Lesson 11", "printedPage": "189", "pdfPage": 55}, {"label": "붙임딱지 Lesson 11 Words", "printedPage": "199", "pdfPage": 65}]},
+    {"id": "U003", "title": "Lesson 12 What Do You Want to Be?", "printedStart": "163", "printedEnd": "176", "pdfStart": 29, "pdfEnd": 42, "supplementPages": [{"label": "스스로 다지기 Lesson 12", "printedPage": "190", "pdfPage": 56}, {"label": "붙임딱지 Lesson 12 Words", "printedPage": "199", "pdfPage": 65}]},
+    {"id": "R002", "title": "Review 2 (Lessons 7~12)", "printedStart": "177", "printedEnd": "178", "pdfStart": 43, "pdfEnd": 44}
+  ],
+  "currentUnit": "U002"
+}

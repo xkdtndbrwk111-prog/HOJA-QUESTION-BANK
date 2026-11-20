@@ -1,0 +1,347 @@
+[
+  {
+    "unitId": "UQ001",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q01",
+      "eng5-ham-u12:q02"
+    ],
+    "assessment": "actor 직업 그림-영어 연결 및 구두 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "무대·카메라 앞 배우 그림을 보고 actor 선택/구두 응답",
+    "distinctReason": "핵심 직업 actor 시각 식별"
+  },
+  {
+    "unitId": "UQ002",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q03"
+    ],
+    "assessment": "designer 직업 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "태블릿으로 캐릭터 그리는 그림 보고 designer 선택",
+    "distinctReason": "핵심 직업 designer 시각 식별"
+  },
+  {
+    "unitId": "UQ003",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q04"
+    ],
+    "assessment": "scientist 직업 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "실험복·현미경 그림 보고 scientist 선택",
+    "distinctReason": "핵심 직업 scientist 시각 식별"
+  },
+  {
+    "unitId": "UQ004",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q05"
+    ],
+    "assessment": "animal trainer 영어→그림 역방향 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "animal trainer를 보고 4개 직업 그림 중 훈련사 선택",
+    "distinctReason": "영어→그림 역방향 매칭(animal trainer)"
+  },
+  {
+    "unitId": "UQ005",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q06"
+    ],
+    "assessment": "travel writer 문장→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "I want to be a travel writer.에 맞는 그림 선택",
+    "distinctReason": "문장 맥락 속 travel writer 의미 파악"
+  },
+  {
+    "unitId": "UQ006",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q07"
+    ],
+    "assessment": "pianist와 soccer player 대조 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "피아니스트 그림에 soccer player를 제시한 거짓 OX",
+    "distinctReason": "pianist와 soccer player 어휘 구분"
+  },
+  {
+    "unitId": "UQ007",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q08"
+    ],
+    "assessment": "soccer player 그림→장래 희망 문장 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "축구선수 그림을 보고 알맞은 영어 문장 선택",
+    "distinctReason": "핵심 직업 soccer player 문장 적용"
+  },
+  {
+    "unitId": "UQ008",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q09"
+    ],
+    "assessment": "scientist 바른 철자 판별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "sientist/scientest/scientist/scentist 중 바른 철자 선택",
+    "distinctReason": "scientist 빈발 철자 오류 구별"
+  },
+  {
+    "unitId": "UQ009",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q10"
+    ],
+    "assessment": "designer 철자 빈칸 완성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.172 _esig_er 빈칸 알파벳 짝 선택",
+    "distinctReason": "designer 핵심 철자(d, n) 완성"
+  },
+  {
+    "unitId": "UQ010",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q11",
+      "eng5-ham-u12:q12"
+    ],
+    "assessment": "장래 희망 묻기 의문문(What do you want to be?)의 상황 선택 및 의미 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "한국어 상황→영어 의문문 MCQ(q11) 및 의문문 뜻 일치 OX(q12) 변형 묶음(g10)",
+    "distinctReason": "What do you want to be?와 타 단원 의문문 구별"
+  },
+  {
+    "unitId": "UQ012",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q13"
+    ],
+    "assessment": "장래 희망 응답 문장 어순 배열",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 My Work 4번 낱말 배열(I want to be an animal trainer.)",
+    "distinctReason": "I want to be + 직업 어순 구성"
+  },
+  {
+    "unitId": "UQ013",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q14",
+      "eng5-ham-u12:q15"
+    ],
+    "assessment": "want to be 구문 선택 및 그림 기반 구두 응답",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I want ___ a pianist. 빈칸 및 피아니스트 그림 구두 응답",
+    "distinctReason": "want to be 구조 정확성 및 구두 산출"
+  },
+  {
+    "unitId": "UQ014",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q16"
+    ],
+    "assessment": "부정관사 an과 결합하는 직업 선택",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I want to be an ___. 빈칸에 actor 선택",
+    "distinctReason": "모음 시작 직업 앞 an 결합 규칙"
+  },
+  {
+    "unitId": "UQ015",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q17",
+      "eng5-ham-u12:q18"
+    ],
+    "assessment": "animal trainer 앞 부정관사 an 선택 및 구두 산출",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I want to be ___ animal trainer. 빈칸",
+    "distinctReason": "a/an/to/at 중 부정관사 an 정확 선택"
+  },
+  {
+    "unitId": "UQ016",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q19"
+    ],
+    "assessment": "자음 시작 직업 앞 a/an 오용 판별 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I want to be an scientist. 오류 판별 OX",
+    "distinctReason": "자음 시작 직업(scientist) 앞 an 오용 구별"
+  },
+  {
+    "unitId": "UQ017",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q20"
+    ],
+    "assessment": "going to new places 그림→영어 문장 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "여행 사진 촬영 그림 보고 알맞은 I like 문장 선택",
+    "distinctReason": "going to new places 시각 의미 식별"
+  },
+  {
+    "unitId": "UQ018",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q21"
+    ],
+    "assessment": "reading picture books 그림-영어 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "그림책 읽는 어린이 그림 보고 어구 선택",
+    "distinctReason": "reading picture books 시각 의미 식별"
+  },
+  {
+    "unitId": "UQ019",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q22"
+    ],
+    "assessment": "I like 뒤 동명사(-ing) 형태 선택",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I like ___ the piano. (play/plays/playing/played)",
+    "distinctReason": "I like + 동명사 형태 정확성"
+  },
+  {
+    "unitId": "UQ020",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q23",
+      "eng5-ham-u12:q24"
+    ],
+    "assessment": "직업(designer)과 업무 관련 활동(drawing pictures)의 어휘 연결 이해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "문장 완성형(q23)과 짝짓기형(q24)으로 designer - drawing pictures 어휘 관계를 평가하는 단일 변형 묶음(g20)",
+    "distinctReason": "동일한 designer-drawing pictures 어휘 관계 평가 문항 2개를 하나의 독립 출제 단위로 통합해 중복 배제"
+  },
+  {
+    "unitId": "UQ022",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q25"
+    ],
+    "assessment": "travel writer-meeting new people 의미 해석 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "영어 두 문장과 우리말 해석 일치 여부 판별",
+    "distinctReason": "meeting new people·travel writer 통합 의미 이해"
+  },
+  {
+    "unitId": "UQ023",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q26"
+    ],
+    "assessment": "장래 희망 소개 글 세부 정보 일치 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 서연 글 읽고 일치하는 한국어 보기 선택",
+    "distinctReason": "I can ~ 포함 다문장 소개 글 독해"
+  },
+  {
+    "unitId": "UQ024",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q34",
+      "eng5-ham-u12:q35"
+    ],
+    "assessment": "활동·능력 단서로 장래 희망 빈칸 추론",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "도윤 글의 \"I want to play the piano as my job.\" 직접 근거로 pianist 추론(MCQ+SHORT)",
+    "distinctReason": "글 맥락 기반 장래 희망 추론 능력"
+  },
+  {
+    "unitId": "UQ025",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q29"
+    ],
+    "assessment": "소개 글 속 능력과 장래 희망 통합 파악",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 민호 글 읽고 능력-직업 짝 선택",
+    "distinctReason": "write stories와 travel writer 연결 독해"
+  },
+  {
+    "unitId": "UQ026",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q30"
+    ],
+    "assessment": "Special 12 아인슈타인 원문 발화 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.176 원문 대화(이미지 제외) 읽고 일치 내용 선택",
+    "distinctReason": "Special 12 원문 표현 정확한 독해"
+  },
+  {
+    "unitId": "UQ027",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q31",
+      "eng5-ham-u12:q32"
+    ],
+    "assessment": "Special 12 확장 직업 violinist 그림-영어 연결 및 구두 산출",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "바이올리니스트 그림 보고 violinist 선택/문장 말하기",
+    "distinctReason": "확장 직업 어휘 violinist 이해 및 산출"
+  },
+  {
+    "unitId": "UQ028",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u12:q33"
+    ],
+    "assessment": "장래 희망 소개 글 내용 일치 판별 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 지훈 글과 우리말 요약 일치 판별",
+    "distinctReason": "watching videos·reading books·actor 통합 독해 OX"
+  }
+]

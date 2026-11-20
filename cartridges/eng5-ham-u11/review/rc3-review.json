@@ -1,0 +1,1825 @@
+{
+  "version": "39b312e032acdbf9111a35bbb319e36fca7bd0d88215a941d4188eb112e5888e",
+  "reviewer": "Gemini AI (hoja-question-bank V0.3.0-rc4 REMASTER Lesson 11 rev.3); GPT 감독 rev.4 수정 검수",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u11:q01",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q01(MCQ): 출처(PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q01: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q01: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q01: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(English): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(science): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(art): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "math 제외 시 정답(English) + 남은 오답(science, art) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "science 제외 시 정답(English) + 남은 오답(math, art) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "art 제외 시 정답(English) + 남은 오답(math, science) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q02",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q02(SHORT): 출처(PDF p.15 (149쪽)) 대조 결과 정답 유일성 확인, 허용 구두 답안(English, english) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q02: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q02: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q02: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q03",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q03(MCQ): 출처(PDF p.15 (149쪽), p.16 (150쪽), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q03: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q03: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q03: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(science): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(music): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(P.E.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "music 제외 시 정답(science) + 남은 오답(P.E., math) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "P.E. 제외 시 정답(science) + 남은 오답(music, math) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "math 제외 시 정답(science) + 남은 오답(music, P.E.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q04",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q04(MCQ): 출처(PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q04: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q04: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q04: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(art): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(English): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(P.E.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(music): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "art 제외 시 정답(P.E.) + 남은 오답(English, music) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "English 제외 시 정답(P.E.) + 남은 오답(art, music) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "music 제외 시 정답(P.E.) + 남은 오답(art, English) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q05",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q05(MCQ): 출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q05: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q05: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q05: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_art.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_music.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_science.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(assets/subj_math.webp): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/subj_art.webp 제외 시 정답(assets/subj_math.webp) + 남은 오답(assets/subj_music.webp, assets/subj_science.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "assets/subj_music.webp 제외 시 정답(assets/subj_math.webp) + 남은 오답(assets/subj_art.webp, assets/subj_science.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/subj_science.webp 제외 시 정답(assets/subj_math.webp) + 남은 오답(assets/subj_art.webp, assets/subj_music.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q06",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q06(MCQ): 출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q06: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q06: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q06: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_pe.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(assets/subj_music.webp): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_english.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(assets/subj_art.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/subj_pe.webp 제외 시 정답(assets/subj_music.webp) + 남은 오답(assets/subj_english.webp, assets/subj_art.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/subj_english.webp 제외 시 정답(assets/subj_music.webp) + 남은 오답(assets/subj_pe.webp, assets/subj_art.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "assets/subj_art.webp 제외 시 정답(assets/subj_music.webp) + 남은 오답(assets/subj_pe.webp, assets/subj_english.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q07",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q07(OX): 출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q07: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q07: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q07: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q08",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q08(MCQ): 출처(PDF p.24 (158쪽 Ready to Write Words 5번), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q08: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q08: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q08: 활성 의도 ['I002'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(sience): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(scince): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(science): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(sceince): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "sience 제외 시 정답(science) + 남은 오답(scince, sceince) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "scince 제외 시 정답(science) + 남은 오답(sience, sceince) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "sceince 제외 시 정답(science) + 남은 오답(sience, scince) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q09",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q09(OX): 출처(PDF p.15 (149쪽), p.24 (158쪽), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q09: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q09: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q09: 활성 의도 ['I002'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q10",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q10(MCQ): 출처(PDF p.24 (158쪽 Ready to Write Words 2번)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q10: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q10: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q10: 활성 의도 ['I002'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(g - h): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(j - h): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(g - k): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(c - h): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "j - h 제외 시 정답(g - h) + 남은 오답(g - k, c - h) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "g - k 제외 시 정답(g - h) + 남은 오답(j - h, c - h) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c - h 제외 시 정답(g - h) + 남은 오답(j - h, g - k) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q11",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q11(MCQ): 출처(PDF p.20 (154쪽), p.21 (155쪽), p.26 (160쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q11: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q11: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q11: 활성 의도 ['I003'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(What's your favorite food?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(What's your favorite color?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(What's your favorite subject?): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(What time do you go to school?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "What's your favorite food? 제외 시 정답(What's your favorite subject?) + 남은 오답(What's your favorite color?, What time do you go to school?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "What's your favorite color? 제외 시 정답(What's your favorite subject?) + 남은 오답(What's your favorite food?, What time do you go to school?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "What time do you go to school? 제외 시 정답(What's your favorite subject?) + 남은 오답(What's your favorite food?, What's your favorite color?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q12",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q12(MCQ): 출처(PDF p.20 (154쪽), p.22 (156쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q12: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q12: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q12: 활성 의도 ['I003'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(good): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(favorite): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(music): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(color): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "good 제외 시 정답(favorite) + 남은 오답(music, color) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "music 제외 시 정답(favorite) + 남은 오답(good, color) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "color 제외 시 정답(favorite) + 남은 오답(good, music) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q13",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q13(MCQ): 출처(PDF p.15 (149쪽), p.20 (154쪽), p.21 (155쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q13: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q13: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q13: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(My favorite subject is math.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(My favorite is math subject.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Subject my favorite is math.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Math my favorite subject is.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "My favorite is math subject. 제외 시 정답(My favorite subject is math.) + 남은 오답(Subject my favorite is math., Math my favorite subject is.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Subject my favorite is math. 제외 시 정답(My favorite subject is math.) + 남은 오답(My favorite is math subject., Math my favorite subject is.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Math my favorite subject is. 제외 시 정답(My favorite subject is math.) + 남은 오답(My favorite is math subject., Subject my favorite is math.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q14",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q14(MCQ): 출처(PDF p.20 (154쪽), p.24 (158쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q14: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q14: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q14: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(am): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(are): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(is): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(do): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "am 제외 시 정답(is) + 남은 오답(are, do) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "are 제외 시 정답(is) + 남은 오답(am, do) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "do 제외 시 정답(is) + 남은 오답(am, are) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q15",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q15(SHORT): 출처(PDF p.20 (154쪽 Read and Talk)) 대조 결과 정답 유일성 확인, 허용 구두 답안(My favorite subject is art., art, Art) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q15: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q15: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q15: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q16",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q16(MCQ): 출처(PDF p.21 (155쪽), p.22~23 (156~157쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q16: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q16: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q16: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(I'm good at drawing pictures.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I'm good at playing sports.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(I'm good at making robots.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I'm good at playing music.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "I'm good at drawing pictures. 제외 시 정답(I'm good at making robots.) + 남은 오답(I'm good at playing sports., I'm good at playing music.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I'm good at playing sports. 제외 시 정답(I'm good at making robots.) + 남은 오답(I'm good at drawing pictures., I'm good at playing music.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I'm good at playing music. 제외 시 정답(I'm good at making robots.) + 남은 오답(I'm good at drawing pictures., I'm good at playing sports.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q17",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q17(MCQ): 출처(PDF p.21 (155쪽), p.22 (156쪽), p.27 (161쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q17: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q17: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q17: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(doing math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(drawing pictures): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(speaking English): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(making robots): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "doing math 제외 시 정답(drawing pictures) + 남은 오답(speaking English, making robots) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "speaking English 제외 시 정답(drawing pictures) + 남은 오답(doing math, making robots) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "making robots 제외 시 정답(drawing pictures) + 남은 오답(doing math, speaking English) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q18",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q18(MCQ): 출처(PDF p.19 (153쪽 Talk Like This 2), p.21 (155쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q18: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q18: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q18: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(playing music): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(playing sports): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(doing math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(drawing pictures): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "playing sports 제외 시 정답(playing music) + 남은 오답(doing math, drawing pictures) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "doing math 제외 시 정답(playing music) + 남은 오답(playing sports, drawing pictures) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "drawing pictures 제외 시 정답(playing music) + 남은 오답(playing sports, doing math) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q19",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q19(SHORT): 출처(PDF p.19 (153쪽 Talk Like This 2)) 대조 결과 정답 유일성 확인, 허용 구두 답안(I'm good at playing music., I am good at playing music., playing music) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q19: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q19: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q19: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q20",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q20(OX): 출처(PDF p.21 (155쪽), p.22 (156쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q20: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q20: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q20: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q21",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q21(MCQ): 출처(PDF p.21 (155쪽 Play 3)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q21: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q21: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q21: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(doing math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(speaking English): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(drawing pictures): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(playing sports): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "doing math 제외 시 정답(playing sports) + 남은 오답(speaking English, drawing pictures) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "speaking English 제외 시 정답(playing sports) + 남은 오답(doing math, drawing pictures) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "drawing pictures 제외 시 정답(playing sports) + 남은 오답(doing math, speaking English) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q22",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q22(MCQ): 출처(PDF p.21 (155쪽 Play 3), p.24 (158쪽 Sentences 3)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q22: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q22: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q22: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(art - drawing pictures): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(math - playing sports): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(P.E. - doing math): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(music - speaking English): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "math - playing sports 제외 시 정답(art - drawing pictures) + 남은 오답(P.E. - doing math, music - speaking English) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "P.E. - doing math 제외 시 정답(art - drawing pictures) + 남은 오답(math - playing sports, music - speaking English) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "music - speaking English 제외 시 정답(art - drawing pictures) + 남은 오답(math - playing sports, P.E. - doing math) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q23",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q23(OX): 출처(PDF p.21 (155쪽), p.24 (158쪽), p.26 (160쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q23: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q23: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q23: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q24",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q24(MCQ): 출처(PDF p.19 (153쪽), p.21 (155쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q24: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q24: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q24: 활성 의도 ['I007'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(in): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(at): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(on): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(to): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "in 제외 시 정답(at) + 남은 오답(on, to) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "on 제외 시 정답(at) + 남은 오답(in, to) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "to 제외 시 정답(at) + 남은 오답(in, on) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q25",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q25(SHORT): 출처(PDF p.19 (153쪽), p.21 (155쪽)) 대조 결과 정답 유일성 확인, 허용 구두 답안(at) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q25: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q25: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q25: 활성 의도 ['I007'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q26",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q26(MCQ): 출처(PDF p.21 (155쪽), p.23 (157쪽), p.24 (158쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q26: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q26: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q26: 활성 의도 ['I007'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(make): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(makes): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(making): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(to make): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "make 제외 시 정답(making) + 남은 오답(makes, to make) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "makes 제외 시 정답(making) + 남은 오답(make, to make) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "to make 제외 시 정답(making) + 남은 오답(make, makes) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q27",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q27(MCQ): 출처(PDF p.25 (159쪽 Let's Write), p.55 (189쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q27: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q27: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q27: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(My favorite food is pizza.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(My favorite color is blue.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(My favorite subject is math.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(My favorite color is pink.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "My favorite food is pizza. 제외 시 정답(My favorite color is blue.) + 남은 오답(My favorite subject is math., My favorite color is pink.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "My favorite subject is math. 제외 시 정답(My favorite color is blue.) + 남은 오답(My favorite food is pizza., My favorite color is pink.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "My favorite color is pink. 제외 시 정답(My favorite color is blue.) + 남은 오답(My favorite food is pizza., My favorite subject is math.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q28",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q28(MCQ): 출처(PDF p.23 (157쪽 Let's Read)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q28: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q28: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q28: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(이것들은 내가 가장 좋아하는 것들이야.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(이것은 내가 가장 좋아하는 과목이야.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(나는 로봇 만들기를 가장 잘해.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(네가 가장 좋아하는 음식은 무엇이니?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "이것은 내가 가장 좋아하는 과목이야. 제외 시 정답(이것들은 내가 가장 좋아하는 것들이야.) + 남은 오답(나는 로봇 만들기를 가장 잘해., 네가 가장 좋아하는 음식은 무엇이니?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "나는 로봇 만들기를 가장 잘해. 제외 시 정답(이것들은 내가 가장 좋아하는 것들이야.) + 남은 오답(이것은 내가 가장 좋아하는 과목이야., 네가 가장 좋아하는 음식은 무엇이니?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "네가 가장 좋아하는 음식은 무엇이니? 제외 시 정답(이것들은 내가 가장 좋아하는 것들이야.) + 남은 오답(이것은 내가 가장 좋아하는 과목이야., 나는 로봇 만들기를 가장 잘해.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q29",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q29(MCQ): 출처(PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q29: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q29: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q29: 활성 의도 ['I009'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(하린이가 가장 좋아하는 음식은 피자이다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(하린이가 가장 좋아하는 색깔은 파란색이다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(하린이가 가장 좋아하는 과목은 과학이다.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(하린이는 그림 그리기를 잘한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "하린이가 가장 좋아하는 음식은 피자이다. 제외 시 정답(하린이가 가장 좋아하는 과목은 과학이다.) + 남은 오답(하린이가 가장 좋아하는 색깔은 파란색이다., 하린이는 그림 그리기를 잘한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "하린이가 가장 좋아하는 색깔은 파란색이다. 제외 시 정답(하린이가 가장 좋아하는 과목은 과학이다.) + 남은 오답(하린이가 가장 좋아하는 음식은 피자이다., 하린이는 그림 그리기를 잘한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "하린이는 그림 그리기를 잘한다. 제외 시 정답(하린이가 가장 좋아하는 과목은 과학이다.) + 남은 오답(하린이가 가장 좋아하는 음식은 피자이다., 하린이가 가장 좋아하는 색깔은 파란색이다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q36",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "지문의 \"My favorite subject is art.\"와 \"I'm good at drawing pictures.\"가 c2(미술을 가장 좋아하고 그림 그리기를 잘한다.)를 유일하게 확정한다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "My favorite subject is art. 및 I'm good at drawing pictures.가 정답의 두 정보 근거. 다른 과목/활동 조합은 적어도 하나가 불일치."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "영어 지문/한국어 보기, 네 보기 모두 과목과 잘하는 활동의 두 진술로 구성. 정답만 길거나 두 정보를 포함하는 형태 단서 제거. c3 제외 시 과목 이해만으로 판별 가능하므로 복합 정보 전수 평가를 주장하지 않음."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I009(좋아하는 것 소개 글 세부 정보 독해)에 직접 부합하며 배경지식이나 과목-활동 억지 추론을 요구하지 않는다."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "수학은 art와 불일치, 그림 그리기는 일치."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "art 및 drawing pictures 두 정보 모두 일치."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "미술은 일치, 로봇 만들기는 drawing pictures와 불일치."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "과학은 art와 불일치, 그림 그리기는 일치."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c2/c3/c4: 미술은 c2,c3, 그림 그리기는 c2,c4에 공통. 두 정보 비교 필요."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c1/c2/c4: 활동은 모두 동일하므로 과목 의미 이해로 판별. 영어 독해는 유지되나 두 속성 동시 평가는 아님."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c1/c2/c3: 미술은 c2,c3, 그림 그리기는 c1,c2에 공통. 두 정보 비교 필요."
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q37",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "지문의 \"My favorite subject is art.\"와 \"I'm good at drawing pictures.\"에서 정답 \"미술, 그림 그리기\"(허용 답안: 미술과 그림 그리기 등)가 유일하게 도출된다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "선호 과목(art)과 잘하는 활동(drawing pictures) 모두 지문에 직접 명시되어 추론 비약이 없다."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "영어 지문을 읽고 우리말로 구두 산출하는 형식이므로 영어 단어 문자열을 그대로 베껴 답하는 우회가 불가능하다."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I009 자기소개 글 독해 목표를 팀전 구두 평가 형식에 맞게 평가한다."
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u11:q32",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "문항에 제시된 영어 두 문장 의미와 c2만 일치. 원문 출처는 Gemini 제출 기록이며 GPT 독립 PDF 대조는 하지 않음."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "율곡 인물 배경지식을 전혀 요구하지 않고 문항에 직접 인용한 두 영어 발화만으로 정답과 오답이 완전히 판별된다."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "이미지 없는 순수 독해 문항이며 영어→한국어 교차표현이다. 오답 c1·c4가 모두 \"미술을 가장 좋아함\"을 포함하므로 art 한 단어만으로 정답을 찍는 우회가 차단된다."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I009 의미 이해에 해당. q36/q37과 핵심 발화 및 응답 내용이 같아 g26으로 통합."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(미술을 가장 좋아하지만 그림 그리기는 잘하지 못한다.): 첫 문장(art)은 맞으나 둘째 문장 \"I'm good at drawing pictures.\"를 부정해 틀림."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(미술을 가장 좋아하고 그림 그리기를 잘한다.): 원문 두 발화의 긍정 의미와 모두 정확히 일치."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(그림 그리기는 잘하지만 미술은 좋아하지 않는다.): 둘째 문장(drawing pictures)은 맞으나 첫 문장 \"My favorite subject is art.\"를 부정해 틀림."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(미술을 가장 좋아하고 로봇 만들기를 잘한다.): 첫 문장(art)은 맞으나 둘째 문장의 활동(drawing pictures≠로봇 만들기)이 틀림."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1 제외 시 {c2(미술O·그림O), c3(그림O·미술X), c4(미술O·로봇X)}: 미술 선호는 c2·c4에, 그림 잘함은 c2·c3에 공통 존재하므로 반드시 두 문장을 모두 이해해야 c2를 확정한다."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외 시 {c2(미술O·그림O), c1(미술O·그림X), c4(미술O·로봇X)}: 세 보기 모두 미술 선호를 포함하므로 art 단독 우회가 불가하며 둘째 문장(I'm good at drawing pictures.)의 긍정·활동 의미를 정확히 파악해야 한다."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외 시 {c2(미술O·그림O), c1(미술O·그림X), c3(그림O·미술X)}: 미술 선호는 c2·c1에, 그림 잘함은 c2·c3에 공통 존재하므로 반드시 두 문장을 모두 이해해야 c2를 확정한다."
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u11:q33",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q33(OX): 출처(PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q33: 문항 내 텍스트·그림에 정답 도출에 필요한 충분한 근거 제시, 관찰 사실과 선호·능력 조건 구분 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q33: 이미지 없는 텍스트 문항으로 이미지 우회 해당 없음, 문자열 복사 및 형태 단서 차단 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u11:q33: 활성 의도 ['I009'] 및 2022 개정 초5 영어 Lesson 11 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    }
+  ],
+  "units": [
+    {
+      "unitId": "UQ001",
+      "status": "PASS",
+      "evidence": "UQ001(eng5-ham-u11:q01, eng5-ham-u11:q02): 핵심 과목 English 시각 식별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ002",
+      "status": "PASS",
+      "evidence": "UQ002(eng5-ham-u11:q03): 핵심 과목 science 시각 식별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ003",
+      "status": "PASS",
+      "evidence": "UQ003(eng5-ham-u11:q04): 핵심 과목 P.E. 시각 식별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ004",
+      "status": "PASS",
+      "evidence": "UQ004(eng5-ham-u11:q05): 영어→그림 역방향 매칭(math) — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ005",
+      "status": "PASS",
+      "evidence": "UQ005(eng5-ham-u11:q06): 문장 맥락 속 music 의미 파악 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ006",
+      "status": "PASS",
+      "evidence": "UQ006(eng5-ham-u11:q07): art와 science 어휘 구분 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ007",
+      "status": "PASS",
+      "evidence": "UQ007(eng5-ham-u11:q08): science 빈발 철자 오류 구별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ008",
+      "status": "PASS",
+      "evidence": "UQ008(eng5-ham-u11:q09): 고유어·약자 대문자 표기 정확성 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ009",
+      "status": "PASS",
+      "evidence": "UQ009(eng5-ham-u11:q10): English 핵심 철자(g, h) 완성 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ010",
+      "status": "PASS",
+      "evidence": "UQ010(eng5-ham-u11:q11): subject/food/color/time 의문문 구별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ011",
+      "status": "PASS",
+      "evidence": "UQ011(eng5-ham-u11:q12): favorite 어휘 의미와 문장 위치 이해 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ012",
+      "status": "PASS",
+      "evidence": "UQ012(eng5-ham-u11:q13): My favorite subject is ~ 어순 구성 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ013",
+      "status": "PASS",
+      "evidence": "UQ013(eng5-ham-u11:q14, eng5-ham-u11:q15): 단수 주어 be동사 일치 및 문장 산출 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ014",
+      "status": "PASS",
+      "evidence": "UQ014(eng5-ham-u11:q16): making robots 표현 의미 연결 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ015",
+      "status": "PASS",
+      "evidence": "UQ015(eng5-ham-u11:q17): drawing pictures 시각 의미 식별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ016",
+      "status": "PASS",
+      "evidence": "UQ016(eng5-ham-u11:q18, eng5-ham-u11:q19): playing music 표현 이해 및 산출 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ017",
+      "status": "PASS",
+      "evidence": "UQ017(eng5-ham-u11:q20): playing sports 의미와 그림 일치 확인 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ018",
+      "status": "PASS",
+      "evidence": "UQ018(eng5-ham-u11:q21): 과목(P.E.)-활동(playing sports) 의미 연결 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ019",
+      "status": "PASS",
+      "evidence": "UQ019(eng5-ham-u11:q22): 여러 과목과 활동 어구의 의미 대응 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ020",
+      "status": "PASS",
+      "evidence": "UQ020(eng5-ham-u11:q23): doing math 표현의 정확한 의미 이해 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ021",
+      "status": "PASS",
+      "evidence": "UQ021(eng5-ham-u11:q24, eng5-ham-u11:q25): 전치사 at과 in/on/to 구별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ022",
+      "status": "PASS",
+      "evidence": "UQ022(eng5-ham-u11:q26): 전치사 뒤 동명사 형태 정확성 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ023",
+      "status": "PASS",
+      "evidence": "UQ023(eng5-ham-u11:q27): favorite color와 food/subject 구별 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ024",
+      "status": "PASS",
+      "evidence": "UQ024(eng5-ham-u11:q28): 복수 지시어·favorite things 의미 파악 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ025",
+      "status": "PASS",
+      "evidence": "UQ025(eng5-ham-u11:q29): 다문장 소개 글 세부 사실 독해 — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ026",
+      "status": "PASS",
+      "evidence": "q32/q36/q37 모두 art 선호와 drawing pictures 능력을 의미 대응으로 평가. 원문/창작 및 객관식/구두 차이는 독립 단위로 세지 않고 g26 하나로 관리."
+    },
+    {
+      "unitId": "UQ028",
+      "status": "PASS",
+      "evidence": "UQ028(eng5-ham-u11:q33): 음악 과목·활동 포함 글의 통합 독해 OX — 타 단위와 평가 목표·자료·기능이 겹치지 않는 독립 출제 단위"
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/act_drawing_pictures.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9806B), 몽타주 육안 검수 PASS: 이젤 그림 그리기 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/act_making_robots.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9406B), 몽타주 육안 검수 PASS: 로봇 조립 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/act_playing_music.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9636B), 몽타주 육안 검수 PASS: 피아노 연주 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/act_playing_sports.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x319, 9606B), 몽타주 육안 검수 PASS: 축구하는 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_art.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9768B), 몽타주 육안 검수 PASS: 팔레트·붓·이젤 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_english.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9986B), 몽타주 육안 검수 PASS: ABC 교과서·공책 명확, 정답 단어 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_math.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9172B), 몽타주 육안 검수 PASS: 1+2=3·사칙연산·도형 명확, 정답 단어 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_music.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 12034B), 몽타주 육안 검수 PASS: 피아노·바이올린·음표 명확, 20KB 이하 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_pe.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 10380B), 몽타주 육안 검수 PASS: 체육관·농구공·축구공·라켓 명확, 20KB 이하 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/subj_science.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9628B), 몽타주 육안 검수 PASS: 현미경·플라스크·시험관 명확, 텍스트 없음 | 장면이 입증하는 범위(과목/행동 시각화) 내에서만 사용, 선호·능력은 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {"id": "C001", "focus": "핵심 과목 어휘 6개: English, science, P.E., music, math, art", "evidence": "단원 도입 Words 6개 및 붙임딱지, 3~5차시·스스로 다지기 반복 학습", "locator": "PDF p.15 (149쪽), p.20 (154쪽), p.24 (158쪽), p.55 (189쪽), p.65 (199쪽)"},
+  {"id": "C002", "focus": "과목 어휘 철자 및 대문자 표기 규칙 (English, P.E., science, music, math, art)", "evidence": "5차시 Ready to Write Words 철자 빈칸 완성(_rt, En_lis_, _ath, P._., s_ie_ce, mu_ic)", "locator": "PDF p.24 (158쪽), p.55 (189쪽)"},
+  {"id": "C003", "focus": "좋아하는 과목 묻기 의문문: What's your favorite subject?", "evidence": "1~3차시, 6차시 노래, My Work에서 좋아하는 과목을 묻는 핵심 의문문", "locator": "PDF p.20 (154쪽), p.21 (155쪽), p.22 (156쪽), p.26 (160쪽)"},
+  {"id": "C004", "focus": "좋아하는 과목 답하기 문장: My favorite subject is [과목].", "evidence": "단원 제목 및 2~6차시 핵심 응답 구문", "locator": "PDF p.15 (149쪽), p.19 (153쪽), p.20 (154쪽), p.23 (157쪽), p.25 (159쪽)"},
+  {"id": "C005", "focus": "잘하는 것 표현하기 구문: I'm good at [동명사구].", "evidence": "2차시 Talk Like This 'I'm good at playing music.', 3~6차시 핵심 기능", "locator": "PDF p.18~19 (152~153쪽), p.21 (155쪽), p.23~27 (157~161쪽)"},
+  {"id": "C006", "focus": "잘하는 활동 어구 6개와 과목의 의미 연결 (doing math, playing music, drawing pictures, speaking English, making robots, playing sports)", "evidence": "3차시 Play 3 주사위 놀이판에서 과목과 어울리는 활동 6쌍 연결", "locator": "PDF p.21 (155쪽), p.22 (156쪽), p.24 (158쪽), p.26 (160쪽)"},
+  {"id": "C007", "focus": "좋아하는 음식·색깔 확장 표현: My favorite food/color is ~., What's your favorite food/color?", "evidence": "4~5차시 Naru·Minsu·Sojin·Luna 자기소개 글과 설문지", "locator": "PDF p.22~23 (156~157쪽), p.25 (159쪽), p.27 (161쪽), p.55 (189쪽)"},
+  {"id": "C008", "focus": "좋아하는 것 소개 글 읽고 세부 정보(음식·색깔·과목·잘하는 것) 파악 및 빈칸 추론", "evidence": "4차시 After You Read 생각 그물, My Work 3~4번, 스스로 다지기 넷째 시간", "locator": "PDF p.22~23 (156~157쪽), p.27 (161쪽), p.55 (189쪽)"},
+  {"id": "C009", "focus": "전치사 at 뒤 동명사(-ing) 형태 및 문장 구조 정확성 (I'm good at + ~ing)", "evidence": "playing music, doing math, drawing pictures, speaking English, making robots, playing sports 패턴", "locator": "PDF p.19 (153쪽), p.21 (155쪽), p.24 (158쪽)"},
+  {"id": "C010", "focus": "Special 11 신사임당과 율곡 이야기 원문 표현 이해", "evidence": "율곡의 발화 'My favorite subject is art.', 'I'm good at drawing pictures.'", "locator": "PDF p.28 (162쪽 Special 11 Into the History)"},
+  {"id": "C011", "focus": "오디오 대본이 없는 교과서 듣기 활동 (하나·Mohan, Linh·우주, Listen and Number)", "evidence": "PDF에 듣기 대본이 수록되어 있지 않은 듣기 전용 활동", "locator": "PDF p.16 (150쪽), p.18 (152쪽), p.27 (161쪽)"}
+]

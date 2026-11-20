@@ -1,0 +1,359 @@
+[
+  {
+    "unitId": "UQ001",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q01",
+      "eng5-ham-u11:q02"
+    ],
+    "assessment": "English 과목 그림-영어 연결 및 구두 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "ABC 교과서 그림을 보고 English 선택/구두 응답",
+    "distinctReason": "핵심 과목 English 시각 식별"
+  },
+  {
+    "unitId": "UQ002",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q03"
+    ],
+    "assessment": "science 과목 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "현미경·플라스크 그림을 보고 science 선택",
+    "distinctReason": "핵심 과목 science 시각 식별"
+  },
+  {
+    "unitId": "UQ003",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q04"
+    ],
+    "assessment": "P.E. 과목 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "체육관 운동 기구 그림을 보고 P.E. 선택",
+    "distinctReason": "핵심 과목 P.E. 시각 식별"
+  },
+  {
+    "unitId": "UQ004",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q05"
+    ],
+    "assessment": "math 영어→그림 역방향 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "math를 보고 4개 과목 그림 중 수학 그림 선택",
+    "distinctReason": "영어→그림 역방향 매칭(math)"
+  },
+  {
+    "unitId": "UQ005",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q06"
+    ],
+    "assessment": "music 문장→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "My favorite subject is music.에 맞는 그림 선택",
+    "distinctReason": "문장 맥락 속 music 의미 파악"
+  },
+  {
+    "unitId": "UQ006",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q07"
+    ],
+    "assessment": "art와 science 과목 그림 대조 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "미술실 그림에 science를 제시한 거짓 OX",
+    "distinctReason": "art와 science 어휘 구분"
+  },
+  {
+    "unitId": "UQ007",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q08"
+    ],
+    "assessment": "science 바른 철자 판별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "sience/scince/science/sceince 중 바른 철자 선택",
+    "distinctReason": "science 빈발 철자 오류 구별"
+  },
+  {
+    "unitId": "UQ008",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q09"
+    ],
+    "assessment": "English·P.E. 대문자 표기 규칙 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "English와 P.E.의 대문자 표기 규칙 판별",
+    "distinctReason": "고유어·약자 대문자 표기 정확성"
+  },
+  {
+    "unitId": "UQ009",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q10"
+    ],
+    "assessment": "English 철자 빈칸 완성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.158 En_lis_ 빈칸 알파벳 짝 선택",
+    "distinctReason": "English 핵심 철자(g, h) 완성"
+  },
+  {
+    "unitId": "UQ010",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q11"
+    ],
+    "assessment": "좋아하는 과목 묻기 한국어 상황→영어 의문문",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가장 좋아하는 과목 묻는 영어 질문 선택",
+    "distinctReason": "subject/food/color/time 의문문 구별"
+  },
+  {
+    "unitId": "UQ011",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q12"
+    ],
+    "assessment": "핵심 형용사 favorite 빈칸 완성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "What's your _____ subject? 빈칸 채우기",
+    "distinctReason": "favorite 어휘 의미와 문장 위치 이해"
+  },
+  {
+    "unitId": "UQ012",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q13"
+    ],
+    "assessment": "좋아하는 과목 응답 문장 어순 배열",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "is / subject / math. / My favorite 배열",
+    "distinctReason": "My favorite subject is ~ 어순 구성"
+  },
+  {
+    "unitId": "UQ013",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q14",
+      "eng5-ham-u11:q15"
+    ],
+    "assessment": "좋아하는 과목 응답 be동사 is 선택 및 그림 기반 구두 응답",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "My favorite subject ___ art. 및 미술 그림 구두 응답",
+    "distinctReason": "단수 주어 be동사 일치 및 문장 산출"
+  },
+  {
+    "unitId": "UQ014",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q16"
+    ],
+    "assessment": "로봇 만들기 잘함 표현(한국어+그림→영어)",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "로봇 조립 그림과 한국어 뜻에 맞는 I'm good at 문장 선택",
+    "distinctReason": "making robots 표현 의미 연결"
+  },
+  {
+    "unitId": "UQ015",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q17"
+    ],
+    "assessment": "drawing pictures 그림-영어 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "풍경화 그리는 그림을 보고 drawing pictures 선택",
+    "distinctReason": "drawing pictures 시각 의미 식별"
+  },
+  {
+    "unitId": "UQ016",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q18",
+      "eng5-ham-u11:q19"
+    ],
+    "assessment": "playing music 그림-영어 연결 및 구두 문장 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "피아노 연주 그림 보고 playing music 선택/문장 말하기",
+    "distinctReason": "playing music 표현 이해 및 산출"
+  },
+  {
+    "unitId": "UQ017",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q20"
+    ],
+    "assessment": "playing sports 그림-문장 일치 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "축구하는 어린이 그림과 playing sports 일치 판별",
+    "distinctReason": "playing sports 의미와 그림 일치 확인"
+  },
+  {
+    "unitId": "UQ018",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q21"
+    ],
+    "assessment": "P.E. 과목과 어울리는 활동 연결",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "My favorite subject is P.E. 뒤 어울리는 활동 선택",
+    "distinctReason": "과목(P.E.)-활동(playing sports) 의미 연결"
+  },
+  {
+    "unitId": "UQ019",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q22"
+    ],
+    "assessment": "과목-활동 바른 짝 판별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "art - drawing pictures 등 4쌍 중 교과서 수업 활동 관련성이 바른 짝 선택",
+    "distinctReason": "여러 과목과 활동 어구의 의미 대응"
+  },
+  {
+    "unitId": "UQ020",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q23"
+    ],
+    "assessment": "math-doing math 문장 의미 해석 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "수학 좋아함·잘함 영어 문장과 우리말 해석 일치 판별",
+    "distinctReason": "doing math 표현의 정확한 의미 이해"
+  },
+  {
+    "unitId": "UQ021",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q24",
+      "eng5-ham-u11:q25"
+    ],
+    "assessment": "be good at 전치사 at 선택 및 구두 산출",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I'm good ___ speaking English. 전치사 빈칸",
+    "distinctReason": "전치사 at과 in/on/to 구별"
+  },
+  {
+    "unitId": "UQ022",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q26"
+    ],
+    "assessment": "be good at 뒤 동명사(-ing) 형태 선택",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I'm good at ___ robots. (make/makes/making/to make)",
+    "distinctReason": "전치사 뒤 동명사 형태 정확성"
+  },
+  {
+    "unitId": "UQ023",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q27"
+    ],
+    "assessment": "좋아하는 색깔 확장 표현(한국어→영어)",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "파란색을 가장 좋아한다는 뜻의 영어 문장 선택",
+    "distinctReason": "favorite color와 food/subject 구별"
+  },
+  {
+    "unitId": "UQ024",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q28"
+    ],
+    "assessment": "These are my favorite things. 의미 이해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "4차시 읽기 마무리 문장의 한국어 뜻 선택",
+    "distinctReason": "복수 지시어·favorite things 의미 파악"
+  },
+  {
+    "unitId": "UQ025",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q29"
+    ],
+    "assessment": "자기소개 글 세부 정보 일치 판별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 하린 소개 글 읽고 일치하는 한국어 보기 선택",
+    "distinctReason": "다문장 소개 글 세부 사실 독해"
+  },
+  {
+    "unitId": "UQ026",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q36",
+      "eng5-ham-u11:q37",
+      "eng5-ham-u11:q32"
+    ],
+    "assessment": "좋아하는 과목과 잘하는 활동을 명시한 영어 표현의 의미 이해 및 우리말 산출",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "유나의 창작 자기소개(q36/q37)와 교과서 발화로 제공된 두 영어 문장(q32)을 같은 변형 묶음으로 관리. 출처 종류는 각 문항 provenance에 유지.",
+    "distinctReason": "미술 선호와 그림 그리기 능력이라는 동일한 핵심 의미를 세 형태로 평가하므로 한 단위로 통합. 다른 내용의 소개 문항과 구별."
+  },
+  {
+    "unitId": "UQ028",
+    "intentIds": [
+      "I009"
+    ],
+    "questionIds": [
+      "eng5-ham-u11:q33"
+    ],
+    "assessment": "자기소개 글 내용 일치 판별 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "가상 인물 준서 소개 글과 우리말 요약 일치 판별",
+    "distinctReason": "음악 과목·활동 포함 글의 통합 독해 OX"
+  }
+]

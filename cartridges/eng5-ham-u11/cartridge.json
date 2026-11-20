@@ -1,0 +1,1754 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "eng5-ham-u11",
+  "revision": 4,
+  "title": "초등학교 영어 5 (천재·함순애) Lesson 11 My Favorite Subject Is Math",
+  "metadata": {
+    "curriculum": "2022",
+    "grade": 5,
+    "semester": 2,
+    "subject": "영어",
+    "publisher": "천재교과서",
+    "sourcePublisher": "(주)천재교과서",
+    "leadAuthor": "함순애",
+    "author": "함순애 외 9인",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+    "unitNumber": 11,
+    "unitTitle": "My Favorite Subject Is Math",
+    "sourcePdf": "초_영어5(함순애)_교과서.pdf (PDF p.15~28, p.55, p.65 / 인쇄 149~162, 189, 199쪽)",
+    "mode": "REMASTER",
+    "baseRevision": 3,
+    "skillVersion": "0.3.0-rc4",
+    "classificationEvidence": {
+      "curriculum": "교과서 판권(PDF p.60, 2026. 3. 1. 초판 발행 2022 개정 교육과정 적용판) 및 감독 지시 명시",
+      "grade": "교과서 판권(PDF p.60 \"초등학교 영어 5\") 및 본문 쪽표기",
+      "semester": "교과서 Review 2(PDF p.43 \"Lessons 7~12\" 후반부 편성) 및 감독 지시(\"2학기\") 명시",
+      "subject": "교과서 판권(PDF p.60 \"초등학교 영어 5\")",
+      "unit": "교과서 단원 표지(PDF p.15, 149쪽 \"Lesson 11 My Favorite Subject Is Math\") 및 unit-map.json U002 일치",
+      "publisher": "교과서 판권(PDF p.60 발행인 \"(주)천재교과서\")에서 법인 접두사 제외 정규명 \"천재교과서\"",
+      "leadAuthor": "교과서 집필진·판권(PDF p.59~60 \"함순애(명지대학교 명예 교수, 대표 저자, 전 단원)\")",
+      "edition": "교과서 판권(PDF p.60 \"2026. 3. 1. 초판 발행\", \"ISBN 979-11-7236-860-9 63740\")"
+    },
+    "revisionNotes": "rev.4 감독 최종 수정: q36 보기의 두 진술 구조 균형, q32/q36/q37 g26 통합. 교사 최종 확정 요청에 따른 부분 개정."
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u11:q01",
+      "groupId": "eng5-ham-u11:g01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 과목의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_english.webp",
+          "alt": "A, B, C 알파벳이 적힌 교과서와 공책, 연필이 놓인 책상"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "math"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "English"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "science"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "art"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "A, B, C 알파벳을 배우는 과목은 영어(English)입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 English 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q02",
+      "groupId": "eng5-ham-u11:g01",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 과목을 영어로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_english.webp",
+          "alt": "A, B, C 알파벳이 적힌 교과서와 공책, 연필이 놓인 책상"
+        }
+      ],
+      "answer": {
+        "text": "English"
+      },
+      "acceptedAnswers": [
+        "English",
+        "english"
+      ],
+      "explanation": "그림이 나타내는 과목은 English입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ001 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 과목의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_science.webp",
+          "alt": "현미경, 플라스크, 시험관, 돋보기가 놓인 과학 실험 책상"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "science"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "music"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "P.E."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "math"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "현미경과 플라스크, 시험관으로 실험하는 과목은 과학(science)입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.16 (150쪽), p.55 (189쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 science 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 과목의 영어 이름으로 알맞은 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_pe.webp",
+          "alt": "체육관 바닥에 농구공, 축구공, 줄넘기, 배드민턴 라켓이 놓인 모습"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "art"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "English"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "P.E."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "운동 기구로 몸을 움직이는 체육 과목은 영어로 P.E.입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 P.E. 그림-영어 연결"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 과목 이름에 알맞은 그림을 고르세요.\nmath"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_art.webp",
+              "alt": "팔레트, 붓, 꽃 그림 이젤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_music.webp",
+              "alt": "피아노, 바이올린, 악보, 음표"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_science.webp",
+              "alt": "현미경, 플라스크, 시험관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_math.webp",
+              "alt": "칠판에 1+2=3과 사칙연산 기호, 도형이 그려진 모습"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "math는 ‘수학’이므로 덧셈·도형·사칙연산 기호가 있는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 math 영어→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q06",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문장이 나타내는 과목의 그림을 고르세요.\nMy favorite subject is music."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_pe.webp",
+              "alt": "농구공, 축구공, 줄넘기, 배드민턴 라켓"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_music.webp",
+              "alt": "피아노, 바이올린, 악보, 음표"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_english.webp",
+              "alt": "A, B, C 알파벳 책과 공책"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/subj_art.webp",
+              "alt": "팔레트, 붓, 꽃 그림 이젤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "music은 ‘음악’이므로 피아노, 바이올린, 음표가 있는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 music 문장→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q07",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림이 나타내는 과목은 영어로 science입니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_art.webp",
+          "alt": "팔레트, 물감, 붓, 꽃 그림이 놓인 미술실 이젤"
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "팔레트와 붓, 그림 이젤이 있으므로 science(과학)가 아니라 art(미술)입니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "핵심 과목 art 그림-단어 대조 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q08",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘과학’을 뜻하는 영어 단어의 철자가 바르게 쓰인 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "sience"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scince"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "science"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "sceince"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "‘과학’의 바른 철자는 s-c-i-e-n-c-e(science)입니다.",
+      "provenance": {
+        "locator": "PDF p.24 (158쪽 Ready to Write Words 5번), p.55 (189쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "5차시 Ready to Write science 철자 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q09",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "영어 과목 이름 English와 체육 과목 이름 P.E.는 첫 글자나 약자를 대문자로 씁니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "English는 고유 언어명이므로 첫 글자를 대문자 E로 쓰고, P.E.는 약자이므로 대문자와 마침표를 써서 P.E.로 표기합니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.24 (158쪽), p.55 (189쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "English·P.E. 대문자 표기 규칙 점검"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘영어’를 뜻하는 단어의 빈칸에 들어갈 알파벳이 순서대로 바르게 짝지어진 것을 고르세요.\nEn ___ lis ___"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "g - h"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "j - h"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "g - k"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "c - h"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "English의 철자는 E-n-g-l-i-s-h이므로 빈칸에 g와 h가 들어갑니다.",
+      "provenance": {
+        "locator": "PDF p.24 (158쪽 Ready to Write Words 2번)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "교과서 p.158 En_lis_ 철자 빈칸 평가"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 가장 좋아하는 과목이 무엇인지 영어로 물을 때 알맞은 말을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite food?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite color?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite subject?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go to school?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "과목은 subject이므로 가장 좋아하는 과목을 물을 때는 What's your favorite subject?라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.20 (154쪽), p.21 (155쪽), p.26 (160쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "한국어 상황→영어 의문문 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘네가 가장 좋아하는 과목은 무엇이니?’가 되도록 빈칸에 알맞은 단어를 고르세요.\nWhat's your ________ subject?"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "good"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "favorite"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "music"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "color"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "‘가장 좋아하는’을 뜻하는 단어는 favorite입니다.",
+      "provenance": {
+        "locator": "PDF p.20 (154쪽), p.22 (156쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "핵심 형용사 favorite 어휘 및 위치 확인"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주어진 낱말을 바르게 배열하여 ‘내가 가장 좋아하는 과목은 수학이야.’라는 문장을 완성한 것을 고르세요.\n( is / subject / math. / My favorite )"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is math."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite is math subject."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Subject my favorite is math."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Math my favorite subject is."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "「My favorite subject + is + 과목 이름」 순서로 써서 My favorite subject is math.라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.15 (149쪽), p.20 (154쪽), p.21 (155쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "좋아하는 과목 응답 문장 어순 구성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q14",
+      "groupId": "eng5-ham-u11:g13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈칸에 들어갈 알맞은 말을 고르세요.\nMy favorite subject _____ art."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "am"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "are"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "do"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "주어 My favorite subject는 단수이므로 be동사 is를 씁니다.",
+      "provenance": {
+        "locator": "PDF p.20 (154쪽), p.24 (158쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "단수 주어 My favorite subject 뒤 be동사 is 일치"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q15",
+      "groupId": "eng5-ham-u11:g13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림의 과목이 자신이 가장 좋아하는 과목이라고 생각하고, 질문에 알맞게 영어로 답해 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "What's your favorite subject?"
+            },
+            {
+              "speaker": "B",
+              "text": "_________________________"
+            }
+          ]
+        },
+        {
+          "kind": "image",
+          "src": "assets/subj_art.webp",
+          "alt": "팔레트와 붓, 꽃 그림 이젤"
+        }
+      ],
+      "answer": {
+        "text": "My favorite subject is art."
+      },
+      "acceptedAnswers": [
+        "My favorite subject is art.",
+        "art",
+        "Art"
+      ],
+      "explanation": "미술 그림이므로 My favorite subject is art.라고 답합니다.",
+      "provenance": {
+        "locator": "PDF p.20 (154쪽 Read and Talk)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ013 팀전 구두 변형",
+        "revisionNote": "rev.2(RC4): 그림(미술 과목)과 선호(favorite)를 구분하도록 역할 조건 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 로봇 만들기를 잘해.’를 영어로 바르게 표현한 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_making_robots.webp",
+          "alt": "책상에서 드라이버와 톱니바퀴로 장난감 로봇을 조립하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at drawing pictures."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing sports."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at making robots."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing music."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "로봇을 만드는 것은 making robots이므로 I'm good at making robots.가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽), p.22~23 (156~157쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "그림+한국어 상황→영어 잘하는 것 표현 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 하고 있는 활동을 나타내는 영어 표현을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_drawing_pictures.webp",
+          "alt": "이젤 앞에서 팔레트와 붓으로 풍경화를 그리는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing math"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "speaking English"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "making robots"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "그림을 그리는 활동은 drawing pictures입니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽), p.22 (156쪽), p.27 (161쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "drawing pictures 그림-영어 연결",
+        "revisionNote": "rev.2(RC4): 그림으로 입증되는 행동 표현(drawing pictures)만 묻도록 발문 수정"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q18",
+      "groupId": "eng5-ham-u11:g16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 자신이 하고 있는 활동을 잘한다고 소개할 때, 빈칸에 들어갈 알맞은 영어 표현을 고르세요.\nI'm good at _______________."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_playing_music.webp",
+          "alt": "피아노를 치며 즐겁게 음악을 연주하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing music"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing sports"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing math"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "피아노로 음악을 연주하는 모습은 playing music입니다.",
+      "provenance": {
+        "locator": "PDF p.19 (153쪽 Talk Like This 2), p.21 (155쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "playing music 그림-영어 연결",
+        "revisionNote": "rev.2(RC4): 그림 속 행동과 능력(good at)을 구분하도록 소개 상황 조건 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q19",
+      "groupId": "eng5-ham-u11:g16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 자신이 하고 있는 활동을 잘한다고 소개할 때, I'm good at으로 시작하는 영어 문장으로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_playing_music.webp",
+          "alt": "피아노를 치며 즐겁게 음악을 연주하는 어린이"
+        }
+      ],
+      "answer": {
+        "text": "I'm good at playing music."
+      },
+      "acceptedAnswers": [
+        "I'm good at playing music.",
+        "I am good at playing music.",
+        "playing music"
+      ],
+      "explanation": "음악 연주를 잘한다고 말할 때는 I'm good at playing music.이라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.19 (153쪽 Talk Like This 2)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ016 팀전 구두 변형",
+        "revisionNote": "rev.2(RC4): 그림 속 행동과 능력(good at) 구분 조건 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 자신이 하고 있는 활동을 잘한다고 소개할 때, \"I'm good at playing sports.\"라고 말할 수 있습니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/act_playing_sports.webp",
+          "alt": "잔디 운동장에서 축구공을 차며 달리는 어린이"
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "운동장에서 축구를 하는 모습은 스포츠 활동(playing sports)에 해당하므로 참입니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽), p.22 (156쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "playing sports 그림-문장 일치 OX",
+        "revisionNote": "rev.2(RC4): 그림 속 행동과 능력(good at) 구분 조건 명시"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "체육(P.E.) 수업에서 주로 하는 활동과 가장 관련이 깊은 영어 표현을 골라 문장을 완성하세요.\nMy favorite subject is P.E. I'm good at _______________."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing math"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "speaking English"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing sports"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "체육(P.E.) 수업과 가장 직접적으로 관련이 깊은 활동은 운동하기(playing sports)입니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽 Play 3)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "과목(P.E.)과 활동(playing sports) 의미 연결",
+        "revisionNote": "rev.2(RC4): 선호 과목과 능력의 필연적 단정을 피하고 교과 수업 활동의 직접적 관련성으로 발문 명확화"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 배운 과목과 그 수업에서 주로 하는 활동이 가장 자연스럽게 짝지어진 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "art - drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "math - playing sports"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "P.E. - doing math"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "music - speaking English"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "미술(art) 수업의 대표 활동은 그림 그리기(drawing pictures)입니다. 나머지는 서로 다른 과목과 활동이 잘못 짝지어졌습니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽 Play 3), p.24 (158쪽 Sentences 3)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "과목-활동 짝짓기 정확성 확인",
+        "revisionNote": "rev.2(RC4): science-making robots의 일반화 논란을 해소하고 보편적·교과서적 관련성이 명확하며 문자열 중복이 없는 art - drawing pictures로 개선"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"My favorite subject is math. I'm good at doing math.\"는 수학을 가장 좋아하고 수학 문제 풀기를 잘한다는 뜻입니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "math는 수학, doing math는 수학 공부/문제 풀기를 뜻하므로 우리말 해석이 정확히 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽), p.24 (158쪽), p.26 (160쪽)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "math-doing math 문장 의미 해석 OX"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q24",
+      "groupId": "eng5-ham-u11:g21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 영어 말하기를 잘해.’가 되도록 빈칸에 알맞은 말을 고르세요.\nI'm good _____ speaking English."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "‘~을 잘하다’는 be good at으로 표현하므로 전치사 at이 들어갑니다.",
+      "provenance": {
+        "locator": "PDF p.19 (153쪽), p.21 (155쪽)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "be good at 전치사 at 정확성"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q25",
+      "groupId": "eng5-ham-u11:g21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘~을 잘하다’라는 뜻이 되도록 빈칸에 들어갈 영어 전치사를 말해 보세요.\nI'm good _____ speaking English."
+        }
+      ],
+      "answer": {
+        "text": "at"
+      },
+      "acceptedAnswers": [
+        "at"
+      ],
+      "explanation": "be good at ~에서 전치사는 at입니다.",
+      "provenance": {
+        "locator": "PDF p.19 (153쪽), p.21 (155쪽)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ021 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문법적으로 바른 문장이 되도록 빈칸에 알맞은 형태를 고르세요.\nI'm good at __________ robots."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "make"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "makes"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "making"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to make"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "전치사 at 뒤에는 동사에 -ing를 붙인 형태(making)를 씁니다.",
+      "provenance": {
+        "locator": "PDF p.21 (155쪽), p.23 (157쪽), p.24 (158쪽)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "be good at + 동명사(-ing) 형태 구별"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 가장 좋아하는 색깔을 물었을 때 알맞은 대답을 우리말 뜻에 맞게 고르세요.\n‘내가 가장 좋아하는 색깔은 파란색이야.’"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite food is pizza."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite color is blue."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is math."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite color is pink."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "색깔은 color, 파란색은 blue이므로 My favorite color is blue.가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.25 (159쪽 Let's Write), p.55 (189쪽)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "favorite color 확장 표현 한국어→영어 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 문장의 우리말 뜻으로 가장 알맞은 것을 고르세요.\nThese are my favorite things."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이것들은 내가 가장 좋아하는 것들이야."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이것은 내가 가장 좋아하는 과목이야."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 로봇 만들기를 가장 잘해."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네가 가장 좋아하는 음식은 무엇이니?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "These are my favorite things.는 ‘이것들은 내가 가장 좋아하는 것들이야.’라는 뜻입니다.",
+      "provenance": {
+        "locator": "PDF p.23 (157쪽 Let's Read)",
+        "intentIds": [
+          "I008"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "4차시 읽기 마무리 문장 영어→한국어 교차표현"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하린의 소개 글을 읽고, 글의 내용과 일치하는 것을 고르세요.\n\n\"My name is Harin. My favorite food is salad. My favorite color is yellow. My favorite subject is science. I'm good at making robots.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하린이가 가장 좋아하는 음식은 피자이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하린이가 가장 좋아하는 색깔은 파란색이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하린이가 가장 좋아하는 과목은 과학이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하린이는 그림 그리기를 잘한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "글에서 \"My favorite subject is science.\"라고 했으므로 가장 좋아하는 과목은 과학입니다.",
+      "provenance": {
+        "locator": "PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "좋아하는 것 소개 글 세부 정보 독해(영어→한국어)"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q36",
+      "groupId": "eng5-ham-u11:g26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유나의 소개 글을 읽고, 글의 내용과 일치하는 것을 고르세요.\n\n\"My name is Yuna. My favorite food is chicken. My favorite color is pink. My favorite subject is art. I like painting in that class. I'm good at drawing pictures.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유나는 수학을 가장 좋아하고 그림 그리기를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유나는 미술을 가장 좋아하고 그림 그리기를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유나는 미술을 가장 좋아하고 로봇 만들기를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유나는 과학을 가장 좋아하고 그림 그리기를 잘한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "글에서 \"My favorite subject is art.\"와 \"I'm good at drawing pictures.\"라고 직접 밝혔으므로 미술을 가장 좋아하고 그림 그리기를 잘한다는 진술이 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.27 (161쪽 My Work 3~4번 유형 응용)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.3(RC4) REBUILD(from q34): 빈칸 추론을 제거하고 지문에 좋아하는 과목(art)을 직접 명시한 뒤 영어 지문→한국어 의미 이해 독해로 재제작"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q37",
+      "groupId": "eng5-ham-u11:g26",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유나의 소개 글을 읽고, 유나가 가장 좋아하는 과목과 잘하는 활동을 우리말로 말해 보세요.\n\n\"My name is Yuna. My favorite food is chicken. My favorite color is pink. My favorite subject is art. I like painting in that class. I'm good at drawing pictures.\""
+        }
+      ],
+      "answer": {
+        "text": "미술, 그림 그리기"
+      },
+      "acceptedAnswers": [
+        "미술, 그림 그리기",
+        "미술과 그림 그리기",
+        "미술, 그림 그리기요"
+      ],
+      "explanation": "\"My favorite subject is art.\"(미술)와 \"I'm good at drawing pictures.\"(그림 그리기)에서 두 정보를 정확히 확인할 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.27 (161쪽 My Work 3~4번 유형 응용)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "rev.3(RC4) REBUILD(from q35): UQ026 팀전 구두 변형, 영어 지문을 우리말로 산출해 문자열 복사 차단"
+      }
+    },
+    {
+      "questionId": "eng5-ham-u11:q32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 Special 11(162쪽)에 나오는 두 영어 말을 읽고, 화자가 말한 내용과 정확히 일치하는 것을 고르세요.\n\n\"My favorite subject is art.\"\n\"I'm good at drawing pictures.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술을 가장 좋아하지만 그림 그리기는 잘하지 못한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술을 가장 좋아하고 그림 그리기를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림 그리기는 잘하지만 미술은 좋아하지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술을 가장 좋아하고 로봇 만들기를 잘한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "\"My favorite subject is art.\"(미술을 가장 좋아한다)와 \"I'm good at drawing pictures.\"(그림 그리기를 잘한다) 두 문장 모두 긍정 진술이므로 c2가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.28 (162쪽 Special 11 Into the History)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 11 율곡 원문 발화 2문장 그대로 독해",
+        "revisionNote": "rev.3(RC4): 3지선다 추출 시 art 한 단어만으로 정답을 확정하는 우회를 막기 위해 긍정·부정·활동 대조 교차 오답으로 재설계"
+      },
+      "groupId": "eng5-ham-u11:g26"
+    },
+    {
+      "questionId": "eng5-ham-u11:q33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽으면, 준서는 음악을 가장 좋아하고 악기 연주를 잘한다는 것을 알 수 있습니다.\n\n\"My name is Junseo. My favorite food is steak. My favorite color is black. My favorite subject is music. I'm good at playing music.\""
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "\"My favorite subject is music. I'm good at playing music.\"에서 음악을 가장 좋아하고 연주를 잘함을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)",
+        "intentIds": [
+          "I009"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "자기소개 글 내용 일치 판별 OX(영어→한국어)"
+      }
+    }
+  ]
+}

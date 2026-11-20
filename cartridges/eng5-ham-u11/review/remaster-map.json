@@ -1,0 +1,272 @@
+{
+  "baseCartridgeId": "eng5-ham-u11",
+  "baseRevision": 3,
+  "baseVersion": "12ce8b31fa15f3e6c0f9b81c69eefede993034bb18d43f74fcda615075f954c1",
+  "oldQuestions": [
+    {
+      "oldQuestionId": "eng5-ham-u11:q01",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q01"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q02",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q02"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q03",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q03"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q04",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q04"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q05",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q05"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q06",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q06"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q07",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q07"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q08",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q08"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q09",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q09"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q10",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q10"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q11",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q11"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q12",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q12"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q13",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q13"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q14",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q14"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q15",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q15"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q16",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q16"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q17",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q17"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q18",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q18"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q19",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q19"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q20",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q20"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q21",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q21"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q22",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q22"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q23",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q23"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q24",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q24"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q25",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q25"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q26",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q26"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q27",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q27"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q28",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q28"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q29",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q29"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q36",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u11:q36"
+      ],
+      "reason": "보기 두 진술 균형; 평가 의미 및 ID 유지"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q37",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q37"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q32",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u11:q32"
+      ],
+      "reason": "g26 통합"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u11:q33",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u11:q33"
+      ],
+      "reason": "원문 문항과 참조 이미지 무변조"
+    }
+  ],
+  "newQuestionIds": []
+}

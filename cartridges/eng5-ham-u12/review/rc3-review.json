@@ -1,0 +1,1820 @@
+{
+  "version": "f58f223a5c32e3b09c7c5f31ef5b0225ee54af9cc494fa5dda9b955155b0a9d8",
+  "reviewer": "Gemini AI (hoja-question-bank V0.3.0-rc4 REMASTER Lesson 12 rev.3)",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u12:q01",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q01(MCQ): 출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q01: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q01: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q01: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(actor): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(designer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(pianist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(scientist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "designer 제외 시 정답(actor) + 남은 오답(pianist, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "pianist 제외 시 정답(actor) + 남은 오답(designer, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "scientist 제외 시 정답(actor) + 남은 오답(designer, pianist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q02",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q02(SHORT): 출처(PDF p.29 (163쪽)) 대조 결과 정답 유일성 확인, 허용 구두 답안(actor, an actor) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q02: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q02: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q02: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q03",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q03(MCQ): 출처(PDF p.29 (163쪽), p.36 (170쪽), p.56 (190쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q03: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q03: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q03: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(travel writer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(designer): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(animal trainer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(soccer player): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "travel writer 제외 시 정답(designer) + 남은 오답(animal trainer, soccer player) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "animal trainer 제외 시 정답(designer) + 남은 오답(travel writer, soccer player) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "soccer player 제외 시 정답(designer) + 남은 오답(travel writer, animal trainer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q04",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q04(MCQ): 출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q04: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q04: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q04: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(pianist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(actor): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(scientist): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(designer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "pianist 제외 시 정답(scientist) + 남은 오답(actor, designer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "actor 제외 시 정답(scientist) + 남은 오답(pianist, designer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "designer 제외 시 정답(scientist) + 남은 오답(pianist, actor) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q05",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q05(MCQ): 출처(PDF p.29 (163쪽), p.31 (165쪽), p.34 (168쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q05: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q05: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q05: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/job_pianist.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(assets/job_soccer_player.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/job_travel_writer.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(assets/job_animal_trainer.webp): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/job_pianist.webp 제외 시 정답(assets/job_animal_trainer.webp) + 남은 오답(assets/job_soccer_player.webp, assets/job_travel_writer.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "assets/job_soccer_player.webp 제외 시 정답(assets/job_animal_trainer.webp) + 남은 오답(assets/job_pianist.webp, assets/job_travel_writer.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/job_travel_writer.webp 제외 시 정답(assets/job_animal_trainer.webp) + 남은 오답(assets/job_pianist.webp, assets/job_soccer_player.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q06",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q06(MCQ): 출처(PDF p.29 (163쪽), p.36~37 (170~171쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q06: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q06: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q06: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/job_designer.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(assets/job_travel_writer.webp): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/job_actor.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(assets/job_scientist.webp): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/job_designer.webp 제외 시 정답(assets/job_travel_writer.webp) + 남은 오답(assets/job_actor.webp, assets/job_scientist.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/job_actor.webp 제외 시 정답(assets/job_travel_writer.webp) + 남은 오답(assets/job_designer.webp, assets/job_scientist.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "assets/job_scientist.webp 제외 시 정답(assets/job_travel_writer.webp) + 남은 오답(assets/job_designer.webp, assets/job_actor.webp) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q07",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q07(OX): 출처(PDF p.29 (163쪽), p.34 (168쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q07: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q07: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q07: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q08",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q08(MCQ): 출처(PDF p.33 (167쪽 Talk Like This 1), p.34 (168쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q08: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q08: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q08: 활성 의도 ['I001'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(I want to be a soccer player.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I want to be a pianist.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I want to be an animal trainer.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I want to be a travel writer.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I want to be a pianist. 제외 시 정답(I want to be a soccer player.) + 남은 오답(I want to be an animal trainer., I want to be a travel writer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I want to be an animal trainer. 제외 시 정답(I want to be a soccer player.) + 남은 오답(I want to be a pianist., I want to be a travel writer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I want to be a travel writer. 제외 시 정답(I want to be a soccer player.) + 남은 오답(I want to be a pianist., I want to be an animal trainer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q09",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q09(MCQ): 출처(PDF p.38 (172쪽 Ready to Write Words 5번), p.56 (190쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q09: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q09: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q09: 활성 의도 ['I002'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(sientist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(scientest): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(scientist): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(scentist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "sientist 제외 시 정답(scientist) + 남은 오답(scientest, scentist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "scientest 제외 시 정답(scientist) + 남은 오답(sientist, scentist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "scentist 제외 시 정답(scientist) + 남은 오답(sientist, scientest) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q10",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q10(MCQ): 출처(PDF p.38 (172쪽 Ready to Write Words 6번)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q10: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q10: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q10: 활성 의도 ['I002'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(d - n): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(b - n): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(d - m): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(t - n): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "b - n 제외 시 정답(d - n) + 남은 오답(d - m, t - n) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "d - m 제외 시 정답(d - n) + 남은 오답(b - n, t - n) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "t - n 제외 시 정답(d - n) + 남은 오답(b - n, d - m) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q11",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q11(MCQ): 출처(PDF p.29 (163쪽), p.34 (168쪽), p.35 (169쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q11: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q11: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q11: 활성 의도 ['I003'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(What time do you get up?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(What's your favorite subject?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(What do you want to be?): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(What did you do last weekend?): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "What time do you get up? 제외 시 정답(What do you want to be?) + 남은 오답(What's your favorite subject?, What did you do last weekend?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "What's your favorite subject? 제외 시 정답(What do you want to be?) + 남은 오답(What time do you get up?, What did you do last weekend?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "What did you do last weekend? 제외 시 정답(What do you want to be?) + 남은 오답(What time do you get up?, What's your favorite subject?) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q12",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q12(OX): 출처(PDF p.29 (163쪽), p.34 (168쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q12: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q12: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q12: 활성 의도 ['I003'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q13",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q13(MCQ): 출처(PDF p.41 (175쪽 My Work 4번)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q13: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q13: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q13: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(I want be to an animal trainer.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(I want to be an animal trainer.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I to want be an animal trainer.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Want I to be an animal trainer.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "I want be to an animal trainer. 제외 시 정답(I want to be an animal trainer.) + 남은 오답(I to want be an animal trainer., Want I to be an animal trainer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I to want be an animal trainer. 제외 시 정답(I want to be an animal trainer.) + 남은 오답(I want be to an animal trainer., Want I to be an animal trainer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Want I to be an animal trainer. 제외 시 정답(I want to be an animal trainer.) + 남은 오답(I want be to an animal trainer., I to want be an animal trainer.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q14",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q14(MCQ): 출처(PDF p.34 (168쪽), p.35 (169쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q14: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q14: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q14: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(be): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(to): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(to be): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(being): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "be 제외 시 정답(to be) + 남은 오답(to, being) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "to 제외 시 정답(to be) + 남은 오답(be, being) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "being 제외 시 정답(to be) + 남은 오답(be, to) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q15",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q15(SHORT): 출처(PDF p.34 (168쪽), p.41 (175쪽)) 대조 결과 정답 유일성 확인, 허용 구두 답안(I want to be a pianist., a pianist, pianist) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q15: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q15: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q15: 활성 의도 ['I004'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q16",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q16(MCQ): 출처(PDF p.34 (168쪽 Read and Write 1번), p.35 (169쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q16: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q16: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q16: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(designer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(pianist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(scientist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(actor): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "designer 제외 시 정답(actor) + 남은 오답(pianist, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "pianist 제외 시 정답(actor) + 남은 오답(designer, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "scientist 제외 시 정답(actor) + 남은 오답(designer, pianist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q17",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "\"I want to be ___.\"에서 단수 가산 직업 명사구로 문법적으로 정확한 표현은 c2(an animal trainer)가 유일하다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "한국어 뜻(\"동물 훈련사\")과 빈칸 문장 구조만으로 관사·수 일치 규칙을 적용해 정답을 확정할 수 있다."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "이미지 없는 문법 문항이며 4개 보기 모두 animal trainer 어휘를 포함하므로 어휘 매칭으로 우회할 수 없고 명사구 문법 형태를 판별해야 한다."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I005(직업 명사구의 부정관사 및 단수 형태 정확성)에 직접 부합한다. 실제 평가 목표는 a/an 단일 구별에 한정되지 않고 명사구 전체의 문법적 정확성이다."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(a animal trainer): 모음 소리(/æ/)로 시작하는 animal 앞에 an 대신 a를 잘못 쓴 부정관사 오류."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(an animal trainer): 모음 소리 앞 부정관사 an과 단수 명사 trainer가 바르게 결합된 정문."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(animal trainer): 단수 가산 직업 명사 앞에 필수 부정관사를 누락한 관사 생략 오류."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(an animal trainers): 단수 부정관사 an 뒤에 복수형 trainers를 붙여 수 일치가 틀린 오류."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1(a animal trainer) 제외 시 {an animal trainer, animal trainer, an animal trainers}: 이 조합은 a/an 직접 구별이 아니라 부정관사 필수 포함 여부와 단복수 일치라는 명사구 문법 정확성을 평가한다."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3(animal trainer) 제외 시 {an animal trainer, a animal trainer, an animal trainers}: 모음 앞 a/an 구별과 단복수 일치 정확성을 함께 평가한다."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4(an animal trainers) 제외 시 {an animal trainer, a animal trainer, animal trainer}: 모음 앞 a/an 구별과 단수 직업 명사 앞 관사 필수 여부를 함께 평가한다."
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q18",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q18(SHORT): 출처(PDF p.35 (169쪽 Play 3 2번)) 대조 결과 정답 유일성 확인, 허용 구두 답안(an) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q18: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q18: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q18: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q19",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q19(OX): 출처(PDF p.34 (168쪽), p.35 (169쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q19: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q19: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q19: 활성 의도 ['I005'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q20",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q20(MCQ): 출처(PDF p.36 (170쪽 Before You Read), p.37 (171쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q20: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q20: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q20: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(I like going to new places.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I like playing the piano.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I like doing science projects.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I like playing with animals.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I like playing the piano. 제외 시 정답(I like going to new places.) + 남은 오답(I like doing science projects., I like playing with animals.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I like doing science projects. 제외 시 정답(I like going to new places.) + 남은 오답(I like playing the piano., I like playing with animals.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I like playing with animals. 제외 시 정답(I like going to new places.) + 남은 오답(I like playing the piano., I like doing science projects.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q21",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q21(MCQ): 출처(PDF p.36 (170쪽 Let's Read), p.39 (173쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q21: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q21: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q21: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(watching videos): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(playing soccer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(reading picture books): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(helping animals): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "watching videos 제외 시 정답(reading picture books) + 남은 오답(playing soccer, helping animals) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "playing soccer 제외 시 정답(reading picture books) + 남은 오답(watching videos, helping animals) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "helping animals 제외 시 정답(reading picture books) + 남은 오답(watching videos, playing soccer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q22",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q22(MCQ): 출처(PDF p.33 (167쪽 Talk Like This 2), p.38 (172쪽), p.56 (190쪽)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q22: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q22: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q22: 활성 의도 ['I006'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(play): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(plays): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(playing): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(played): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "play 제외 시 정답(playing) + 남은 오답(plays, played) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "plays 제외 시 정답(playing) + 남은 오답(play, played) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "played 제외 시 정답(playing) + 남은 오답(play, plays) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q23",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "발문에서 \"디자이너가 하는 일과 가장 직접적으로 관련이 깊은 활동\"을 명시했고, 교과서 p.170·172·174 근거상 c2(drawing pictures)가 유일한 정답이다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "개인 취미를 단정하지 않고 직업 업무와의 직접 관련성을 발문에 명시해 판단 근거가 명확하다."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "이미지 없는 텍스트 문항이며 정답 drawing pictures는 제시문 designer와 철자·문자열이 겹치지 않아 표면 복사 우회가 불가능하다."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I007(직업과 업무 관련 활동 연결)에 부합하며, 동일 어휘 관계를 다루는 q24와 변형 묶음 g20으로 통합되어 중복 출제를 방지한다."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(playing soccer): 축구선수(soccer player)와 관련된 활동으로 디자이너 업무와 무관."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(drawing pictures): 교과서 p.170·174에서 디자이너(designer)와 직접 연결되는 핵심 업무 활동."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(playing with animals): 동물 훈련사(animal trainer)와 관련된 활동으로 디자이너 업무와 무관."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(doing science projects): 과학자(scientist)와 관련된 활동으로 디자이너 업무와 무관."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1 제외 시 {drawing pictures, playing with animals, doing science projects}: 동물·과학 활동 오답과 구별해 디자이너 업무 활동(drawing pictures)을 판별한다."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외 시 {drawing pictures, playing soccer, doing science projects}: 스포츠·과학 활동 오답과 구별해 디자이너 업무 활동을 판별한다."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외 시 {drawing pictures, playing soccer, playing with animals}: 스포츠·동물 활동 오답과 구별해 디자이너 업무 활동을 판별한다."
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q24",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "교과서 Project STEP 1(p.174) 직업-활동 대응 기준상 바르게 짝지어진 보기는 c1(designer - drawing pictures)이 유일하다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "직업이 하는 일과의 직접 관련성 기준을 발문에 명시했으며 오답 3개 모두 명백히 다른 직업의 활동과 엇갈려 짝지어져 있다."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "정답 designer - drawing pictures는 철자 중복이 없어 표면 문자열 매칭으로 우회할 수 없다."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "I007(직업-업무 활동 짝짓기)에 부합하며, 동일 어휘 쌍을 평가하는 q23과 변형 묶음 g20으로 통합해 중복을 해소했다."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(designer - drawing pictures): 교과서 p.174에서 디자이너의 핵심 활동으로 제시된 정확한 짝."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(pianist - going to new places): going to new places는 여행 작가(travel writer)의 활동으로 피아니스트와 불일치."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(soccer player - watching videos): watching videos는 교과서 p.174에서 배우(actor)와 연결된 활동으로 축구선수와 불일치."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(actor - playing with animals): playing with animals는 동물 훈련사(animal trainer)의 활동으로 배우와 불일치."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "c2 제외 시 {designer-drawing pictures, soccer player-watching videos, actor-playing with animals}: 축구선수·배우 오결합과 구별해 정확한 직업-활동 짝을 판별한다."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외 시 {designer-drawing pictures, pianist-going to new places, actor-playing with animals}: 피아니스트·배우 오결합과 구별해 정확한 짝을 판별한다."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외 시 {designer-drawing pictures, pianist-going to new places, soccer player-watching videos}: 피아니스트·축구선수 오결합과 구별해 정확한 짝을 판별한다."
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q25",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q25(OX): 출처(PDF p.37 (171쪽 Let's Read), p.38 (172쪽 Sentences 3)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q25: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q25: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q25: 활성 의도 ['I007'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q26",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q26(MCQ): 출처(PDF p.36 (170쪽 Let's Read 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q26: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q26: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q26: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(서연이는 새로운 장소에 가는 것을 좋아한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(서연이는 친구들을 위해 재미있는 캐릭터를 디자인할 수 있다.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(서연이는 피아니스트가 되고 싶어 한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(서연이는 동물들과 노는 것을 좋아한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "서연이는 새로운 장소에 가는 것을 좋아한다. 제외 시 정답(서연이는 친구들을 위해 재미있는 캐릭터를 디자인할 수 있다.) + 남은 오답(서연이는 피아니스트가 되고 싶어 한다., 서연이는 동물들과 노는 것을 좋아한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "서연이는 피아니스트가 되고 싶어 한다. 제외 시 정답(서연이는 친구들을 위해 재미있는 캐릭터를 디자인할 수 있다.) + 남은 오답(서연이는 새로운 장소에 가는 것을 좋아한다., 서연이는 동물들과 노는 것을 좋아한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "서연이는 동물들과 노는 것을 좋아한다. 제외 시 정답(서연이는 친구들을 위해 재미있는 캐릭터를 디자인할 수 있다.) + 남은 오답(서연이는 새로운 장소에 가는 것을 좋아한다., 서연이는 피아니스트가 되고 싶어 한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q34",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q34(MCQ): 출처(PDF p.56 (190쪽 스스로 다지기 넷째 시간 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q34: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q34: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q34: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(designer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(pianist): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(scientist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(travel writer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "designer 제외 시 정답(pianist) + 남은 오답(scientist, travel writer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "scientist 제외 시 정답(pianist) + 남은 오답(designer, travel writer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "travel writer 제외 시 정답(pianist) + 남은 오답(designer, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q35",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q35(SHORT): 출처(PDF p.56 (190쪽 스스로 다지기 넷째 시간)) 대조 결과 정답 유일성 확인, 허용 구두 답안(pianist, a pianist) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q35: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q35: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q35: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q29",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q29(MCQ): 출처(PDF p.37 (171쪽 Let's Read 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q29: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q29: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q29: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(이야기 쓰기 - 여행 작가): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(그림 그리기 - 캐릭터 디자이너): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(동물 돌보기 - 동물 훈련사): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(과학 실험하기 - 과학자): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "그림 그리기 - 캐릭터 디자이너 제외 시 정답(이야기 쓰기 - 여행 작가) + 남은 오답(동물 돌보기 - 동물 훈련사, 과학 실험하기 - 과학자) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "동물 돌보기 - 동물 훈련사 제외 시 정답(이야기 쓰기 - 여행 작가) + 남은 오답(그림 그리기 - 캐릭터 디자이너, 과학 실험하기 - 과학자) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "과학 실험하기 - 과학자 제외 시 정답(이야기 쓰기 - 여행 작가) + 남은 오답(그림 그리기 - 캐릭터 디자이너, 동물 돌보기 - 동물 훈련사) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q30",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q30(MCQ): 출처(PDF p.42 (176쪽 Special 12 Into the History)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q30: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q30: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q30: 활성 의도 ['I009'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(아인슈타인은 피아노 치는 것을 좋아한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(아인슈타인은 바이올린 연주하는 것을 좋아한다.): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(친구는 과학자가 되고 싶다고 말했다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(아인슈타인은 그림책 읽는 것을 좋아한다.): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "아인슈타인은 피아노 치는 것을 좋아한다. 제외 시 정답(아인슈타인은 바이올린 연주하는 것을 좋아한다.) + 남은 오답(친구는 과학자가 되고 싶다고 말했다., 아인슈타인은 그림책 읽는 것을 좋아한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "친구는 과학자가 되고 싶다고 말했다. 제외 시 정답(아인슈타인은 바이올린 연주하는 것을 좋아한다.) + 남은 오답(아인슈타인은 피아노 치는 것을 좋아한다., 아인슈타인은 그림책 읽는 것을 좋아한다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "아인슈타인은 그림책 읽는 것을 좋아한다. 제외 시 정답(아인슈타인은 바이올린 연주하는 것을 좋아한다.) + 남은 오답(아인슈타인은 피아노 치는 것을 좋아한다., 친구는 과학자가 되고 싶다고 말했다.) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q31",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q31(MCQ): 출처(PDF p.42 (176쪽 Special 12)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q31: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q31: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q31: 활성 의도 ['I009'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(pianist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(scientist): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(violinist): 발문·지문·그림 근거와 정확히 일치하는 유일한 정답"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(designer): 정답과 동일한 단원 어휘·문법 범주의 그럴듯한 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "pianist 제외 시 정답(violinist) + 남은 오답(scientist, designer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "scientist 제외 시 정답(violinist) + 남은 오답(pianist, designer) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "designer 제외 시 정답(violinist) + 남은 오답(pianist, scientist) 3지선다에서도 평가 목표와 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng5-ham-u12:q32",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q32(SHORT): 출처(PDF p.42 (176쪽 Special 12)) 대조 결과 정답 유일성 확인, 허용 구두 답안(I want to be a violinist., a violinist, violinist) 검토 완료"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q32: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q32: 삽화만으로 단서 우회 불가하며 영어 어휘·문장 이해 필수"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q32: 활성 의도 ['I009'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng5-ham-u12:q33",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q33(OX): 출처(PDF p.39 (173쪽 Let's Write 유형 응용)) 대조 결과 정답 유일성 확인"
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q33: 문항 내 텍스트·그림에 충분한 근거 제시, 관찰 행동과 장래 희망·선호 조건 구분 및 직업-취미 단정 배제 확인"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q33: 이미지 없는 텍스트 문항으로 이미지 우회 차단(q30 그림 제거 포함), 문자열 복사·형태 단서 없음 확인"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng5-ham-u12:q33: 활성 의도 ['I008'] 및 2022 개정 초5 영어 Lesson 12 성취 범위 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    }
+  ],
+  "units": [
+    {
+      "unitId": "UQ001",
+      "status": "PASS",
+      "evidence": "UQ001(eng5-ham-u12:q01, eng5-ham-u12:q02): 핵심 직업 actor 시각 식별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ002",
+      "status": "PASS",
+      "evidence": "UQ002(eng5-ham-u12:q03): 핵심 직업 designer 시각 식별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ003",
+      "status": "PASS",
+      "evidence": "UQ003(eng5-ham-u12:q04): 핵심 직업 scientist 시각 식별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ004",
+      "status": "PASS",
+      "evidence": "UQ004(eng5-ham-u12:q05): 영어→그림 역방향 매칭(animal trainer) — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ005",
+      "status": "PASS",
+      "evidence": "UQ005(eng5-ham-u12:q06): 문장 맥락 속 travel writer 의미 파악 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ006",
+      "status": "PASS",
+      "evidence": "UQ006(eng5-ham-u12:q07): pianist와 soccer player 어휘 구분 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ007",
+      "status": "PASS",
+      "evidence": "UQ007(eng5-ham-u12:q08): 핵심 직업 soccer player 문장 적용 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ008",
+      "status": "PASS",
+      "evidence": "UQ008(eng5-ham-u12:q09): scientist 빈발 철자 오류 구별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ009",
+      "status": "PASS",
+      "evidence": "UQ009(eng5-ham-u12:q10): designer 핵심 철자(d, n) 완성 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ010",
+      "status": "PASS",
+      "evidence": "UQ010(eng5-ham-u12:q11, eng5-ham-u12:q12): What do you want to be?와 타 단원 의문문 구별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ012",
+      "status": "PASS",
+      "evidence": "UQ012(eng5-ham-u12:q13): I want to be + 직업 어순 구성 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ013",
+      "status": "PASS",
+      "evidence": "UQ013(eng5-ham-u12:q14, eng5-ham-u12:q15): want to be 구조 정확성 및 구두 산출 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ014",
+      "status": "PASS",
+      "evidence": "UQ014(eng5-ham-u12:q16): 모음 시작 직업 앞 an 결합 규칙 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ015",
+      "status": "PASS",
+      "evidence": "UQ015(eng5-ham-u12:q17, eng5-ham-u12:q18): a/an/to/at 중 부정관사 an 정확 선택 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ016",
+      "status": "PASS",
+      "evidence": "UQ016(eng5-ham-u12:q19): 자음 시작 직업(scientist) 앞 an 오용 구별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ017",
+      "status": "PASS",
+      "evidence": "UQ017(eng5-ham-u12:q20): going to new places 시각 의미 식별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ018",
+      "status": "PASS",
+      "evidence": "UQ018(eng5-ham-u12:q21): reading picture books 시각 의미 식별 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ019",
+      "status": "PASS",
+      "evidence": "UQ019(eng5-ham-u12:q22): I like + 동명사 형태 정확성 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ020",
+      "status": "PASS",
+      "evidence": "UQ020(q23, q24): 두 문항 모두 designer - drawing pictures 어휘 관계를 평가하므로 독립 단위 중복을 해소해 하나의 변형 묶음(g20)으로 통합했다. 이에 따라 개인전 독립 단위가 27개에서 26개로 조정되었으며 최소 25개 기준을 충족한다."
+    },
+    {
+      "unitId": "UQ022",
+      "status": "PASS",
+      "evidence": "UQ022(eng5-ham-u12:q25): meeting new people·travel writer 통합 의미 이해 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ023",
+      "status": "PASS",
+      "evidence": "UQ023(eng5-ham-u12:q26): I can ~ 포함 다문장 소개 글 독해 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ024",
+      "status": "PASS",
+      "evidence": "UQ024(eng5-ham-u12:q34, eng5-ham-u12:q35): 글 맥락 기반 장래 희망 추론 능력 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ025",
+      "status": "PASS",
+      "evidence": "UQ025(eng5-ham-u12:q29): write stories와 travel writer 연결 독해 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ026",
+      "status": "PASS",
+      "evidence": "UQ026(eng5-ham-u12:q30): Special 12 원문 표현 정확한 독해 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ027",
+      "status": "PASS",
+      "evidence": "UQ027(eng5-ham-u12:q31, eng5-ham-u12:q32): 확장 직업 어휘 violinist 이해 및 산출 — 타 단위와 중복되지 않는 독립 출제 단위"
+    },
+    {
+      "unitId": "UQ028",
+      "status": "PASS",
+      "evidence": "UQ028(eng5-ham-u12:q33): watching videos·reading books·actor 통합 독해 OX — 타 단위와 중복되지 않는 독립 출제 단위"
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/act_going_new_places.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9834B), 몽타주 육안 검수 PASS: 배낭·카메라·성곽 풍경 여행 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/act_reading_books.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9826B), 몽타주 육안 검수 PASS: 소파에서 동물 그림책 읽는 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_actor.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9882B), 몽타주 육안 검수 PASS: 무대·카메라·연기 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_animal_trainer.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9878B), 몽타주 육안 검수 PASS: 공원 강아지 훈련 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_designer.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9520B), 몽타주 육안 검수 PASS: 태블릿 캐릭터 작업 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_pianist.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 8744B), 몽타주 육안 검수 PASS: 그랜드 피아노 연주 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_scientist.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9998B), 몽타주 육안 검수 PASS: 실험복·보안경·현미경·플라스크 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_soccer_player.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9798B), 몽타주 육안 검수 PASS: 축구 유니폼·골대·축구공 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_travel_writer.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 10300B), 몽타주 육안 검수 PASS: 여행지 노트 집필·카메라 명확, 20KB 이하 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    },
+    {
+      "src": "assets/job_violinist.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9534B), 몽타주 육안 검수 PASS: 바이올린 연주 장면 명확, 텍스트 없음 | 장면이 입증하는 범위(직업/행동 시각화) 내에서만 사용, 장래 희망·선호는 발문 조건으로 분리, 320px WebP 가독성 및 용량 예산 충족"
+    }
+  ]
+}

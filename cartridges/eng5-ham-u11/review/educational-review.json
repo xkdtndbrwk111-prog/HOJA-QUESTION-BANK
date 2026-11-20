@@ -1,0 +1,175 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini AI (hoja-question-bank V0.3.0-rc4 REMASTER Lesson 11 rev.3); GPT 감독 rev.4 수정 검수",
+  "teacherApproval": "PENDING",
+  "notes": "rev.3 제작자의 출처 검수 선언 유지(독립 PDF 확인 미실시). rev.4 q32/q36 수정, g26 통합. 교사 확정은 별도 approval.json. 운영 게임 NOT_RUN.",
+  "questions": [
+    {
+      "questionId": "eng5-ham-u11:q01",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q02",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q03",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.16 (150쪽), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q04",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q05",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q06",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q07",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q08",
+      "status": "PASS",
+      "evidence": "출처(PDF p.24 (158쪽 Ready to Write Words 5번), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q09",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.24 (158쪽), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q10",
+      "status": "PASS",
+      "evidence": "출처(PDF p.24 (158쪽 Ready to Write Words 2번)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q11",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽), p.21 (155쪽), p.26 (160쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q12",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽), p.22 (156쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q13",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.21 (155쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q14",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽), p.24 (158쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q15",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림(미술 과목)과 선호(favorite)를 구분하도록 역할 조건 명시"
+    },
+    {
+      "questionId": "eng5-ham-u11:q16",
+      "status": "PASS",
+      "evidence": "출처(PDF p.21 (155쪽), p.22~23 (156~157쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q17",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림으로 입증되는 행동 표현(drawing pictures)만 묻도록 발문 수정"
+    },
+    {
+      "questionId": "eng5-ham-u11:q18",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림 속 행동과 능력(good at)을 구분하도록 소개 상황 조건 명시"
+    },
+    {
+      "questionId": "eng5-ham-u11:q19",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림 속 행동과 능력(good at) 구분 조건 명시"
+    },
+    {
+      "questionId": "eng5-ham-u11:q20",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 그림 속 행동과 능력(good at) 구분 조건 명시"
+    },
+    {
+      "questionId": "eng5-ham-u11:q21",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): 선호 과목과 능력의 필연적 단정을 피하고 교과 수업 활동의 직접적 관련성으로 발문 명확화"
+    },
+    {
+      "questionId": "eng5-ham-u11:q22",
+      "status": "PASS",
+      "evidence": "rev.2 IMPROVE 검수 PASS: rev.2(RC4): science-making robots의 일반화 논란을 해소하고 보편적·교과서적 관련성이 명확하며 문자열 중복이 없는 art - drawing pictures로 개선"
+    },
+    {
+      "questionId": "eng5-ham-u11:q23",
+      "status": "PASS",
+      "evidence": "출처(PDF p.21 (155쪽), p.24 (158쪽), p.26 (160쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q24",
+      "status": "PASS",
+      "evidence": "출처(PDF p.19 (153쪽), p.21 (155쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q25",
+      "status": "PASS",
+      "evidence": "출처(PDF p.19 (153쪽), p.21 (155쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q26",
+      "status": "PASS",
+      "evidence": "출처(PDF p.21 (155쪽), p.23 (157쪽), p.24 (158쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q27",
+      "status": "PASS",
+      "evidence": "출처(PDF p.25 (159쪽 Let's Write), p.55 (189쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q28",
+      "status": "PASS",
+      "evidence": "출처(PDF p.23 (157쪽 Let's Read)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q29",
+      "status": "PASS",
+      "evidence": "출처(PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    },
+    {
+      "questionId": "eng5-ham-u11:q36",
+      "status": "PASS",
+      "evidence": "영어 두 핵심 정보와 한국어 보기 대조. 모든 보기에 과목·활동을 함께 제시하여 길이/진술 수 단서 완화. 일부 3지선다에서 과목만으로 판별 가능; 두 정보 동시 이해를 모든 조합에서 인증하지 않음."
+    },
+    {
+      "questionId": "eng5-ham-u11:q37",
+      "status": "PASS",
+      "evidence": "rev.3 REBUILD 검수 PASS: q36과 동일 묶음(g26)의 우리말 구두 응답 변형으로 영어 문자열 복사 없이 두 핵심 정보 이해 평가"
+    },
+    {
+      "questionId": "eng5-ham-u11:q32",
+      "status": "PASS",
+      "evidence": "제시된 두 영어 발화와 정답 일치. q36/q37과 같은 핵심 의미이므로 g26 통합. 일부 조합에서 활동만으로 정답 선택 가능; 교과서 PDF 원문 독립 확인 미실시."
+    },
+    {
+      "questionId": "eng5-ham-u11:q33",
+      "status": "PASS",
+      "evidence": "출처(PDF p.22~23 (156~157쪽), p.55 (189쪽 유형 응용)) 대조, 정답 유일성·동일 범주 오답·교차표현(문자열 복사 차단)·시각 자료 일치 확인 (RC4 전수 재검수 유지)"
+    }
+  ]
+}

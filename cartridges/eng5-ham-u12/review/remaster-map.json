@@ -1,0 +1,272 @@
+{
+  "baseCartridgeId": "eng5-ham-u12",
+  "baseRevision": 2,
+  "baseVersion": "aecbd7ef48110c6b26216cca3fe204f7d65c812a0794720a2c7e94325c451eb5",
+  "oldQuestions": [
+    {
+      "oldQuestionId": "eng5-ham-u12:q01",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q01"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q02",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q02"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q03",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q03"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q04",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q04"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q05",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q05"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q06",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q06"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q07",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q07"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q08",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q08"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q09",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q09"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q10",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q10"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q11",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q11"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q12",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q12"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q13",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q13"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q14",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q14"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q15",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q15"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q16",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q16"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q17",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q17"
+      ],
+      "reason": "감독 지시 반영: 명사구 문법 정확성(관사 유무·a/an·단복수) 문항으로 rev.2 상태 유지(KEEP), rc3-review.json의 3지선다 조합별 실제 평가 내용만 정밀화"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q18",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q18"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q19",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q19"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q20",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q20"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q21",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q21"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q22",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q22"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q23",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u12:q23"
+      ],
+      "reason": "감독 지시 반영: q23과 q24가 모두 designer - drawing pictures 어휘 관계를 평가하므로 독립 단위 중복을 해소하기 위해 동일 groupId(g20)로 통합(기존 ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q24",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng5-ham-u12:q24"
+      ],
+      "reason": "감독 지시 반영: q23과 q24가 모두 designer - drawing pictures 어휘 관계를 평가하므로 독립 단위 중복을 해소하기 위해 동일 groupId(g20)로 통합(기존 ID 유지)"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q25",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q25"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q26",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q26"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q34",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q34"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q35",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q35"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q29",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q29"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q30",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q30"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q31",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q31"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q32",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q32"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    },
+    {
+      "oldQuestionId": "eng5-ham-u12:q33",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng5-ham-u12:q33"
+      ],
+      "reason": "정상 문항으로 원본 JSON 및 ID 무변조 보존"
+    }
+  ],
+  "newQuestionIds": []
+}

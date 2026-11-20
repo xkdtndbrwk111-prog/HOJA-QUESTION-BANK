@@ -1,0 +1,12 @@
+{
+  "cartridgeId": "eng5-ham-u12",
+  "revision": 3,
+  "version": "f58f223a5c32e3b09c7c5f31ef5b0225ee54af9cc494fa5dda9b955155b0a9d8",
+  "teacherApproval": "APPROVED",
+  "evidence": "2026-11-20 교사 요청: 그래 그렇게 수정해서 확정해줘. 제안한 11단원 q36 보기 조정 및 g26 통합, 12단원 rev.3 유지에 대한 확정 승인.",
+  "deliveryStatus": "HOLD",
+  "supersedesLegacyId": "legacy-2e92d45956bee4",
+  "gameCertification": "NOT_CERTIFIED",
+  "classificationSourceCertification": "NOT_CERTIFIED",
+  "independentSourceCheck": "NOT_RUN"
+}

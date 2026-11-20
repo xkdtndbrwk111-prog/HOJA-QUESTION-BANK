@@ -1,0 +1,12 @@
+[
+  {"id": "C001", "focus": "핵심 직업 어휘 7개: actor, designer, pianist, scientist, animal trainer, soccer player, travel writer", "evidence": "단원 도입 Words 7개 및 붙임딱지, 3~6차시·스스로 다지기 반복 학습", "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.38 (172쪽), p.56 (190쪽), p.65 (199쪽)"},
+  {"id": "C002", "focus": "직업 어휘 철자 완성 및 어구 구성", "evidence": "5차시 Ready to Write Words 철자 채우기(_ctor, pia_ist, _cien_ist, _esig_er 등)", "locator": "PDF p.38 (172쪽), p.56 (190쪽)"},
+  {"id": "C003", "focus": "장래 희망 묻기 의문문: What do you want to be?", "evidence": "단원 제목 및 1~3차시, 6차시, Special 12 핵심 의문문", "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.35 (169쪽), p.42 (176쪽)"},
+  {"id": "C004", "focus": "장래 희망 답하기 문장 및 어순: I want to be a/an [직업].", "evidence": "2~6차시 핵심 응답 구문 및 My Work 4번 낱말 배열(want / I / be / an animal trainer. / to)", "locator": "PDF p.33 (167쪽), p.34 (168쪽), p.35 (169쪽), p.41 (175쪽)"},
+  {"id": "C005", "focus": "부정관사 a vs an 구별 (an actor, an animal trainer vs a designer, a pianist, a scientist, a soccer player, a travel writer)", "evidence": "3차시 Read and Write(I want to be an ___ / a ___), Play 3 빈칸 구별 연습", "locator": "PDF p.34 (168쪽), p.35 (169쪽)"},
+  {"id": "C006", "focus": "좋아하는 것 표현하기: I like [동명사구]. (playing the piano, drawing pictures, going to new places 등)", "evidence": "2차시 Talk Like This 'I like playing the piano.', 4~6차시 읽기·쓰기 핵심 표현", "locator": "PDF p.32~33 (166~167쪽), p.36~41 (170~175쪽)"},
+  {"id": "C007", "focus": "직업과 어울리는 좋아하는 활동 어구 연결하기 (7쌍 + reading picture books, meeting new people 등)", "evidence": "4차시 Before You Read, 5차시 Sentences, 6차시 Project STEP 1 직업-활동 연결", "locator": "PDF p.36~38 (170~172쪽), p.40 (174쪽)"},
+  {"id": "C008", "focus": "장래 희망 소개 글 읽고 세부 정보(좋아하는 것·할 수 있는 것 I can ~·장래 희망) 파악 및 추론", "evidence": "4차시 character designer/travel writer 읽기, 5차시 Jiho, My Work Juha, 스스로 다지기", "locator": "PDF p.36~37 (170~171쪽), p.39 (173쪽), p.41 (175쪽), p.56 (190쪽)"},
+  {"id": "C009", "focus": "Special 12 아인슈타인 이야기 원문 표현 및 확장 어휘(violinist, playing the violin)", "evidence": "원문 발화 'I like playing the violin.', 'What do you want to be?', 'I want to be a violinist.', 'I want to be a scientist.'", "locator": "PDF p.42 (176쪽 Special 12 Into the History)"},
+  {"id": "C010", "focus": "오디오 대본이 없는 교과서 듣기 활동 (Mohan·Amy, 우주·Tom, Listen and Number)", "evidence": "PDF에 듣기 대본이 수록되어 있지 않은 듣기 전용 활동", "locator": "PDF p.30 (164쪽), p.32 (166쪽), p.41 (175쪽)"}
+]

@@ -1,0 +1,17 @@
+{
+  "id": "eng5-ham-u11",
+  "version": "39b312e032acdbf9111a35bbb319e36fca7bd0d88215a941d4188eb112e5888e",
+  "files": {
+    "assets/act_drawing_pictures.webp": "a1626dad8d8bb89702fbdf17415e2adb0c1b6c5e72d2bea88459f238b434586f",
+    "assets/act_making_robots.webp": "93ce1fe4506412919ba77f265418bbd67b9aa614a5f1479eb77721d4c6cd335d",
+    "assets/act_playing_music.webp": "3c2ba1ff7bc4fa0a533ef56b8155a2287c25de4f4876450c0b633566233f5f98",
+    "assets/act_playing_sports.webp": "74bf30b821f95f8d442d73af4efbe9746cd3b8a0ecfe7fe98b7f57e23f4f906b",
+    "assets/subj_art.webp": "d3fa2c250fa7f69db290a47ec32e85d4926efcf216e5b11bcb6d1712881d0cbb",
+    "assets/subj_english.webp": "618ae686a09a8eb3bc689b41eb91a672c1d965693c95e78242d87ef53f94e8e7",
+    "assets/subj_math.webp": "6dfe977fd4c029739814e9b13570a06e61904af34f3100097c6cb5fa4a726a5c",
+    "assets/subj_music.webp": "17c56f9fda5420c3294a66fecf7dc56a00ae04c5e3ee8d6bcc13b34645c7fe05",
+    "assets/subj_pe.webp": "8a469997de18c871a98482fa6bc34404274971c4f2fbf8603251723c26a0e0b4",
+    "assets/subj_science.webp": "25c132c4d7c73911bc90a874dd79fed5677d88bd40df28e638ea0f0252626659",
+    "cartridge.json": "4c17c2ed49d1130f9a50544ab5d0fd5c2b8825caecfc2ac0150665ba3c4dd9fd"
+  }
+}

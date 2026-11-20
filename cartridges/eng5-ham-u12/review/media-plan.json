@@ -1,0 +1,111 @@
+[
+  {
+    "src": "assets/act_going_new_places.webp",
+    "role": "새로운 장소 여행(going to new places) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q20"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9834B), 몽타주 육안 검수 PASS: 배낭·카메라·성곽 풍경 여행 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/act_reading_books.webp",
+    "role": "그림책 읽기(reading picture books) 활동 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q21"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9826B), 몽타주 육안 검수 PASS: 소파에서 동물 그림책 읽는 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_actor.webp",
+    "role": "배우(actor) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q01",
+      "eng5-ham-u12:q02",
+      "eng5-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9882B), 몽타주 육안 검수 PASS: 무대·카메라·연기 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_animal_trainer.webp",
+    "role": "동물 훈련사(animal trainer) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9878B), 몽타주 육안 검수 PASS: 공원 강아지 훈련 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_designer.webp",
+    "role": "디자이너(designer) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q03",
+      "eng5-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9520B), 몽타주 육안 검수 PASS: 태블릿 캐릭터 작업 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_pianist.webp",
+    "role": "피아니스트(pianist) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q05",
+      "eng5-ham-u12:q07",
+      "eng5-ham-u12:q15"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 8744B), 몽타주 육안 검수 PASS: 그랜드 피아노 연주 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_scientist.webp",
+    "role": "과학자(scientist) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q04",
+      "eng5-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9998B), 몽타주 육안 검수 PASS: 실험복·보안경·현미경·플라스크 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_soccer_player.webp",
+    "role": "축구선수(soccer player) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q05",
+      "eng5-ham-u12:q08"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9798B), 몽타주 육안 검수 PASS: 축구 유니폼·골대·축구공 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/job_travel_writer.webp",
+    "role": "여행 작가(travel writer) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q05",
+      "eng5-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 10300B), 몽타주 육안 검수 PASS: 여행지 노트 집필·카메라 명확, 20KB 이하"
+  },
+  {
+    "src": "assets/job_violinist.webp",
+    "role": "바이올리니스트(violinist) 직업 시각화",
+    "questionIds": [
+      "eng5-ham-u12:q31",
+      "eng5-ham-u12:q32"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x2 그리드 생성 후 pack_grid.py 분할(320x320, 9534B), 몽타주 육안 검수 PASS: 바이올린 연주 장면 명확, 텍스트 없음"
+  }
+]

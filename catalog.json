@@ -2,7 +2,7 @@
   "schemaVersion": "hoja-catalog.1",
   "publication": "NOT_APPROVED",
   "deliveryStatus": "HOLD",
-  "approvedCount": 1,
+  "approvedCount": 3,
   "legacyHeldCount": 76,
   "cartridges": [
     {
@@ -28,6 +28,54 @@
       "questionCount": 36,
       "soloUnits": 30,
       "supersedesLegacyId": "legacy-b0c419ba243afa"
+    },
+    {
+      "id": "eng5-ham-u11",
+      "path": "cartridges/eng5-ham-u11/cartridge.json",
+      "version": "39b312e032acdbf9111a35bbb319e36fca7bd0d88215a941d4188eb112e5888e",
+      "revision": 4,
+      "title": "초등학교 영어 5 (천재·함순애) Lesson 11 My Favorite Subject Is Math",
+      "classification": {
+        "curriculum": "2022",
+        "grade": 5,
+        "semester": 2,
+        "subject": "영어",
+        "publisher": "천재교과서",
+        "leadAuthor": "함순애",
+        "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+        "unitNumber": 11,
+        "unitTitle": "My Favorite Subject Is Math"
+      },
+      "classificationStatus": "declared_verified_structure",
+      "teacherApproval": "APPROVED",
+      "deliveryStatus": "HOLD",
+      "questionCount": 33,
+      "soloUnits": 27,
+      "supersedesLegacyId": "legacy-1a28074288ef38"
+    },
+    {
+      "id": "eng5-ham-u12",
+      "path": "cartridges/eng5-ham-u12/cartridge.json",
+      "version": "f58f223a5c32e3b09c7c5f31ef5b0225ee54af9cc494fa5dda9b955155b0a9d8",
+      "revision": 3,
+      "title": "초등학교 영어 5 (천재·함순애) Lesson 12 What Do You Want to Be?",
+      "classification": {
+        "curriculum": "2022",
+        "grade": 5,
+        "semester": 2,
+        "subject": "영어",
+        "publisher": "천재교과서",
+        "leadAuthor": "함순애",
+        "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-860-9 63740)",
+        "unitNumber": 12,
+        "unitTitle": "What Do You Want to Be?"
+      },
+      "classificationStatus": "declared_verified_structure",
+      "teacherApproval": "APPROVED",
+      "deliveryStatus": "HOLD",
+      "questionCount": 33,
+      "soloUnits": 26,
+      "supersedesLegacyId": "legacy-2e92d45956bee4"
     }
   ],
   "legacyHeld": [
@@ -800,7 +848,8 @@
       "teacherApproval": "PENDING",
       "deliveryStatus": "HOLD",
       "questionCount": 32,
-      "soloUnits": 26
+      "soloUnits": 26,
+      "supersededBy": "eng5-ham-u11"
     },
     {
       "id": "legacy-2e92d45956bee4",
@@ -822,7 +871,8 @@
       "teacherApproval": "PENDING",
       "deliveryStatus": "HOLD",
       "questionCount": 33,
-      "soloUnits": 26
+      "soloUnits": 26,
+      "supersededBy": "eng5-ham-u12"
     },
     {
       "id": "legacy-a7e58227f8c40a",
