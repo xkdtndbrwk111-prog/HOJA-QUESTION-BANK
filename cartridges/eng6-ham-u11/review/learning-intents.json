@@ -1,0 +1,83 @@
+[
+  {
+    "id": "I001",
+    "status": "KEEP",
+    "candidateIds": [
+      "C001"
+    ],
+    "focus": "세계 전통 문화 어구 6개의 의미와 그림 연결",
+    "reason": "단원 기초 핵심 어휘"
+  },
+  {
+    "id": "I002",
+    "status": "KEEP",
+    "candidateIds": [
+      "C002"
+    ],
+    "focus": "국가·지역 형용사 대문자 표기 및 어구 완성 정확성",
+    "reason": "3·5차시 핵심 쓰기 목표"
+  },
+  {
+    "id": "I003",
+    "status": "KEEP",
+    "candidateIds": [
+      "C003"
+    ],
+    "focus": "알고 있는지 묻고 답하기(Do you know anything about ~? / Yes, I do. / No, I don't.)",
+    "reason": "핵심 의사소통 기능 1"
+  },
+  {
+    "id": "I004",
+    "status": "KEEP",
+    "candidateIds": [
+      "C004"
+    ],
+    "focus": "모르고 있음을 표현하기(I have no idea.)의 의미와 상황 적용",
+    "reason": "핵심 의사소통 기능 2"
+  },
+  {
+    "id": "I005",
+    "status": "KEEP",
+    "candidateIds": [
+      "C005"
+    ],
+    "focus": "단수(It's a ~)와 복수(They're / They are ~) 수 일치 정확성",
+    "reason": "3·5차시 핵심 문법 구별"
+  },
+  {
+    "id": "I006",
+    "status": "KEEP",
+    "candidateIds": [
+      "C006"
+    ],
+    "focus": "대상의 특징 묘사 형용사(tasty, fun, beautiful, nice) 이해 및 문장 적용",
+    "reason": "5차시 설명 글 쓰기 확장 표현"
+  },
+  {
+    "id": "I007",
+    "status": "KEEP",
+    "candidateIds": [
+      "C007"
+    ],
+    "focus": "도우미 로봇(Helper Robots) 설명 글 독해 및 문장 어순 구성",
+    "reason": "4차시·My Work 핵심 독해·쓰기 목표"
+  },
+  {
+    "id": "I008",
+    "status": "KEEP",
+    "candidateIds": [
+      "C008"
+    ],
+    "focus": "Special 11 원문 대화(egg-and-spoon races, an English game) 독해",
+    "reason": "Special 11 원문 표현 이해"
+  },
+  {
+    "id": "I009",
+    "status": "DROP",
+    "candidateIds": [
+      "C009"
+    ],
+    "focus": "오디오 대본 없는 듣기 활동 내용 암기",
+    "reason": "PDF 대본 미수록 및 장면 암기 금지 원칙"
+  }
+]

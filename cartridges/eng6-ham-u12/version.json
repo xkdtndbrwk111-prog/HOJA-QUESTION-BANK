@@ -1,0 +1,13 @@
+{
+  "id": "eng6-ham-u12",
+  "version": "b48d030017f0b9e2e8a8bb0c84c63f13bd0915a4100ae24d2bf940f1f6a141e9",
+  "files": {
+    "assets/cleaned_street.webp": "289362d475b55998c5a4fb169e244633fc97e78321e7c05c4c3e6fd561de9dd2",
+    "assets/made_album.webp": "234af8304d2c2802f202de54a699fbd1bb090d3047f8fb4cb22ca9886c2f2d7c",
+    "assets/painted_wall.webp": "ebba31b915fba8e13dff35e3140b0cc8294e3e7a9c9d44350df67d61cb3eb742",
+    "assets/took_pictures.webp": "b8e54e0f55ad7c7f4c9c36598eca5e8e4c513b47f1beda6c5cc14137b530361a",
+    "assets/won_quiz.webp": "9a949823611098b35420b4057ea34a020375d530c15259b12ad5a08381f3e476",
+    "assets/wrote_book.webp": "6cd9405bc979d90479aea8283acfc3fd09700c9a65c3a2a98909bd0d16a4efd4",
+    "cartridge.json": "bdc763c8bd04997704a413e4daa2d1fda9ef51bddb98d466e6a0d18d3570f53d"
+  }
+}

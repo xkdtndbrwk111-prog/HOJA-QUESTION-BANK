@@ -1,0 +1,13 @@
+{
+  "id": "eng6-ham-u11",
+  "version": "4bf5ca4efb93b3156213830226c08594b1779f134299a1a5060bf5b7cdb140b8",
+  "files": {
+    "assets/boomerangs.webp": "b8e52b59cfbc8dbd818ed3c07c3d9690293938da81ba8204f697323989e177af",
+    "assets/djembes.webp": "4cb6086c6b47b8ae7e3c17c1c6a396ed4fb26a1891dafe89e2b5ae07eed67c9b",
+    "assets/non_la.webp": "b5547bc032e8825f6f692d5aac723b051ae115818d5e37d42f0ca0fda333ecc1",
+    "assets/saris.webp": "1c2e4fa3c0ac6eae4dbda2034e81ceaeeb6577dd2a12cbc5d4079e7fa4b8b1b0",
+    "assets/tuho.webp": "a94d80e2176032a88763e35ade55804406b17d3f10462cedc8a24cbabdb602f6",
+    "assets/yakgwa.webp": "c7d3de7b9fecec3ab35c3ca09ee99dd6f022c6b8dcc3381a805adca48abdc8b4",
+    "cartridge.json": "4c9ddbdc5f6a4a6330ac781687ad24e007a8c96f130b91c7b95103e60ff66d6a"
+  }
+}

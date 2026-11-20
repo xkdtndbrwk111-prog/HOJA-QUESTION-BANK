@@ -1,0 +1,175 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "teacherApproval": "PENDING",
+  "notes": "eng6-ham-u10 rev.2 REMASTER 교육적 검수 완료. OX O2/X3 균형화, q14 정답 노출 제거, q15·q16 단위 통합(g13), q25·q26→q37·q38 문자열 복사 우회 제거, q29 보기 균형화, q32 2×2 교차 오답 개선. 실게임/공통 렌더러 시험 미실행(NOT_RUN), 교사 승인 보류(PENDING). / rev.3: 동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위. / 교사 승인 별도 approval.json, 독립 전수 원문 대조 및 운영 게임 NOT_RUN.",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u10:q01",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q02",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q03",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.10 (144쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q04",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.6 (140쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q05",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q06",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.8 (142쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q07",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.10 (144쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q08",
+      "status": "PASS",
+      "evidence": "출처(PDF p.10 (144쪽 Ready to Write 5번), p.54 (188쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q09",
+      "status": "PASS",
+      "evidence": "출처(PDF p.7 (141쪽), p.10 (144쪽 Ready to Write 1, 4번)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q10",
+      "status": "PASS",
+      "evidence": "출처(PDF p.1 (135쪽), p.6 (140쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q11",
+      "status": "PASS",
+      "evidence": "출처(PDF p.6~7 (140~141쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q12",
+      "status": "PASS",
+      "evidence": "출처(PDF p.6 (140쪽), p.13 (147쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q13",
+      "status": "PASS",
+      "evidence": "출처(PDF p.5 (139쪽), p.10 (144쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q14",
+      "status": "PASS",
+      "evidence": "[정답근거] frequency 블록(수요일 1회 표시)을 해석해 주 1회(once a week) 산출. [오답/허용답안] once a week / Once a week. / I exercise once a week. 허용. [우회경로검토] 기존 발문의 '일주일에 한 번' 노출을 제거해 기록표 해석 없이 번역만으로 푸는 우회 차단. [시각정보구분] frequency 블록에서 1주일 중 1회 표시가 직접 관찰되며 추가 전제 불필요. [단위근거] q13(MCQ)과 동일 학습 증거(주 1회 frequency 해석)의 구두 변형으로 g12 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q15",
+      "status": "PASS",
+      "evidence": "[정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q16",
+      "status": "PASS",
+      "evidence": "[정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+    },
+    {
+      "questionId": "eng6-ham-u10:q34",
+      "status": "PASS",
+      "evidence": "[정답근거] frequency 블록에 토·일이 비어 있는 주 5회 표시이므로 every day 진술은 거짓(X). [오답이유] O 선택은 표시가 많다는 인상만으로 every day(매일=7일)의 정확한 의미를 놓친 오류. [우회경로검토] OX 정답 분포를 O2/X3으로 균형화해 O 찍기 전략 차단. [시각정보구분] frequency 블록에서 월~금 5회 표시, 토·일 미표시가 직접 관찰됨. [단위근거] every day 개념의 정확한 경계를 평가하는 독립 단위 유지. / 동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위."
+    },
+    {
+      "questionId": "eng6-ham-u10:q18",
+      "status": "PASS",
+      "evidence": "출처(PDF p.6 (140쪽), p.8 (142쪽), p.11 (145쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q19",
+      "status": "PASS",
+      "evidence": "출처(PDF p.6 (140쪽), p.11 (145쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q20",
+      "status": "PASS",
+      "evidence": "출처(PDF p.6 (140쪽), p.11 (145쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q21",
+      "status": "PASS",
+      "evidence": "출처(PDF p.13 (147쪽 My Work 3~4번)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q22",
+      "status": "PASS",
+      "evidence": "출처(PDF p.5 (139쪽 Talk Like This 2), p.13 (147쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q35",
+      "status": "PASS",
+      "evidence": "[정답근거] don't eat vegetables(채소를 먹지 않음)는 건강하지 않은 습관이므로 칭찬 표현 Good for you.는 부적절(X). [오답이유] O 선택은 don't 부정어를 놓치거나 Good for you.의 칭찬 기능을 오해한 오류. [우회경로검토] 한국어 설명만으로 O를 고를 수 없고 영어 발화의 부정 의미를 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] q22와 동일 학습 초점(Good for you. 화용 판단)의 OX 변형으로 g19 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q24",
+      "status": "PASS",
+      "evidence": "출처(PDF p.9 (143쪽), p.11 (145쪽), p.13 (147쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q37",
+      "status": "PASS",
+      "evidence": "[정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q38",
+      "status": "PASS",
+      "evidence": "[정답근거] 'You should drink water more often.'에서 조언 대상 행동은 '물 마시기'. [오답/허용답안] 물 마시기/물을 마시기/물 마시는 것/물을 마시는 것/물을 더 자주 마시기 허용. [우회경로검토] 영어 문자열을 그대로 읽지 않고 한국어 의미로 변환해 말해야 하므로 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화 조언 이해의 구두 변형으로 g21 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q27",
+      "status": "PASS",
+      "evidence": "출처(PDF p.9 (143쪽), p.13 (147쪽)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q28",
+      "status": "PASS",
+      "evidence": "출처(PDF p.8 (142쪽 Before You Read)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q29",
+      "status": "PASS",
+      "evidence": "[정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q30",
+      "status": "PASS",
+      "evidence": "출처(PDF p.11 (145쪽 Let's Write 2번)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q31",
+      "status": "PASS",
+      "evidence": "출처(PDF p.11 (145쪽 Let's Write 2번)) 대조, 정답 유일성·동일 범주 오답·교차표현 및 관찰/빈도 분리 확인"
+    },
+    {
+      "questionId": "eng6-ham-u10:q32",
+      "status": "PASS",
+      "evidence": "[정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u10:q36",
+      "status": "PASS",
+      "evidence": "[정답근거] 원문은 물=매일(every day), 운동=주 3회(three times a week)이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 '물, 운동, 매일, 주 3회' 키워드만 확인하고 문장별 주어-동사-빈도 결합을 놓친 오류. [우회경로검토] 단어 존재 여부만으로는 풀 수 없고 각 문장의 의미 결합을 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] 두 문장 빈도 대응 독해 독립 단위 유지."
+    }
+  ]
+}

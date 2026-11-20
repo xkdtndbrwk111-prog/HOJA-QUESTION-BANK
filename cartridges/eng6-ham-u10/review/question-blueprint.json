@@ -1,0 +1,335 @@
+[
+  {
+    "unitId": "UQ001",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q01",
+      "eng6-ham-u10:q02"
+    ],
+    "assessment": "brush my teeth 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "양치질 삽화 보고 brush my teeth 선택/구두 응답",
+    "distinctReason": "핵심 어휘 brush my teeth 시각 식별"
+  },
+  {
+    "unitId": "UQ002",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q03"
+    ],
+    "assessment": "wash my hands 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "손 씻는 삽화 보고 wash my hands 선택",
+    "distinctReason": "핵심 어휘 wash my hands 시각 식별"
+  },
+  {
+    "unitId": "UQ003",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q04"
+    ],
+    "assessment": "eat vegetables 그림-영어 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "채소 먹는 삽화 보고 eat vegetables 선택",
+    "distinctReason": "핵심 어휘 eat vegetables 시각 식별"
+  },
+  {
+    "unitId": "UQ004",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q05"
+    ],
+    "assessment": "go to the library 영어→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "go to the library 보고 4개 그림 중 도서관 그림 선택",
+    "distinctReason": "영어→그림 역방향 매칭"
+  },
+  {
+    "unitId": "UQ005",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q06"
+    ],
+    "assessment": "drink water 문장→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "I drink water every day.에 맞는 그림 선택",
+    "distinctReason": "문장 맥락 속 drink water 식별"
+  },
+  {
+    "unitId": "UQ006",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q07"
+    ],
+    "assessment": "exercise 그림-어휘 일치 OX",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "줄넘기 운동 삽화와 exercise 일치 판별",
+    "distinctReason": "exercise 시각 의미 확인"
+  },
+  {
+    "unitId": "UQ007",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q08"
+    ],
+    "assessment": "exercise 빈발 오철자 구별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "exersize/exersice/exercise/exrcise 중 정철자 선택",
+    "distinctReason": "exercise 빈발 오철자 구별"
+  },
+  {
+    "unitId": "UQ008",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q09"
+    ],
+    "assessment": "brush/wash 핵심 연어 구별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "___ my teeth / ___ my hands 동사 짝 선택",
+    "distinctReason": "습관 명사와 결합하는 동사 연어 구별"
+  },
+  {
+    "unitId": "UQ009",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q10"
+    ],
+    "assessment": "How often do you ~? 의문문 기능 구별",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "얼마나 자주 채소를 먹는지 묻는 영어 질문 선택",
+    "distinctReason": "How often do you ~? 의문문 기능 구별"
+  },
+  {
+    "unitId": "UQ010",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q11"
+    ],
+    "assessment": "How often / much / many / old 구별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "How ___ do you exercise? (much/often/many/old)",
+    "distinctReason": "How + 형용사/부사 의문사 구별"
+  },
+  {
+    "unitId": "UQ011",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q12"
+    ],
+    "assessment": "twice a day 횟수+기간 단위 구별",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I drink water twice a day.의 우리말 빈도 선택",
+    "distinctReason": "twice + a day 횟수·기간 단위 이해"
+  },
+  {
+    "unitId": "UQ012",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q13",
+      "eng6-ham-u10:q14"
+    ],
+    "assessment": "frequency 블록 주 1회(once a week) 해석",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "frequency 블록(수 1회) 보고 once a week 선택/구두 응답",
+    "distinctReason": "빈도표 주 1회 해석 및 once 표현"
+  },
+  {
+    "unitId": "UQ013",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q15",
+      "eng6-ham-u10:q16",
+      "eng6-ham-u10:q34"
+    ],
+    "assessment": "동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위.",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "주간 빈도표 3회·5회 객관식과 5회 기록의 every day OX",
+    "distinctReason": "동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위."
+  },
+  {
+    "unitId": "UQ015",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q18"
+    ],
+    "assessment": "빈도 명사구(three times a day) 문법 정확성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "three time a day / three times a day / three times day / third times a day 대조",
+    "distinctReason": "빈도 명사구 복수·관사 문법 정확성"
+  },
+  {
+    "unitId": "UQ016",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q19",
+      "eng6-ham-u10:q20"
+    ],
+    "assessment": "질문 your → 응답 my 소유격 전환",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "wash your hands → wash my hands (MCQ+SHORT)",
+    "distinctReason": "주어 전환에 따른 인칭 소유격 일치"
+  },
+  {
+    "unitId": "UQ017",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q21"
+    ],
+    "assessment": "빈도 응답 문장 어순 구성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "(four times / exercise / a week. / I) 배열",
+    "distinctReason": "주어+동사+횟수+기간 어순 구성"
+  },
+  {
+    "unitId": "UQ018",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q22",
+      "eng6-ham-u10:q35"
+    ],
+    "assessment": "칭찬 표현 Good for you. 대화 적용",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "좋은 습관 대화 빈칸(MCQ) 및 기능 판별(OX) 변형 묶음(g19)",
+    "distinctReason": "칭찬 표현 Good for you. 화용 기능 통합 평가"
+  },
+  {
+    "unitId": "UQ019",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q24"
+    ],
+    "assessment": "조언 조동사 should 기능 이해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "You ___ exercise more often. 빈칸 완성",
+    "distinctReason": "조언 표현 You should ~ 구조 이해"
+  },
+  {
+    "unitId": "UQ020",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q37",
+      "eng6-ham-u10:q38"
+    ],
+    "assessment": "My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어)",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "My Work 3~4번 유형 대화 빈칸 drink water (MCQ+SHORT)",
+    "distinctReason": "부족한 습관 파악 후 조언 어구 적용"
+  },
+  {
+    "unitId": "UQ021",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q27"
+    ],
+    "assessment": "That's not good for you. 의미 이해 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "표현의 우리말 쓰임 일치 판별",
+    "distinctReason": "That's not good for you. 화용 의미 확인"
+  },
+  {
+    "unitId": "UQ022",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q28"
+    ],
+    "assessment": "교과서 p.142 영어-우리말 속담 의미 연결",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.142 속담과 우리말 속담 짝짓기",
+    "distinctReason": "단원 도입 영어 속담 이해"
+  },
+  {
+    "unitId": "UQ023",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q29"
+    ],
+    "assessment": "4차시 본문 대화 세부 정보 독해(영어→한국어)",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "대화 지문 읽고 일치하는 한국어 진술 선택",
+    "distinctReason": "건강 습관·조언 대화 세부 사실 독해"
+  },
+  {
+    "unitId": "UQ024",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q30",
+      "eng6-ham-u10:q31"
+    ],
+    "assessment": "생활 습관 글에서 개선 대상 습관 파악",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "민수 생활 습관 글 읽고 고칠 습관 선택(q30) 및 우리말 산출(q31)",
+    "distinctReason": "긍정·부정 습관 대조 독해"
+  },
+  {
+    "unitId": "UQ025",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q32"
+    ],
+    "assessment": "Special 10 원문 발화 4문장 교차 오답 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.148 원문 4발화 읽고 교차 오답 속에서 일치 내용 선택",
+    "distinctReason": "Special 10 두 핵심 습관 동시 독해"
+  },
+  {
+    "unitId": "UQ026",
+    "intentIds": [
+      "I008"
+    ],
+    "questionIds": [
+      "eng6-ham-u10:q36"
+    ],
+    "assessment": "건강 습관 두 문장 활동-빈도 교차 오류 판별 OX(X 정답)",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "물 마시기·운동 두 문장과 우리말 요약 일치 판별",
+    "distinctReason": "복합 빈도 문장 의미 독해 OX"
+  }
+]

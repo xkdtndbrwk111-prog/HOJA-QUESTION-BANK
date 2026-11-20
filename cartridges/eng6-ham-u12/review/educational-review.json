@@ -1,0 +1,175 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "teacherApproval": "PENDING",
+  "notes": "eng6-ham-u12 rev.2 REMASTER 교육적 검수 완료. OX O2/X3 균형화, q03 퀴즈 대회 명시, q07→q34 책 집필 명시+writed 오류 X 재제작, q13·q17 단위 통합(g12), q26→q36 이름 복사 우회 제거, q29 2×2 교차 오답, q32 '멋진' 불일치 제거, q33→q35 인물·활동 분리 X 재제작. 실게임/공통 렌더러 시험 미실행(NOT_RUN), 교사 승인 보류(PENDING). / rev.3: write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님. / 교사 승인 별도 approval.json, 독립 전수 원문 대조 및 운영 게임 NOT_RUN.",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u12:q01",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q02",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q03",
+      "status": "PASS",
+      "evidence": "[정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u12:q04",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q05",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q06",
+      "status": "PASS",
+      "evidence": "출처(PDF p.29 (163쪽), p.34 (168쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q34",
+      "status": "PASS",
+      "evidence": "[정답근거] write의 과거형은 불규칙 변화(wrote)이므로 writed를 사용한 문장은 거짓(X). [오답이유] O 선택은 규칙 변화(-ed)를 불규칙 동사 write에 과잉 일반화한 대표 오류. [우회경로검토] 모호한 그림에 X를 부여한 것이 아니라 상황을 명확히 준 뒤 명확한 문법 오류를 판별하도록 설계. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '책상에서 글을 쓰는 모습'이며, '어제 책을 한 권 집필했다'는 구체적 상황과 과거 시점은 발문에서 명시 제공. [단위근거] 그림 맥락 속 불규칙 과거 문장 정확성 판별 독립 단위 유지. / write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+    },
+    {
+      "questionId": "eng6-ham-u12:q08",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Write 1), p.37 (171쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q09",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽), p.38 (172쪽 Ready to Write 6)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인 / write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+    },
+    {
+      "questionId": "eng6-ham-u12:q10",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37~38 (171~172쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q11",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽), p.38 (172쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q12",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽), p.38 (172쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q13",
+      "status": "PASS",
+      "evidence": "[정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+    },
+    {
+      "questionId": "eng6-ham-u12:q14",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Write 1), p.40 (174쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q15",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Talk & Read and Write 2)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q16",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Talk)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q17",
+      "status": "PASS",
+      "evidence": "[정답근거] 'Did you painted the wall?'은 Did 뒤에 과거형 painted를 쓴 비문이므로 거짓(X). [오답이유] O 선택은 과거 시제라는 이유만으로 동사에도 -ed를 붙이는 이중 과거 오류. [우회경로검토] 기존 X 정답 문항 유지. [시각정보구분] 텍스트 전용 문항. [단위근거] q13(MCQ)과 동일 문법 규칙의 OX 변형으로 g12 통합."
+    },
+    {
+      "questionId": "eng6-ham-u12:q18",
+      "status": "PASS",
+      "evidence": "출처(PDF p.33 (167쪽 Talk Like This 2)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q19",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Write 2번)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q20",
+      "status": "PASS",
+      "evidence": "출처(PDF p.34 (168쪽 Read and Write 2번)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q21",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37 (171쪽 Let's Read), p.40 (174쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q22",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37 (171쪽), p.39~41 (173~175쪽)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q23",
+      "status": "PASS",
+      "evidence": "출처(PDF p.37 (171쪽), p.40 (174쪽 Project)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q24",
+      "status": "PASS",
+      "evidence": "출처(PDF p.36 (170쪽 Let's Read)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q25",
+      "status": "PASS",
+      "evidence": "출처(PDF p.41 (175쪽 My Work 4번)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q36",
+      "status": "PASS",
+      "evidence": "[정답근거] 'Amy made a nice birdhouse.'의 의미는 '멋진 새집을 만들었다'. [오답/허용답안] 멋진 새집을 만들었다/새집을 만들었다/멋진 새집 만들기/새집 만들기/새집을 만듦 허용. [우회경로검토] 이름 문자열 복사를 원천 차단하고 동사(made)+목적어(nice birdhouse) 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q25와 동일 지문(Amy의 새집 제작 사실) 활용 구두 변형으로 g21 유지. / birdhouse 의미상 타당한 구두 답안 추가."
+    },
+    {
+      "questionId": "eng6-ham-u12:q27",
+      "status": "PASS",
+      "evidence": "출처(PDF p.39 (173쪽 Let's Write 2번)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q28",
+      "status": "PASS",
+      "evidence": "출처(PDF p.40 (174쪽 Project STEP 1)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q29",
+      "status": "PASS",
+      "evidence": "[정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u12:q30",
+      "status": "PASS",
+      "evidence": "출처(PDF p.42 (176쪽 Special 12)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q31",
+      "status": "PASS",
+      "evidence": "출처(PDF p.42 (176쪽 Special 12)) 대조, 정답 유일성·과거 시제 문법·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u12:q32",
+      "status": "PASS",
+      "evidence": "[정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u12:q35",
+      "status": "PASS",
+      "evidence": "[정답근거] 지문은 Amy=birdhouse, Mohan and Tom=great pictures이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 등장인물과 활동 단어만 보고 주어-동사 연결을 확인하지 않은 오류. [우회경로검토] OX O2/X3 균형화로 찍기 차단, 문장별 주어-행동 정확 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q24(Uju 공원 청소)와 완전히 다른 두 문장(Amy, Mohan and Tom)의 대응을 평가하므로 독립 단위 유지."
+    }
+  ]
+}

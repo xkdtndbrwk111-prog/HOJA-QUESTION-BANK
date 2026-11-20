@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C001",
+    "focus": "세계 전통 문화 어휘 6개: Korean game(Tuho), Korean cookie(yakgwa), Vietnamese hat(nón lá), Australian toys(boomerangs), African drums(djembes), Indian dresses(saris)",
+    "evidence": "단원 도입 Words 6개 및 3·5차시·스스로 다지기 반복",
+    "locator": "PDF p.15 (149쪽), p.20~21 (154~155쪽), p.24~25 (158~159쪽), p.55 (189쪽)"
+  },
+  {
+    "id": "C002",
+    "focus": "국가·지역 형용사 대문자 표기 및 어구 완성 (Korean, Vietnamese, Australian, African, Indian)",
+    "evidence": "Play 3, Ready to Write Words 빈칸 완성",
+    "locator": "PDF p.21 (155쪽), p.24 (158쪽), p.55 (189쪽)"
+  },
+  {
+    "id": "C003",
+    "focus": "알고 있는지 묻고 답하기: Do you know anything about ~? / Yes, I do. / No, I don't.",
+    "evidence": "단원 제목 및 1~3차시, 5차시 핵심 의문문·응답",
+    "locator": "PDF p.15 (149쪽), p.20~21 (154~155쪽), p.24~25 (158~159쪽)"
+  },
+  {
+    "id": "C004",
+    "focus": "모르고 있음을 표현하기: I have no idea.",
+    "evidence": "2차시 Study Point, Talk Like This 2번, Special 11",
+    "locator": "PDF p.18~19 (152~153쪽), p.28 (162쪽)"
+  },
+  {
+    "id": "C005",
+    "focus": "단수(It's a ~) vs 복수(They're / They are ~) 수 일치 및 설명 문장 구조",
+    "evidence": "Read and Talk/Write, Ready to Write Sentences, Let's Write 보기 A(단수) vs 보기 B(복수)",
+    "locator": "PDF p.20 (154쪽), p.24~25 (158~159쪽)"
+  },
+  {
+    "id": "C006",
+    "focus": "대상의 특징 묘사 표현: It's very tasty/fun/nice. / They are very fun/beautiful/nice.",
+    "evidence": "5차시 Let's Write 특징 표현",
+    "locator": "PDF p.25 (159쪽)"
+  },
+  {
+    "id": "C007",
+    "focus": "Helper Robots 설명 글 독해 및 어순 배열 (clean the house, cook, help doctors and nurses, bring food/water to sick people, play games, tell fun stories)",
+    "evidence": "4차시 Let's Read/After You Read, My Work 3~4번, 스스로 다지기",
+    "locator": "PDF p.22~23 (156~157쪽), p.27 (161쪽), p.55 (189쪽)"
+  },
+  {
+    "id": "C008",
+    "focus": "Special 11 세계 여러 나라의 전통 놀이 원문 대화 독해 (egg-and-spoon races, English game)",
+    "evidence": "Do you know anything about egg-and-spoon races? / I have no idea. / It's an English game.",
+    "locator": "PDF p.28 (162쪽 Special 11)"
+  },
+  {
+    "id": "C009",
+    "focus": "오디오 대본 없는 듣기 활동 (우주·Amy, Linh·Tom, Listen and Number)",
+    "evidence": "PDF 대본 미수록 듣기 전용 활동",
+    "locator": "PDF p.16 (150쪽), p.18 (152쪽), p.27 (161쪽)"
+  }
+]

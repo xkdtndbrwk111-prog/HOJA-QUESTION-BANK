@@ -1,0 +1,72 @@
+[
+  {
+    "src": "assets/boomerangs.webp",
+    "role": "호주 전통 장난감 부메랑(Australian toys, 복수 2개) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q05",
+      "eng6-ham-u11:q06",
+      "eng6-ham-u11:q17",
+      "eng6-ham-u11:q18"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9800B), 18종 몽타주 육안 검수 PASS: 부메랑 2개 복수 수 일치 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/djembes.webp",
+    "role": "아프리카 전통 북 젬베(African drums, 복수 2개) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q05",
+      "eng6-ham-u11:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9472B), 18종 몽타주 육안 검수 PASS: 젬베 2개 복수 수 일치 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/non_la.webp",
+    "role": "베트남 전통 모자 농라(a Vietnamese hat, 단수) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q04",
+      "eng6-ham-u11:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 7154B), 18종 몽타주 육안 검수 PASS: 농라 1개 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/saris.webp",
+    "role": "인도 전통 의상 사리(Indian dresses, 복수 2벌) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q05",
+      "eng6-ham-u11:q06",
+      "eng6-ham-u11:q07"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9952B), 18종 몽타주 육안 검수 PASS: 사리 2벌 복수 수 일치 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/tuho.webp",
+    "role": "한국 전통 놀이 투호(a Korean game, 단수) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q01",
+      "eng6-ham-u11:q02",
+      "eng6-ham-u11:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9234B), 18종 몽타주 육안 검수 PASS: 투호 1세트 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/yakgwa.webp",
+    "role": "한국 전통 과자 약과(a Korean cookie, 단수) 시각화",
+    "questionIds": [
+      "eng6-ham-u11:q03",
+      "eng6-ham-u11:q16"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 6614B), 18종 몽타주 육안 검수 PASS: 약과 1개 명확, 텍스트 없음"
+  }
+]

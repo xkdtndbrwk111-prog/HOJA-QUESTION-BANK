@@ -1,0 +1,13 @@
+{
+  "id": "eng6-ham-u10",
+  "version": "a50294ee914001ebf43558043431ce823e2144ed9da8c068c0e71a9f642f73fb",
+  "files": {
+    "assets/brush_teeth.webp": "7839303dbc70d3f59d7a0fc80d6a66e886a8c5bcf52070ea9534dbddb7f7d633",
+    "assets/drink_water.webp": "547ce2f51b60688c10467e6ee1feb2838547b54addb7e0077f158f7799c9b2fe",
+    "assets/eat_vegetables.webp": "b0aca479b6c5f186b99c0db7734a47232ed801120719e7a7ae38176a9a3cba86",
+    "assets/exercise.webp": "e814a446274d41dd77cabe415c5f4f0e56c83d8aeeee5d39a60b0a90e187db46",
+    "assets/go_library.webp": "d6ab1aefbaaf4cbdc263d798e8b4248626959c64c23a6cde9d3fe0461f92ddaa",
+    "assets/wash_hands.webp": "4667dfea5317f0a87618400eeb87c67ab17a902129fa6f691d4a782c52295222",
+    "cartridge.json": "30481015faf4024cb47036181b9c5bd677549d76b4ba49d2e5b3803b068daad2"
+  }
+}

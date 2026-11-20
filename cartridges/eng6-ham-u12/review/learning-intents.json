@@ -1,0 +1,74 @@
+[
+  {
+    "id": "I001",
+    "status": "KEEP",
+    "candidateIds": [
+      "C001"
+    ],
+    "focus": "핵심 과거 활동 어구 6개의 의미와 그림 연결",
+    "reason": "단원 기초 핵심 어휘"
+  },
+  {
+    "id": "I002",
+    "status": "KEEP",
+    "candidateIds": [
+      "C002"
+    ],
+    "focus": "규칙·불규칙 동사 과거형 변화(cleaned, painted, won, wrote, made, took) 정확성",
+    "reason": "단원 핵심 문법 및 쓰기 목표"
+  },
+  {
+    "id": "I003",
+    "status": "KEEP",
+    "candidateIds": [
+      "C003"
+    ],
+    "focus": "과거 의문문(Did you + 동사원형 ~?)과 응답(Yes, I did. / No, I didn't.) 구조",
+    "reason": "핵심 의사소통 기능 1 및 조동사 뒤 동사원형 규칙"
+  },
+  {
+    "id": "I004",
+    "status": "KEEP",
+    "candidateIds": [
+      "C004"
+    ],
+    "focus": "다른 사람이 과거에 한 일 묘사 문장(He/She/이름 + 과거동사) 구성",
+    "reason": "핵심 의사소통 기능 2"
+  },
+  {
+    "id": "I005",
+    "status": "KEEP",
+    "candidateIds": [
+      "C005"
+    ],
+    "focus": "추억 회상·감사·응원 표현(We can't forget ~, We wish good luck ~) 의미 이해",
+    "reason": "4~6차시 졸업·마무리 핵심 표현"
+  },
+  {
+    "id": "I006",
+    "status": "KEEP",
+    "candidateIds": [
+      "C006"
+    ],
+    "focus": "과거 활동 소개 글 독해 및 대화 완성",
+    "reason": "4차시·My Work 핵심 독해 목표"
+  },
+  {
+    "id": "I007",
+    "status": "KEEP",
+    "candidateIds": [
+      "C007"
+    ],
+    "focus": "Special 12 원문 대화 독해(Did you make/read ~?)",
+    "reason": "Special 12 원문 표현 이해"
+  },
+  {
+    "id": "I008",
+    "status": "DROP",
+    "candidateIds": [
+      "C008"
+    ],
+    "focus": "오디오 대본 없는 듣기 활동 내용 암기",
+    "reason": "PDF 대본 미수록 및 장면 암기 금지 원칙"
+  }
+]

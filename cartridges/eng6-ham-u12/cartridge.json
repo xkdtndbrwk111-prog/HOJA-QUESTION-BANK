@@ -1,0 +1,1802 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "eng6-ham-u12",
+  "revision": 3,
+  "title": "초등학교 영어 6 (천재·함순애) Lesson 12 We Made a Class Album",
+  "metadata": {
+    "curriculum": "2022",
+    "grade": 6,
+    "semester": 2,
+    "subject": "영어",
+    "publisher": "천재교과서",
+    "sourcePublisher": "(주)천재교과서",
+    "leadAuthor": "함순애",
+    "author": "함순애 외 9인",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-861-6 63740)",
+    "unitNumber": 12,
+    "unitTitle": "We Made a Class Album",
+    "sourcePdf": "초_영어6(함순애)_교과서.pdf (PDF p.29~42, p.56, p.65 / 인쇄 163~176, 190, 199쪽)",
+    "mode": "CREATE",
+    "skillVersion": "0.3.0-rc4",
+    "classificationEvidence": {
+      "curriculum": "교과서 판권(PDF p.60, 2026. 3. 1. 초판 발행 2022 개정 교육과정 적용판)",
+      "grade": "교과서 판권(PDF p.60 \"초등학교 영어 6\") 및 본문 쪽표기",
+      "semester": "교과서 Review 2(PDF p.43 \"Lessons 7~12\" 후반부 편성) 및 2학기 단원 범위 확인",
+      "subject": "교과서 판권(PDF p.60 \"초등학교 영어 6\")",
+      "unit": "교과서 단원 표지(PDF p.29, 163쪽 \"Lesson 12 We Made a Class Album\") 및 unit-map.json U003 일치",
+      "publisher": "교과서 판권(PDF p.60 발행인 \"(주)천재교과서\") 법인 접두사 제외 정규명",
+      "leadAuthor": "교과서 집필진·판권(PDF p.59~60 \"함순애(명지대학교 명예 교수, 대표 저자, 전 단원)\")",
+      "edition": "교과서 판권(PDF p.60 \"2026. 3. 1. 초판 발행\", \"ISBN 979-11-7236-861-6 63740\")"
+    }
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u12:q01",
+      "groupId": "eng6-ham-u12:g01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 어제 한 일을 과거형 영어 어구로 바르게 나타낸 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/cleaned_street.webp",
+          "alt": "빗자루와 쓰레받기로 거리의 낙엽과 쓰레기를 쓸어 청소하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted the wall"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "cleaned the street"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "won the quiz"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote a book"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "거리를 청소한 일은 과거형으로 cleaned the street입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "cleaned the street 그림-과거 어구 연결"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q02",
+      "groupId": "eng6-ham-u12:g01",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 어제 한 일을 과거형 영어 어구로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/cleaned_street.webp",
+          "alt": "빗자루와 쓰레받기로 거리의 낙엽과 쓰레기를 쓸어 청소하는 어린이"
+        }
+      ],
+      "answer": {
+        "text": "cleaned the street"
+      },
+      "acceptedAnswers": [
+        "cleaned the street",
+        "He cleaned the street."
+      ],
+      "explanation": "거리를 청소한 일은 cleaned the street입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ001 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 지난 퀴즈 대회에서 한 일을 과거형 영어 어구로 바르게 나타낸 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/won_quiz.webp",
+          "alt": "무대 위에서 금색 우승 트로피를 들고 환호하는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "won the quiz"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made a class album"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "took pictures"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "cleaned the street"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "퀴즈 대회에서 우승한 일은 won the quiz입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "won the quiz 그림-과거 어구 연결"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 지난 행사에서 한 일을 과거형 영어 어구로 바르게 나타낸 것을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/painted_wall.webp",
+          "alt": "붓과 팔레트를 들고 벽돌 담장에 꽃 벽화를 그리는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote a book"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "took pictures"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted the wall"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "won the quiz"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "벽에 그림을 그린 일은 painted the wall입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "painted the wall 그림-과거 어구 연결"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 표현이 나타내는 그림을 고르세요.\nmade a class album"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/wrote_book.webp",
+              "alt": "책상에서 책에 글을 쓰는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/took_pictures.webp",
+              "alt": "야외에서 카메라로 사진을 찍는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/cleaned_street.webp",
+              "alt": "거리를 청소하는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/made_album.webp",
+              "alt": "책상에서 사진과 풀, 가위로 학급 앨범을 만드는 어린이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      },
+      "explanation": "made a class album은 ‘학급 앨범을 만들었다’이므로 사진을 붙여 앨범을 만드는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "made a class album 영어→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q06",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문장이 설명하는 활동의 그림을 고르세요.\nShe took pictures."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/painted_wall.webp",
+              "alt": "벽에 그림을 그리는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/took_pictures.webp",
+              "alt": "카메라를 들고 풍경 사진을 찍는 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/won_quiz.webp",
+              "alt": "트로피를 들고 우승한 어린이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/made_album.webp",
+              "alt": "학급 앨범을 만드는 어린이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "took pictures는 ‘사진을 찍었다’이므로 카메라로 사진을 찍는 그림이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.34 (168쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "took pictures 문장→그림 교차표현"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 속 어린이가 어제 직접 책을 한 권 집필했다고 할 때, 이를 \"She writed a book.\"이라고 바르게 말할 수 있습니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/wrote_book.webp",
+          "alt": "책상에서 펼쳐진 책에 연필로 글을 쓰고 있는 어린이"
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "write는 불규칙 동사이므로 writed가 아니라 wrote를 써서 'She wrote a book.'이라고 말해야 합니다.",
+      "provenance": {
+        "locator": "PDF p.29 (163쪽), p.35 (169쪽)",
+        "intentIds": [
+          "I001"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "책 집필 상황 명시 + 불규칙 과거형 오류(writed) 판별 OX(X 정답)"
+      },
+      "groupId": "eng6-ham-u12:g08"
+    },
+    {
+      "questionId": "eng6-ham-u12:q08",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 퀴즈 대회에서 우승했어.’가 되도록 win의 바른 과거형을 고르세요.\nI _____ the quiz."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "winned"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "won"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "win"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wined"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "win은 불규칙 동사로 과거형이 won입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Write 1), p.37 (171쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "불규칙 동사 win-won 변화 정확성"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q09",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘그는 책을 썼어.’가 되도록 write의 바른 과거형을 고르세요.\nHe _____ a book."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "writed"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "write"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "written"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "write의 과거형은 불규칙 변화하여 wrote입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.38 (172쪽 Ready to Write 6)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "불규칙 동사 write-wrote 변화 정확성"
+      },
+      "groupId": "eng6-ham-u12:g08"
+    },
+    {
+      "questionId": "eng6-ham-u12:q10",
+      "groupId": "eng6-ham-u12:g09",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 동사의 과거형이 바르게 짝지어진 것을 고르세요.\n(1) make   (2) take"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made - took"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maked - taked"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made - taked"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maked - took"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "make의 과거형은 made, take의 과거형은 took입니다.",
+      "provenance": {
+        "locator": "PDF p.37~38 (171~172쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "불규칙 동사 make-made, take-took 짝짓기"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q11",
+      "groupId": "eng6-ham-u12:g09",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동사 take의 과거형을 영어로 말해 보세요."
+        }
+      ],
+      "answer": {
+        "text": "took"
+      },
+      "acceptedAnswers": [
+        "took"
+      ],
+      "explanation": "take의 과거형은 took입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.38 (172쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ009 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "clean과 paint는 뒤에 -ed를 붙여 과거형 cleaned, painted를 만듭니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "clean과 paint는 규칙 변화 동사로 -ed를 붙여 cleaned, painted로 씁니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽), p.38 (172쪽)",
+        "intentIds": [
+          "I002"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "규칙 과거형 -ed 변화 확인 OX"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘네가 이 사진들을 찍었니?’가 되도록 빈칸에 들어갈 문법적으로 바른 말을 고르세요.\nDid you _____ these pictures?"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "take"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "took"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "takes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "taking"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "과거 의문문 Did you 뒤에는 과거형이 아니라 반드시 동사원형(take)을 써야 합니다.",
+      "provenance": {
+        "locator": "PDF p.33 (167쪽 Talk Like This 1), p.34 (168쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Did you + 동사원형 문법 정확성"
+      },
+      "groupId": "eng6-ham-u12:g12"
+    },
+    {
+      "questionId": "eng6-ham-u12:q14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘네가 퀴즈 대회에서 우승했니?’라고 과거에 한 일을 물을 때 빈칸에 알맞은 말을 고르세요.\n_____ you win the quiz?"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Did"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Are"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Were"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "일반동사(win)의 과거 의문문은 문장 맨 앞에 Did를 씁니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Write 1), p.40 (174쪽)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "과거 의문문 조동사 Did 선택"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q15",
+      "groupId": "eng6-ham-u12:g13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대화의 빈칸에 알맞은 부정 대답을 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "Did you paint the wall?"
+            },
+            {
+              "speaker": "B",
+              "text": "_________. My brother painted the wall."
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, I don't."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, I didn't."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, I wasn't."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, I did."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "Did you ~?에 대한 부정 대답은 No, I didn't.입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Talk & Read and Write 2)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Did you ~? 부정 응답 No, I didn't."
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q16",
+      "groupId": "eng6-ham-u12:g13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대화의 빈칸에 알맞은 긍정 대답을 영어로 말해 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "Did you clean the street?"
+            },
+            {
+              "speaker": "B",
+              "text": "___________"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "text": "Yes, I did."
+      },
+      "acceptedAnswers": [
+        "Yes, I did."
+      ],
+      "explanation": "Did you ~?에 대한 긍정 대답은 Yes, I did.입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Talk)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ013 긍정 응답 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"Did you painted the wall?\"은 과거에 벽을 칠했는지 묻는 문법적으로 바른 문장입니다."
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "Did 뒤에는 동사원형 paint를 써야 하므로 Did you paint the wall?이 바른 문장입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Talk)",
+        "intentIds": [
+          "I003"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Did + 과거형 이중 과거 오류 판별 OX"
+      },
+      "groupId": "eng6-ham-u12:g12"
+    },
+    {
+      "questionId": "eng6-ham-u12:q18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘내 남동생이 거리를 청소했어.’를 영어로 바르게 표현한 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My brother cleaned the street."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My brother painted the wall."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My brother cleans the street."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I cleaned the street."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "남동생은 My brother, 거리를 청소했다(과거)는 cleaned the street입니다.",
+      "provenance": {
+        "locator": "PDF p.33 (167쪽 Talk Like This 2)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "다른 사람(My brother) 과거 행동 묘사 교차표현"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q19",
+      "groupId": "eng6-ham-u12:g16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미나가 어제 사진을 찍었다고 생각하고, 대화의 빈칸에 알맞은 문장을 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "Did you take pictures?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I didn't. ___________________"
+            }
+          ]
+        },
+        {
+          "kind": "image",
+          "src": "assets/took_pictures.webp",
+          "alt": "야외에서 카메라로 사진을 찍고 있는 어린이"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mina took pictures."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mina take pictures."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mina won the quiz."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mina made a class album."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "미나가 과거에 사진을 찍었으므로 과거형 took을 써서 Mina took pictures.라고 합니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Write 2번)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "부정 응답 후 다른 사람(Mina) 과거 행동 묘사"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q20",
+      "groupId": "eng6-ham-u12:g16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미나가 어제 사진을 찍었다고 생각하고, Mina로 시작하는 과거형 영어 문장으로 말해 보세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/took_pictures.webp",
+          "alt": "야외에서 카메라로 사진을 찍고 있는 어린이"
+        }
+      ],
+      "answer": {
+        "text": "Mina took pictures."
+      },
+      "acceptedAnswers": [
+        "Mina took pictures.",
+        "took pictures"
+      ],
+      "explanation": "Mina took pictures.가 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.34 (168쪽 Read and Write 2번)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "CREATED_SCENARIO",
+        "basis": "UQ016 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘우리는 함께 공부하고 함께 놀았어.’를 영어로 바르게 표현한 것을 고르세요."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We studied together and played together."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We study together and play together."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We cleaned the park together."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I studied together and played together."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "‘우리는’은 We, ‘공부했다’는 studied, ‘놀았다’는 played, ‘함께’는 together입니다.",
+      "provenance": {
+        "locator": "PDF p.37 (171쪽 Let's Read), p.40 (174쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "We studied together and played together. 한국어→영어"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 문장의 우리말 뜻으로 가장 알맞은 것을 고르세요.\nWe can't forget the beautiful times."
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리는 아름다운 시간들을 잊을 수 없어."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리는 아름다운 그림을 그릴 수 있어."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리는 내일 공원을 청소할 거야."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리는 모두에게 행운을 빌어."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "forget은 ‘잊다’, beautiful times는 ‘아름다운 시간들’이므로 c1이 정답입니다.",
+      "provenance": {
+        "locator": "PDF p.37 (171쪽), p.39~41 (173~175쪽)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "졸업 회상 문장 영어→한국어 교차표현"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "\"We wish good luck to you all.\"은 ‘여러분 모두에게 행운을 빌어요.’라는 응원의 말입니다."
+        }
+      ],
+      "answer": {
+        "value": true
+      },
+      "explanation": "wish good luck to ~는 ‘~에게 행운을 빌다’라는 뜻이므로 참입니다.",
+      "provenance": {
+        "locator": "PDF p.37 (171쪽), p.40 (174쪽 Project)",
+        "intentIds": [
+          "I005"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "졸업 응원 표현 의미 확인 OX"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽고, 글의 내용과 일치하는 것을 고르세요.\n\n\"Hana won the car race. Amy made this nice birdhouse. Uju cleaned the park at the Earth Festival. Mohan and Tom took these great pictures.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하나는 멋진 새집을 만들었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에이미는 자동차 경주에서 우승했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우주는 지구의 날 축제에서 공원을 청소했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모한과 톰은 벽에 그림을 그렸다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "\"Uju cleaned the park at the Earth Festival.\"에서 우주가 지구의 날 축제에서 공원을 청소했음을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.36 (170쪽 Let's Read)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "4차시 The Beautiful Times 세부 정보 독해"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q25",
+      "groupId": "eng6-ham-u12:g21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "글을 읽고, 대화의 빈칸 (가)와 (나)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\n\"Hana won the car race. Amy made a nice birdhouse. Uju cleaned the park at the Earth Festival.\""
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "Hana, did you make a nice birdhouse?"
+            },
+            {
+              "speaker": "Hana",
+              "text": "No, I (가)_________. Amy (나)_________ a nice birdhouse."
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "didn't - made"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "did - made"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "didn't - make"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "don't - made"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "새집은 에이미가 만들었으므로 하나는 No, I didn't.라고 답하고 Amy made a nice birdhouse.라고 과거형으로 설명합니다.",
+      "provenance": {
+        "locator": "PDF p.41 (175쪽 My Work 4번)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "My Work 4번 지문 기반 부정 응답+과거 동사 완성"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q36",
+      "groupId": "eng6-ham-u12:g21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "글을 읽고, 에이미(Amy)가 과거에 한 일을 우리말로 말해 보세요.\n\n\"Hana won the car race. Amy made a nice birdhouse. Uju cleaned the park at the Earth Festival.\""
+        }
+      ],
+      "answer": {
+        "text": "멋진 새집을 만들었다"
+      },
+      "acceptedAnswers": [
+        "멋진 새집을 만들었다",
+        "새집을 만들었다",
+        "멋진 새집 만들기",
+        "새집 만들기",
+        "새집을 만듦",
+        "새가 사는 집을 만들었다",
+        "새가 사는 집을 만들었어요",
+        "새를 위한 집을 만들었다",
+        "새가 살 집을 만들었다",
+        "새가 살 집을 만듦",
+        "새가 사는 집 만들기",
+        "멋진 새가 사는 집을 만들었다",
+        "새집을 만들었어요"
+      ],
+      "explanation": "'Amy made a nice birdhouse.'에서 에이미가 멋진 새집을 만들었다는 것을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.41 (175쪽 My Work 4번)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ021 팀전 우리말 구두 변형(인물 이름 복사 우회 제거, 행동 의미 이해)"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽고, 화자와 친구들이 올해 함께 한 일로 알맞은 것을 고르세요.\n\n\"We did great things this year. 1. I won the quiz. 2. Hajun painted the wall. 3. We cleaned the park together. We can't forget the beautiful times.\""
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "함께 공원을 청소했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "함께 퀴즈 대회에 나갔다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "함께 벽화를 그렸다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "함께 학급 앨범을 만들었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "\"3. We cleaned the park together.\"에서 함께 공원을 청소했음을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.39 (173쪽 Let's Write 2번)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "5차시 올해 반 활동 글 세부 정보 독해"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대화를 읽고, 빈칸에 들어갈 알맞은 과거형 동사를 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "Did you make my birthday cake?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I didn't. Hana and Amy _____ your birthday cake!"
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "make"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "생일 케이크를 만들었다는 과거 사실이므로 make의 과거형 made가 알맞습니다.",
+      "provenance": {
+        "locator": "PDF p.40 (174쪽 Project STEP 1)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "6차시 Project 대화 빈칸 과거동사 완성"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 Special 12(176쪽)의 대화를 읽고, 내용과 정확히 일치하는 것을 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "작가",
+              "text": "Did you make these cookies?"
+            },
+            {
+              "speaker": "소년",
+              "text": "No, I didn't. My friend made the cookies."
+            },
+            {
+              "speaker": "작가",
+              "text": "Did you read my books?"
+            },
+            {
+              "speaker": "소년",
+              "text": "Yes, I did. I always read your books in my bed."
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠키는 소년이 만들었고, 소년은 작가의 책을 읽었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠키는 소년의 친구가 만들었고, 소년은 작가의 책을 읽었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠키는 소년의 친구가 만들었고, 소년은 작가의 책을 읽지 않았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠키는 소년이 만들었고, 소년은 작가의 책을 읽지 않았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      },
+      "explanation": "소년은 쿠키를 친구가 만들었다(\"My friend made the cookies.\")고 했고, 작가의 책을 읽었다(\"Yes, I did.\")고 답했으므로 c2가 일치합니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12 Into the Art)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 12 원문 4발화 교차 오답 독해"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q30",
+      "groupId": "eng6-ham-u12:g25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 대화를 읽고, 소년이 작가의 책을 항상 어디에서 읽는지 고르세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "작가",
+              "text": "Did you read my books?"
+            },
+            {
+              "speaker": "소년",
+              "text": "Yes, I did. I always read your books in my bed."
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도서관에서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공원에서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "침대에서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 교실에서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      },
+      "explanation": "\"I always read your books in my bed.\"에서 침대에서 읽는다는 것을 알 수 있습니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "Special 12 세부 장소 정보 독해"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q31",
+      "groupId": "eng6-ham-u12:g25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 대화를 읽고, 소년이 작가의 책을 항상 어디에서 읽는지 우리말로 말해 보세요."
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "작가",
+              "text": "Did you read my books?"
+            },
+            {
+              "speaker": "소년",
+              "text": "Yes, I did. I always read your books in my bed."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "text": "침대"
+      },
+      "acceptedAnswers": [
+        "침대",
+        "침대에서",
+        "내 침대"
+      ],
+      "explanation": "in my bed는 침대에서라는 뜻입니다.",
+      "provenance": {
+        "locator": "PDF p.42 (176쪽 Special 12)",
+        "intentIds": [
+          "I007"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "UQ025 팀전 구두 변형"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주어진 낱말을 바르게 배열하여 ‘그녀는 학급 앨범을 만들었어.’라는 문장을 완성한 것을 고르세요.\n( a class album. / made / She )"
+        }
+      ],
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "She made a class album."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "She a class album made."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Made she a class album."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A class album made she."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      },
+      "explanation": "「주어(She) + 과거동사(made) + 목적어(a class album)」 어순으로 씁니다.",
+      "provenance": {
+        "locator": "PDF p.35 (169쪽 Play 3), p.56 (190쪽)",
+        "intentIds": [
+          "I004"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "과거 묘사 문장 어순 구성"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u12:q35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽으면, 모한과 톰이 멋진 새집을 만들었고 에이미가 사진을 찍었다는 것을 알 수 있습니다.\n\n\"Hana won the car race. Amy made this nice birdhouse. Uju cleaned the park at the Earth Festival. Mohan and Tom took these great pictures.\""
+        }
+      ],
+      "answer": {
+        "value": false
+      },
+      "explanation": "글에서 멋진 새집을 만든 사람은 에이미(Amy)이고, 멋진 사진을 찍은 사람은 모한과 톰(Mohan and Tom)이므로 인물과 활동이 바뀌어 거짓입니다.",
+      "provenance": {
+        "locator": "PDF p.56 (190쪽 스스로 다지기 넷째 시간)",
+        "intentIds": [
+          "I006"
+        ],
+        "scenarioKind": "SOURCE_FACT",
+        "basis": "4차시 본문 인물-활동 대응(Amy/Mohan&Tom) 오류 판별 OX(X 정답, q24 Uju 문항과 평가 정보 분리)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "questionCount": 33,
+  "types": {
+    "MCQ": 22,
+    "SHORT": 5,
+    "OX": 6
+  },
+  "soloUnits": 26,
+  "teamUnits": 26,
+  "issues": [],
+  "minimum25": true,
+  "assets": [
+    "assets/boomerangs.webp",
+    "assets/djembes.webp",
+    "assets/non_la.webp",
+    "assets/saris.webp",
+    "assets/tuho.webp",
+    "assets/yakgwa.webp"
+  ],
+  "structuralGate": true,
+  "publication": "NOT_APPROVED",
+  "assetBytes": {
+    "assets/tuho.webp": 9234,
+    "assets/yakgwa.webp": 6614,
+    "assets/non_la.webp": 7154,
+    "assets/djembes.webp": 9472,
+    "assets/saris.webp": 9952,
+    "assets/boomerangs.webp": 9800
+  },
+  "averageAssetBytes": 8704.333333333334,
+  "imageBudgetWarnings": [],
+  "independentUnits": 20,
+  "variantUnits": 6,
+  "candidateCount": 9,
+  "intentCount": 9,
+  "activeIntents": 8,
+  "blueprintUnits": 26,
+  "educationalRecordGate": true,
+  "reviewStatusCounts": {
+    "PASS": 33
+  },
+  "gameCheckReported": "NOT_RUN",
+  "teacherApproval": "PENDING",
+  "classificationRecordGate": true,
+  "classificationSourceCertification": "NOT_CERTIFIED",
+  "rc3RecordGate": true,
+  "rc3ReviewedQuestions": 33,
+  "rc3SubsetRecords": 66,
+  "rc3ReviewedUnits": 26,
+  "rc3ReviewedMedia": 6,
+  "rc3CompositeRecords": 0,
+  "rc3ClockParameterRecords": 0,
+  "rc3SemanticCertification": "NOT_CERTIFIED",
+  "packageKind": "CANDIDATE_ONLY",
+  "gameCompatibility": "NOT_CERTIFIED"
+}

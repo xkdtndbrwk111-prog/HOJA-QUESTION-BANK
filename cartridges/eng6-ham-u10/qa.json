@@ -1,0 +1,56 @@
+{
+  "questionCount": 33,
+  "types": {
+    "MCQ": 23,
+    "SHORT": 5,
+    "OX": 5
+  },
+  "soloUnits": 25,
+  "teamUnits": 25,
+  "issues": [],
+  "minimum25": true,
+  "assets": [
+    "assets/brush_teeth.webp",
+    "assets/drink_water.webp",
+    "assets/eat_vegetables.webp",
+    "assets/exercise.webp",
+    "assets/go_library.webp",
+    "assets/wash_hands.webp"
+  ],
+  "structuralGate": true,
+  "publication": "NOT_APPROVED",
+  "assetBytes": {
+    "assets/brush_teeth.webp": 9946,
+    "assets/wash_hands.webp": 9366,
+    "assets/eat_vegetables.webp": 9456,
+    "assets/drink_water.webp": 9102,
+    "assets/exercise.webp": 9568,
+    "assets/go_library.webp": 9704
+  },
+  "averageAssetBytes": 9523.666666666666,
+  "imageBudgetWarnings": [],
+  "independentUnits": 18,
+  "variantUnits": 7,
+  "candidateCount": 10,
+  "intentCount": 9,
+  "activeIntents": 8,
+  "blueprintUnits": 25,
+  "educationalRecordGate": true,
+  "reviewStatusCounts": {
+    "PASS": 33
+  },
+  "gameCheckReported": "NOT_RUN",
+  "teacherApproval": "PENDING",
+  "classificationRecordGate": true,
+  "classificationSourceCertification": "NOT_CERTIFIED",
+  "rc3RecordGate": true,
+  "rc3ReviewedQuestions": 33,
+  "rc3SubsetRecords": 69,
+  "rc3ReviewedUnits": 25,
+  "rc3ReviewedMedia": 6,
+  "rc3CompositeRecords": 0,
+  "rc3ClockParameterRecords": 0,
+  "rc3SemanticCertification": "NOT_CERTIFIED",
+  "packageKind": "CANDIDATE_ONLY",
+  "gameCompatibility": "NOT_CERTIFIED"
+}

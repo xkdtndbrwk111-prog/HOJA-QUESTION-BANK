@@ -1,0 +1,272 @@
+{
+  "baseCartridgeId": "eng6-ham-u12",
+  "baseRevision": 2,
+  "baseVersion": "5903bafe0f25112af7f6168ee7dd191bfce7e17300ab4762019343365b60bf50",
+  "oldQuestions": [
+    {
+      "oldQuestionId": "eng6-ham-u12:q01",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q01"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q02",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q02"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q03",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q03"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q04",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q04"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q05",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q05"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q06",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q06"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q34",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng6-ham-u12:q34"
+      ],
+      "reason": "write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q08",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q08"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q09",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng6-ham-u12:q09"
+      ],
+      "reason": "write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q10",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q10"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q11",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q11"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q12",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q12"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q13",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q13"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q14",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q14"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q15",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q15"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q16",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q16"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q17",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q17"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q18",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q18"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q19",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q19"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q20",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q20"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q21",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q21"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q22",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q22"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q23",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q23"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q24",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q24"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q25",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q25"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q36",
+      "action": "IMPROVE",
+      "newQuestionIds": [
+        "eng6-ham-u12:q36"
+      ],
+      "reason": "의미상 타당한 구두 응답 추가"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q27",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q27"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q28",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q28"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q29",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q29"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q30",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q30"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q31",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q31"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q32",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q32"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    },
+    {
+      "oldQuestionId": "eng6-ham-u12:q35",
+      "action": "KEEP",
+      "newQuestionIds": [
+        "eng6-ham-u12:q35"
+      ],
+      "reason": "rev.2 문항 JSON 그대로 보존"
+    }
+  ],
+  "newQuestionIds": []
+}

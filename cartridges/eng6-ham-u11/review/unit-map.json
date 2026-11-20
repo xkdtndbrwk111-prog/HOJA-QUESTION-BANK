@@ -1,0 +1,81 @@
+{
+  "source": {
+    "id": "chunjae-eng6-ham-2026-pdf-excerpt",
+    "title": "초등학교 영어 6 (함순애 외 9인)",
+    "publisher": "(주)천재교과서",
+    "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-861-6 63740)",
+    "pdfFile": "초_영어6(함순애)_교과서.pdf",
+    "pdfTotalPages": 66
+  },
+  "units": [
+    {
+      "id": "U001",
+      "title": "Lesson 10 How Often Do You Eat Vegetables?",
+      "printedStart": "135",
+      "printedEnd": "148",
+      "pdfStart": 1,
+      "pdfEnd": 14,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 10",
+          "printedPage": "188",
+          "pdfPage": 54
+        },
+        {
+          "label": "붙임딱지 Lesson 10 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "U002",
+      "title": "Lesson 11 Do You Know Anything About Tuho?",
+      "printedStart": "149",
+      "printedEnd": "162",
+      "pdfStart": 15,
+      "pdfEnd": 28,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 11",
+          "printedPage": "189",
+          "pdfPage": 55
+        },
+        {
+          "label": "붙임딱지 Lesson 11 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "U003",
+      "title": "Lesson 12 We Made a Class Album",
+      "printedStart": "163",
+      "printedEnd": "176",
+      "pdfStart": 29,
+      "pdfEnd": 42,
+      "supplementPages": [
+        {
+          "label": "스스로 다지기 Lesson 12",
+          "printedPage": "190",
+          "pdfPage": 56
+        },
+        {
+          "label": "붙임딱지 Lesson 12 Words",
+          "printedPage": "199",
+          "pdfPage": 65
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "title": "Review 2 (Lessons 7~12)",
+      "printedStart": "177",
+      "printedEnd": "178",
+      "pdfStart": 43,
+      "pdfEnd": 44
+    }
+  ],
+  "currentUnit": "U002"
+}

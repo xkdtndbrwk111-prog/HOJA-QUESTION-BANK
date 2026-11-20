@@ -1,0 +1,1750 @@
+{
+  "version": "b48d030017f0b9e2e8a8bb0c84c63f13bd0915a4100ae24d2bf940f1f6a141e9",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u12:q01",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q01(MCQ): 거리를 청소한 일은 과거형으로 cleaned the street입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q01: cleaned the street 그림-과거 어구 연결 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q01: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q01: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I001'] (PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(painted the wall): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(cleaned the street): 문항의 근거(cleaned the street 그림-과거 어구 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(won the quiz): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(wrote a book): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "painted the wall 제외 시 정답(cleaned the street) + 남은 오답(won the quiz, wrote a book) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "won the quiz 제외 시 정답(cleaned the street) + 남은 오답(painted the wall, wrote a book) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "wrote a book 제외 시 정답(cleaned the street) + 남은 오답(painted the wall, won the quiz) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q02",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q02(SHORT): 거리를 청소한 일은 cleaned the street입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q02: UQ001 팀전 구두 변형 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q02: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q02: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I001'] (PDF p.29 (163쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q03",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q03(MCQ): 퀴즈 대회에서 우승한 일은 won the quiz입니다. | [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q03: won the quiz 그림-과거 어구 연결 (PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) — [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q03: [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q03: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽)) 부합 — won the quiz 그림-과거 어구 연결"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(won the quiz): 퀴즈 대회에서 우승한 일은 won the quiz입니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(made a class album): 문항의 근거(won the quiz 그림-과거 어구 연결)와 불일치하는 혼동지 — [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(took pictures): 문항의 근거(won the quiz 그림-과거 어구 연결)와 불일치하는 혼동지 — [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(cleaned the street): 문항의 근거(won the quiz 그림-과거 어구 연결)와 불일치하는 혼동지 — [정답근거] 퀴즈 대회 우승(과거)을 뜻하는 영어 어구는 won the quiz(c1). [오답이유] c2(앨범 제작), c3(사진 촬영), c4(거리 청소)는 모두 다른 과거 활동 어구. [우회경로검토] 모든 보기가 과거형이므로 과거형 어구의 의미 구별을 정확히 평가. [3지선다조합] 모든 조합에서 won the quiz 어구 의미 이해 필수. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '트로피를 들고 우승해 환호하는 모습'이며, '지난 퀴즈 대회'라는 과거 시점과 종목 조건은 발문에서 명시 제공. [단위근거] won the quiz 과거형 어구 의미 연결 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "made a class album 제외 시 정답(won the quiz) + 남은 오답(took pictures, cleaned the street) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "took pictures 제외 시 정답(won the quiz) + 남은 오답(made a class album, cleaned the street) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "cleaned the street 제외 시 정답(won the quiz) + 남은 오답(made a class album, took pictures) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q04",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q04(MCQ): 벽에 그림을 그린 일은 painted the wall입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q04: painted the wall 그림-과거 어구 연결 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q04: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q04: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I001'] (PDF p.29 (163쪽), p.34 (168쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(wrote a book): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(took pictures): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(painted the wall): 문항의 근거(painted the wall 그림-과거 어구 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(won the quiz): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "wrote a book 제외 시 정답(painted the wall) + 남은 오답(took pictures, won the quiz) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "took pictures 제외 시 정답(painted the wall) + 남은 오답(wrote a book, won the quiz) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "won the quiz 제외 시 정답(painted the wall) + 남은 오답(wrote a book, took pictures) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q05",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q05(MCQ): made a class album은 ‘학급 앨범을 만들었다’이므로 사진을 붙여 앨범을 만드는 그림이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q05: made a class album 영어→그림 교차표현 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q05: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q05: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I001'] (PDF p.29 (163쪽), p.34 (168쪽), p.56 (190쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/wrote_book.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(assets/took_pictures.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/cleaned_street.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(assets/made_album.webp): 문항의 근거(made a class album 영어→그림 교차표현)와 정확히 일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/wrote_book.webp 제외 시 정답(assets/made_album.webp) + 남은 오답(assets/took_pictures.webp, assets/cleaned_street.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "assets/took_pictures.webp 제외 시 정답(assets/made_album.webp) + 남은 오답(assets/wrote_book.webp, assets/cleaned_street.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/cleaned_street.webp 제외 시 정답(assets/made_album.webp) + 남은 오답(assets/wrote_book.webp, assets/took_pictures.webp) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q06",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q06(MCQ): took pictures는 ‘사진을 찍었다’이므로 카메라로 사진을 찍는 그림이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q06: took pictures 문장→그림 교차표현 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q06: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q06: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I001'] (PDF p.29 (163쪽), p.34 (168쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/painted_wall.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(assets/took_pictures.webp): 문항의 근거(took pictures 문장→그림 교차표현)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/won_quiz.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(assets/made_album.webp): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/painted_wall.webp 제외 시 정답(assets/took_pictures.webp) + 남은 오답(assets/won_quiz.webp, assets/made_album.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/won_quiz.webp 제외 시 정답(assets/took_pictures.webp) + 남은 오답(assets/painted_wall.webp, assets/made_album.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "assets/made_album.webp 제외 시 정답(assets/took_pictures.webp) + 남은 오답(assets/painted_wall.webp, assets/won_quiz.webp) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q34",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q34(OX): write는 불규칙 동사이므로 writed가 아니라 wrote를 써서 'She wrote a book.'이라고 말해야 합니다. | [정답근거] write의 과거형은 불규칙 변화(wrote)이므로 writed를 사용한 문장은 거짓(X). [오답이유] O 선택은 규칙 변화(-ed)를 불규칙 동사 write에 과잉 일반화한 대표 오류. [우회경로검토] 모호한 그림에 X를 부여한 것이 아니라 상황을 명확히 준 뒤 명확한 문법 오류를 판별하도록 설계. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '책상에서 글을 쓰는 모습'이며, '어제 책을 한 권 집필했다'는 구체적 상황과 과거 시점은 발문에서 명시 제공. [단위근거] 그림 맥락 속 불규칙 과거 문장 정확성 판별 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q34: 책 집필 상황 명시 + 불규칙 과거형 오류(writed) 판별 OX(X 정답) (PDF p.29 (163쪽), p.35 (169쪽)) — [정답근거] write의 과거형은 불규칙 변화(wrote)이므로 writed를 사용한 문장은 거짓(X). [오답이유] O 선택은 규칙 변화(-ed)를 불규칙 동사 write에 과잉 일반화한 대표 오류. [우회경로검토] 모호한 그림에 X를 부여한 것이 아니라 상황을 명확히 준 뒤 명확한 문법 오류를 판별하도록 설계. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '책상에서 글을 쓰는 모습'이며, '어제 책을 한 권 집필했다'는 구체적 상황과 과거 시점은 발문에서 명시 제공. [단위근거] 그림 맥락 속 불규칙 과거 문장 정확성 판별 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q34: [정답근거] write의 과거형은 불규칙 변화(wrote)이므로 writed를 사용한 문장은 거짓(X). [오답이유] O 선택은 규칙 변화(-ed)를 불규칙 동사 write에 과잉 일반화한 대표 오류. [우회경로검토] 모호한 그림에 X를 부여한 것이 아니라 상황을 명확히 준 뒤 명확한 문법 오류를 판별하도록 설계. [시각정보구분] 삽화에서 직접 관찰되는 정보는 '책상에서 글을 쓰는 모습'이며, '어제 책을 한 권 집필했다'는 구체적 상황과 과거 시점은 발문에서 명시 제공. [단위근거] 그림 맥락 속 불규칙 과거 문장 정확성 판별 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q34: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.29 (163쪽), p.35 (169쪽)) 부합 — 책 집필 상황 명시 + 불규칙 과거형 오류(writed) 판별 OX(X 정답) / write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q08",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q08(MCQ): win은 불규칙 동사로 과거형이 won입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q08: 불규칙 동사 win-won 변화 정확성 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q08: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q08: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I002'] (PDF p.34 (168쪽 Read and Write 1), p.37 (171쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(winned): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(won): 문항의 근거(불규칙 동사 win-won 변화 정확성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(win): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(wined): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "winned 제외 시 정답(won) + 남은 오답(win, wined) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "win 제외 시 정답(won) + 남은 오답(winned, wined) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "wined 제외 시 정답(won) + 남은 오답(winned, win) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q09",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q09(MCQ): write의 과거형은 불규칙 변화하여 wrote입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q09: 불규칙 동사 write-wrote 변화 정확성 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q09: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q09: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I002'] (PDF p.34 (168쪽), p.38 (172쪽 Ready to Write 6))에 직접 부합 / write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(writed): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(write): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(wrote): 문항의 근거(불규칙 동사 write-wrote 변화 정확성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(written): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "writed 제외 시 정답(wrote) + 남은 오답(write, written) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "write 제외 시 정답(wrote) + 남은 오답(writed, written) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "written 제외 시 정답(wrote) + 남은 오답(writed, write) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q10",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q10(MCQ): make의 과거형은 made, take의 과거형은 took입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q10: 불규칙 동사 make-made, take-took 짝짓기 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q10: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q10: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I002'] (PDF p.37~38 (171~172쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(made - took): 문항의 근거(불규칙 동사 make-made, take-took 짝짓기)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(maked - taked): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(made - taked): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(maked - took): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "maked - taked 제외 시 정답(made - took) + 남은 오답(made - taked, maked - took) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "made - taked 제외 시 정답(made - took) + 남은 오답(maked - taked, maked - took) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "maked - took 제외 시 정답(made - took) + 남은 오답(maked - taked, made - taked) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q11",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q11(SHORT): take의 과거형은 took입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q11: UQ009 팀전 구두 변형 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q11: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q11: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I002'] (PDF p.34 (168쪽), p.38 (172쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q12",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q12(OX): clean과 paint는 규칙 변화 동사로 -ed를 붙여 cleaned, painted로 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q12: 규칙 과거형 -ed 변화 확인 OX — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q12: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q12: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I002'] (PDF p.34 (168쪽), p.38 (172쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q13",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q13(MCQ): 과거 의문문 Did you 뒤에는 과거형이 아니라 반드시 동사원형(take)을 써야 합니다. | [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q13: Did you + 동사원형 문법 정확성 (PDF p.33 (167쪽 Talk Like This 1), p.34 (168쪽)) — [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q13: [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q13: 2022 개정 초6 영어 활성 의도 ['I003'] (PDF p.33 (167쪽 Talk Like This 1), p.34 (168쪽)) 부합 — Did you + 동사원형 문법 정확성"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(take): 과거 의문문 Did you 뒤에는 과거형이 아니라 반드시 동사원형(take)을 써야 합니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(took): 문항의 근거(Did you + 동사원형 문법 정확성)와 불일치하는 혼동지 — [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(takes): 문항의 근거(Did you + 동사원형 문법 정확성)와 불일치하는 혼동지 — [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(taking): 문항의 근거(Did you + 동사원형 문법 정확성)와 불일치하는 혼동지 — [정답근거] 과거 의문문 Did you 뒤에는 동사원형 take(c1)가 와야 함. [오답이유] c2(took 과거형), c3(takes 3인칭단수), c4(taking 진행형)는 모두 비문. [우회경로검토] 시제·형태 오답을 고르게 배치해 문법 정확성 직접 평가. [3지선다조합] 모든 조합에서 동사원형 규칙 적용 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q17(OX)과 동일 규칙(Did + 동사원형)을 평가하므로 g12로 통합."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "took 제외 시 정답(take) + 남은 오답(takes, taking) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "takes 제외 시 정답(take) + 남은 오답(took, taking) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "taking 제외 시 정답(take) + 남은 오답(took, takes) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q14",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q14(MCQ): 일반동사(win)의 과거 의문문은 문장 맨 앞에 Did를 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q14: 과거 의문문 조동사 Did 선택 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q14: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q14: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I003'] (PDF p.34 (168쪽 Read and Write 1), p.40 (174쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(Do): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(Did): 문항의 근거(과거 의문문 조동사 Did 선택)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Are): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Were): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "Do 제외 시 정답(Did) + 남은 오답(Are, Were) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Are 제외 시 정답(Did) + 남은 오답(Do, Were) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Were 제외 시 정답(Did) + 남은 오답(Do, Are) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q15",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q15(MCQ): Did you ~?에 대한 부정 대답은 No, I didn't.입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q15: Did you ~? 부정 응답 No, I didn't. — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q15: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q15: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I003'] (PDF p.34 (168쪽 Read and Talk & Read and Write 2))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(No, I don't.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(No, I didn't.): 문항의 근거(Did you ~? 부정 응답 No, I didn't.)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(No, I wasn't.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Yes, I did.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "No, I don't. 제외 시 정답(No, I didn't.) + 남은 오답(No, I wasn't., Yes, I did.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "No, I wasn't. 제외 시 정답(No, I didn't.) + 남은 오답(No, I don't., Yes, I did.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Yes, I did. 제외 시 정답(No, I didn't.) + 남은 오답(No, I don't., No, I wasn't.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q16",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q16(SHORT): Did you ~?에 대한 긍정 대답은 Yes, I did.입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q16: UQ013 긍정 응답 구두 변형 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q16: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q16: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I003'] (PDF p.34 (168쪽 Read and Talk))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q17",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q17(OX): Did 뒤에는 동사원형 paint를 써야 하므로 Did you paint the wall?이 바른 문장입니다. | [정답근거] 'Did you painted the wall?'은 Did 뒤에 과거형 painted를 쓴 비문이므로 거짓(X). [오답이유] O 선택은 과거 시제라는 이유만으로 동사에도 -ed를 붙이는 이중 과거 오류. [우회경로검토] 기존 X 정답 문항 유지. [시각정보구분] 텍스트 전용 문항. [단위근거] q13(MCQ)과 동일 문법 규칙의 OX 변형으로 g12 통합."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q17: Did + 과거형 이중 과거 오류 판별 OX (PDF p.34 (168쪽 Read and Talk)) — [정답근거] 'Did you painted the wall?'은 Did 뒤에 과거형 painted를 쓴 비문이므로 거짓(X). [오답이유] O 선택은 과거 시제라는 이유만으로 동사에도 -ed를 붙이는 이중 과거 오류. [우회경로검토] 기존 X 정답 문항 유지. [시각정보구분] 텍스트 전용 문항. [단위근거] q13(MCQ)과 동일 문법 규칙의 OX 변형으로 g12 통합."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q17: [정답근거] 'Did you painted the wall?'은 Did 뒤에 과거형 painted를 쓴 비문이므로 거짓(X). [오답이유] O 선택은 과거 시제라는 이유만으로 동사에도 -ed를 붙이는 이중 과거 오류. [우회경로검토] 기존 X 정답 문항 유지. [시각정보구분] 텍스트 전용 문항. [단위근거] q13(MCQ)과 동일 문법 규칙의 OX 변형으로 g12 통합."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q17: 2022 개정 초6 영어 활성 의도 ['I003'] (PDF p.34 (168쪽 Read and Talk)) 부합 — Did + 과거형 이중 과거 오류 판별 OX"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q18",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q18(MCQ): 남동생은 My brother, 거리를 청소했다(과거)는 cleaned the street입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q18: 다른 사람(My brother) 과거 행동 묘사 교차표현 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q18: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q18: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I004'] (PDF p.33 (167쪽 Talk Like This 2))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(My brother cleaned the street.): 문항의 근거(다른 사람(My brother) 과거 행동 묘사 교차표현)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(My brother painted the wall.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(My brother cleans the street.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I cleaned the street.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "My brother painted the wall. 제외 시 정답(My brother cleaned the street.) + 남은 오답(My brother cleans the street., I cleaned the street.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "My brother cleans the street. 제외 시 정답(My brother cleaned the street.) + 남은 오답(My brother painted the wall., I cleaned the street.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I cleaned the street. 제외 시 정답(My brother cleaned the street.) + 남은 오답(My brother painted the wall., My brother cleans the street.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q19",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q19(MCQ): 미나가 과거에 사진을 찍었으므로 과거형 took을 써서 Mina took pictures.라고 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q19: 부정 응답 후 다른 사람(Mina) 과거 행동 묘사 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q19: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q19: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I004'] (PDF p.34 (168쪽 Read and Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(Mina took pictures.): 문항의 근거(부정 응답 후 다른 사람(Mina) 과거 행동 묘사)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(Mina take pictures.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Mina won the quiz.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Mina made a class album.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "Mina take pictures. 제외 시 정답(Mina took pictures.) + 남은 오답(Mina won the quiz., Mina made a class album.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Mina won the quiz. 제외 시 정답(Mina took pictures.) + 남은 오답(Mina take pictures., Mina made a class album.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Mina made a class album. 제외 시 정답(Mina took pictures.) + 남은 오답(Mina take pictures., Mina won the quiz.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q20",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q20(SHORT): Mina took pictures.가 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q20: UQ016 팀전 구두 변형 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q20: 삽화에는 활동 장면만 있고 과거 시제 조건은 발문에 명시되어 있으며 정답 영단어 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q20: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I004'] (PDF p.34 (168쪽 Read and Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q21",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q21(MCQ): ‘우리는’은 We, ‘공부했다’는 studied, ‘놀았다’는 played, ‘함께’는 together입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q21: We studied together and played together. 한국어→영어 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q21: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q21: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I005'] (PDF p.37 (171쪽 Let's Read), p.40 (174쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(We studied together and played together.): 문항의 근거(We studied together and played together. 한국어→영어)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(We study together and play together.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(We cleaned the park together.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I studied together and played together.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "We study together and play together. 제외 시 정답(We studied together and played together.) + 남은 오답(We cleaned the park together., I studied together and played together.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "We cleaned the park together. 제외 시 정답(We studied together and played together.) + 남은 오답(We study together and play together., I studied together and played together.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I studied together and played together. 제외 시 정답(We studied together and played together.) + 남은 오답(We study together and play together., We cleaned the park together.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q22",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q22(MCQ): forget은 ‘잊다’, beautiful times는 ‘아름다운 시간들’이므로 c1이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q22: 졸업 회상 문장 영어→한국어 교차표현 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q22: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q22: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I005'] (PDF p.37 (171쪽), p.39~41 (173~175쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(우리는 아름다운 시간들을 잊을 수 없어.): 문항의 근거(졸업 회상 문장 영어→한국어 교차표현)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(우리는 아름다운 그림을 그릴 수 있어.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(우리는 내일 공원을 청소할 거야.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(우리는 모두에게 행운을 빌어.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "우리는 아름다운 그림을 그릴 수 있어. 제외 시 정답(우리는 아름다운 시간들을 잊을 수 없어.) + 남은 오답(우리는 내일 공원을 청소할 거야., 우리는 모두에게 행운을 빌어.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "우리는 내일 공원을 청소할 거야. 제외 시 정답(우리는 아름다운 시간들을 잊을 수 없어.) + 남은 오답(우리는 아름다운 그림을 그릴 수 있어., 우리는 모두에게 행운을 빌어.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "우리는 모두에게 행운을 빌어. 제외 시 정답(우리는 아름다운 시간들을 잊을 수 없어.) + 남은 오답(우리는 아름다운 그림을 그릴 수 있어., 우리는 내일 공원을 청소할 거야.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q23",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q23(OX): wish good luck to ~는 ‘~에게 행운을 빌다’라는 뜻이므로 참입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q23: 졸업 응원 표현 의미 확인 OX — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q23: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q23: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I005'] (PDF p.37 (171쪽), p.40 (174쪽 Project))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q24",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q24(MCQ): \"Uju cleaned the park at the Earth Festival.\"에서 우주가 지구의 날 축제에서 공원을 청소했음을 알 수 있습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q24: 4차시 The Beautiful Times 세부 정보 독해 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q24: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q24: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I006'] (PDF p.36 (170쪽 Let's Read))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(하나는 멋진 새집을 만들었다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(에이미는 자동차 경주에서 우승했다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(우주는 지구의 날 축제에서 공원을 청소했다.): 문항의 근거(4차시 The Beautiful Times 세부 정보 독해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(모한과 톰은 벽에 그림을 그렸다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "하나는 멋진 새집을 만들었다. 제외 시 정답(우주는 지구의 날 축제에서 공원을 청소했다.) + 남은 오답(에이미는 자동차 경주에서 우승했다., 모한과 톰은 벽에 그림을 그렸다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "에이미는 자동차 경주에서 우승했다. 제외 시 정답(우주는 지구의 날 축제에서 공원을 청소했다.) + 남은 오답(하나는 멋진 새집을 만들었다., 모한과 톰은 벽에 그림을 그렸다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "모한과 톰은 벽에 그림을 그렸다. 제외 시 정답(우주는 지구의 날 축제에서 공원을 청소했다.) + 남은 오답(하나는 멋진 새집을 만들었다., 에이미는 자동차 경주에서 우승했다.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q25",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q25(MCQ): 새집은 에이미가 만들었으므로 하나는 No, I didn't.라고 답하고 Amy made a nice birdhouse.라고 과거형으로 설명합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q25: My Work 4번 지문 기반 부정 응답+과거 동사 완성 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q25: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q25: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I006'] (PDF p.41 (175쪽 My Work 4번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(didn't - made): 문항의 근거(My Work 4번 지문 기반 부정 응답+과거 동사 완성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(did - made): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(didn't - make): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(don't - made): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "did - made 제외 시 정답(didn't - made) + 남은 오답(didn't - make, don't - made) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "didn't - make 제외 시 정답(didn't - made) + 남은 오답(did - made, don't - made) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "don't - made 제외 시 정답(didn't - made) + 남은 오답(did - made, didn't - make) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q36",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "Amy made a nice birdhouse.에서 에이미가 새가 살 집을 만들었다는 뜻을 확인. 멋진 수식어 생략 및 새집/새가 사는 집/새를 위한 집의 동일 의미 구두 응답 허용."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q36: UQ021 팀전 우리말 구두 변형(인물 이름 복사 우회 제거, 행동 의미 이해) (PDF p.41 (175쪽 My Work 4번)) — [정답근거] 'Amy made a nice birdhouse.'의 의미는 '멋진 새집을 만들었다'. [오답/허용답안] 멋진 새집을 만들었다/새집을 만들었다/멋진 새집 만들기/새집 만들기/새집을 만듦 허용. [우회경로검토] 이름 문자열 복사를 원천 차단하고 동사(made)+목적어(nice birdhouse) 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q25와 동일 지문(Amy의 새집 제작 사실) 활용 구두 변형으로 g21 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q36: [정답근거] 'Amy made a nice birdhouse.'의 의미는 '멋진 새집을 만들었다'. [오답/허용답안] 멋진 새집을 만들었다/새집을 만들었다/멋진 새집 만들기/새집 만들기/새집을 만듦 허용. [우회경로검토] 이름 문자열 복사를 원천 차단하고 동사(made)+목적어(nice birdhouse) 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q25와 동일 지문(Amy의 새집 제작 사실) 활용 구두 변형으로 g21 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q36: 2022 개정 초6 영어 활성 의도 ['I006'] (PDF p.41 (175쪽 My Work 4번)) 부합 — UQ021 팀전 우리말 구두 변형(인물 이름 복사 우회 제거, 행동 의미 이해) / Amy made a nice birdhouse.의 행동과 목적어 의미 이해. 의미상 타당한 구두 응답 확장."
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q27",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q27(MCQ): \"3. We cleaned the park together.\"에서 함께 공원을 청소했음을 알 수 있습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q27: 5차시 올해 반 활동 글 세부 정보 독해 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q27: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q27: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I006'] (PDF p.39 (173쪽 Let's Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(함께 공원을 청소했다.): 문항의 근거(5차시 올해 반 활동 글 세부 정보 독해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(함께 퀴즈 대회에 나갔다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(함께 벽화를 그렸다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(함께 학급 앨범을 만들었다.): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "함께 퀴즈 대회에 나갔다. 제외 시 정답(함께 공원을 청소했다.) + 남은 오답(함께 벽화를 그렸다., 함께 학급 앨범을 만들었다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "함께 벽화를 그렸다. 제외 시 정답(함께 공원을 청소했다.) + 남은 오답(함께 퀴즈 대회에 나갔다., 함께 학급 앨범을 만들었다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "함께 학급 앨범을 만들었다. 제외 시 정답(함께 공원을 청소했다.) + 남은 오답(함께 퀴즈 대회에 나갔다., 함께 벽화를 그렸다.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q28",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q28(MCQ): 생일 케이크를 만들었다는 과거 사실이므로 make의 과거형 made가 알맞습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q28: 6차시 Project 대화 빈칸 과거동사 완성 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q28: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q28: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I004'] (PDF p.40 (174쪽 Project STEP 1))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(made): 문항의 근거(6차시 Project 대화 빈칸 과거동사 완성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(make): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(painted): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(won): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "make 제외 시 정답(made) + 남은 오답(painted, won) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "painted 제외 시 정답(made) + 남은 오답(make, won) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "won 제외 시 정답(made) + 남은 오답(make, painted) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q29",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q29(MCQ): 소년은 쿠키를 친구가 만들었다(\"My friend made the cookies.\")고 했고, 작가의 책을 읽었다(\"Yes, I did.\")고 답했으므로 c2가 일치합니다. | [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q29: Special 12 원문 4발화 교차 오답 독해 (PDF p.42 (176쪽 Special 12 Into the Art)) — [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q29: [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q29: 2022 개정 초6 영어 활성 의도 ['I007'] (PDF p.42 (176쪽 Special 12 Into the Art)) 부합 — Special 12 원문 4발화 교차 오답 독해"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(쿠키는 소년이 만들었고, 소년은 작가의 책을 읽었다.): 문항의 근거(Special 12 원문 4발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(쿠키는 소년의 친구가 만들었고, 소년은 작가의 책을 읽었다.): 소년은 쿠키를 친구가 만들었다(\"My friend made the cookies.\")고 했고, 작가의 책을 읽었다(\"Yes, I did.\")고 답했으므로 c2가 일치합니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(쿠키는 소년의 친구가 만들었고, 소년은 작가의 책을 읽지 않았다.): 문항의 근거(Special 12 원문 4발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(쿠키는 소년이 만들었고, 소년은 작가의 책을 읽지 않았다.): 문항의 근거(Special 12 원문 4발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 'My friend made the cookies.'(친구 제작)와 'Yes, I did.'(책 읽음)가 c2와 일치. [오답이유] c1(쿠키 X, 책 O), c3(쿠키 O, 책 X), c4(쿠키 X, 책 X)의 완전 2×2 교차 구성. [우회경로검토] 두 질의응답의 긍정·부정과 행위자(my friend)를 정확히 읽어야 해결 가능. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c1 또는 c3 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 12 원문 4발화 복합 독해 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1 제외(c2,c3,c4): c2와 c3를 구별하려면 독서 여부(Yes, I did.) 확인 필수. (3지선다 특성상 독서 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외(c1,c2,c4): c2와 c1을 구별하려면 쿠키 제작자(My friend) 확인 필수. (3지선다 특성상 쿠키 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외(c1,c2,c3): 쿠키 제작자와 독서 여부 두 정보를 모두 읽어야 c2 확정."
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q30",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q30(MCQ): \"I always read your books in my bed.\"에서 침대에서 읽는다는 것을 알 수 있습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q30: Special 12 세부 장소 정보 독해 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q30: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q30: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I007'] (PDF p.42 (176쪽 Special 12))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(도서관에서): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(공원에서): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(침대에서): 문항의 근거(Special 12 세부 장소 정보 독해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(학교 교실에서): 동일 단원 과거 시제·어휘·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "도서관에서 제외 시 정답(침대에서) + 남은 오답(공원에서, 학교 교실에서) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "공원에서 제외 시 정답(침대에서) + 남은 오답(도서관에서, 학교 교실에서) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "학교 교실에서 제외 시 정답(침대에서) + 남은 오답(도서관에서, 공원에서) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q31",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q31(SHORT): in my bed는 침대에서라는 뜻입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q31: UQ025 팀전 구두 변형 — 문항 내 지문·발문 시제 조건·삽화에 정답 확정 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q31: 이미지 없는 텍스트 문항으로 교차표현·동일 동사군 과거형 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q31: 2022 개정 초6 영어 Lesson 12 활성 의도 ['I007'] (PDF p.42 (176쪽 Special 12))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u12:q32",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q32(MCQ): 「주어(She) + 과거동사(made) + 목적어(a class album)」 어순으로 씁니다. | [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q32: 과거 묘사 문장 어순 구성 (PDF p.35 (169쪽 Play 3), p.56 (190쪽)) — [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q32: [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q32: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.35 (169쪽 Play 3), p.56 (190쪽)) 부합 — 과거 묘사 문장 어순 구성"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(She made a class album.): 「주어(She) + 과거동사(made) + 목적어(a class album)」 어순으로 씁니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(She a class album made.): 문항의 근거(과거 묘사 문장 어순 구성)와 불일치하는 혼동지 — [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Made she a class album.): 문항의 근거(과거 묘사 문장 어순 구성)와 불일치하는 혼동지 — [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(A class album made she.): 문항의 근거(과거 묘사 문장 어순 구성)와 불일치하는 혼동지 — [정답근거] 교과서 어구 'made a class album'에 맞춘 바른 어순은 'She made a class album.'(c1). [오답이유] c2(SOV 어순 오류), c3(VSO 어순 오류), c4(OVS 어순 오류). [우회경로검토] 한국어 발문과 영어 정답의 1:1 의미 일치 확보(임의 수식어 '멋진' 제거). [3지선다조합] 모든 조합에서 영어 기본 어순(주어+동사+목적어) 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 과거 묘사 문장 어순 배열 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "She a class album made. 제외 시 정답(She made a class album.) + 남은 오답(Made she a class album., A class album made she.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Made she a class album. 제외 시 정답(She made a class album.) + 남은 오답(She a class album made., A class album made she.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "A class album made she. 제외 시 정답(She made a class album.) + 남은 오답(She a class album made., Made she a class album.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u12:q35",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q35(OX): 글에서 멋진 새집을 만든 사람은 에이미(Amy)이고, 멋진 사진을 찍은 사람은 모한과 톰(Mohan and Tom)이므로 인물과 활동이 바뀌어 거짓입니다. | [정답근거] 지문은 Amy=birdhouse, Mohan and Tom=great pictures이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 등장인물과 활동 단어만 보고 주어-동사 연결을 확인하지 않은 오류. [우회경로검토] OX O2/X3 균형화로 찍기 차단, 문장별 주어-행동 정확 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q24(Uju 공원 청소)와 완전히 다른 두 문장(Amy, Mohan and Tom)의 대응을 평가하므로 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q35: 4차시 본문 인물-활동 대응(Amy/Mohan&Tom) 오류 판별 OX(X 정답, q24 Uju 문항과 평가 정보 분리) (PDF p.56 (190쪽 스스로 다지기 넷째 시간)) — [정답근거] 지문은 Amy=birdhouse, Mohan and Tom=great pictures이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 등장인물과 활동 단어만 보고 주어-동사 연결을 확인하지 않은 오류. [우회경로검토] OX O2/X3 균형화로 찍기 차단, 문장별 주어-행동 정확 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q24(Uju 공원 청소)와 완전히 다른 두 문장(Amy, Mohan and Tom)의 대응을 평가하므로 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q35: [정답근거] 지문은 Amy=birdhouse, Mohan and Tom=great pictures이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 등장인물과 활동 단어만 보고 주어-동사 연결을 확인하지 않은 오류. [우회경로검토] OX O2/X3 균형화로 찍기 차단, 문장별 주어-행동 정확 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] q24(Uju 공원 청소)와 완전히 다른 두 문장(Amy, Mohan and Tom)의 대응을 평가하므로 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u12:q35: 2022 개정 초6 영어 활성 의도 ['I006'] (PDF p.56 (190쪽 스스로 다지기 넷째 시간)) 부합 — 4차시 본문 인물-활동 대응(Amy/Mohan&Tom) 오류 판별 OX(X 정답, q24 Uju 문항과 평가 정보 분리)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    }
+  ],
+  "units": [
+    {
+      "unitId": "UQ001",
+      "status": "PASS",
+      "evidence": "UQ001(eng6-ham-u12:q01, eng6-ham-u12:q02): 핵심 과거 어구 cleaned the street 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ002",
+      "status": "PASS",
+      "evidence": "UQ002(eng6-ham-u12:q03): 핵심 과거 어구 won the quiz 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ003",
+      "status": "PASS",
+      "evidence": "UQ003(eng6-ham-u12:q04): 핵심 과거 어구 painted the wall 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ004",
+      "status": "PASS",
+      "evidence": "UQ004(eng6-ham-u12:q05): 영어→그림 역방향 매칭 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ005",
+      "status": "PASS",
+      "evidence": "UQ005(eng6-ham-u12:q06): 문장 맥락 속 took pictures 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ007",
+      "status": "PASS",
+      "evidence": "UQ007(eng6-ham-u12:q08): win 불규칙 과거형 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ008",
+      "status": "PASS",
+      "evidence": "write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+    },
+    {
+      "unitId": "UQ009",
+      "status": "PASS",
+      "evidence": "UQ009(eng6-ham-u12:q10, eng6-ham-u12:q11): make·take 불규칙 과거형 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ010",
+      "status": "PASS",
+      "evidence": "UQ010(eng6-ham-u12:q12): 규칙 과거형 변화 규칙 확인 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ011",
+      "status": "PASS",
+      "evidence": "UQ011(eng6-ham-u12:q13, eng6-ham-u12:q17): q13(Did you _____ these pictures?)과 q17(Did you painted the wall? OX)은 모두 'Did + 동사원형' 규칙을 평가하므로 단일 변형 묶음(g12)으로 통합. — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ012",
+      "status": "PASS",
+      "evidence": "UQ012(eng6-ham-u12:q14): 과거 의문문 조동사 Did 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ013",
+      "status": "PASS",
+      "evidence": "UQ013(eng6-ham-u12:q15, eng6-ham-u12:q16): Did you 질문의 조동사 일치 응답 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ014",
+      "status": "PASS",
+      "evidence": "UQ014(eng6-ham-u12:q18): 주어+과거동사 묘사 문장 선택 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ015",
+      "status": "PASS",
+      "evidence": "UQ015(eng6-ham-u12:q19, eng6-ham-u12:q20): 타인 과거 행동 전환 묘사 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ016",
+      "status": "PASS",
+      "evidence": "UQ016(eng6-ham-u12:q21): studied/played together 과거 시제 일치 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ017",
+      "status": "PASS",
+      "evidence": "UQ017(eng6-ham-u12:q22): 졸업 회상 핵심 문장 이해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ018",
+      "status": "PASS",
+      "evidence": "UQ018(eng6-ham-u12:q23): 졸업 응원 표현 의미 확인 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ019",
+      "status": "PASS",
+      "evidence": "UQ019(eng6-ham-u12:q24): 여러 인물 과거 활동 대조 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ020",
+      "status": "PASS",
+      "evidence": "UQ020(eng6-ham-u12:q25, eng6-ham-u12:q36): 지문 기반 부정 응답+과거동사 완성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ021",
+      "status": "PASS",
+      "evidence": "UQ021(eng6-ham-u12:q27): 개인/공동 과거 활동 구분 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ022",
+      "status": "PASS",
+      "evidence": "UQ022(eng6-ham-u12:q28): 질문 make → 서술 made 시제 전환 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ023",
+      "status": "PASS",
+      "evidence": "UQ023(eng6-ham-u12:q29): Special 12 쿠키+독서 두 정보 동시 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ024",
+      "status": "PASS",
+      "evidence": "UQ024(eng6-ham-u12:q30, eng6-ham-u12:q31): Special 12 세부 장소 정보 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ025",
+      "status": "PASS",
+      "evidence": "UQ025(eng6-ham-u12:q32): 주어+과거동사+목적어 어순 구성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ026",
+      "status": "PASS",
+      "evidence": "UQ026(eng6-ham-u12:q35): 복수 인물 과거 사실 일치 OX — 타 단위와 중복 없는 독립 출제 단위 확인"
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/cleaned_street.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 12040B), 18종 몽타주 육안 검수 PASS: 거리 청소 명확, 20KB 이하, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/made_album.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9566B), 18종 몽타주 육안 검수 PASS: 사진 붙여 앨범 만들기 명확, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/painted_wall.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9748B), 18종 몽타주 육안 검수 PASS: 담장 꽃 벽화 그리기 명확, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/took_pictures.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9850B), 18종 몽타주 육안 검수 PASS: 야외 카메라 촬영 명확, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/won_quiz.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9514B), 18종 몽타주 육안 검수 PASS: 무대 트로피 우승 명확, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/wrote_book.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9592B), 18종 몽타주 육안 검수 PASS: 책상에서 책 쓰기 명확, 텍스트 없음 | 활동 장면 시각화 전용(과거 시제는 발문 조건으로 명시), 320px WebP 가독성·용량 충족"
+    }
+  ]
+}

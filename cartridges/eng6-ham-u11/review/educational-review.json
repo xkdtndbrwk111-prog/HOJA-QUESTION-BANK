@@ -1,0 +1,175 @@
+{
+  "sourceCheck": "PASS",
+  "independenceCheck": "PASS",
+  "gameCheck": "NOT_RUN",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "teacherApproval": "PENDING",
+  "notes": "eng6-ham-u11 rev.2 REMASTER 교육적 검수 완료. OX O3/X3 균형화, q03·q04·q06 단·복수 단서 우회 제거, q16·q17 빈칸 불일치 수정, q20 밑줄→따옴표 수정, q23 마크다운(**) 제거, q29·q30→q37·q38 비빔밥 상식 우회 제거(mancala), q31 보기 균형화. 실게임/공통 렌더러 시험 미실행(NOT_RUN), 교사 승인 보류(PENDING). / rev.3: 복수 명사 설명의 수 일치: q17 객관식·q18 구두·q35 OX는 같은 문법 평가의 변형. / 교사 승인 별도 approval.json, 독립 전수 원문 대조 및 운영 게임 NOT_RUN.",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u11:q01",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q02",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q03",
+      "status": "PASS",
+      "evidence": "[정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q04",
+      "status": "PASS",
+      "evidence": "[정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q05",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.24 (158쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q06",
+      "status": "PASS",
+      "evidence": "[정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q07",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q08",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽), p.24 (158쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q09",
+      "status": "PASS",
+      "evidence": "출처(PDF p.21 (155쪽), p.24 (158쪽 Ready to Write 1, 4번)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q10",
+      "status": "PASS",
+      "evidence": "출처(PDF p.15 (149쪽), p.20 (154쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q11",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽), p.24 (158쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q12",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽 Read and Write 2번), p.21 (155쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q13",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽), p.21 (155쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q14",
+      "status": "PASS",
+      "evidence": "출처(PDF p.19 (153쪽 Talk Like This 2), p.28 (162쪽)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q34",
+      "status": "PASS",
+      "evidence": "[정답근거] I have no idea.는 '전혀 모른다'는 뜻이므로 '아주 잘 알고 있다'는 진술은 거짓(X). [오답이유] O 선택은 no의 부정 의미를 놓치거나 표현 자체를 오해한 오류. [우회경로검토] OX O3/X3 균형화로 O 찍기 전략 차단. [시각정보구분] 텍스트 전용 문항. [단위근거] q14와 동일 표현(I have no idea.)의 OX 변형으로 g12 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q16",
+      "status": "PASS",
+      "evidence": "[정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q17",
+      "status": "PASS",
+      "evidence": "[정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q18",
+      "status": "PASS",
+      "evidence": "출처(PDF p.24 (158쪽 Sentences 2)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q35",
+      "status": "PASS",
+      "evidence": "[정답근거] 복수 명사 African drums에 단수 It's를 결합한 비문이므로 거짓(X). [오답이유] O 선택은 복수 명사(-s)와 단수 주어(It's)의 수 불일치를 놓친 오류. [우회경로검토] 실제 학생이 자주 혼동하는 단·복수 수 일치 오류를 활용해 진정한 문법 판별 유도. [시각정보구분] 텍스트 전용 문항. [단위근거] 복수 설명 문장 수 일치 판별 독립 단위 유지. / 복수 명사 설명의 수 일치: q17 객관식·q18 구두·q35 OX는 같은 문법 평가의 변형."
+    },
+    {
+      "questionId": "eng6-ham-u11:q20",
+      "status": "PASS",
+      "evidence": "[정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q21",
+      "status": "PASS",
+      "evidence": "출처(PDF p.25 (159쪽 Let's Write 보기 B)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q22",
+      "status": "PASS",
+      "evidence": "출처(PDF p.22 (156쪽 Let's Read)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q23",
+      "status": "PASS",
+      "evidence": "[정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q24",
+      "status": "PASS",
+      "evidence": "출처(PDF p.27 (161쪽 My Work 4번)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q25",
+      "status": "PASS",
+      "evidence": "출처(PDF p.27 (161쪽 My Work 4번)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q36",
+      "status": "PASS",
+      "evidence": "[정답근거] 지문은 play basketball(농구)과 clean the house(집 청소)를 언급했으나 진술은 축구와 요리라고 서술해 거짓(X). [오답이유] O 선택은 영어를 읽지 않고 도우미 로봇에 대한 일반 연상이나 습관적 O 선택에 의존한 오류. [우회경로검토] OX O3/X3 균형화로 찍기 차단, 지문 동사구 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 스스로 다지기 지문 내용 일치 OX 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q27",
+      "status": "PASS",
+      "evidence": "출처(PDF p.22 (156쪽 Let's Read)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q28",
+      "status": "PASS",
+      "evidence": "출처(PDF p.25 (159쪽 Let's Write 2번)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q37",
+      "status": "PASS",
+      "evidence": "[정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q38",
+      "status": "PASS",
+      "evidence": "[정답근거] 'People play it with small stones.'에서 사용 물건은 작은 돌. [오답/허용답안] 작은 돌/돌/돌멩이/작은 돌멩이 허용. [우회경로검토] 사전 지식이나 문자열 복사 없이 영어 문장 의미 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화의 구두 변형으로 g24 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q31",
+      "status": "PASS",
+      "evidence": "[정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+    },
+    {
+      "questionId": "eng6-ham-u11:q32",
+      "status": "PASS",
+      "evidence": "출처(PDF p.28 (162쪽 Special 11)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    },
+    {
+      "questionId": "eng6-ham-u11:q33",
+      "status": "PASS",
+      "evidence": "출처(PDF p.20 (154쪽 Read and Talk)) 대조, 정답 유일성·단복수 수 일치·교차표현 및 3지선다 변별력 확인"
+    }
+  ]
+}

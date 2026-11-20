@@ -1,0 +1,56 @@
+{
+  "questionCount": 33,
+  "types": {
+    "MCQ": 22,
+    "SHORT": 6,
+    "OX": 5
+  },
+  "soloUnits": 25,
+  "teamUnits": 25,
+  "issues": [],
+  "minimum25": true,
+  "assets": [
+    "assets/cleaned_street.webp",
+    "assets/made_album.webp",
+    "assets/painted_wall.webp",
+    "assets/took_pictures.webp",
+    "assets/won_quiz.webp",
+    "assets/wrote_book.webp"
+  ],
+  "structuralGate": true,
+  "publication": "NOT_APPROVED",
+  "assetBytes": {
+    "assets/cleaned_street.webp": 12040,
+    "assets/won_quiz.webp": 9514,
+    "assets/painted_wall.webp": 9748,
+    "assets/wrote_book.webp": 9592,
+    "assets/took_pictures.webp": 9850,
+    "assets/made_album.webp": 9566
+  },
+  "averageAssetBytes": 10051.666666666666,
+  "imageBudgetWarnings": [],
+  "independentUnits": 17,
+  "variantUnits": 8,
+  "candidateCount": 8,
+  "intentCount": 8,
+  "activeIntents": 7,
+  "blueprintUnits": 25,
+  "educationalRecordGate": true,
+  "reviewStatusCounts": {
+    "PASS": 33
+  },
+  "gameCheckReported": "NOT_RUN",
+  "teacherApproval": "PENDING",
+  "classificationRecordGate": true,
+  "classificationSourceCertification": "NOT_CERTIFIED",
+  "rc3RecordGate": true,
+  "rc3ReviewedQuestions": 33,
+  "rc3SubsetRecords": 66,
+  "rc3ReviewedUnits": 25,
+  "rc3ReviewedMedia": 6,
+  "rc3CompositeRecords": 0,
+  "rc3ClockParameterRecords": 0,
+  "rc3SemanticCertification": "NOT_CERTIFIED",
+  "packageKind": "CANDIDATE_ONLY",
+  "gameCompatibility": "NOT_CERTIFIED"
+}

@@ -1,0 +1,1787 @@
+{
+  "version": "a50294ee914001ebf43558043431ce823e2144ed9da8c068c0e71a9f642f73fb",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u10:q01",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q01(MCQ): 양치질하는 습관은 영어로 brush my teeth입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q01: brush my teeth 그림-영어 연결 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q01: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q01: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(wash my hands): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(brush my teeth): 문항의 근거(brush my teeth 그림-영어 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(drink water): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(eat vegetables): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "wash my hands 제외 시 정답(brush my teeth) + 남은 오답(drink water, eat vegetables) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "drink water 제외 시 정답(brush my teeth) + 남은 오답(wash my hands, eat vegetables) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "eat vegetables 제외 시 정답(brush my teeth) + 남은 오답(wash my hands, drink water) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q02",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q02(SHORT): 이를 닦는 행동은 brush my teeth / brush your teeth입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q02: UQ001 팀전 구두 변형 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q02: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q02: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q03",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q03(MCQ): 비누로 손을 씻는 습관은 wash my hands입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q03: wash my hands 그림-영어 연결 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q03: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q03: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.10 (144쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(wash my hands): 문항의 근거(wash my hands 그림-영어 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(brush my teeth): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(go to the library): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(exercise): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "brush my teeth 제외 시 정답(wash my hands) + 남은 오답(go to the library, exercise) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "go to the library 제외 시 정답(wash my hands) + 남은 오답(brush my teeth, exercise) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "exercise 제외 시 정답(wash my hands) + 남은 오답(brush my teeth, go to the library) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q04",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q04(MCQ): 채소를 먹는 습관은 eat vegetables입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q04: eat vegetables 그림-영어 연결 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q04: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q04: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.6 (140쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(drink water): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(exercise): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(eat vegetables): 문항의 근거(eat vegetables 그림-영어 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(wash my hands): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "drink water 제외 시 정답(eat vegetables) + 남은 오답(exercise, wash my hands) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "exercise 제외 시 정답(eat vegetables) + 남은 오답(drink water, wash my hands) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "wash my hands 제외 시 정답(eat vegetables) + 남은 오답(drink water, exercise) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q05",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q05(MCQ): go to the library는 ‘도서관에 가다’이므로 도서관으로 가는 그림이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q05: go to the library 영어→그림 교차표현 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q05: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q05: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.6 (140쪽), p.54 (188쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/drink_water.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(assets/exercise.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/brush_teeth.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(assets/go_library.webp): 문항의 근거(go to the library 영어→그림 교차표현)와 정확히 일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/drink_water.webp 제외 시 정답(assets/go_library.webp) + 남은 오답(assets/exercise.webp, assets/brush_teeth.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "assets/exercise.webp 제외 시 정답(assets/go_library.webp) + 남은 오답(assets/drink_water.webp, assets/brush_teeth.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/brush_teeth.webp 제외 시 정답(assets/go_library.webp) + 남은 오답(assets/drink_water.webp, assets/exercise.webp) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q06",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q06(MCQ): drink water는 ‘물을 마시다’이므로 물을 마시는 그림이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q06: drink water 문장→그림 교차표현 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q06: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q06: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.8 (142쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/eat_vegetables.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(assets/drink_water.webp): 문항의 근거(drink water 문장→그림 교차표현)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/wash_hands.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(assets/exercise.webp): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/eat_vegetables.webp 제외 시 정답(assets/drink_water.webp) + 남은 오답(assets/wash_hands.webp, assets/exercise.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/wash_hands.webp 제외 시 정답(assets/drink_water.webp) + 남은 오답(assets/eat_vegetables.webp, assets/exercise.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "assets/exercise.webp 제외 시 정답(assets/drink_water.webp) + 남은 오답(assets/eat_vegetables.webp, assets/wash_hands.webp) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q07",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q07(OX): 줄넘기 등 운동을 하는 활동은 영어로 exercise이므로 참입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q07: exercise 그림-어휘 일치 OX — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q07: 삽화 행동만으로는 영어 표현을 맞힐 수 없으며 정답 문자열 미포함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q07: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I001'] (PDF p.1 (135쪽), p.10 (144쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q08",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q08(MCQ): ‘운동하다’의 바른 철자는 e-x-e-r-c-i-s-e(exercise)입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q08: exercise 빈발 오철자 구별 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q08: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q08: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I002'] (PDF p.10 (144쪽 Ready to Write 5번), p.54 (188쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(exersize): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(exersice): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(exercise): 문항의 근거(exercise 빈발 오철자 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(exrcise): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "exersize 제외 시 정답(exercise) + 남은 오답(exersice, exrcise) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "exersice 제외 시 정답(exercise) + 남은 오답(exersize, exrcise) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "exrcise 제외 시 정답(exercise) + 남은 오답(exersize, exersice) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q09",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q09(MCQ): 이를 닦다는 brush my teeth, 손을 씻다는 wash my hands입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q09: brush/wash 핵심 연어 구별 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q09: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q09: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I002'] (PDF p.7 (141쪽), p.10 (144쪽 Ready to Write 1, 4번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(brush - wash): 문항의 근거(brush/wash 핵심 연어 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(wash - brush): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(clean - drink): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(brush - eat): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "wash - brush 제외 시 정답(brush - wash) + 남은 오답(clean - drink, brush - eat) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "clean - drink 제외 시 정답(brush - wash) + 남은 오답(wash - brush, brush - eat) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "brush - eat 제외 시 정답(brush - wash) + 남은 오답(wash - brush, clean - drink) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q10",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q10(MCQ): 얼마나 자주 하는지 빈도를 물을 때는 How often do you ~?를 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q10: How often do you ~? 의문문 기능 구별 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q10: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q10: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I003'] (PDF p.1 (135쪽), p.6 (140쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(How many vegetables do you have?): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(What time do you eat vegetables?): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(How often do you eat vegetables?): 문항의 근거(How often do you ~? 의문문 기능 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Do you like vegetables?): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "How many vegetables do you have? 제외 시 정답(How often do you eat vegetables?) + 남은 오답(What time do you eat vegetables?, Do you like vegetables?) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "What time do you eat vegetables? 제외 시 정답(How often do you eat vegetables?) + 남은 오답(How many vegetables do you have?, Do you like vegetables?) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Do you like vegetables? 제외 시 정답(How often do you eat vegetables?) + 남은 오답(How many vegetables do you have?, What time do you eat vegetables?) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q11",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q11(MCQ): 빈도를 묻는 의문 표현은 How often입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q11: How often / much / many / old 구별 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q11: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q11: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I003'] (PDF p.6~7 (140~141쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(much): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(often): 문항의 근거(How often / much / many / old 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(many): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(old): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "much 제외 시 정답(often) + 남은 오답(many, old) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "many 제외 시 정답(often) + 남은 오답(much, old) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "old 제외 시 정답(often) + 남은 오답(much, many) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q12",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q12(MCQ): twice는 두 번, a day는 하루에를 뜻하므로 twice a day는 ‘하루에 두 번’입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q12: twice a day 횟수+기간 단위 구별 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q12: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q12: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I004'] (PDF p.6 (140쪽), p.13 (147쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(하루에 한 번): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(하루에 두 번): 문항의 근거(twice a day 횟수+기간 단위 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(일주일에 두 번): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(하루에 세 번): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "하루에 한 번 제외 시 정답(하루에 두 번) + 남은 오답(일주일에 두 번, 하루에 세 번) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "일주일에 두 번 제외 시 정답(하루에 두 번) + 남은 오답(하루에 한 번, 하루에 세 번) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "하루에 세 번 제외 시 정답(하루에 두 번) + 남은 오답(하루에 한 번, 일주일에 두 번) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q13",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q13(MCQ): 일주일 중 수요일 1번만 표시되어 있으므로 once a week(일주일에 한 번)입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q13: frequency 블록 주 1회(once a week) 해석 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q13: frequency 블록의 실제 체크 횟수를 읽고 영어 빈도 표현으로 변환해야 하므로 문자열 복사 우회 불가"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q13: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I004'] (PDF p.5 (139쪽), p.10 (144쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(I exercise once a week.): 문항의 근거(frequency 블록 주 1회(once a week) 해석)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I exercise twice a week.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I exercise once a day.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I exercise every day.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I exercise twice a week. 제외 시 정답(I exercise once a week.) + 남은 오답(I exercise once a day., I exercise every day.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I exercise once a day. 제외 시 정답(I exercise once a week.) + 남은 오답(I exercise twice a week., I exercise every day.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I exercise every day. 제외 시 정답(I exercise once a week.) + 남은 오답(I exercise twice a week., I exercise once a day.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q14",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q14(SHORT): 기록표에 수요일 1회만 표시되어 있으므로 once a week(I exercise once a week.)가 정답입니다. | [정답근거] frequency 블록(수요일 1회 표시)을 해석해 주 1회(once a week) 산출. [오답/허용답안] once a week / Once a week. / I exercise once a week. 허용. [우회경로검토] 기존 발문의 '일주일에 한 번' 노출을 제거해 기록표 해석 없이 번역만으로 푸는 우회 차단. [시각정보구분] frequency 블록에서 1주일 중 1회 표시가 직접 관찰되며 추가 전제 불필요. [단위근거] q13(MCQ)과 동일 학습 증거(주 1회 frequency 해석)의 구두 변형으로 g12 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q14: UQ012 팀전 구두 변형 (PDF p.5 (139쪽 Talk Like This 1)) — [정답근거] frequency 블록(수요일 1회 표시)을 해석해 주 1회(once a week) 산출. [오답/허용답안] once a week / Once a week. / I exercise once a week. 허용. [우회경로검토] 기존 발문의 '일주일에 한 번' 노출을 제거해 기록표 해석 없이 번역만으로 푸는 우회 차단. [시각정보구분] frequency 블록에서 1주일 중 1회 표시가 직접 관찰되며 추가 전제 불필요. [단위근거] q13(MCQ)과 동일 학습 증거(주 1회 frequency 해석)의 구두 변형으로 g12 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q14: [정답근거] frequency 블록(수요일 1회 표시)을 해석해 주 1회(once a week) 산출. [오답/허용답안] once a week / Once a week. / I exercise once a week. 허용. [우회경로검토] 기존 발문의 '일주일에 한 번' 노출을 제거해 기록표 해석 없이 번역만으로 푸는 우회 차단. [시각정보구분] frequency 블록에서 1주일 중 1회 표시가 직접 관찰되며 추가 전제 불필요. [단위근거] q13(MCQ)과 동일 학습 증거(주 1회 frequency 해석)의 구두 변형으로 g12 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q14: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.5 (139쪽 Talk Like This 1)) 부합 — UQ012 팀전 구두 변형"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q15",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q15(MCQ): 화·목·토 총 3회 표시되어 있으므로 I exercise three times a week.입니다. | [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q15: 교과서 p.144 화·목·토 빈도표 기반 three times a week 해석 (PDF p.10 (144쪽 Ready to Write 7번), p.12 (146쪽)) — [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q15: [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q15: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.10 (144쪽 Ready to Write 7번), p.12 (146쪽)) 부합 — 교과서 p.144 화·목·토 빈도표 기반 three times a week 해석"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(I exercise twice a week.): 문항의 근거(교과서 p.144 화·목·토 빈도표 기반 three times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(I exercise three times a week.): 화·목·토 총 3회 표시되어 있으므로 I exercise three times a week.입니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I exercise four times a week.): 문항의 근거(교과서 p.144 화·목·토 빈도표 기반 three times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I exercise three times a day.): 문항의 근거(교과서 p.144 화·목·토 빈도표 기반 three times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(화·목·토 3회) 해석 → I exercise three times a week.(c2). [오답이유] c1(twice=2회), c3(four times=4회)는 횟수 오독, c4(a day)는 기간 단위 혼동. [우회경로검토] 표의 표시 횟수와 영어 기수·기간 단위(times a week)를 모두 이해해야 정답 선택 가능. [3지선다조합] 어느 오답이 제외돼도 횟수 오답 또는 기간 단위 오답이 남아 평가 목표 유지. [시각정보구분] frequency 블록에서 3회 표시가 직접 관찰됨. [단위근거] q16과 동일 평가 구조이므로 g13으로 통합해 독립 출제 단위 중복 방지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "I exercise twice a week. 제외 시 정답(I exercise three times a week.) + 남은 오답(I exercise four times a week., I exercise three times a day.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I exercise four times a week. 제외 시 정답(I exercise three times a week.) + 남은 오답(I exercise twice a week., I exercise three times a day.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I exercise three times a day. 제외 시 정답(I exercise three times a week.) + 남은 오답(I exercise twice a week., I exercise four times a week.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q16",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q16(MCQ): 월~금 총 5회 표시되어 있으므로 I go to the library five times a week.입니다. | [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q16: 교과서 p.144 월~금 빈도표 기반 five times a week 해석 (PDF p.6 (140쪽), p.10 (144쪽 Ready to Write 8번)) — [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q16: [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q16: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.6 (140쪽), p.10 (144쪽 Ready to Write 8번)) 부합 — 교과서 p.144 월~금 빈도표 기반 five times a week 해석"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(I go to the library four times a week.): 문항의 근거(교과서 p.144 월~금 빈도표 기반 five times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I go to the library five times a day.): 문항의 근거(교과서 p.144 월~금 빈도표 기반 five times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(I go to the library five times a week.): 월~금 총 5회 표시되어 있으므로 I go to the library five times a week.입니다."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I go to the library every day.): 문항의 근거(교과서 p.144 월~금 빈도표 기반 five times a week 해석)와 불일치하는 혼동지 — [정답근거] frequency 블록(월~금 5회) 해석 → I go to the library five times a week.(c3). [오답이유] c1(four times=4회), c4(every day=7회)는 횟수 오독, c2(a day)는 기간 단위 혼동. [우회경로검토] 5회 표시와 five times a week를 연결해야 하므로 표면 단서 우회 불가. [3지선다조합] 모든 조합에서 횟수 또는 기간 단위 구별 평가 유지. [시각정보구분] frequency 블록에서 월~금 5회 표시가 직접 관찰됨. [단위근거] q15와 동일 평가 구조이므로 g13으로 통합."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "I go to the library four times a week. 제외 시 정답(I go to the library five times a week.) + 남은 오답(I go to the library five times a day., I go to the library every day.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I go to the library five times a day. 제외 시 정답(I go to the library five times a week.) + 남은 오답(I go to the library four times a week., I go to the library every day.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I go to the library every day. 제외 시 정답(I go to the library five times a week.) + 남은 오답(I go to the library four times a week., I go to the library five times a day.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q34",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q34(OX): 월요일부터 금요일까지 5일만 표시되어 있으므로 every day(매일)가 아니라 five times a week입니다. | [정답근거] frequency 블록에 토·일이 비어 있는 주 5회 표시이므로 every day 진술은 거짓(X). [오답이유] O 선택은 표시가 많다는 인상만으로 every day(매일=7일)의 정확한 의미를 놓친 오류. [우회경로검토] OX 정답 분포를 O2/X3으로 균형화해 O 찍기 전략 차단. [시각정보구분] frequency 블록에서 월~금 5회 표시, 토·일 미표시가 직접 관찰됨. [단위근거] every day 개념의 정확한 경계를 평가하는 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q34: frequency 블록 주 5회 vs every day 오개념 판별 OX(X 정답) (PDF p.8 (142쪽), p.12 (146쪽)) — [정답근거] frequency 블록에 토·일이 비어 있는 주 5회 표시이므로 every day 진술은 거짓(X). [오답이유] O 선택은 표시가 많다는 인상만으로 every day(매일=7일)의 정확한 의미를 놓친 오류. [우회경로검토] OX 정답 분포를 O2/X3으로 균형화해 O 찍기 전략 차단. [시각정보구분] frequency 블록에서 월~금 5회 표시, 토·일 미표시가 직접 관찰됨. [단위근거] every day 개념의 정확한 경계를 평가하는 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q34: [정답근거] frequency 블록에 토·일이 비어 있는 주 5회 표시이므로 every day 진술은 거짓(X). [오답이유] O 선택은 표시가 많다는 인상만으로 every day(매일=7일)의 정확한 의미를 놓친 오류. [우회경로검토] OX 정답 분포를 O2/X3으로 균형화해 O 찍기 전략 차단. [시각정보구분] frequency 블록에서 월~금 5회 표시, 토·일 미표시가 직접 관찰됨. [단위근거] every day 개념의 정확한 경계를 평가하는 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q34: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.8 (142쪽), p.12 (146쪽)) 부합 — frequency 블록 주 5회 vs every day 오개념 판별 OX(X 정답) / 동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위."
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q18",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q18(MCQ): 3회 이상은 「기수 + times + a + 기간」 형태로 써서 three times a day라고 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q18: 빈도 명사구(three times a day) 문법 정확성 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q18: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q18: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I004'] (PDF p.6 (140쪽), p.8 (142쪽), p.11 (145쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(three time a day): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(three times a day): 문항의 근거(빈도 명사구(three times a day) 문법 정확성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(three times day): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(third times a day): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "three time a day 제외 시 정답(three times a day) + 남은 오답(three times day, third times a day) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "three times day 제외 시 정답(three times a day) + 남은 오답(three time a day, third times a day) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "third times a day 제외 시 정답(three times a day) + 남은 오답(three time a day, three times day) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q19",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q19(MCQ): 주어가 I이므로 ‘나의 손’을 뜻하는 소유격 my를 써서 I wash my hands라고 답합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q19: 질문 your → 응답 my 소유격 전환 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q19: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q19: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I005'] (PDF p.6 (140쪽), p.11 (145쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(my): 문항의 근거(질문 your → 응답 my 소유격 전환)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(your): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(me): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "your 제외 시 정답(my) + 남은 오답(me, I) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "me 제외 시 정답(my) + 남은 오답(your, I) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I 제외 시 정답(my) + 남은 오답(your, me) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q20",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q20(SHORT): I가 주어이므로 소유격 my가 들어갑니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q20: UQ017 팀전 구두 변형 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q20: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q20: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I005'] (PDF p.6 (140쪽), p.11 (145쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q21",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q21(MCQ): 「주어(I) + 동사(exercise) + 횟수(four times) + 기간(a week)」 순서로 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q21: 빈도 응답 문장 어순 구성 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q21: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q21: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I005'] (PDF p.13 (147쪽 My Work 3~4번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(I exercise four times a week.): 문항의 근거(빈도 응답 문장 어순 구성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(I four times exercise a week.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Exercise I four times a week.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I exercise a week four times.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "I four times exercise a week. 제외 시 정답(I exercise four times a week.) + 남은 오답(Exercise I four times a week., I exercise a week four times.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Exercise I four times a week. 제외 시 정답(I exercise four times a week.) + 남은 오답(I four times exercise a week., I exercise a week four times.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I exercise a week four times. 제외 시 정답(I exercise four times a week.) + 남은 오답(I four times exercise a week., Exercise I four times a week.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q22",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q22(MCQ): 좋은 습관을 듣고 칭찬할 때는 Good for you.(잘했어 / 대단해)라고 말합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q22: 칭찬 표현 Good for you. 대화 적용 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q22: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q22: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I006'] (PDF p.5 (139쪽 Talk Like This 2), p.13 (147쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(Good for you.): 문항의 근거(칭찬 표현 Good for you. 대화 적용)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(That's not good for you.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(I have no idea.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(I'm sorry.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "That's not good for you. 제외 시 정답(Good for you.) + 남은 오답(I have no idea., I'm sorry.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "I have no idea. 제외 시 정답(Good for you.) + 남은 오답(That's not good for you., I'm sorry.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "I'm sorry. 제외 시 정답(Good for you.) + 남은 오답(That's not good for you., I have no idea.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q35",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q35(OX): 채소를 먹지 않는다는 부정적 습관(don't eat vegetables)에는 칭찬(Good for you.)이 아니라 That's not good for you.로 답하는 것이 자연스럽습니다. | [정답근거] don't eat vegetables(채소를 먹지 않음)는 건강하지 않은 습관이므로 칭찬 표현 Good for you.는 부적절(X). [오답이유] O 선택은 don't 부정어를 놓치거나 Good for you.의 칭찬 기능을 오해한 오류. [우회경로검토] 한국어 설명만으로 O를 고를 수 없고 영어 발화의 부정 의미를 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] q22와 동일 학습 초점(Good for you. 화용 판단)의 OX 변형으로 g19 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q35: UQ019 OX 변형(부정 습관 vs Good for you. 화용 오류 판별 X 정답) (PDF p.5 (139쪽), p.9 (143쪽)) — [정답근거] don't eat vegetables(채소를 먹지 않음)는 건강하지 않은 습관이므로 칭찬 표현 Good for you.는 부적절(X). [오답이유] O 선택은 don't 부정어를 놓치거나 Good for you.의 칭찬 기능을 오해한 오류. [우회경로검토] 한국어 설명만으로 O를 고를 수 없고 영어 발화의 부정 의미를 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] q22와 동일 학습 초점(Good for you. 화용 판단)의 OX 변형으로 g19 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q35: [정답근거] don't eat vegetables(채소를 먹지 않음)는 건강하지 않은 습관이므로 칭찬 표현 Good for you.는 부적절(X). [오답이유] O 선택은 don't 부정어를 놓치거나 Good for you.의 칭찬 기능을 오해한 오류. [우회경로검토] 한국어 설명만으로 O를 고를 수 없고 영어 발화의 부정 의미를 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] q22와 동일 학습 초점(Good for you. 화용 판단)의 OX 변형으로 g19 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q35: 2022 개정 초6 영어 활성 의도 ['I006'] (PDF p.5 (139쪽), p.9 (143쪽)) 부합 — UQ019 OX 변형(부정 습관 vs Good for you. 화용 오류 판별 X 정답)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q24",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q24(MCQ): 조언하며 ‘~해야 한다’고 말할 때는 조동사 should를 써서 You should exercise more often.이라고 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q24: 조언 조동사 should 기능 이해 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q24: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q24: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I007'] (PDF p.9 (143쪽), p.11 (145쪽), p.13 (147쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(should): 문항의 근거(조언 조동사 should 기능 이해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(are): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(do): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(often): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "are 제외 시 정답(should) + 남은 오답(do, often) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "do 제외 시 정답(should) + 남은 오답(are, often) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "often 제외 시 정답(should) + 남은 오답(are, do) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q37",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q37(MCQ): B는 'You should drink water more often.'이라고 했으므로 물을 더 자주 마셔야 한다는 조언입니다. | [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q37: My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어) (PDF p.13 (147쪽 My Work 3~4번)) — [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q37: [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q37: 2022 개정 초6 영어 활성 의도 ['I007'] (PDF p.13 (147쪽 My Work 3~4번)) 부합 — My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어)"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(물을 더 자주 마셔야 한다.): B는 'You should drink water more often.'이라고 했으므로 물을 더 자주 마셔야 한다는 조언입니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(하루에 두 번만 물을 마셔야 한다.): 문항의 근거(My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어))와 불일치하는 혼동지 — [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(채소를 더 자주 먹어야 한다.): 문항의 근거(My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어))와 불일치하는 혼동지 — [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(지금 습관이 좋으니 그대로 유지해야 한다.): 문항의 근거(My Work 대화 조언 의미 이해(문자열 복사 우회 제거, 영어→한국어))와 불일치하는 혼동지 — [정답근거] B의 발화 'You should drink water more often.'의 정확한 한국어 의미는 c1(물을 더 자주 마셔야 한다). [오답이유] c2는 A의 현재 빈도(twice a day)를 조언으로 혼동, c3는 다른 생활 습관(채소) 치환, c4는 not good for you를 긍정으로 오독. [우회경로검토] 영어 지문→한국어 보기로 전환해 문자열 복사 우회 원천 차단. [3지선다조합] 모든 3지선다 조합에서 should + drink water more often 의미 이해가 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 조언 이해를 평가하므로 g21 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "c2 제외(c1,c3,c4): 습관 종류(물 vs 채소)와 부정 조언(not good)을 모두 이해해야 c1 확정."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외(c1,c2,c4): A의 현재 빈도(twice a day)와 B의 조언(more often) 차이를 구분해야 c1 확정."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외(c1,c2,c3): 활동(drink water)과 빈도 방향(more often vs twice a day)을 모두 이해해야 c1 확정."
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q38",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q38(SHORT): B가 'You should drink water more often.'이라고 조언했으므로 더 자주 해야 할 행동은 물 마시기입니다. | [정답근거] 'You should drink water more often.'에서 조언 대상 행동은 '물 마시기'. [오답/허용답안] 물 마시기/물을 마시기/물 마시는 것/물을 마시는 것/물을 더 자주 마시기 허용. [우회경로검토] 영어 문자열을 그대로 읽지 않고 한국어 의미로 변환해 말해야 하므로 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화 조언 이해의 구두 변형으로 g21 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q38: UQ021 팀전 우리말 구두 변형(문자열 복사 우회 제거) (PDF p.13 (147쪽 My Work 4번)) — [정답근거] 'You should drink water more often.'에서 조언 대상 행동은 '물 마시기'. [오답/허용답안] 물 마시기/물을 마시기/물 마시는 것/물을 마시는 것/물을 더 자주 마시기 허용. [우회경로검토] 영어 문자열을 그대로 읽지 않고 한국어 의미로 변환해 말해야 하므로 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화 조언 이해의 구두 변형으로 g21 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q38: [정답근거] 'You should drink water more often.'에서 조언 대상 행동은 '물 마시기'. [오답/허용답안] 물 마시기/물을 마시기/물 마시는 것/물을 마시는 것/물을 더 자주 마시기 허용. [우회경로검토] 영어 문자열을 그대로 읽지 않고 한국어 의미로 변환해 말해야 하므로 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화 조언 이해의 구두 변형으로 g21 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q38: 2022 개정 초6 영어 활성 의도 ['I007'] (PDF p.13 (147쪽 My Work 4번)) 부합 — UQ021 팀전 우리말 구두 변형(문자열 복사 우회 제거)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q27",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q27(OX): That's not good for you.는 ‘그건 너에게 좋지 않아.’라는 뜻으로 건강하지 않은 습관을 지적할 때 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q27: That's not good for you. 의미 이해 OX — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q27: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q27: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I007'] (PDF p.9 (143쪽), p.13 (147쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q28",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q28(MCQ): Old habits die hard.는 오래된 습관은 쉽게 고치기 어렵다는 뜻으로 ‘세 살 버릇 여든까지 간다.’와 같습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q28: 교과서 p.142 영어-우리말 속담 의미 연결 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q28: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q28: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I008'] (PDF p.8 (142쪽 Before You Read))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(세 살 버릇 여든까지 간다.): 문항의 근거(교과서 p.142 영어-우리말 속담 의미 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(티끌 모아 태산이다.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(가는 말이 고와야 오는 말이 곱다.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(시작이 반이다.): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "티끌 모아 태산이다. 제외 시 정답(세 살 버릇 여든까지 간다.) + 남은 오답(가는 말이 고와야 오는 말이 곱다., 시작이 반이다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "가는 말이 고와야 오는 말이 곱다. 제외 시 정답(세 살 버릇 여든까지 간다.) + 남은 오답(티끌 모아 태산이다., 시작이 반이다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "시작이 반이다. 제외 시 정답(세 살 버릇 여든까지 간다.) + 남은 오답(티끌 모아 태산이다., 가는 말이 고와야 오는 말이 곱다.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q29",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q29(MCQ): Dr. Smith는 \"You should eat vegetables every day.\"라고 조언했으므로 c3가 일치합니다. | [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q29: 4차시 본문 대화 세부 정보 독해(영어→한국어) (PDF p.9 (143쪽 Let's Read)) — [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q29: [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q29: 2022 개정 초6 영어 활성 의도 ['I008'] (PDF p.9 (143쪽 Let's Read)) 부합 — 4차시 본문 대화 세부 정보 독해(영어→한국어)"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(클라라는 매일 채소와 과일을 함께 먹는다.): 문항의 근거(4차시 본문 대화 세부 정보 독해(영어→한국어))와 불일치하는 혼동지 — [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(클라라는 일주일에 네 번 규칙적으로 운동한다.): 문항의 근거(4차시 본문 대화 세부 정보 독해(영어→한국어))와 불일치하는 혼동지 — [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(선생님은 클라라에게 매일 채소를 먹으라고 했다.): Dr. Smith는 \"You should eat vegetables every day.\"라고 조언했으므로 c3가 일치합니다."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(선생님은 클라라의 운동 습관이 아주 좋다고 했다.): 문항의 근거(4차시 본문 대화 세부 정보 독해(영어→한국어))와 불일치하는 혼동지 — [정답근거] Dr. Smith의 'You should eat vegetables every day.'와 c3가 일치. [오답이유] c1(don't eat vegetables와 모순), c2(once a week와 모순), c4(that's not good for you와 모순). [우회경로검토] 4개 보기 길이를 22~26자로 균일화해 길이 단서 제거. [3지선다조합] 모든 조합에서 대화의 부정어·빈도·조언 내용을 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] 4차시 Let's Read 본문 독해 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "클라라는 매일 채소와 과일을 함께 먹는다. 제외 시 정답(선생님은 클라라에게 매일 채소를 먹으라고 했다.) + 남은 오답(클라라는 일주일에 네 번 규칙적으로 운동한다., 선생님은 클라라의 운동 습관이 아주 좋다고 했다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "클라라는 일주일에 네 번 규칙적으로 운동한다. 제외 시 정답(선생님은 클라라에게 매일 채소를 먹으라고 했다.) + 남은 오답(클라라는 매일 채소와 과일을 함께 먹는다., 선생님은 클라라의 운동 습관이 아주 좋다고 했다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "선생님은 클라라의 운동 습관이 아주 좋다고 했다. 제외 시 정답(선생님은 클라라에게 매일 채소를 먹으라고 했다.) + 남은 오답(클라라는 매일 채소와 과일을 함께 먹는다., 클라라는 일주일에 네 번 규칙적으로 운동한다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q30",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q30(MCQ): \"But I exercise once a week. That's not good for me.\"에서 일주일에 한 번만 운동하는 습관을 고쳐야 함을 알 수 있습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q30: 생활 습관 글에서 개선 대상 습관 파악 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q30: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q30: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I008'] (PDF p.11 (145쪽 Let's Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(하루에 세 번 양치하는 습관): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(하루에 다섯 번 손을 씻는 습관): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(일주일에 한 번만 운동하는 습관): 문항의 근거(생활 습관 글에서 개선 대상 습관 파악)와 정확히 일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(매일 채소를 먹는 습관): 동일 단원 어휘·빈도·문법 범주의 혼동지이나 문항의 사실/문법 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "하루에 세 번 양치하는 습관 제외 시 정답(일주일에 한 번만 운동하는 습관) + 남은 오답(하루에 다섯 번 손을 씻는 습관, 매일 채소를 먹는 습관) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "하루에 다섯 번 손을 씻는 습관 제외 시 정답(일주일에 한 번만 운동하는 습관) + 남은 오답(하루에 세 번 양치하는 습관, 매일 채소를 먹는 습관) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "매일 채소를 먹는 습관 제외 시 정답(일주일에 한 번만 운동하는 습관) + 남은 오답(하루에 세 번 양치하는 습관, 하루에 다섯 번 손을 씻는 습관) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q31",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q31(SHORT): \"I should exercise more often.\"에서 더 자주 해야 하는 활동은 운동입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q31: UQ025 팀전 우리말 구두 변형 — 문항 내 지문·빈도표·삽화에 정답 확정에 필요한 근거가 완비됨"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q31: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q31: 2022 개정 초6 영어 Lesson 10 활성 의도 ['I008'] (PDF p.11 (145쪽 Let's Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u10:q32",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q32(MCQ): 대화에서 'I eat fresh fruit and vegetables every day.'와 'I drink water often.'이라고 모두 말했으므로 c2가 정확히 일치합니다. | [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q32: Special 10 원문 발화 4문장 교차 오답 독해 (PDF p.14 (148쪽 Special 10 Into the World)) — [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q32: [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q32: 2022 개정 초6 영어 활성 의도 ['I008'] (PDF p.14 (148쪽 Special 10 Into the World)) 부합 — Special 10 원문 발화 4문장 교차 오답 독해"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(신선한 과일과 채소를 매일 먹지만 물은 자주 마시지 않는다.): 문항의 근거(Special 10 원문 발화 4문장 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(신선한 과일과 채소를 매일 먹고 물도 자주 마신다.): 대화에서 'I eat fresh fruit and vegetables every day.'와 'I drink water often.'이라고 모두 말했으므로 c2가 정확히 일치합니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(신선한 과일과 채소는 가끔 먹지만 물은 자주 마신다.): 문항의 근거(Special 10 원문 발화 4문장 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(신선한 과일과 채소는 일주일에 한 번 먹고 물도 자주 마시지 않는다.): 문항의 근거(Special 10 원문 발화 4문장 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] 대화의 두 진술('eat fresh fruit and vegetables every day', 'drink water often')이 모두 c2와 일치. [오답이유] c1(과일·채소 O / 물 X), c3(과일·채소 X / 물 O), c4(과일·채소 X / 물 X)로 완전 2×2 교차 구성. [우회경로검토] 훈자 마을 배경지식 없이 대화 영어 의미만으로 해결 가능. 외부 어휘(도서관) 제거로 소거 우회 차단. [3지선다조합] c4 제외 시(c1,c2,c3) 두 정보 모두 필수; c3 제외 시(c1,c2,c4) 물 빈도 확인 필수(과일·채소만으로는 c1·c2 구별 불가); c1 제외 시(c2,c3,c4) 과일·채소 빈도 확인 필수(물만으로는 c2·c3 구별 불가). 4지→3지 구조상 c1 또는 c3 탈락 조합에서 단일 축 2지 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 10 복합 대화 독해 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1 제외(c2,c3,c4): c2와 c3를 구분하기 위해 과일·채소 빈도(every day) 확인 필수. (단, 3지선다 특성상 과일·채소 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외(c1,c2,c4): c1과 c2를 구분하기 위해 물 섭취 빈도(drink water often) 확인 필수. (단, 3지선다 특성상 물 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외(c1,c2,c3): 과일·채소 빈도와 물 섭취 빈도 두 정보를 모두 읽어야 c2 확정."
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u10:q36",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q36(OX): 글에서 매일(every day) 하는 일은 물 마시기이고, 일주일에 세 번(three times a week) 하는 일은 운동이므로 활동과 빈도가 바뀌어 거짓입니다. | [정답근거] 원문은 물=매일(every day), 운동=주 3회(three times a week)이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 '물, 운동, 매일, 주 3회' 키워드만 확인하고 문장별 주어-동사-빈도 결합을 놓친 오류. [우회경로검토] 단어 존재 여부만으로는 풀 수 없고 각 문장의 의미 결합을 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] 두 문장 빈도 대응 독해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q36: 건강 습관 두 문장 활동-빈도 교차 오류 판별 OX(X 정답) (PDF p.8 (142쪽 Healthy Habits)) — [정답근거] 원문은 물=매일(every day), 운동=주 3회(three times a week)이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 '물, 운동, 매일, 주 3회' 키워드만 확인하고 문장별 주어-동사-빈도 결합을 놓친 오류. [우회경로검토] 단어 존재 여부만으로는 풀 수 없고 각 문장의 의미 결합을 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] 두 문장 빈도 대응 독해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q36: [정답근거] 원문은 물=매일(every day), 운동=주 3회(three times a week)이나 진술은 둘을 뒤바꾸어 거짓(X). [오답이유] O 선택은 '물, 운동, 매일, 주 3회' 키워드만 확인하고 문장별 주어-동사-빈도 결합을 놓친 오류. [우회경로검토] 단어 존재 여부만으로는 풀 수 없고 각 문장의 의미 결합을 읽어야 판별 가능. [시각정보구분] 텍스트 전용 문항. [단위근거] 두 문장 빈도 대응 독해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u10:q36: 2022 개정 초6 영어 활성 의도 ['I008'] (PDF p.8 (142쪽 Healthy Habits)) 부합 — 건강 습관 두 문장 활동-빈도 교차 오류 판별 OX(X 정답)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    }
+  ],
+  "units": [
+    {
+      "unitId": "UQ001",
+      "status": "PASS",
+      "evidence": "UQ001(eng6-ham-u10:q01, eng6-ham-u10:q02): 핵심 어휘 brush my teeth 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ002",
+      "status": "PASS",
+      "evidence": "UQ002(eng6-ham-u10:q03): 핵심 어휘 wash my hands 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ003",
+      "status": "PASS",
+      "evidence": "UQ003(eng6-ham-u10:q04): 핵심 어휘 eat vegetables 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ004",
+      "status": "PASS",
+      "evidence": "UQ004(eng6-ham-u10:q05): 영어→그림 역방향 매칭 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ005",
+      "status": "PASS",
+      "evidence": "UQ005(eng6-ham-u10:q06): 문장 맥락 속 drink water 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ006",
+      "status": "PASS",
+      "evidence": "UQ006(eng6-ham-u10:q07): exercise 시각 의미 확인 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ007",
+      "status": "PASS",
+      "evidence": "UQ007(eng6-ham-u10:q08): exercise 빈발 오철자 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ008",
+      "status": "PASS",
+      "evidence": "UQ008(eng6-ham-u10:q09): 습관 명사와 결합하는 동사 연어 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ009",
+      "status": "PASS",
+      "evidence": "UQ009(eng6-ham-u10:q10): How often do you ~? 의문문 기능 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ010",
+      "status": "PASS",
+      "evidence": "UQ010(eng6-ham-u10:q11): How + 형용사/부사 의문사 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ011",
+      "status": "PASS",
+      "evidence": "UQ011(eng6-ham-u10:q12): twice + a day 횟수·기간 단위 이해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ012",
+      "status": "PASS",
+      "evidence": "UQ012(eng6-ham-u10:q13, eng6-ham-u10:q14): 빈도표 주 1회 해석 및 once 표현 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ013",
+      "status": "PASS",
+      "evidence": "동일 주간 기록 해석 및 주 5회와 매일 구별: q15·16 객관식과 q34 OX는 하나의 변형 단위."
+    },
+    {
+      "unitId": "UQ015",
+      "status": "PASS",
+      "evidence": "UQ015(eng6-ham-u10:q18): 빈도 명사구 복수·관사 문법 정확성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ016",
+      "status": "PASS",
+      "evidence": "UQ016(eng6-ham-u10:q19, eng6-ham-u10:q20): 주어 전환에 따른 인칭 소유격 일치 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ017",
+      "status": "PASS",
+      "evidence": "UQ017(eng6-ham-u10:q21): 주어+동사+횟수+기간 어순 구성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ018",
+      "status": "PASS",
+      "evidence": "UQ018(eng6-ham-u10:q22, eng6-ham-u10:q35): 칭찬 표현 Good for you. 화용 기능 통합 평가 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ019",
+      "status": "PASS",
+      "evidence": "UQ019(eng6-ham-u10:q24): 조언 표현 You should ~ 구조 이해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ020",
+      "status": "PASS",
+      "evidence": "UQ020(eng6-ham-u10:q37, eng6-ham-u10:q38): 부족한 습관 파악 후 조언 어구 적용 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ021",
+      "status": "PASS",
+      "evidence": "UQ021(eng6-ham-u10:q27): That's not good for you. 화용 의미 확인 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ022",
+      "status": "PASS",
+      "evidence": "UQ022(eng6-ham-u10:q28): 단원 도입 영어 속담 이해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ023",
+      "status": "PASS",
+      "evidence": "UQ023(eng6-ham-u10:q29): 건강 습관·조언 대화 세부 사실 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ024",
+      "status": "PASS",
+      "evidence": "UQ024(eng6-ham-u10:q30, eng6-ham-u10:q31): 긍정·부정 습관 대조 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ025",
+      "status": "PASS",
+      "evidence": "UQ025(eng6-ham-u10:q32): Special 10 두 핵심 습관 동시 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ026",
+      "status": "PASS",
+      "evidence": "UQ026(eng6-ham-u10:q36): 복합 빈도 문장 의미 독해 OX — 타 단위와 중복 없는 독립 출제 단위 확인"
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/brush_teeth.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9946B), 18종 몽타주 육안 검수 PASS: 양치 장면 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/drink_water.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9102B), 18종 몽타주 육안 검수 PASS: 유리컵 물 마시기 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/eat_vegetables.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9456B), 18종 몽타주 육안 검수 PASS: 브로콜리·당근·토마토 식사 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/exercise.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9568B), 18종 몽타주 육안 검수 PASS: 공원 줄넘기 운동 장면 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/go_library.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9704B), 18종 몽타주 육안 검수 PASS: 책 들고 도서관 건물 가는 장면 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/wash_hands.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9366B), 18종 몽타주 육안 검수 PASS: 비누 거품 손씻기 명확, 텍스트 없음 | 행동 시각화 전용(빈도 정보는 frequency 블록으로 분리), 320px WebP 가독성·용량 충족"
+    }
+  ]
+}

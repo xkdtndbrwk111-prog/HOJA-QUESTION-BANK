@@ -2,7 +2,7 @@
   "schemaVersion": "hoja-catalog.1",
   "publication": "NOT_APPROVED",
   "deliveryStatus": "HOLD",
-  "approvedCount": 3,
+  "approvedCount": 6,
   "legacyHeldCount": 76,
   "cartridges": [
     {
@@ -76,6 +76,78 @@
       "questionCount": 33,
       "soloUnits": 26,
       "supersedesLegacyId": "legacy-2e92d45956bee4"
+    },
+    {
+      "id": "eng6-ham-u10",
+      "path": "cartridges/eng6-ham-u10/cartridge.json",
+      "version": "a50294ee914001ebf43558043431ce823e2144ed9da8c068c0e71a9f642f73fb",
+      "revision": 3,
+      "title": "초등학교 영어 6 (천재·함순애) Lesson 10 How Often Do You Eat Vegetables?",
+      "classification": {
+        "curriculum": "2022",
+        "grade": 6,
+        "semester": 2,
+        "subject": "영어",
+        "publisher": "천재교과서",
+        "leadAuthor": "함순애",
+        "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-861-6 63740)",
+        "unitNumber": 10,
+        "unitTitle": "How Often Do You Eat Vegetables?"
+      },
+      "classificationStatus": "declared_verified_structure",
+      "teacherApproval": "APPROVED",
+      "deliveryStatus": "HOLD",
+      "questionCount": 33,
+      "soloUnits": 25,
+      "supersedesLegacyId": "legacy-9ff2803db41b4c"
+    },
+    {
+      "id": "eng6-ham-u11",
+      "path": "cartridges/eng6-ham-u11/cartridge.json",
+      "version": "4bf5ca4efb93b3156213830226c08594b1779f134299a1a5060bf5b7cdb140b8",
+      "revision": 3,
+      "title": "초등학교 영어 6 (천재·함순애) Lesson 11 Do You Know Anything About Tuho?",
+      "classification": {
+        "curriculum": "2022",
+        "grade": 6,
+        "semester": 2,
+        "subject": "영어",
+        "publisher": "천재교과서",
+        "leadAuthor": "함순애",
+        "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-861-6 63740)",
+        "unitNumber": 11,
+        "unitTitle": "Do You Know Anything About Tuho?"
+      },
+      "classificationStatus": "declared_verified_structure",
+      "teacherApproval": "APPROVED",
+      "deliveryStatus": "HOLD",
+      "questionCount": 33,
+      "soloUnits": 26,
+      "supersedesLegacyId": "legacy-b85861dbe774f0"
+    },
+    {
+      "id": "eng6-ham-u12",
+      "path": "cartridges/eng6-ham-u12/cartridge.json",
+      "version": "b48d030017f0b9e2e8a8bb0c84c63f13bd0915a4100ae24d2bf940f1f6a141e9",
+      "revision": 3,
+      "title": "초등학교 영어 6 (천재·함순애) Lesson 12 We Made a Class Album",
+      "classification": {
+        "curriculum": "2022",
+        "grade": 6,
+        "semester": 2,
+        "subject": "영어",
+        "publisher": "천재교과서",
+        "leadAuthor": "함순애",
+        "edition": "2026. 3. 1. 초판 발행 (2022 개정 교육과정, ISBN 979-11-7236-861-6 63740)",
+        "unitNumber": 12,
+        "unitTitle": "We Made a Class Album"
+      },
+      "classificationStatus": "declared_verified_structure",
+      "teacherApproval": "APPROVED",
+      "deliveryStatus": "HOLD",
+      "questionCount": 33,
+      "soloUnits": 25,
+      "supersedesLegacyId": "legacy-6806a1209ba39c"
     }
   ],
   "legacyHeld": [
@@ -429,7 +501,8 @@
       "teacherApproval": "PENDING",
       "deliveryStatus": "HOLD",
       "questionCount": 45,
-      "soloUnits": 42
+      "soloUnits": 42,
+      "supersededBy": "eng6-ham-u10"
     },
     {
       "id": "legacy-b85861dbe774f0",
@@ -451,7 +524,8 @@
       "teacherApproval": "PENDING",
       "deliveryStatus": "HOLD",
       "questionCount": 45,
-      "soloUnits": 42
+      "soloUnits": 42,
+      "supersededBy": "eng6-ham-u11"
     },
     {
       "id": "legacy-6806a1209ba39c",
@@ -473,7 +547,8 @@
       "teacherApproval": "PENDING",
       "deliveryStatus": "HOLD",
       "questionCount": 43,
-      "soloUnits": 40
+      "soloUnits": 40,
+      "supersededBy": "eng6-ham-u12"
     },
     {
       "id": "legacy-eb8c043d48695a",

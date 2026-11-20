@@ -1,0 +1,69 @@
+[
+  {
+    "src": "assets/brush_teeth.webp",
+    "role": "양치질(brush my teeth) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q01",
+      "eng6-ham-u10:q02",
+      "eng6-ham-u10:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9946B), 18종 몽타주 육안 검수 PASS: 양치 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/drink_water.webp",
+    "role": "물 마시기(drink water) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q05",
+      "eng6-ham-u10:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9102B), 18종 몽타주 육안 검수 PASS: 유리컵 물 마시기 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/eat_vegetables.webp",
+    "role": "채소 먹기(eat vegetables) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q04",
+      "eng6-ham-u10:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9456B), 18종 몽타주 육안 검수 PASS: 브로콜리·당근·토마토 식사 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/exercise.webp",
+    "role": "운동하기(exercise) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q05",
+      "eng6-ham-u10:q06",
+      "eng6-ham-u10:q07"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9568B), 18종 몽타주 육안 검수 PASS: 공원 줄넘기 운동 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/go_library.webp",
+    "role": "도서관 가기(go to the library) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9704B), 18종 몽타주 육안 검수 PASS: 책 들고 도서관 건물 가는 장면 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/wash_hands.webp",
+    "role": "손 씻기(wash my hands) 생활 습관 시각화",
+    "questionIds": [
+      "eng6-ham-u10:q03",
+      "eng6-ham-u10:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 생성 후 pack_grid.py 분할(318x320, 9366B), 18종 몽타주 육안 검수 PASS: 비누 거품 손씻기 명확, 텍스트 없음"
+  }
+]

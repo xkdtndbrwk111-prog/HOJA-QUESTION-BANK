@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C001",
+    "focus": "핵심 생활 습관 어구 6개: brush your/my teeth, wash your/my hands, eat vegetables, drink water, go to the library, exercise",
+    "evidence": "단원 도입 Words 6개 및 붙임딱지, 3~5차시·스스로 다지기 반복",
+    "locator": "PDF p.1 (135쪽), p.6~7 (140~141쪽), p.10 (144쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C002",
+    "focus": "생활 습관 어구 연어 및 철자 완성 (brush my teeth, wash my hands, eat vegetables, drink water, go to the library, exercise)",
+    "evidence": "Play 3 STEP 1 및 5차시 Ready to Write 빈칸 완성(ex__ci__ 등)",
+    "locator": "PDF p.7 (141쪽), p.10 (144쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C003",
+    "focus": "빈도수 묻기 의문문: How often do you [습관 어구]?",
+    "evidence": "단원 제목 및 1~3차시, Special 10 핵심 질문",
+    "locator": "PDF p.1 (135쪽), p.6~7 (140~141쪽), p.14 (148쪽)"
+  },
+  {
+    "id": "C004",
+    "focus": "빈도수 표현 및 답하기: once / twice / three~five times a day / a week, every day, often",
+    "evidence": "Talk Like This(Once a week.), Read and Talk(five times a week, twice a day, three times a day), Ready to Write 빈도표",
+    "locator": "PDF p.5~6 (139~140쪽), p.8 (142쪽), p.10 (144쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C005",
+    "focus": "주어에 따른 소유격 전환 (질문 your → 응답 my: brush your teeth / brush my teeth, wash your hands / wash my hands)",
+    "evidence": "Words(your) vs Read and Talk/Write(my)",
+    "locator": "PDF p.1 (135쪽), p.6 (140쪽), p.10 (144쪽)"
+  },
+  {
+    "id": "C006",
+    "focus": "칭찬하기 표현: Good for you. / That's great!",
+    "evidence": "2차시 Study Point 칭찬하기, Talk Like This 2번 Good for you., 4차시·My Work·Special 10",
+    "locator": "PDF p.4~5 (138~139쪽), p.9 (143쪽), p.13~14 (147~148쪽)"
+  },
+  {
+    "id": "C007",
+    "focus": "건강 조언하기 표현: That's not good for you. / You should [동사원형] every day / more often.",
+    "evidence": "4차시 Dr. Smith 조언, 5차시 Let's Write, My Work 4번, 스스로 다지기",
+    "locator": "PDF p.9 (143쪽), p.11 (145쪽), p.13 (147쪽), p.54 (188쪽)"
+  },
+  {
+    "id": "C008",
+    "focus": "건강한 생활 습관 글·대화 독해 (Healthy Habits 점검표, Kevin·Clara·Dr. Smith 대화, My Work)",
+    "evidence": "4차시 본문, My Work 3~4번, 속담 Old habits die hard.",
+    "locator": "PDF p.8~9 (142~143쪽), p.13 (147쪽)"
+  },
+  {
+    "id": "C009",
+    "focus": "Special 10 장수 마을 훈자 원문 대화 독해",
+    "evidence": "I eat fresh fruit and vegetables every day. / How often do you drink water? / I drink water often. / Good for you.",
+    "locator": "PDF p.14 (148쪽 Special 10)"
+  },
+  {
+    "id": "C010",
+    "focus": "오디오 대본 없는 듣기 활동 (Amy·우주, Linh·Tom, Listen and Do)",
+    "evidence": "PDF에 대본 미수록 듣기 전용 활동",
+    "locator": "PDF p.2 (136쪽), p.4 (138쪽), p.13 (147쪽)"
+  }
+]

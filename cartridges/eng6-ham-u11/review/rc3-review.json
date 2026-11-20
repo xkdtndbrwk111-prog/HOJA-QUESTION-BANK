@@ -1,0 +1,1755 @@
+{
+  "version": "4bf5ca4efb93b3156213830226c08594b1779f134299a1a5060bf5b7cdb140b8",
+  "reviewer": "Gemini rev.2 기록 계승 + GPT-6 rev.3 부분 개정 검수 (전체 원문 재대조 미실시)",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u11:q01",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q01(MCQ): 투호(Tuho)는 한국의 전통 놀이이므로 a Korean game입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q01: Tuho(a Korean game) 그림-영어 연결 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q01: 삽화에 정답 영단어가 없으며 대상의 단복수 개수가 문법 근거와 정확히 일치함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q01: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I001'] (PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(a Korean cookie): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(a Korean game): 문항의 근거(Tuho(a Korean game) 그림-영어 연결)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(a Vietnamese hat): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(Australian toys): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "a Korean cookie 제외 시 정답(a Korean game) + 남은 오답(a Vietnamese hat, Australian toys) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "a Vietnamese hat 제외 시 정답(a Korean game) + 남은 오답(a Korean cookie, Australian toys) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "Australian toys 제외 시 정답(a Korean game) + 남은 오답(a Korean cookie, a Vietnamese hat) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q02",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q02(SHORT): 투호는 a Korean game으로 설명합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q02: UQ001 팀전 구두 변형 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q02: 삽화에 정답 영단어가 없으며 대상의 단복수 개수가 문법 근거와 정확히 일치함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q02: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I001'] (PDF p.20 (154쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q03",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q03(MCQ): 약과(yakgwa)는 한국의 전통 과자이므로 a Korean cookie입니다. | [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q03: yakgwa(a Korean cookie) 그림-영어 연결 (PDF p.15 (149쪽), p.19~20 (153~154쪽)) — [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q03: [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q03: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.15 (149쪽), p.19~20 (153~154쪽)) 부합 — yakgwa(a Korean cookie) 그림-영어 연결"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(a Korean cookie): 약과(yakgwa)는 한국의 전통 과자이므로 a Korean cookie입니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(a Korean game): 문항의 근거(yakgwa(a Korean cookie) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(a Vietnamese hat): 문항의 근거(yakgwa(a Korean cookie) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(an English game): 문항의 근거(yakgwa(a Korean cookie) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 약과(1개) 그림에 해당하는 영어 어구는 a Korean cookie(c1). [오답이유] c2(한국 놀이), c3(베트남 모자), c4(영국 놀이) 모두 단수 형태이나 사물 의미가 다름. [우회경로검토] 4개 보기 모두 단수(a/an+단수명사)로 통일해 수 일치 형태만으로 정답을 찍는 우회 차단. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미(cookie vs game/hat) 구별 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰됨. [단위근거] yakgwa 어휘-그림 연결 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "a Korean game 제외 시 정답(a Korean cookie) + 남은 오답(a Vietnamese hat, an English game) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "a Vietnamese hat 제외 시 정답(a Korean cookie) + 남은 오답(a Korean game, an English game) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "an English game 제외 시 정답(a Korean cookie) + 남은 오답(a Korean game, a Vietnamese hat) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q04",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q04(MCQ): 농라(nón lá)는 베트남의 전통 모자이므로 a Vietnamese hat입니다. | [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q04: nón lá(a Vietnamese hat) 그림-영어 연결 (PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) — [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q04: [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q04: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.15 (149쪽), p.20 (154쪽), p.55 (189쪽)) 부합 — nón lá(a Vietnamese hat) 그림-영어 연결"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(a Korean game): 문항의 근거(nón lá(a Vietnamese hat) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(an English game): 문항의 근거(nón lá(a Vietnamese hat) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "정답(a Vietnamese hat): 농라(nón lá)는 베트남의 전통 모자이므로 a Vietnamese hat입니다."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(a Korean cookie): 문항의 근거(nón lá(a Vietnamese hat) 그림-영어 연결)와 불일치하는 혼동지 — [정답근거] 원뿔형 베트남 모자 농라(1개) 그림에 해당하는 어구는 a Vietnamese hat(c3). [오답이유] c1(한국 놀이), c2(영국 놀이), c4(한국 과자) 모두 단수 형태이나 의미가 불일치. [우회경로검토] 단·복수 형태 단서를 제거해 어휘 의미(Vietnamese hat) 이해 필수. [3지선다조합] 모든 3지선다 조합에서 단수 어구 간 의미 구별 유지. [시각정보구분] 붉은 턱끈의 원뿔형 모자 1개가 직접 관찰됨. [단위근거] nón lá 어휘-그림 연결 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "a Korean game 제외 시 정답(a Vietnamese hat) + 남은 오답(an English game, a Korean cookie) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "an English game 제외 시 정답(a Vietnamese hat) + 남은 오답(a Korean game, a Korean cookie) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "a Korean cookie 제외 시 정답(a Vietnamese hat) + 남은 오답(a Korean game, an English game) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q05",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q05(MCQ): 부메랑(boomerangs)은 호주의 전통 장난감(Australian toys)입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q05: Australian toys 영어→그림 교차표현 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q05: 삽화에 정답 영단어가 없으며 대상의 단복수 개수가 문법 근거와 정확히 일치함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q05: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I001'] (PDF p.15 (149쪽), p.20 (154쪽), p.24 (158쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(assets/djembes.webp): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(assets/saris.webp): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(assets/non_la.webp): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(assets/boomerangs.webp): 문항의 근거(Australian toys 영어→그림 교차표현)와 정확히 일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "assets/djembes.webp 제외 시 정답(assets/boomerangs.webp) + 남은 오답(assets/saris.webp, assets/non_la.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "assets/saris.webp 제외 시 정답(assets/boomerangs.webp) + 남은 오답(assets/djembes.webp, assets/non_la.webp) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "assets/non_la.webp 제외 시 정답(assets/boomerangs.webp) + 남은 오답(assets/djembes.webp, assets/saris.webp) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q06",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q06(MCQ): African drums는 아프리카 전통 북(젬베)을 뜻합니다. | [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q06: African drums 문장→그림 교차표현 (PDF p.15 (149쪽), p.20 (154쪽)) — [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q06: [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q06: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.15 (149쪽), p.20 (154쪽)) 부합 — African drums 문장→그림 교차표현"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(한국 전통 놀이 투호): 문항의 근거(African drums 문장→그림 교차표현)와 불일치하는 혼동지 — [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(아프리카 전통 북 젬베 2개): African drums는 아프리카 전통 북(젬베)을 뜻합니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(호주 부메랑 2개): 문항의 근거(African drums 문장→그림 교차표현)와 불일치하는 혼동지 — [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(화려한 인도 전통 의상 사리 2벌): 문항의 근거(African drums 문장→그림 교차표현)와 불일치하는 혼동지 — [정답근거] 'They're African drums.'는 아프리카 북 젬베 2개 그림(c2)을 가리킴. [오답이유] c1(투호 1개), c3(부메랑 2개), c4(사리 2벌)로 복수 그림이 3개 포함되어 의미 구별 필수. [우회경로검토] 모든 3지선다 조합에 복수 그림이 최소 2개 포함되므로 개수(2개)만으로 정답 선택 불가. [3지선다조합] c3 또는 c4가 제외돼도 다른 복수 그림이 남아 African drums 의미 이해 필수. [시각정보구분] 각 그림의 물건 종류와 개수가 직접 관찰됨. [단위근거] African drums 문장→그림 교차표현 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "한국 전통 놀이 투호 제외 시 정답(아프리카 전통 북 젬베 2개) + 남은 오답(호주 부메랑 2개, 화려한 인도 전통 의상 사리 2벌) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "호주 부메랑 2개 제외 시 정답(아프리카 전통 북 젬베 2개) + 남은 오답(한국 전통 놀이 투호, 화려한 인도 전통 의상 사리 2벌) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "화려한 인도 전통 의상 사리 2벌 제외 시 정답(아프리카 전통 북 젬베 2개) + 남은 오답(한국 전통 놀이 투호, 호주 부메랑 2개) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q07",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q07(OX): 인도의 전통 의상 사리(saris)는 영어로 Indian dresses라고 설명합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q07: Indian dresses 그림-어구 일치 OX — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q07: 삽화에 정답 영단어가 없으며 대상의 단복수 개수가 문법 근거와 정확히 일치함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q07: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I001'] (PDF p.15 (149쪽), p.20 (154쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q08",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q08(OX): 국가·지역에서 유래한 형용사는 고유 형용사이므로 항상 첫 글자를 대문자로 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q08: 국가·지역 형용사 대문자 표기 규칙 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q08: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q08: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I002'] (PDF p.15 (149쪽), p.20 (154쪽), p.24 (158쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q09",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q09(MCQ): 베트남 모자는 a Vietnamese hat, 인도 드레스는 Indian dresses입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q09: 5차시 전통 문화 어구 완성 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q09: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q09: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I002'] (PDF p.21 (155쪽), p.24 (158쪽 Ready to Write 1, 4번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(hat - Indian): 문항의 근거(5차시 전통 문화 어구 완성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(cookie - Indian): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(hat - African): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(game - Australian): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "cookie - Indian 제외 시 정답(hat - Indian) + 남은 오답(hat - African, game - Australian) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "hat - African 제외 시 정답(hat - Indian) + 남은 오답(cookie - Indian, game - Australian) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "game - Australian 제외 시 정답(hat - Indian) + 남은 오답(cookie - Indian, hat - African) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q10",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q10(MCQ): 어떤 것에 대해 알고 있는지 물을 때는 Do you know anything about ~?라고 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q10: Do you know anything about ~? 의문문 기능 구별 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q10: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q10: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I003'] (PDF p.15 (149쪽), p.20 (154쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(How often do you play Tuho?): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(Do you know anything about Tuho?): 문항의 근거(Do you know anything about ~? 의문문 기능 구별)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Did you make Tuho?): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(What's your favorite game?): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "How often do you play Tuho? 제외 시 정답(Do you know anything about Tuho?) + 남은 오답(Did you make Tuho?, What's your favorite game?) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Did you make Tuho? 제외 시 정답(Do you know anything about Tuho?) + 남은 오답(How often do you play Tuho?, What's your favorite game?) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "What's your favorite game? 제외 시 정답(Do you know anything about Tuho?) + 남은 오답(How often do you play Tuho?, Did you make Tuho?) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q11",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q11(MCQ): ‘~에 대해’를 뜻하는 전치사 about을 써서 Do you know anything about ~?라고 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q11: know anything about 전치사 about 정확성 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q11: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q11: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I003'] (PDF p.20 (154쪽), p.24 (158쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(about): 문항의 근거(know anything about 전치사 about 정확성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(at): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(under): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(from): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "at 제외 시 정답(about) + 남은 오답(under, from) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "under 제외 시 정답(about) + 남은 오답(at, from) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "from 제외 시 정답(about) + 남은 오답(at, under) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q12",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q12(MCQ): Do you ~?로 물었으므로 부정 대답은 No, I don't.로 조동사를 일치시켜야 합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q12: Do you ~? 조동사 일치 부정 응답 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q12: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q12: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I003'] (PDF p.20 (154쪽 Read and Write 2번), p.21 (155쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(No, I don't.): 문항의 근거(Do you ~? 조동사 일치 부정 응답)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(No, I didn't.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(No, I'm not.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(No, I can't.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "No, I didn't. 제외 시 정답(No, I don't.) + 남은 오답(No, I'm not., No, I can't.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "No, I'm not. 제외 시 정답(No, I don't.) + 남은 오답(No, I didn't., No, I can't.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "No, I can't. 제외 시 정답(No, I don't.) + 남은 오답(No, I didn't., No, I'm not.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q13",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q13(SHORT): Do you ~?에 대한 긍정 대답은 Yes, I do.입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q13: UQ011 긍정 응답 구두 변형 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q13: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q13: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I003'] (PDF p.20 (154쪽), p.21 (155쪽))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q14",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q14(MCQ): 전혀 모르고 있음을 표현할 때는 I have no idea.라고 말합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q14: I have no idea. 대화 맥락 적용 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q14: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q14: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I004'] (PDF p.19 (153쪽 Talk Like This 2), p.28 (162쪽))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(I have no idea.): 문항의 근거(I have no idea. 대화 맥락 적용)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(Good for you.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(That's great!): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(See you later.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "Good for you. 제외 시 정답(I have no idea.) + 남은 오답(That's great!, See you later.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "That's great! 제외 시 정답(I have no idea.) + 남은 오답(Good for you., See you later.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "See you later. 제외 시 정답(I have no idea.) + 남은 오답(Good for you., That's great!) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q34",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q34(OX): I have no idea.는 '전혀 모르겠어.'라는 뜻으로, 알지 못할 때 쓰는 표현이므로 거짓입니다. | [정답근거] I have no idea.는 '전혀 모른다'는 뜻이므로 '아주 잘 알고 있다'는 진술은 거짓(X). [오답이유] O 선택은 no의 부정 의미를 놓치거나 표현 자체를 오해한 오류. [우회경로검토] OX O3/X3 균형화로 O 찍기 전략 차단. [시각정보구분] 텍스트 전용 문항. [단위근거] q14와 동일 표현(I have no idea.)의 OX 변형으로 g12 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q34: UQ012 OX 변형(I have no idea. 반대 의미 오개념 판별 X 정답) (PDF p.18~19 (152~153쪽)) — [정답근거] I have no idea.는 '전혀 모른다'는 뜻이므로 '아주 잘 알고 있다'는 진술은 거짓(X). [오답이유] O 선택은 no의 부정 의미를 놓치거나 표현 자체를 오해한 오류. [우회경로검토] OX O3/X3 균형화로 O 찍기 전략 차단. [시각정보구분] 텍스트 전용 문항. [단위근거] q14와 동일 표현(I have no idea.)의 OX 변형으로 g12 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q34: [정답근거] I have no idea.는 '전혀 모른다'는 뜻이므로 '아주 잘 알고 있다'는 진술은 거짓(X). [오답이유] O 선택은 no의 부정 의미를 놓치거나 표현 자체를 오해한 오류. [우회경로검토] OX O3/X3 균형화로 O 찍기 전략 차단. [시각정보구분] 텍스트 전용 문항. [단위근거] q14와 동일 표현(I have no idea.)의 OX 변형으로 g12 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q34: 2022 개정 초6 영어 활성 의도 ['I004'] (PDF p.18~19 (152~153쪽)) 부합 — UQ012 OX 변형(I have no idea. 반대 의미 오개념 판별 X 정답)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q16",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q16(MCQ): 단수(1개)이므로 It's와 a Korean cookie로 수를 일치시켜 It's a Korean cookie.라고 씁니다. | [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q16: 단수 주어·동사·관사 수 일치 정확성 (PDF p.20 (154쪽), p.25 (159쪽 Let's Write)) — [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q16: [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q16: 2022 개정 초6 영어 활성 의도 ['I005'] (PDF p.20 (154쪽), p.25 (159쪽 Let's Write)) 부합 — 단수 주어·동사·관사 수 일치 정확성"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(It's a Korean cookie.): 단수(1개)이므로 It's와 a Korean cookie로 수를 일치시켜 It's a Korean cookie.라고 씁니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(They're a Korean cookie.): 문항의 근거(단수 주어·동사·관사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(It's Korean cookies.): 문항의 근거(단수 주어·동사·관사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(It are a Korean cookie.): 문항의 근거(단수 주어·동사·관사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 단수 1개 대상이므로 주어·동사·관사 수가 일치하는 'It's a Korean cookie.'(c1)가 정답. [오답이유] c2(They're+단수), c3(It's+복수), c4(It are 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 단수 수 일치 규칙 이해 필수. [시각정보구분] 접시 위 약과 1개가 직접 관찰되며 발문에서 '한국 전통 과자' 맥락 제공. [단위근거] 단수 수 일치 문법 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "They're a Korean cookie. 제외 시 정답(It's a Korean cookie.) + 남은 오답(It's Korean cookies., It are a Korean cookie.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "It's Korean cookies. 제외 시 정답(It's a Korean cookie.) + 남은 오답(They're a Korean cookie., It are a Korean cookie.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "It are a Korean cookie. 제외 시 정답(It's a Korean cookie.) + 남은 오답(They're a Korean cookie., It's Korean cookies.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q17",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q17(MCQ): 부메랑이 2개(복수)이므로 They're(They are)와 복수명사 Australian toys로 수를 일치시킵니다. | [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q17: 복수 주어·동사·복수명사 수 일치 정확성 (PDF p.20 (154쪽), p.24 (158쪽 Sentences 2)) — [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q17: [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q17: 2022 개정 초6 영어 활성 의도 ['I005'] (PDF p.20 (154쪽), p.24 (158쪽 Sentences 2)) 부합 — 복수 주어·동사·복수명사 수 일치 정확성"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(It's Australian toys.): 문항의 근거(복수 주어·동사·복수명사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(They're Australian toys.): 부메랑이 2개(복수)이므로 They're(They are)와 복수명사 Australian toys로 수를 일치시킵니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(They're an Australian toy.): 문항의 근거(복수 주어·동사·복수명사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(They is Australian toys.): 문항의 근거(복수 주어·동사·복수명사 수 일치 정확성)와 불일치하는 혼동지 — [정답근거] 복수 2개 대상이므로 'They're Australian toys.'(c2)가 정답. [오답이유] c1(It's+복수), c3(They're+단수), c4(They is 비문)는 모두 수 일치 오류. [우회경로검토] 발문에서 '빈칸' 표현을 제거해 화면 표시와 완전히 일치시킴. [3지선다조합] 모든 조합에서 복수 수 일치 규칙 이해 필수. [시각정보구분] 부메랑 2개가 직접 관찰되며 발문에서 '호주 전통 장난감' 맥락 제공. [단위근거] q18(구두 응답)과 복수 수 일치 변형 묶음(g14) 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "It's Australian toys. 제외 시 정답(They're Australian toys.) + 남은 오답(They're an Australian toy., They is Australian toys.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "They're an Australian toy. 제외 시 정답(They're Australian toys.) + 남은 오답(It's Australian toys., They is Australian toys.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "They is Australian toys. 제외 시 정답(They're Australian toys.) + 남은 오답(It's Australian toys., They're an Australian toy.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q18",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q18(SHORT): 복수이므로 They are Australian toys.라고 말합니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q18: UQ014 팀전 구두 변형 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q18: 삽화에 정답 영단어가 없으며 대상의 단복수 개수가 문법 근거와 정확히 일치함"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q18: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I005'] (PDF p.24 (158쪽 Sentences 2))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q35",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q35(OX): 여러 개(복수 명사 African drums)를 설명할 때는 It's가 아니라 They're(They are)를 써야 하므로 거짓입니다. | [정답근거] 복수 명사 African drums에 단수 It's를 결합한 비문이므로 거짓(X). [오답이유] O 선택은 복수 명사(-s)와 단수 주어(It's)의 수 불일치를 놓친 오류. [우회경로검토] 실제 학생이 자주 혼동하는 단·복수 수 일치 오류를 활용해 진정한 문법 판별 유도. [시각정보구분] 텍스트 전용 문항. [단위근거] 복수 설명 문장 수 일치 판별 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q35: 복수 명사에 단수 It's 오용 판별 OX(X 정답) (PDF p.20 (154쪽), p.25 (159쪽)) — [정답근거] 복수 명사 African drums에 단수 It's를 결합한 비문이므로 거짓(X). [오답이유] O 선택은 복수 명사(-s)와 단수 주어(It's)의 수 불일치를 놓친 오류. [우회경로검토] 실제 학생이 자주 혼동하는 단·복수 수 일치 오류를 활용해 진정한 문법 판별 유도. [시각정보구분] 텍스트 전용 문항. [단위근거] 복수 설명 문장 수 일치 판별 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q35: [정답근거] 복수 명사 African drums에 단수 It's를 결합한 비문이므로 거짓(X). [오답이유] O 선택은 복수 명사(-s)와 단수 주어(It's)의 수 불일치를 놓친 오류. [우회경로검토] 실제 학생이 자주 혼동하는 단·복수 수 일치 오류를 활용해 진정한 문법 판별 유도. [시각정보구분] 텍스트 전용 문항. [단위근거] 복수 설명 문장 수 일치 판별 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q35: 2022 개정 초6 영어 활성 의도 ['I005'] (PDF p.20 (154쪽), p.25 (159쪽)) 부합 — 복수 명사에 단수 It's 오용 판별 OX(X 정답) / 복수 명사 설명의 수 일치: q17 객관식·q18 구두·q35 OX는 같은 문법 평가의 변형."
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q20",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q20(MCQ): tasty는 음식의 맛을 묘사하는 형용사로 ‘맛있는’이라는 뜻입니다. | [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q20: 5차시 특징 형용사 tasty 의미 파악 (PDF p.25 (159쪽 Let's Write)) — [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q20: [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q20: 2022 개정 초6 영어 활성 의도 ['I006'] (PDF p.25 (159쪽 Let's Write)) 부합 — 5차시 특징 형용사 tasty 의미 파악"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(맛있는): tasty는 음식의 맛을 묘사하는 형용사로 ‘맛있는’이라는 뜻입니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(무거운): 문항의 근거(5차시 특징 형용사 tasty 의미 파악)와 불일치하는 혼동지 — [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(빠른): 문항의 근거(5차시 특징 형용사 tasty 의미 파악)와 불일치하는 혼동지 — [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(시끄러운): 문항의 근거(5차시 특징 형용사 tasty 의미 파악)와 불일치하는 혼동지 — [정답근거] tasty는 '맛있는'(c1). [오답이유] c2(무거운), c3(빠른), c4(시끄러운)는 모두 다른 성질의 형용사. [우회경로검토] 미지원 밑줄 지칭을 따옴표('tasty')로 교체해 화면 표시 일치. [3지선다조합] 모든 조합에서 tasty 어휘 의미 이해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 특징 형용사 tasty 어휘 이해 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "무거운 제외 시 정답(맛있는) + 남은 오답(빠른, 시끄러운) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "빠른 제외 시 정답(맛있는) + 남은 오답(무거운, 시끄러운) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "시끄러운 제외 시 정답(맛있는) + 남은 오답(무거운, 빠른) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q21",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q21(MCQ): ‘그것들은’은 복수 They are, ‘아름다운’은 beautiful이므로 They are very beautiful.이 정답입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q21: 복수 주어 + 특징 형용사 beautiful 교차표현 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q21: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q21: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I006'] (PDF p.25 (159쪽 Let's Write 보기 B))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(They are very beautiful.): 문항의 근거(복수 주어 + 특징 형용사 beautiful 교차표현)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(They are very tasty.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(It is very beautiful.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(They are very sick.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "They are very tasty. 제외 시 정답(They are very beautiful.) + 남은 오답(It is very beautiful., They are very sick.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "It is very beautiful. 제외 시 정답(They are very beautiful.) + 남은 오답(They are very tasty., They are very sick.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "They are very sick. 제외 시 정답(They are very beautiful.) + 남은 오답(They are very tasty., It is very beautiful.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q22",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q22(MCQ): \"They tell fun stories to children, too.\"에서 아이들에게 재미있는 이야기를 들려준다는 사실을 알 수 있습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q22: Helper Robots 1부 지문 세부 정보 독해 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q22: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q22: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I007'] (PDF p.22 (156쪽 Let's Read))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(도우미 로봇은 아이들에게 재미있는 이야기를 들려준다.): 문항의 근거(Helper Robots 1부 지문 세부 정보 독해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(도우미 로봇은 아이들을 위해 책을 직접 쓴다.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(도우미 로봇은 아이들과 놀지 못한다.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(도우미 로봇은 매우 느리다.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "도우미 로봇은 아이들을 위해 책을 직접 쓴다. 제외 시 정답(도우미 로봇은 아이들에게 재미있는 이야기를 들려준다.) + 남은 오답(도우미 로봇은 아이들과 놀지 못한다., 도우미 로봇은 매우 느리다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "도우미 로봇은 아이들과 놀지 못한다. 제외 시 정답(도우미 로봇은 아이들에게 재미있는 이야기를 들려준다.) + 남은 오답(도우미 로봇은 아이들을 위해 책을 직접 쓴다., 도우미 로봇은 매우 느리다.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "도우미 로봇은 매우 느리다. 제외 시 정답(도우미 로봇은 아이들에게 재미있는 이야기를 들려준다.) + 남은 오답(도우미 로봇은 아이들을 위해 책을 직접 쓴다., 도우미 로봇은 아이들과 놀지 못한다.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q23",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q23(MCQ): 글에는 청소(clean the house), 요리(cook), 음식 전달(bring food to sick people)이 언급되었으며 이야기를 쓴다(write stories)는 내용은 없습니다. | [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q23: 4차시 After You Read 핵심 내용 구별 (PDF p.23 (157쪽 Let's Read & After You Read)) — [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q23: [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q23: 2022 개정 초6 영어 활성 의도 ['I007'] (PDF p.23 (157쪽 Let's Read & After You Read)) 부합 — 4차시 After You Read 핵심 내용 구별"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(집을 청소한다.): 문항의 근거(4차시 After You Read 핵심 내용 구별)와 불일치하는 혼동지 — [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(요리를 한다.): 문항의 근거(4차시 After You Read 핵심 내용 구별)와 불일치하는 혼동지 — [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(아픈 사람들에게 음식을 가져다준다.): 문항의 근거(4차시 After You Read 핵심 내용 구별)와 불일치하는 혼동지 — [정답근거] 지문에 clean the house, cook, bring food to sick people은 언급되었으나 이야기 집필(c4)은 미언급. [오답이유] c1·c2·c3는 지문에 직접 명시된 활동. [우회경로검토] 미지원 마크다운(**) 제거로 렌더링 결함 해소. [3지선다조합] 모든 조합에서 지문의 로봇 활동 3가지를 읽어야 c4 확정. [시각정보구분] 텍스트 전용 문항. [단위근거] 4차시 After You Read 세부 내용 판별 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "정답(직접 이야기를 쓴다.): 글에는 청소(clean the house), 요리(cook), 음식 전달(bring food to sick people)이 언급되었으며 이야기를 쓴다(write stories)는 내용은 없습니다."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "집을 청소한다. 제외 시 정답(직접 이야기를 쓴다.) + 남은 오답(요리를 한다., 아픈 사람들에게 음식을 가져다준다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "요리를 한다. 제외 시 정답(직접 이야기를 쓴다.) + 남은 오답(집을 청소한다., 아픈 사람들에게 음식을 가져다준다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "아픈 사람들에게 음식을 가져다준다. 제외 시 정답(직접 이야기를 쓴다.) + 남은 오답(집을 청소한다., 요리를 한다.) 3지선다에서 정답 유일성과 평가 목표 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q24",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q24(MCQ): 「주어(They) + 동사(help) + 목적어(people) + 장소(at hospitals)」 어순으로 씁니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q24: 교과서 My Work 4번 어순 배열 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q24: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q24: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I007'] (PDF p.27 (161쪽 My Work 4번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(They help people at hospitals.): 문항의 근거(교과서 My Work 4번 어순 배열)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(They people help at hospitals.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(Help they people at hospitals.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(They at hospitals help people.): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "They people help at hospitals. 제외 시 정답(They help people at hospitals.) + 남은 오답(Help they people at hospitals., They at hospitals help people.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "Help they people at hospitals. 제외 시 정답(They help people at hospitals.) + 남은 오답(They people help at hospitals., They at hospitals help people.) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "They at hospitals help people. 제외 시 정답(They help people at hospitals.) + 남은 오답(They people help at hospitals., Help they people at hospitals.) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q25",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q25(SHORT): 바른 어순은 They help people at hospitals.입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q25: UQ020 팀전 구두 변형 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q25: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q25: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I007'] (PDF p.27 (161쪽 My Work 4번))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q36",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q36(OX): 글에서 로봇은 농구(basketball)를 하고 집을 청소한다(clean the house)고 했으므로 축구와 요리라는 설명은 거짓입니다. | [정답근거] 지문은 play basketball(농구)과 clean the house(집 청소)를 언급했으나 진술은 축구와 요리라고 서술해 거짓(X). [오답이유] O 선택은 영어를 읽지 않고 도우미 로봇에 대한 일반 연상이나 습관적 O 선택에 의존한 오류. [우회경로검토] OX O3/X3 균형화로 찍기 차단, 지문 동사구 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 스스로 다지기 지문 내용 일치 OX 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q36: 스스로 다지기 지문 내용 불일치 판별 OX(X 정답) (PDF p.55 (189쪽 스스로 다지기 넷째 시간)) — [정답근거] 지문은 play basketball(농구)과 clean the house(집 청소)를 언급했으나 진술은 축구와 요리라고 서술해 거짓(X). [오답이유] O 선택은 영어를 읽지 않고 도우미 로봇에 대한 일반 연상이나 습관적 O 선택에 의존한 오류. [우회경로검토] OX O3/X3 균형화로 찍기 차단, 지문 동사구 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 스스로 다지기 지문 내용 일치 OX 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q36: [정답근거] 지문은 play basketball(농구)과 clean the house(집 청소)를 언급했으나 진술은 축구와 요리라고 서술해 거짓(X). [오답이유] O 선택은 영어를 읽지 않고 도우미 로봇에 대한 일반 연상이나 습관적 O 선택에 의존한 오류. [우회경로검토] OX O3/X3 균형화로 찍기 차단, 지문 동사구 독해 필수. [시각정보구분] 텍스트 전용 문항. [단위근거] 스스로 다지기 지문 내용 일치 OX 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q36: 2022 개정 초6 영어 활성 의도 ['I007'] (PDF p.55 (189쪽 스스로 다지기 넷째 시간)) 부합 — 스스로 다지기 지문 내용 불일치 판별 OX(X 정답)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q27",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q27(MCQ): clever는 ‘영리한, 똑똑한’이라는 뜻의 형용사입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q27: Helper Robots 핵심 어휘 clever 이해 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q27: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q27: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I007'] (PDF p.22 (156쪽 Let's Read))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(영리한): 문항의 근거(Helper Robots 핵심 어휘 clever 이해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(졸린): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(배고픈): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(화난): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "졸린 제외 시 정답(영리한) + 남은 오답(배고픈, 화난) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "배고픈 제외 시 정답(영리한) + 남은 오답(졸린, 화난) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "화난 제외 시 정답(영리한) + 남은 오답(졸린, 배고픈) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q28",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q28(MCQ): 글에서 약과는 \"It's very tasty.\"(맛있다), 젬베는 \"They are very fun.\"(재미있다)이라고 직접 밝혔습니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q28: 5차시 소개 글 두 대상 특징 대조 독해 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q28: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q28: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I006'] (PDF p.25 (159쪽 Let's Write 2번))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(약과: 맛있다 / 젬베: 재미있다): 문항의 근거(5차시 소개 글 두 대상 특징 대조 독해)와 정확히 일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(약과: 맛있다 / 젬베: 아름답다): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(약과: 재미있다 / 젬베: 맛있다): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(약과: 맛없다 / 젬베: 재미있다): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "약과: 맛있다 / 젬베: 아름답다 제외 시 정답(약과: 맛있다 / 젬베: 재미있다) + 남은 오답(약과: 재미있다 / 젬베: 맛있다, 약과: 맛없다 / 젬베: 재미있다) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "약과: 재미있다 / 젬베: 맛있다 제외 시 정답(약과: 맛있다 / 젬베: 재미있다) + 남은 오답(약과: 맛있다 / 젬베: 아름답다, 약과: 맛없다 / 젬베: 재미있다) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "약과: 맛없다 / 젬베: 재미있다 제외 시 정답(약과: 맛있다 / 젬베: 재미있다) + 남은 오답(약과: 맛있다 / 젬베: 아름답다, 약과: 재미있다 / 젬베: 맛있다) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q37",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q37(MCQ): 대화에서 'It's an African game. People play it with small stones.'라고 했으므로 작은 돌을 이용해 즐기는 아프리카 놀이입니다. | [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q37: 낯선 전통문화(mancala) 영어 설명 독해(상식 우회 제거, 내부 근거 완결) (PDF p.19~20 (153~154쪽), p.25~26 (159~160쪽 표현 확장)) — [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q37: [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q37: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.19~20 (153~154쪽), p.25~26 (159~160쪽 표현 확장)) 부합 — 낯선 전통문화(mancala) 영어 설명 독해(상식 우회 제거, 내부 근거 완결)"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "정답(작은 돌을 이용해 즐기는 아프리카의 전통 놀이이다.): 대화에서 'It's an African game. People play it with small stones.'라고 했으므로 작은 돌을 이용해 즐기는 아프리카 놀이입니다."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "오답(작은 돌을 이용해 만드는 아프리카의 전통 악기이다.): 문항의 근거(낯선 전통문화(mancala) 영어 설명 독해(상식 우회 제거, 내부 근거 완결))와 불일치하는 혼동지 — [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(나무 공을 이용해 즐기는 호주의 전통 놀이이다.): 문항의 근거(낯선 전통문화(mancala) 영어 설명 독해(상식 우회 제거, 내부 근거 완결))와 불일치하는 혼동지 — [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(손으로 쳐서 소리를 내는 아프리카의 전통 북이다.): 문항의 근거(낯선 전통문화(mancala) 영어 설명 독해(상식 우회 제거, 내부 근거 완결))와 불일치하는 혼동지 — [정답근거] 대화 내 'It's an African game. People play it with small stones.'가 c1과 정확히 일치. [오답이유] c2(악기 오독), c3(호주·나무 공 오독), c4(단원 내 젬베와 혼동). [우회경로검토] 한국 학생에게 낯선 소재를 사용해 일반 상식 우회를 차단하되 모든 정답 근거를 대화 안에 완결 제공. [3지선다조합] 모든 조합에서 African + game + small stones를 함께 읽어야 정답 확정. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q38(구두 응답)과 동일 대화 독해 변형 묶음(g24) 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c2",
+          "status": "PASS",
+          "evidence": "c2 제외(c1,c3,c4): African(지역)과 game/small stones(종류·도구)를 읽어야 c1 확정."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외(c1,c2,c4): 모두 아프리카 소재이므로 game과 small stones를 읽어야 악기/북과 구별해 c1 확정."
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외(c1,c2,c3): African과 game, small stones 정보를 종합해야 c2(악기)·c3(호주) 배제 후 c1 확정."
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q38",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q38(SHORT): 'People play it with small stones.'에서 작은 돌을 사용한다는 것을 알 수 있습니다. | [정답근거] 'People play it with small stones.'에서 사용 물건은 작은 돌. [오답/허용답안] 작은 돌/돌/돌멩이/작은 돌멩이 허용. [우회경로검토] 사전 지식이나 문자열 복사 없이 영어 문장 의미 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화의 구두 변형으로 g24 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q38: UQ024 팀전 구두 변형(mancala 세부 도구 정보 독해) (PDF p.19~20 (153~154쪽), p.25~26 (159~160쪽 표현 확장)) — [정답근거] 'People play it with small stones.'에서 사용 물건은 작은 돌. [오답/허용답안] 작은 돌/돌/돌멩이/작은 돌멩이 허용. [우회경로검토] 사전 지식이나 문자열 복사 없이 영어 문장 의미 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화의 구두 변형으로 g24 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q38: [정답근거] 'People play it with small stones.'에서 사용 물건은 작은 돌. [오답/허용답안] 작은 돌/돌/돌멩이/작은 돌멩이 허용. [우회경로검토] 사전 지식이나 문자열 복사 없이 영어 문장 의미 이해 필수. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] q37과 동일 대화의 구두 변형으로 g24 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q38: 2022 개정 초6 영어 활성 의도 ['I001'] (PDF p.19~20 (153~154쪽), p.25~26 (159~160쪽 표현 확장)) 부합 — UQ024 팀전 구두 변형(mancala 세부 도구 정보 독해)"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    },
+    {
+      "questionId": "eng6-ham-u11:q31",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q31(MCQ): B는 \"I have no idea.\"(전혀 모름)라고 답했고, A는 \"It's an English game.\"(영국 놀이)이라고 설명했습니다. | [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q31: Special 11 원문 3발화 교차 오답 독해 (PDF p.28 (162쪽 Special 11 Into the World)) — [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q31: [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q31: 2022 개정 초6 영어 활성 의도 ['I008'] (PDF p.28 (162쪽 Special 11 Into the World)) 부합 — Special 11 원문 3발화 교차 오답 독해"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(B는 그 놀이를 잘 알고 있으며, A는 그것이 호주 놀이라고 설명했다.): 문항의 근거(Special 11 원문 3발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(B는 그 놀이를 전혀 모르며, A는 그것이 영국 놀이라고 설명했다.): B는 \"I have no idea.\"(전혀 모름)라고 답했고, A는 \"It's an English game.\"(영국 놀이)이라고 설명했습니다."
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(B는 그 놀이를 전혀 모르며, A는 그것이 호주 놀이라고 설명했다.): 문항의 근거(Special 11 원문 3발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(B는 그 놀이를 잘 알고 있으며, A는 그것이 영국 놀이라고 설명했다.): 문항의 근거(Special 11 원문 3발화 교차 오답 독해)와 불일치하는 혼동지 — [정답근거] B의 'I have no idea.'(전혀 모름)와 A의 'It's an English game.'(영국 놀이)이 c2와 일치. [오답이유] c1(B X / A X), c3(B O / A X), c4(B X / A O)의 완전 2×2 교차 구성. [우회경로검토] 4개 보기 길이와 문장 구조를 2절 평행 형태로 통일해 길이·정보량 단서 제거. [3지선다조합] c1 제외 시(c2,c3,c4) 두 발화 모두 필수; c3 또는 c4 제외 시 단일 축 축소 한계는 사실대로 기록함. [시각정보구분] 대화 텍스트 전용 문항. [단위근거] Special 11 원문 3발화 복합 독해 독립 단위 유지."
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "c1 제외(c2,c3,c4): B의 모름 표현과 A의 영국 놀이 설명 두 정보를 모두 읽어야 c2 확정."
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "c3 제외(c1,c2,c4): c2와 c4를 구별하려면 B의 'I have no idea.' 이해 필수. (3지선다 특성상 B 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "c4 제외(c1,c2,c3): c2와 c3를 구별하려면 A의 'English game' 이해 필수. (3지선다 특성상 A 정보만으로 c2가 유일해지는 구조적 한계 기록)"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q32",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q32(MCQ): English가 모음 소리(/ɪ/)로 시작하고 단수 명사 game이므로 an English game이 문법적으로 바릅니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q32: Special 11 단수 명사구(an English game) 문법 정확성 — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q32: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q32: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I008'] (PDF p.28 (162쪽 Special 11))에 직접 부합"
+        }
+      },
+      "choices": [
+        {
+          "choiceId": "c1",
+          "status": "PASS",
+          "evidence": "오답(a English game): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c2",
+          "status": "PASS",
+          "evidence": "정답(an English game): 문항의 근거(Special 11 단수 명사구(an English game) 문법 정확성)와 정확히 일치"
+        },
+        {
+          "choiceId": "c3",
+          "status": "PASS",
+          "evidence": "오답(English game): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        },
+        {
+          "choiceId": "c4",
+          "status": "PASS",
+          "evidence": "오답(an English games): 동일 단원 어휘·수 일치·독해 범주의 혼동지이나 문항 근거와 불일치"
+        }
+      ],
+      "subsets": [
+        {
+          "omittedChoiceId": "c1",
+          "status": "PASS",
+          "evidence": "a English game 제외 시 정답(an English game) + 남은 오답(English game, an English games) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c3",
+          "status": "PASS",
+          "evidence": "English game 제외 시 정답(an English game) + 남은 오답(a English game, an English games) 3지선다에서 목표 변별력 유지 확인"
+        },
+        {
+          "omittedChoiceId": "c4",
+          "status": "PASS",
+          "evidence": "an English games 제외 시 정답(an English game) + 남은 오답(a English game, English game) 3지선다에서 목표 변별력 유지 확인"
+        }
+      ]
+    },
+    {
+      "questionId": "eng6-ham-u11:q33",
+      "checks": {
+        "answerUniqueness": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q33(OX): B가 \"No, I don't.\"로 모른다고 답하고 A가 \"It's a Vietnamese hat.\"으로 설명했으므로 참입니다."
+        },
+        "evidenceSufficiency": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q33: 3차시 대화 의미 이해 OX — 문항 내 지문·그림에 정답 확정에 필요한 근거 완비"
+        },
+        "shortcutResistance": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q33: 이미지 없는 텍스트 문항으로 교차표현·동일 범주 문법 대조를 통해 문자열 복사 우회 차단"
+        },
+        "objectiveAlignment": {
+          "status": "PASS",
+          "evidence": "eng6-ham-u11:q33: 2022 개정 초6 영어 Lesson 11 활성 의도 ['I003'] (PDF p.20 (154쪽 Read and Talk))에 직접 부합"
+        }
+      },
+      "choices": [],
+      "subsets": []
+    }
+  ],
+  "units": [
+    {
+      "unitId": "UQ001",
+      "status": "PASS",
+      "evidence": "UQ001(eng6-ham-u11:q01, eng6-ham-u11:q02): 핵심 어휘 a Korean game 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ002",
+      "status": "PASS",
+      "evidence": "UQ002(eng6-ham-u11:q03): 핵심 어휘 a Korean cookie 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ003",
+      "status": "PASS",
+      "evidence": "UQ003(eng6-ham-u11:q04): 핵심 어휘 a Vietnamese hat 시각 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ004",
+      "status": "PASS",
+      "evidence": "UQ004(eng6-ham-u11:q05): 영어→그림 역방향 매칭 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ005",
+      "status": "PASS",
+      "evidence": "UQ005(eng6-ham-u11:q06): 문장 맥락 속 African drums 식별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ006",
+      "status": "PASS",
+      "evidence": "UQ006(eng6-ham-u11:q07): Indian dresses 시각 의미 확인 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ007",
+      "status": "PASS",
+      "evidence": "UQ007(eng6-ham-u11:q08): 고유 형용사 대문자 표기 정확성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ008",
+      "status": "PASS",
+      "evidence": "UQ008(eng6-ham-u11:q09): 국가 형용사+명사 어구 완성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ009",
+      "status": "PASS",
+      "evidence": "UQ009(eng6-ham-u11:q10): Do you know anything about ~? 기능 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ010",
+      "status": "PASS",
+      "evidence": "UQ010(eng6-ham-u11:q11): 전치사 about과 at/under/from 구별 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ011",
+      "status": "PASS",
+      "evidence": "UQ011(eng6-ham-u11:q12, eng6-ham-u11:q13): Do you 질문의 조동사 일치 응답 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ012",
+      "status": "PASS",
+      "evidence": "UQ012(eng6-ham-u11:q14, eng6-ham-u11:q34): I have no idea. 화용 기능 통합 평가 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ013",
+      "status": "PASS",
+      "evidence": "UQ013(eng6-ham-u11:q16): 단수 설명 문장 수 일치 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ014",
+      "status": "PASS",
+      "evidence": "복수 명사 설명의 수 일치: q17 객관식·q18 구두·q35 OX는 같은 문법 평가의 변형."
+    },
+    {
+      "unitId": "UQ016",
+      "status": "PASS",
+      "evidence": "UQ016(eng6-ham-u11:q20): 5차시 특징 형용사 tasty 어휘 이해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ017",
+      "status": "PASS",
+      "evidence": "UQ017(eng6-ham-u11:q21): 복수 주어와 특징 형용사 결합 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ018",
+      "status": "PASS",
+      "evidence": "UQ018(eng6-ham-u11:q22): Helper Robots 1부 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ019",
+      "status": "PASS",
+      "evidence": "UQ019(eng6-ham-u11:q23): Helper Robots 2부 세부 사실 대조 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ020",
+      "status": "PASS",
+      "evidence": "UQ020(eng6-ham-u11:q24, eng6-ham-u11:q25): 주어+동사+목적어+장소 어순 구성 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ021",
+      "status": "PASS",
+      "evidence": "UQ021(eng6-ham-u11:q36): Helper Robots 확장 지문 독해 OX — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ022",
+      "status": "PASS",
+      "evidence": "UQ022(eng6-ham-u11:q27): 본문 핵심 어휘 clever 파악 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ023",
+      "status": "PASS",
+      "evidence": "UQ023(eng6-ham-u11:q28): 두 대상 특징 대조 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ024",
+      "status": "PASS",
+      "evidence": "UQ024(eng6-ham-u11:q37, eng6-ham-u11:q38): 한국 전통 음식 확장 소개 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ025",
+      "status": "PASS",
+      "evidence": "UQ025(eng6-ham-u11:q31): Special 11 모름+영국 놀이 동시 독해 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ026",
+      "status": "PASS",
+      "evidence": "UQ026(eng6-ham-u11:q32): 모음 앞 부정관사·단복수 명사구 문법 — 타 단위와 중복 없는 독립 출제 단위 확인"
+    },
+    {
+      "unitId": "UQ027",
+      "status": "PASS",
+      "evidence": "UQ027(eng6-ham-u11:q33): 모름 응답 후 설명 대화 흐름 이해 OX — 타 단위와 중복 없는 독립 출제 단위 확인"
+    }
+  ],
+  "media": [
+    {
+      "src": "assets/boomerangs.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9800B), 18종 몽타주 육안 검수 PASS: 부메랑 2개 복수 수 일치 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/djembes.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9472B), 18종 몽타주 육안 검수 PASS: 젬베 2개 복수 수 일치 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/non_la.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 7154B), 18종 몽타주 육안 검수 PASS: 농라 1개 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/saris.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9952B), 18종 몽타주 육안 검수 PASS: 사리 2벌 복수 수 일치 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/tuho.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 9234B), 18종 몽타주 육안 검수 PASS: 투호 1세트 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    },
+    {
+      "src": "assets/yakgwa.webp",
+      "method": "generated",
+      "precision": null,
+      "status": "PASS",
+      "evidence": "2x3 그리드 분할(318x320, 6614B), 18종 몽타주 육안 검수 PASS: 약과 1개 명확, 텍스트 없음 | 단수(1개)/복수(2개) 시각적 개수 정확성 확인, 320px WebP 가독성·용량 충족"
+    }
+  ]
+}

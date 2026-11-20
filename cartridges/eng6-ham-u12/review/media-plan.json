@@ -1,0 +1,71 @@
+[
+  {
+    "src": "assets/cleaned_street.webp",
+    "role": "거리 청소(cleaned the street) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q01",
+      "eng6-ham-u12:q02",
+      "eng6-ham-u12:q05"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 12040B), 18종 몽타주 육안 검수 PASS: 거리 청소 명확, 20KB 이하, 텍스트 없음"
+  },
+  {
+    "src": "assets/made_album.webp",
+    "role": "학급 앨범 만들기(made a class album) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q05",
+      "eng6-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9566B), 18종 몽타주 육안 검수 PASS: 사진 붙여 앨범 만들기 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/painted_wall.webp",
+    "role": "벽화 그리기(painted the wall) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q04",
+      "eng6-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9748B), 18종 몽타주 육안 검수 PASS: 담장 꽃 벽화 그리기 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/took_pictures.webp",
+    "role": "사진 찍기(took pictures) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q05",
+      "eng6-ham-u12:q06",
+      "eng6-ham-u12:q19",
+      "eng6-ham-u12:q20"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9850B), 18종 몽타주 육안 검수 PASS: 야외 카메라 촬영 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/won_quiz.webp",
+    "role": "퀴즈 우승(won the quiz) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q03",
+      "eng6-ham-u12:q06"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9514B), 18종 몽타주 육안 검수 PASS: 무대 트로피 우승 명확, 텍스트 없음"
+  },
+  {
+    "src": "assets/wrote_book.webp",
+    "role": "책 쓰기(wrote a book) 활동 시각화",
+    "questionIds": [
+      "eng6-ham-u12:q05",
+      "eng6-ham-u12:q34"
+    ],
+    "origin": "generated",
+    "visualCheck": "PASS",
+    "evidence": "2x3 그리드 분할(318x320, 9592B), 18종 몽타주 육안 검수 PASS: 책상에서 책 쓰기 명확, 텍스트 없음"
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "unitId": "UQ001",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q01",
+      "eng6-ham-u12:q02"
+    ],
+    "assessment": "cleaned the street 그림-과거 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "거리 청소 삽화+어제 조건으로 cleaned the street 선택/응답",
+    "distinctReason": "핵심 과거 어구 cleaned the street 식별"
+  },
+  {
+    "unitId": "UQ002",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q03"
+    ],
+    "assessment": "won the quiz 그림-과거 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "우승 트로피 삽화+지난 대회 조건으로 won the quiz 선택",
+    "distinctReason": "핵심 과거 어구 won the quiz 식별"
+  },
+  {
+    "unitId": "UQ003",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q04"
+    ],
+    "assessment": "painted the wall 그림-과거 어구 연결",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "벽화 그리기 삽화+지난 행사 조건으로 painted the wall 선택",
+    "distinctReason": "핵심 과거 어구 painted the wall 식별"
+  },
+  {
+    "unitId": "UQ004",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q05"
+    ],
+    "assessment": "made a class album 영어→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "made a class album 보고 4개 그림 중 앨범 제작 선택",
+    "distinctReason": "영어→그림 역방향 매칭"
+  },
+  {
+    "unitId": "UQ005",
+    "intentIds": [
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q06"
+    ],
+    "assessment": "took pictures 문장→그림 교차표현",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "She took pictures.에 맞는 사진 촬영 그림 선택",
+    "distinctReason": "문장 맥락 속 took pictures 식별"
+  },
+  {
+    "unitId": "UQ007",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q08"
+    ],
+    "assessment": "불규칙 동사 win-won 변화 정확성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "I ___ the quiz. (winned/won/win/wined)",
+    "distinctReason": "win 불규칙 과거형 구별"
+  },
+  {
+    "unitId": "UQ008",
+    "intentIds": [
+      "I002",
+      "I001"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q09",
+      "eng6-ham-u12:q34"
+    ],
+    "assessment": "write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님.",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "He ___ a book. 과거형 선택 및 책 집필 상황의 She writed a book. 오류 판단",
+    "distinctReason": "write의 불규칙 과거형 wrote: q09 객관식과 q34 OX는 같은 형태 변화 평가. 그림은 상황 보조이며 문법 판단에 필수 아님."
+  },
+  {
+    "unitId": "UQ009",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q10",
+      "eng6-ham-u12:q11"
+    ],
+    "assessment": "불규칙 동사 make-made, take-took 짝짓기",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "make/take 과거형 짝 선택(q10) 및 took 구두 산출(q11)",
+    "distinctReason": "make·take 불규칙 과거형 구별"
+  },
+  {
+    "unitId": "UQ010",
+    "intentIds": [
+      "I002"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q12"
+    ],
+    "assessment": "규칙 과거형 -ed 변화 확인 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "clean·paint의 -ed 규칙 변화 판별",
+    "distinctReason": "규칙 과거형 변화 규칙 확인"
+  },
+  {
+    "unitId": "UQ011",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q13",
+      "eng6-ham-u12:q17"
+    ],
+    "assessment": "Did you + 동사원형 문법 정확성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "Did you ___ these pictures? (take/took/takes/taking)",
+    "distinctReason": "q13(Did you _____ these pictures?)과 q17(Did you painted the wall? OX)은 모두 'Did + 동사원형' 규칙을 평가하므로 단일 변형 묶음(g12)으로 통합."
+  },
+  {
+    "unitId": "UQ012",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q14"
+    ],
+    "assessment": "과거 의문문 조동사 Did 선택",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "___ you win the quiz? (Do/Did/Are/Were)",
+    "distinctReason": "과거 의문문 조동사 Did 구별"
+  },
+  {
+    "unitId": "UQ013",
+    "intentIds": [
+      "I003"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q15",
+      "eng6-ham-u12:q16"
+    ],
+    "assessment": "Did you ~? 부정 응답 No, I didn't.",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "부정 응답 MCQ(q15) 및 긍정 응답 SHORT(q16)",
+    "distinctReason": "Did you 질문의 조동사 일치 응답"
+  },
+  {
+    "unitId": "UQ014",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q18"
+    ],
+    "assessment": "다른 사람(My brother) 과거 행동 묘사 교차표현",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "내 남동생이 거리를 청소했어→My brother cleaned the street.",
+    "distinctReason": "주어+과거동사 묘사 문장 선택"
+  },
+  {
+    "unitId": "UQ015",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q19",
+      "eng6-ham-u12:q20"
+    ],
+    "assessment": "부정 응답 후 다른 사람(Mina) 과거 행동 묘사",
+    "scenarioKind": "CREATED_SCENARIO",
+    "scenario": "사진 촬영 삽화+어제 조건으로 Mina took pictures. 선택/구두 응답",
+    "distinctReason": "타인 과거 행동 전환 묘사"
+  },
+  {
+    "unitId": "UQ016",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q21"
+    ],
+    "assessment": "We studied together and played together. 한국어→영어",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "한국어 뜻에 맞는 과거형 복수 주어 문장 선택",
+    "distinctReason": "studied/played together 과거 시제 일치"
+  },
+  {
+    "unitId": "UQ017",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q22"
+    ],
+    "assessment": "졸업 회상 문장 영어→한국어 교차표현",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "영어 문장의 우리말 뜻 선택",
+    "distinctReason": "졸업 회상 핵심 문장 이해"
+  },
+  {
+    "unitId": "UQ018",
+    "intentIds": [
+      "I005"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q23"
+    ],
+    "assessment": "졸업 응원 표현 의미 확인 OX",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "응원 표현의 우리말 뜻 일치 판별",
+    "distinctReason": "졸업 응원 표현 의미 확인"
+  },
+  {
+    "unitId": "UQ019",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q24"
+    ],
+    "assessment": "4차시 The Beautiful Times 세부 정보 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.170 지문 읽고 인물-활동 일치 진술 선택",
+    "distinctReason": "여러 인물 과거 활동 대조 독해"
+  },
+  {
+    "unitId": "UQ020",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q25",
+      "eng6-ham-u12:q36"
+    ],
+    "assessment": "동일 지문에서 에이미의 행동 의미 및 부정 응답과 과거동사 확인",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "My Work 4번 지문 기반 부정 응답·과거 동사 완성(q25) 및 에이미가 한 행동을 우리말로 말하기(q36)",
+    "distinctReason": "지문 기반 부정 응답+과거동사 완성"
+  },
+  {
+    "unitId": "UQ021",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q27"
+    ],
+    "assessment": "5차시 올해 반 활동 글 세부 정보 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.173 글 읽고 함께 한 일 선택",
+    "distinctReason": "개인/공동 과거 활동 구분 독해"
+  },
+  {
+    "unitId": "UQ022",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q28"
+    ],
+    "assessment": "6차시 Project 대화 빈칸 과거동사 완성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.174 대화 빈칸 made 선택",
+    "distinctReason": "질문 make → 서술 made 시제 전환"
+  },
+  {
+    "unitId": "UQ023",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q29"
+    ],
+    "assessment": "Special 12 원문 4발화 교차 오답 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.176 원문 4발화 읽고 교차 오답 속에서 일치 내용 선택",
+    "distinctReason": "Special 12 쿠키+독서 두 정보 동시 독해"
+  },
+  {
+    "unitId": "UQ024",
+    "intentIds": [
+      "I007"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q30",
+      "eng6-ham-u12:q31"
+    ],
+    "assessment": "Special 12 세부 장소 정보 독해",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "in my bed 장소 정보 선택(q30) 및 우리말 산출(q31)",
+    "distinctReason": "Special 12 세부 장소 정보 독해"
+  },
+  {
+    "unitId": "UQ025",
+    "intentIds": [
+      "I004"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q32"
+    ],
+    "assessment": "과거 묘사 문장 어순 구성",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "(a class album. / made / She) 배열",
+    "distinctReason": "주어+과거동사+목적어 어순 구성"
+  },
+  {
+    "unitId": "UQ026",
+    "intentIds": [
+      "I006"
+    ],
+    "questionIds": [
+      "eng6-ham-u12:q35"
+    ],
+    "assessment": "4차시 본문 인물-활동 대응(Amy/Mohan&Tom) 오류 판별 OX(X 정답, q24 Uju 문항과 평가 정보 분리)",
+    "scenarioKind": "SOURCE_FACT",
+    "scenario": "교과서 p.190 지문과 우리말 요약 일치 판별",
+    "distinctReason": "복수 인물 과거 사실 일치 OX"
+  }
+]

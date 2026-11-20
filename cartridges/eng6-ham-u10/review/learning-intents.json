@@ -1,0 +1,84 @@
+[
+  {
+    "id": "I001",
+    "status": "KEEP",
+    "candidateIds": [
+      "C001"
+    ],
+    "focus": "핵심 생활 습관 어구 6개의 의미와 그림 연결",
+    "reason": "단원 기초 핵심 어휘"
+  },
+  {
+    "id": "I002",
+    "status": "KEEP",
+    "candidateIds": [
+      "C002"
+    ],
+    "focus": "생활 습관 어구의 동사-명사 연어 및 철자(exercise 등) 완성",
+    "reason": "3·5차시 핵심 쓰기 목표"
+  },
+  {
+    "id": "I003",
+    "status": "KEEP",
+    "candidateIds": [
+      "C003"
+    ],
+    "focus": "빈도수 묻기 의문문(How often do you ~?)의 구조와 의미",
+    "reason": "핵심 의사소통 기능(질문하기)"
+  },
+  {
+    "id": "I004",
+    "status": "KEEP",
+    "candidateIds": [
+      "C004"
+    ],
+    "focus": "빈도수 표현(once/twice/N times a day/week, every day) 이해 및 빈도표 해석",
+    "reason": "핵심 의사소통 기능(답하기) 및 자료 해석"
+  },
+  {
+    "id": "I005",
+    "status": "KEEP",
+    "candidateIds": [
+      "C005"
+    ],
+    "focus": "질문과 응답의 소유격 전환(your ↔ my) 및 문장 어순 정확성",
+    "reason": "습관 문답 문장의 핵심 문법 정확성"
+  },
+  {
+    "id": "I006",
+    "status": "KEEP",
+    "candidateIds": [
+      "C006"
+    ],
+    "focus": "칭찬 표현(Good for you.)의 화용적 쓰임과 상황 적용",
+    "reason": "2차시 Study Point 핵심 기능"
+  },
+  {
+    "id": "I007",
+    "status": "KEEP",
+    "candidateIds": [
+      "C007"
+    ],
+    "focus": "건강 조언 표현(That's not good for you. / You should ~ more often.)의 의미와 구조",
+    "reason": "4~5차시·My Work 핵심 읽기·쓰기 기능"
+  },
+  {
+    "id": "I008",
+    "status": "MERGED",
+    "candidateIds": [
+      "C008",
+      "C009"
+    ],
+    "focus": "건강한 생활 습관 글·대화 및 Special 10 훈자 원문 지문 독해",
+    "reason": "지문 제공 기반 독해 목표로 통합(암기 배제)"
+  },
+  {
+    "id": "I009",
+    "status": "DROP",
+    "candidateIds": [
+      "C010"
+    ],
+    "focus": "오디오 대본 없는 듣기 활동 내용 암기",
+    "reason": "PDF 대본 미수록 및 장면 암기 금지 원칙"
+  }
+]
