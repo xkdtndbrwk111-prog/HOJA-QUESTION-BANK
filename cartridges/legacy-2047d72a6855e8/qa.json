@@ -1,0 +1,14 @@
+{
+  "questionCount": 62,
+  "types": {
+    "OX": 31,
+    "MCQ": 31
+  },
+  "soloUnits": 31,
+  "teamUnits": 31,
+  "issues": [],
+  "minimum25": true,
+  "assets": [],
+  "structuralGate": true,
+  "publication": "NOT_APPROVED"
+}

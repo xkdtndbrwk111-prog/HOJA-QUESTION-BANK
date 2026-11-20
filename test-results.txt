@@ -1,0 +1,25 @@
+test_100_not_25 (__main__.Contract.test_100_not_25) ... ok
+test_24 (__main__.Contract.test_24) ... ok
+test_25 (__main__.Contract.test_25) ... ok
+test_duplicate_choice (__main__.Contract.test_duplicate_choice) ... ok
+test_flat_1_based (__main__.Contract.test_flat_1_based) ... ok
+test_fraction_equivalence (__main__.Contract.test_fraction_equivalence) ... ok
+test_fraction_representation (__main__.Contract.test_fraction_representation) ... ok
+test_frequency_lengths (__main__.Contract.test_frequency_lengths) ... ok
+test_group_mix (__main__.Contract.test_group_mix) ... ok
+test_missing_asset (__main__.Contract.test_missing_asset) ... ok
+test_mixed_group_count (__main__.Contract.test_mixed_group_count) ... ok
+test_no_duplicate_question_id (__main__.Contract.test_no_duplicate_question_id) ... ok
+test_ox_bool (__main__.Contract.test_ox_bool) ... ok
+test_path_escape (__main__.Contract.test_path_escape) ... ok
+test_rich_refuses_flat (__main__.Contract.test_rich_refuses_flat) ... ok
+test_short_not_solo (__main__.Contract.test_short_not_solo) ... ok
+test_stable_answer (__main__.Contract.test_stable_answer) ... ok
+test_unknown_fields_fail (__main__.Contract.test_unknown_fields_fail) ... ok
+test_wrong_answer (__main__.Contract.test_wrong_answer) ... ok
+test_zero_denominator (__main__.Contract.test_zero_denominator) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.287s
+
+OK

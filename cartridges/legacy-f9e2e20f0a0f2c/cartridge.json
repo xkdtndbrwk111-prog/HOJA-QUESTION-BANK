@@ -1,0 +1,1645 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-f9e2e20f0a0f2c",
+  "revision": 1,
+  "title": "천재(함)-1단원 Where Are You Fr",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-1단원 Where Are You Fr"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 어느 나라에서 왔는지 묻는 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose pen is this?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 어느 나라에서 왔는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0001",
+      "answer": {
+        "text": "Where are you from?"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Where are you from?”이라는 질문에 한국에서 왔다고 답하려면 무엇이라고 해야 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Korea."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Nice to meet you."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "This is my friend."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can play soccer well."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Where are you from?”이라는 질문에 한국에서 왔다고 영어로 답해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0002",
+      "answer": {
+        "text": "I'm from Korea."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm from Canada.”는 자신이 캐나다에서 왔다고 말하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "캐나다에서 왔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from France."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from India."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Vietnam."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "프랑스에서 왔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from France."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Korea."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Vietnam."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "프랑스에서 왔다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0004",
+      "answer": {
+        "text": "I'm from France."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "베트남에서 왔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Vietnam."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from India."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from the U.S."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Canada."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "베트남에서 왔다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0005",
+      "answer": {
+        "text": "I'm from Vietnam."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm from India.”는 자신이 미국에서 왔다고 말하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인도에서 왔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from India."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Korea."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from France."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from the U.S."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국에서 왔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from the U.S."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Vietnam."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from India."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구 Peter를 다른 사람에게 소개할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "This is my friend, Peter."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My name is Peter."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Peter."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Nice to meet Peter."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구 Mina를 다른 사람에게 영어로 소개해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0008",
+      "answer": {
+        "text": "This is my friend, Mina."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사촌 Peter를 다른 사람에게 소개할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "This is my cousin, Peter."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "This is my teacher, Peter."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Peter."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My name is Peter."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처음 소개받은 사람에게 “Nice to meet you.”라고 말할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처음 소개받은 사람에게 반갑다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0010",
+      "answer": {
+        "text": "Nice to meet you."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나라 이름의 첫 글자는 대문자로 씁니다. 규칙에 맞게 쓴 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Canada"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "canada"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "cANADA"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "CANada"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mia says, “I am from the U.S.” Mia는 미국에서 왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mia says, “I am from the U.S. I can play baseball well.” Mia는 어느 나라에서 왔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the U.S."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Vietnam"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korea"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "France"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mia says, “I can play baseball well. I like hot dogs.” Mia가 잘하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play baseball"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride a bike"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play soccer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "skate"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mia says, “I like hot dogs.” Mia는 noodles를 좋아한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mia says, “I can play baseball well. I like hot dogs.” Mia가 좋아하는 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "hot dogs"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "noodles"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pizza"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "chicken"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Huy says, “I am from Vietnam.” Huy는 Vietnam에서 왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Huy says, “I am from Vietnam. I can ride a bike well.” Huy는 어느 나라에서 왔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Vietnam"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the U.S."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Canada"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "India"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Huy says, “I can ride a bike well.” Huy는 야구를 잘한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Huy says, “I can ride a bike well. I like noodles.” Huy가 잘하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride a bike"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play baseball"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play soccer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "skate"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Huy says, “I can ride a bike well. I like noodles.” Huy가 좋아하는 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "noodles"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "hot dogs"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pizza"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "chicken"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기 이름을 소개할 때 사용할 수 있는 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My name is Jack."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pizza."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can skate well."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:32",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기 이름이 Jack이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0018",
+      "answer": {
+        "text": "My name is Jack."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기가 잘하는 것을 소개할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can skate well."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I am from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My name is Jack."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pizza."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스케이트를 잘 탄다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0019",
+      "answer": {
+        "text": "I can skate well."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기가 좋아하는 것을 소개할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pizza."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can skate well."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I am from Canada."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My name is Jack."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:36",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "피자를 좋아한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0020",
+      "answer": {
+        "text": "I like pizza."
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:37",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Anh says, “I can play soccer well.” Anh는 축구를 잘한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Anh says, “I can play soccer well. I like noodles.” Anh가 잘하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play soccer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride a bike"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play baseball"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "skate"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Anh says, “I like noodles.” Anh는 hot dogs를 좋아한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Anh says, “I can play soccer well. I like noodles.” Anh가 좋아하는 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-f9e2e20f0a0f2c:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "noodles"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "hot dogs"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pizza"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "chicken"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f9e2e20f0a0f2c:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Alice says, “This is my friend, Genie.” Alice는 Genie를 누구라고 소개했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f9e2e20f0a0f2c:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "friend"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "cousin"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "teacher"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "sister"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

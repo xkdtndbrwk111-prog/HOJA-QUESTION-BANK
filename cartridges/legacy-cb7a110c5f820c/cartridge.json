@@ -1,0 +1,2223 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-cb7a110c5f820c",
+  "revision": 1,
+  "title": "YBM(김)-11단원 I Think It Loo",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-YBM(김)-11단원 I Think It Loo"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-cb7a110c5f820c:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What do you think?”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-cb7a110c5f820c:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떻게 생각하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떤 계절을 좋아하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇이 되고 싶나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇을 알고 있나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어떻게 생각하는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-cb7a110c5f820c:q_0001",
+      "answer": {
+        "text": "What do you think?"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘어떻게 생각하나요?’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you think?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What season do you like?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you know anything about it?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think so, too.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저도 그렇게 생각해요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저는 그렇게 생각하지 않아요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도와줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방 의견에 동의하는 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-cb7a110c5f820c:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think so, too."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I don’t think so."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have no idea."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thanks for saying that."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방 의견에 동의한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-cb7a110c5f820c:q_0004",
+      "answer": {
+        "text": "I think so, too."
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I don’t think so.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저는 그렇게 생각하지 않아요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저도 그렇게 생각해요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그렇게 말해 줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방 의견에 동의하지 않을 때 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I don’t think so."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think so, too."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, I do."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thanks for helping me."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think so, too.”는 상대방의 의견에 동의하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I don’t think so.”는 상대방 의견에 동의한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The sky looks dark.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘이 어두워 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘이 밝아 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘이 안전해 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘이 부드러워 보인다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think it looks bright.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 그것이 밝아 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 그것이 어두워 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 그것이 위험해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 그것이 딱딱해 보인다고 생각한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘재미있어 보인다고 생각해요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think it looks interesting."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think it looks boring."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think it looks dangerous."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think it looks dark."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think it looks boring.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지루해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재미있어 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밝아 보인다고 생각한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think it looks safe.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어두워 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱해 보인다고 생각한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think it looks dangerous.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전해 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부드러워 보인다고 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밝아 보인다고 생각한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This bread looks hard.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 빵은 딱딱해 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 빵은 부드러워 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 빵은 안전해 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 빵은 밝아 보인다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This cookie is soft.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 쿠키는 부드럽다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 쿠키는 딱딱하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 쿠키는 위험하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 쿠키는 어둡다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This book looks interesting. — I think so, too.” 두 사람의 의견 관계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 동의한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 반대한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람은 모른다고 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감사를 표현한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It looks fun. — I don’t think so. I think it looks boring.” 두 사람의 의견 관계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 다르다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 같다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 모른다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 감사한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think zoos are good for animals.” 글쓴이의 입장은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 동물에게 좋다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 동물에게 나쁘다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 조용하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 필요 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The animals are safe in there.” 찬성 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들이 안전하다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들이 자유롭다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원이 조용하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공간이 매우 넓다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The zookeepers take care of the animals.” 사육사들이 하는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들을 돌본다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들을 자연으로 보낸다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들을 그린다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들에게 책을 읽어 준다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“They give food and a safe home to them.” 제공하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먹이와 안전한 집"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "넓은 자연과 자유"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책과 음악"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공원과 정원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Zoos have good exercise programs, too.” 추가 장점은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 운동 프로그램"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조용한 자연"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "넓은 바다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무료 미술관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:27",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The zookeepers give food to the animals in zoos.”는 글의 내용과 일치한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 27
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I don’t think zoos are good for animals.” 글쓴이의 입장은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 동물에게 좋지 않다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 동물에게 좋다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 박물관이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원은 운동장이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Many zoo animals live in bad conditions.” 반대 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋지 않은 환경에서 산다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먹이가 너무 많다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동 프로그램이 많다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사육사가 너무 많다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The animals don’t have enough space in zoos.” 문제점은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "충분한 공간이 없다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먹이가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물이 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사육사가 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“They need to live in quiet places, but zoos are not quiet.” 동물에게 필요한 환경은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조용한 곳"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시끄러운 곳"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밝은 곳"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱한 곳"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Animals should be free.” 글의 주장은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들은 자유로워야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들은 동물원에만 있어야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들은 운동을 하면 안 된다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들은 조용한 곳을 싫어한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“They would be happier in nature.” 더 행복할 것이라고 한 장소는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교실"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The animals have enough space in zoos.”는 반대 글의 내용과 일치한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "반대 글에서는 동물원이 조용하기 때문에 동물에게 좋다고 주장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Playing video games is good. It’s fun.” 찬성 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재미있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건강에 나빠서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동이 필요해서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조용하지 않아서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think playing video games is bad. It’s bad for my health.” 반대 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건강에 좋지 않아서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재미있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새로운 것을 배워서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전해서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Watching TV is good. I can learn new things.” 찬성 근거는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새로운 것을 배울 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건강에 좋지 않다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동이 필요하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지루하다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I think watching TV is not healthy.” 의견은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "TV 시청은 건강에 좋지 않다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "TV 시청은 건강에 좋다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "TV 시청은 항상 재미있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "TV 시청은 운동이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can learn new things.”는 교과서에서 TV 시청 찬성의 이유로 제시된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 40
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "bright의 반대말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "dark"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "safe"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "soft"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "interesting"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "safe의 반대말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "dangerous"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "bright"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "soft"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "interesting"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "soft의 반대말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "hard"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "dark"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "safe"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "boring"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 독일의 명작 소설로 소개한 작품은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『모모』"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『작은 아씨들』"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『나의 라임 오렌지 나무』"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Snow Queen"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cb7a110c5f820c:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "꼬마 제제가 성장해 가는 과정을 그린 작품으로 소개된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cb7a110c5f820c:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『나의 라임 오렌지 나무』"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『모모』"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "『작은 아씨들』"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Snow Queen"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

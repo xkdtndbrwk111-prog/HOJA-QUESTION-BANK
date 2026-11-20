@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-80f7cfaef4b254",
+  "revision": 1,
+  "title": "천재(함)-2단원 What Are These",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-2단원 What Are These"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-80f7cfaef4b254:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까이에 있는 여러 물건이 무엇인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are those?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose pen is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까이에 있는 여러 물건이 무엇인지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0001",
+      "answer": {
+        "text": "What are these?"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멀리 있는 여러 물건이 무엇인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are those?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How nice!"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멀리 있는 여러 물건이 무엇인지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0002",
+      "answer": {
+        "text": "What are those?"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What are these?”는 가까이에 있는 여러 물건이 무엇인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까이에 여러 개의 지도가 있습니다. “What are these?”에 알맞은 대답은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are maps."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forks."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are albums."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are buttons."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What are those?”는 가까이에 있는 여러 물건이 무엇인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멀리 여러 개의 포크가 있습니다. “What are those?”에 알맞은 대답은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forks."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are maps."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are spoons."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are buttons."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 가위를 영어로 나타낸 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "scissors"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spoons"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "buttons"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "albums"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 숟가락을 영어로 나타낸 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spoons"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forks"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "buttons"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 앨범을 영어로 나타낸 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "albums"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "buttons"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spoons"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 단추를 영어로 나타낸 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "buttons"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "albums"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forks"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 물건이 무엇인지 답할 때 “They are ...”를 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까이에 여러 개의 지도가 있습니다. “What are these?”에 영어로 답해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0009",
+      "answer": {
+        "text": "They are maps."
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 멋진 물건을 보여 주었습니다. 감탄하거나 칭찬할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How nice!"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are albums."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have many books."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 멋진 물건을 보여 주었습니다. 영어로 감탄하거나 칭찬해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0010",
+      "answer": {
+        "text": "How nice!"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How nice!”는 감탄하거나 칭찬할 때 사용할 수 있는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I have many books.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 많은 책을 가지고 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 매일 책을 읽는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 책을 매우 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이것들은 그림책이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“These are picture books. Those are comic books.” 가까이에 있는 책들은 comic books이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0013",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “These are picture books. Those are comic books.” 가까이에 있는 책들은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picture books"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "comic books"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "dolls"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “These are picture books. Those are comic books.” 멀리 있는 책들은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "comic books"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picture books"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "albums"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I read them every day.”라고 했으므로 이 아이는 책을 매일 읽는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I like books very much. I read them every day.” 이 아이가 매일 하는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 읽는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 모은다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 그린다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 산다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “These are Korean dolls. Those are Russian dolls.” 가까이에 있는 인형들은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korean dolls"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Russian dolls"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "comic books"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picture books"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Those are Russian dolls.”라고 했으므로 멀리 있는 인형들은 Korean dolls이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0017",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “These are Korean dolls. Those are Russian dolls.” 멀리 있는 인형들은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Russian dolls"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korean dolls"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picture books"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "comic books"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I collect them.”이라고 했으므로 이 아이는 인형을 모은다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I like dolls very much. I collect them.” 이 아이가 인형에 대해 하는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형을 모은다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형을 매일 읽는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형을 먹는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형을 빌린다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기가 많은 물건을 가지고 있다고 소개할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have many caps."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "These are caps."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Those are caps."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like caps very much."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모자를 많이 가지고 있다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0019",
+      "answer": {
+        "text": "I have many caps."
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자기가 어떤 물건을 매우 좋아한다고 소개할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like caps very much."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have many caps."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "These are caps."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Those are caps."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:33",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모자를 매우 좋아한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-80f7cfaef4b254:q_0020",
+      "answer": {
+        "text": "I like caps very much."
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까이에 있는 여러 물건을 소개할 때 알맞은 문장 시작은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "These are ..."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Those are ..."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are ..."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have ..."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멀리 있는 여러 물건을 소개할 때 알맞은 문장 시작은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Those are ..."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "These are ..."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are ..."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like ..."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I have many pencils. These are yellow pencils.” 가까이에 있는 연필은 어떤 연필인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "yellow pencils"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "maps"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "buttons"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forks"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“These are my shoes. Those are my shoes. I have many shoes.” 여러 신발을 가지고 있다고 직접 말한 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have many shoes."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "These are my shoes."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Those are my shoes."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Please wait!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Those are my shoes.”는 멀리 있는 여러 신발이 자신의 것이라고 말하는 문장이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80f7cfaef4b254:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 펜을 가리키며 무엇인지 묻고 싶습니다. 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80f7cfaef4b254:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How nice!"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pens very much."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

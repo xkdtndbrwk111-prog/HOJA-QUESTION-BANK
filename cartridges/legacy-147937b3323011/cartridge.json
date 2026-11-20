@@ -1,0 +1,4895 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-147937b3323011",
+  "revision": 1,
+  "title": "조선 시대의 유교 문화",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-조선 시대의 유교 문화"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-147937b3323011:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 말 외적의 침입이 잦고 일부 지배층이 백성의 땅과 곡식을 빼앗아 생활이 어려웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-147937b3323011:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 말 사회 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-147937b3323011:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백성의 생활이 어려웠다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백성들이 과거를 통해 귀족이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권문세족들은 과거 시험을 통해 새롭게 떠오른 세력이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신진 사대부들은 원나라를 등에 업고 부를 축적했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 말 사회 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-147937b3323011:q_0001",
+      "answer": {
+        "text": "백성의 생활이 어려웠다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "권문세족은 성리학을 공부하고 과거를 보아 관리가 된 정치 세력이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-147937b3323011:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 말 성리학을 공부하고 과거를 보아 관리가 된 정치 세력을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-147937b3323011:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신진 사대부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권문세족"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호족"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성골"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 말 성리학을 공부하고 과거를 보아 관리가 된 정치 세력을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-147937b3323011:q_0002",
+      "answer": {
+        "text": "신진 사대부"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이성계와 신진 사대부가 손잡고 고려 사회를 개혁하려 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-147937b3323011:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 사회를 개혁하려고 힘을 합친 세력은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-147937b3323011:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이성계와 신진 사대부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건과 호족"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예와 관심법"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공민왕과 정도전"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 사회를 개혁하려고 힘을 합친 세력은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-147937b3323011:q_0003",
+      "answer": {
+        "text": "이성계와 신진 사대부"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "요동 정벌에 반대한 이성계가 위화도에서 군대를 돌려 개경으로 돌아왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-147937b3323011:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이성계가 위화도에서 군대를 돌린 사건을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-147937b3323011:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위화도 회군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀주 대첩"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "행주 대첩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정묘호란"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이성계가 위화도에서 군대를 돌린 사건을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-147937b3323011:q_0004",
+      "answer": {
+        "text": "위화도 회군"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이성계를 중심으로 한 세력이 1392년에 조선을 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-147937b3323011:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 세워진 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-147937b3323011:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1392년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "918년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1592년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1636년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조는 수도를 한양으로 옮겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-147937b3323011:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 조선의 수도로 옮긴 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-147937b3323011:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한양"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평양"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부여"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:18",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 조선의 수도로 옮긴 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-147937b3323011:q_0006",
+      "answer": {
+        "text": "한양"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양은 한강이 흘러 교통이 편리하고 산으로 둘러싸여 방어에 유리했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-147937b3323011:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양이 수도로 적합했던 까닭으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-147937b3323011:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통과 방어에 유리했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 1"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 2"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 3"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양이 수도로 적합했던 까닭으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-147937b3323011:q_0007",
+      "answer": {
+        "text": "교통과 방어에 유리했다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "종묘·사직단·경복궁과 도성 출입문을 유교 사상에 따라 배치하고 이름 지었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-147937b3323011:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양의 주요 건물과 성문 배치에 영향을 준 사상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-147937b3323011:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유교 사상"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교 사상"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도교 사상"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천주교 사상"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양의 주요 건물과 성문 배치에 영향을 준 사상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-147937b3323011:q_0008",
+      "answer": {
+        "text": "유교 사상"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사직단은 토지의 신과 곡식의 신에게 제사를 지내던 곳이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-147937b3323011:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "토지와 곡식의 신에게 제사를 지내던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-147937b3323011:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사직단"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "종묘"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경복궁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성균관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "토지와 곡식의 신에게 제사를 지내던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-147937b3323011:q_0009",
+      "answer": {
+        "text": "사직단"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사직단은 역대 왕과 왕비의 위패를 모시고 제사를 지내던 곳이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-147937b3323011:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "역대 왕과 왕비의 위패를 모시고 제사를 지내던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-147937b3323011:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "종묘"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사직단"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "향교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서당"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:30",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "역대 왕과 왕비의 위패를 모시고 제사를 지내던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-147937b3323011:q_0010",
+      "answer": {
+        "text": "종묘"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "호패는 16세 이상의 남자가 신분을 나타내기 위해 지니고 다녔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-147937b3323011:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 16세 이상의 남자가 지니고 다닌 신분 표지는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-147937b3323011:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위패"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "족보"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:33",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 16세 이상의 남자가 지니고 다닌 신분 표지는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-147937b3323011:q_0011",
+      "answer": {
+        "text": "호패"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선은 전국을 일곱 개의 도로 나누었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-147937b3323011:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선은 전국을 몇 개의 도로 나누었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-147937b3323011:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:36",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선은 전국을 몇 개의 도로 나누었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-147937b3323011:q_0012",
+      "answer": {
+        "text": "8도"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:37",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종 때 나라의 기본 법전인 『경국대전』을 완성하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-147937b3323011:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종 때 완성한 조선의 기본 법전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-147937b3323011:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경국대전"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼강행실도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선경국전"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈민정음"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종 때 완성한 조선의 기본 법전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-147937b3323011:q_0013",
+      "answer": {
+        "text": "경국대전"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태종 때 여진을 몰아내고 4군과 6진을 개척하여 영토를 압록강과 두만강까지 넓혔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-147937b3323011:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세종 때 북방에 개척한 지역을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-147937b3323011:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4군 6진"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강동 6주"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동북 9성"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한강 유역"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세종 때 북방에 개척한 지역을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-147937b3323011:q_0014",
+      "answer": {
+        "text": "4군 6진"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:43",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한양에는 성균관과 4부 학당, 지방에는 향교를 두었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-147937b3323011:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선의 대표적인 유교 교육 기관으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-147937b3323011:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성균관과 향교"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서당과 시장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관아와 포구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사직단과 종묘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선의 대표적인 유교 교육 기관으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-147937b3323011:q_0015",
+      "answer": {
+        "text": "성균관과 향교"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성균관은 주로 어린 학생들이 한자와 예절 등 기초 유교 지식을 배웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-147937b3323011:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 어린 학생들이 주로 공부하던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-147937b3323011:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서당"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사직단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "종묘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 어린 학생들이 주로 공부하던 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-147937b3323011:q_0016",
+      "answer": {
+        "text": "서당"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:49",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선의 신분은 양반·중인·상민·천민으로 구분하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-147937b3323011:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:50",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 사람들의 신분 네 가지를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-147937b3323011:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반·중인·상민·천민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족·귀족·평민·노비"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양인·중인·호족·천민"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관리·농민·상인·승려"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 사람들의 신분 네 가지를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-147937b3323011:q_0017",
+      "answer": {
+        "text": "양반·중인·상민·천민"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 상민은 유교 경전을 공부하거나 관리가 되어 나랏일에 참여하고 많은 토지와 노비를 소유하기도 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-147937b3323011:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:53",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관리로 나랏일에 참여하고 많은 토지와 노비를 가지기도 한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-147937b3323011:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상민"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:54",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관리로 나랏일에 참여하고 많은 토지와 노비를 가지기도 한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-147937b3323011:q_0018",
+      "answer": {
+        "text": "양반"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:55",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중인은 관청에서 일하거나 의학·법률·통역 등 전문적인 일을 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-147937b3323011:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:56",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의학·법률·통역 등 전문적인 일을 한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-147937b3323011:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상민"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:57",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의학·법률·통역 등 전문적인 일을 한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-147937b3323011:q_0019",
+      "answer": {
+        "text": "중인"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:58",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천민은 농업·어업·수공업·상업 등 생산 활동을 하며 세금을 내고 군역을 주로 담당하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-147937b3323011:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:59",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생산 활동을 하고 세금과 군역을 주로 부담한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-147937b3323011:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중인"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:60",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생산 활동을 하고 세금과 군역을 주로 부담한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-147937b3323011:q_0020",
+      "answer": {
+        "text": "상민"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:61",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천민은 가장 낮은 신분이었고 대부분 노비였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-147937b3323011:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:62",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 가장 낮은 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-147937b3323011:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중인"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:63",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 시대 가장 낮은 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-147937b3323011:q_0021",
+      "answer": {
+        "text": "천민"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:64",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선은 질서와 예절이 바로 선 나라를 만들고자 불교를 나라의 기본 정신으로 삼았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-147937b3323011:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:65",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 나라의 기본 정신으로 삼은 사상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-147937b3323011:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유교"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천주교"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:66",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 나라의 기본 정신으로 삼은 사상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-147937b3323011:q_0022",
+      "answer": {
+        "text": "유교"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:67",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼강행실도는 유교의 가르침을 글과 그림으로 설명한 책이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-147937b3323011:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:68",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교의 가르침을 글과 그림으로 설명한 책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-147937b3323011:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼강행실도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경국대전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사직설"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직지심체요절"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:69",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교의 가르침을 글과 그림으로 설명한 책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-147937b3323011:q_0023",
+      "answer": {
+        "text": "삼강행실도"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:70",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교 가르침을 잘 실천한 사람을 찾아 상을 주었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-147937b3323011:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:71",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 유교 가르침을 잘 실천한 사람에게 한 일은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-147937b3323011:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상을 주었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결혼을 시켰다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 쓰게 했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군대로 보냈다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:72",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 유교 가르침을 잘 실천한 사람에게 한 일은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-147937b3323011:q_0024",
+      "answer": {
+        "text": "상을 주었다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:73",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관혼상제는 관례·혼례·상례·제례를 합쳐 부르는 말이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-147937b3323011:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:74",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관례·혼례·상례·제례를 합쳐 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-147937b3323011:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관혼상제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "골품제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패법"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:75",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관례·혼례·상례·제례를 합쳐 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-147937b3323011:q_0025",
+      "answer": {
+        "text": "관혼상제"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:76",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 설명은 사실과 다르다: 성인이 되었음을 알리는 의식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-147937b3323011:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:77",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성인이 되었음을 알리는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-147937b3323011:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼례"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:78",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성인이 되었음을 알리는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-147937b3323011:q_0026",
+      "answer": {
+        "text": "관례"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:79",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관례는어른이 된 남녀가 혼인하는 의식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-147937b3323011:q_0027",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:80",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혼인을 하는 의식을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-147937b3323011:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:81",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혼인을 하는 의식을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-147937b3323011:q_0027",
+      "answer": {
+        "text": "혼례"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:82",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혼례는 사람이 죽었을 때 죽은 사람을 기리며 치르는 의식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-147937b3323011:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:83",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이 죽었을 때 치르는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-147937b3323011:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:84",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이 죽었을 때 치르는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-147937b3323011:q_0028",
+      "answer": {
+        "text": "상례"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:85",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조상에게 제사를 지내는 의식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-147937b3323011:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:86",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조상에게 제사를 지내는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-147937b3323011:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:87",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조상에게 제사를 지내는 의식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-147937b3323011:q_0029",
+      "answer": {
+        "text": "제례"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:88",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불교가 퍼지며 가족 안에서 가장의 권위가 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-147937b3323011:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:89",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교가 퍼지면서 가족 안에서 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-147937b3323011:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가장의 권위가 높아졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 1"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 2"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 설명 3"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:90",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교가 퍼지면서 가족 안에서 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-147937b3323011:q_0030",
+      "answer": {
+        "text": "가장의 권위가 높아졌다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:91",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아들과 딸이 돌아가며 지내던 제사가 점차 큰아들에게 고정되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-147937b3323011:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:92",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제사를 주로 맡게 된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-147937b3323011:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "큰아들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맏이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "막내딸"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "큰딸"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:93",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제사를 주로 맡게 된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-147937b3323011:q_0031",
+      "answer": {
+        "text": "큰아들"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:94",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선시대는 모든 자식들이 재산 상속에서 똑같이 대우 받았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-147937b3323011:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:95",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에서 유교가 퍼지며 재산 상속에서 점차 우대받은 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-147937b3323011:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "큰아들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "막둥이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금님"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강아지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:96",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에서 유교가 퍼지며 재산 상속에서 점차 우대받은 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-147937b3323011:q_0032",
+      "answer": {
+        "text": "큰아들"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:97",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "족보는 성씨를 기반으로 가문의 계통을 기록한 책이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-147937b3323011:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:98",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가문의 계통을 기록한 책을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-147937b3323011:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "족보"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위패"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:99",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가문의 계통을 기록한 책을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-147937b3323011:q_0033",
+      "answer": {
+        "text": "족보"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:100",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려시절에는 처가살이가 일반적이었으나 유교가 퍼지며 점차 신부가 신랑 집으로 가는 경우가 많아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-147937b3323011:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:101",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교가 퍼지며 혼인 뒤 거주 풍습은 어떻게 바뀌었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-147937b3323011:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신부가 신랑 집으로 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신랑이 신부 집으로 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 중 부자집으로 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신랑 신부만 같이 살았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:102",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교가 퍼지며 혼인 뒤 거주 풍습은 어떻게 바뀌었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-147937b3323011:q_0034",
+      "answer": {
+        "text": "신부가 신랑 집으로 갔다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:103",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세종은 백성이 쉽게 읽고 쓸 수 있는 글자가 필요하다고 여겨 훈민정음을 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-147937b3323011:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:104",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음을 만든 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-147937b3323011:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성종"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광해군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인조"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:105",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음을 만든 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-147937b3323011:q_0035",
+      "answer": {
+        "text": "세종"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:106",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 설명은 사실과 다르다: 처음 훈민정음은 28자로 이루어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-147937b3323011:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:107",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처음 훈민정음은 몇 자로 이루어졌습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-147937b3323011:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "28자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "14자"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "24자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "40자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:108",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처음 훈민정음은 몇 자로 이루어졌습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-147937b3323011:q_0036",
+      "answer": {
+        "text": "28자"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:109",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리말을 소리 나는 대로 쓸 수 있고 쉽게 배울 수 있는 과학적이고 독창적인 문자였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-147937b3323011:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:110",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-147937b3323011:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쉽게 배울 수 있었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알파벳으로 되어 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "현재는 쓰지 않는 자모음이 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집현전 학자들이 만들었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:111",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-147937b3323011:q_0037",
+      "answer": {
+        "text": "쉽게 배울 수 있었다."
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:112",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "닿소리는 별자리를 본떠 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-147937b3323011:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:113",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 닿소리는 무엇의 모양을 본떠 만들었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-147937b3323011:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발음 기관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산과 강"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별자리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건물 모양"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:114",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 닿소리는 무엇의 모양을 본떠 만들었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-147937b3323011:q_0038",
+      "answer": {
+        "text": "발음 기관"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:115",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "홀소리는 하늘·사람·땅을 본떠 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-147937b3323011:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:116",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 홀소리는 무엇을 본떠 만들었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-147937b3323011:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘·사람·땅"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕·신하·백성"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해·달·별"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산·강·바다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:117",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음의 홀소리는 무엇을 본떠 만들었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-147937b3323011:q_0039",
+      "answer": {
+        "text": "하늘·사람·땅"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:118",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훈민정음은 우리 땅과 날씨에 맞는 농사법을 정리한 책이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-147937b3323011:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:119",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 땅과 날씨에 맞는 농사법을 정리한 책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-147937b3323011:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사직설"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경국대전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼강행실도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "칠지도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:120",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 땅과 날씨에 맞는 농사법을 정리한 책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-147937b3323011:q_0040",
+      "answer": {
+        "text": "농사직설"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:121",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "측우기는 비가 내린 양을 측정하는 기구이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-147937b3323011:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:122",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비의 양을 측정하는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-147937b3323011:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "측우기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자격루"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "앙부일구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼천의"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:123",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비의 양을 측정하는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-147937b3323011:q_0041",
+      "answer": {
+        "text": "측우기"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:124",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자격루는 해의 움직임에 따른 그림자를 이용해 시각을 읽는 해시계이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-147937b3323011:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:125",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해의 그림자로 시각을 알 수 있는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-147937b3323011:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "앙부일구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "측우기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자격루"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼천의"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:126",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해의 그림자로 시각을 알 수 있는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-147937b3323011:q_0042",
+      "answer": {
+        "text": "앙부일구"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:127",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자격루는 물이 흐르는 것을 이용해 시각을 알려 주는 물시계이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-147937b3323011:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:128",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 이용해 시각을 알려 주는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-147937b3323011:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자격루"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "측우기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "앙부일구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간의"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:129",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 이용해 시각을 알려 주는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-147937b3323011:q_0043",
+      "answer": {
+        "text": "자격루"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:130",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "측우기는 해·달·별의 움직임을 관찰하여 계절 변화를 알 수 있게 한 천문 관측 기구이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-147937b3323011:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:131",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하늘의 움직임을 관찰한 과학 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-147937b3323011:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간의와 혼천의"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패와 족보"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "종묘와 사직단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "분청사기와 백자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:132",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하늘의 움직임을 관찰한 과학 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-147937b3323011:q_0044",
+      "answer": {
+        "text": "간의와 혼천의"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:133",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "칠정산은 관측 자료를 바탕으로 조선에 맞는 달력을 만들기 위해 펴낸 역법책이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-147937b3323011:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:134",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에 맞는 달력을 만들기 위해 펴낸 역법책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-147937b3323011:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "칠정산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경국대전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼강행실도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:135",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에 맞는 달력을 만들기 위해 펴낸 역법책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-147937b3323011:q_0045",
+      "answer": {
+        "text": "칠정산"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:136",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 전기 양반의 검소한 유교 문화 속에서 소박한 청자가 인기를 끌었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-147937b3323011:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:137",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 전기 양반들에게 인기가 많았던 도자기는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-147937b3323011:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "분청사기와 백자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려청자와 토기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "칠지도와 동검"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "목간과 죽간"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:138",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 전기 양반들에게 인기가 많았던 도자기는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-147937b3323011:q_0046",
+      "answer": {
+        "text": "분청사기와 백자"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:139",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도요토미 히데요시가 조선을 침략하여 1592년에 전쟁이 일어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-147937b3323011:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:140",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임진왜란이 일어난 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-147937b3323011:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1592년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1392년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1636년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1270년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:141",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임진왜란이 일어난 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-147937b3323011:q_0047",
+      "answer": {
+        "text": "1592년"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:142",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이순신이 이끄는 수군이 거북선·화포와 전술로 일본군에 패했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-147937b3323011:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:143",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임진왜란 때 조선 수군을 이끈 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-147937b3323011:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권율"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서산대사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선조"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:144",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임진왜란 때 조선 수군을 이끈 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-147937b3323011:q_0048",
+      "answer": {
+        "text": "이순신"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:145",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의병은 백성이 자발적으로 조직하여 일본군에 맞서 싸운 군대이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-147937b3323011:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:146",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "외적 침입에 맞서 백성이 자발적으로 조직한 군대를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-147937b3323011:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관군"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사신"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호족"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:147",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "외적 침입에 맞서 백성이 자발적으로 조직한 군대를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-147937b3323011:q_0049",
+      "answer": {
+        "text": "의병"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:148",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "청이 조선에 임금과 신하의 관계를 요구했으나 거절당했지만 침략하지는 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-147937b3323011:q_0050",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:149",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1636년 청이 조선을 침략한 전쟁은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-147937b3323011:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "병자호란"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임진왜란"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정유재란"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀주 대첩"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-147937b3323011:150",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1636년 청이 조선을 침략한 전쟁은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-147937b3323011:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-147937b3323011:q_0050",
+      "answer": {
+        "text": "병자호란"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2261 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-e1d665a6aa5310",
+  "revision": 1,
+  "title": "YBM(김)-9단원 Who Painted the",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-YBM(김)-9단원 Who Painted the"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-e1d665a6aa5310:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“누가 그 그림을 그렸나요?”에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-e1d665a6aa5310:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who painted the picture?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who built the ship?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who made the map?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who wrote the story?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "누가 그 그림을 그렸는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-e1d665a6aa5310:q_0001",
+      "answer": {
+        "text": "Who painted the picture?"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who painted the picture?”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그 그림을 그렸나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그 배를 만들었나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 지도를 만들었나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 이야기를 썼나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Van Gogh painted it.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반 고흐가 그것을 그렸어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반 고흐가 그것을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반 고흐가 그것을 썼어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반 고흐가 그것을 발명했어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who built the ship?”은 무엇을 묻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 배를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그림을 그렸는지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 지도를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 이야기를 썼는지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Yi Sunsin built it.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신이 그것을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호가 그것을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕이 그것을 발명했어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사임당이 그것을 그렸어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who made the map?”은 무엇을 묻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 지도를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 배를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그림을 그렸는지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 음악을 썼는지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gim Jeongho made it.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-e1d665a6aa5310:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호가 그것을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신이 그것을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕이 그것을 발명했어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "허균이 그것을 썼어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김정호가 그것을 만들었다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-e1d665a6aa5310:q_0007",
+      "answer": {
+        "text": "Gim Jeongho made it."
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who invented Hangeul?”은 무엇을 묻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 한글을 발명했는지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 지도를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 배를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그림을 그렸는지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“King Sejong invented it.”에서 한글을 발명한 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사임당"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who wrote the story?”는 무엇을 묻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 이야기를 썼는지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 음악을 썼는지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그림을 그렸는지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 배를 만들었는지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who wrote the music?”는 무엇을 묻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 음악을 썼는지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 이야기를 썼는지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 지도를 만들었는지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누가 그림을 그렸는지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Did you say Gim Jeongho?”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호라고 말했나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호를 아나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호가 무엇을 만들었나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호를 좋아하나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 한 말을 확인할 때 사용할 수 있는 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Did you say ...?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who made ...?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What season do you like?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Did you say Gim Jeongho?”에 긍정으로 답하는 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, I did."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, I do."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, I don’t."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have no idea."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Did you say ...?”는 상대방이 한 말을 확인할 때 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who painted the picture?”는 그림의 위치를 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "write의 과거형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "built"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "build의 과거형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "built"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "invented"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "make의 과거형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "built"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "paint의 과거형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "built"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wrote"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "invent의 과거형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "invented"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "painted"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "built"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who invented the clock? Jang Yeongsil invented it.” 시계를 발명한 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장영실"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who wrote the story? Shakespeare wrote it.” 이야기를 쓴 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Shakespeare"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Beethoven"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Van Gogh"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Gaudi"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who painted the picture? Sin Saimdang painted it.” 그림을 그린 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사임당"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“There were many great painters in Joseon. Two of them were Gim Hongdo and Sin Saimdang.” 소개된 두 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김홍도와 신사임당"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호와 이순신"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종대왕과 장영실"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "허균과 베토벤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gim Hongdo ... liked to draw people’s everyday lives.” 김홍도가 즐겨 그린 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들의 일상생활"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연 속 동물과 꽃"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배와 지도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음악과 이야기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“People look busy and happy in his pictures.” 김홍도의 그림 속 사람들은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바쁘고 행복해 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조용하고 슬퍼 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험하고 무서워 보인다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지루하고 피곤해 보인다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“His pictures are fun and interesting.” 김홍도의 그림은 어떻게 설명되나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재미있고 흥미롭다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어둡고 지루하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험하고 무섭다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조용하고 슬프다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He liked to draw people’s everyday lives.”에 따르면 김홍도는 사람들의 일상생활을 즐겨 그렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“People look busy and happy in his pictures.”에 따르면 김홍도의 그림 속 사람들은 모두 슬퍼 보인다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Sin Saimdang was a great painter. She was a great writer, too.” 알맞은 설명은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훌륭한 화가이면서 작가이기도 했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화가였지만 글은 쓰지 않았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지도 제작자였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음악가였다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Sin Saimdang was good at drawing nature.” 신사임당이 잘한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연 그리기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지도 만들기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배 만들기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음악 쓰기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“She liked to draw things in her garden.” 신사임당이 즐겨 그린 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원에 있는 것들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들의 일상생활"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배와 지도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건물과 기차"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“There are animals and flowers in her pictures.” 그림에서 볼 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 꽃"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배와 지도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차와 비행기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책과 음악"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“There are animals and flowers in her pictures.”에 따르면 신사임당의 그림에는 동물과 꽃이 등장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who wrote Thumbelina? Andersen wrote it.” Thumbelina를 쓴 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Andersen"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Shakespeare"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Beethoven"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Van Gogh"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He was good at writing stories. He was a great writer.” Andersen이 잘한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이야기 쓰기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림 그리기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지도 만들기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배 만들기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He wrote many books for children.” Andersen이 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어린이를 위한 많은 책을 썼다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 배를 만들었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 그림을 그렸다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 지도를 만들었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Who painted Mona Lisa? Leonardo da Vinci painted it.” Mona Lisa를 그린 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Leonardo da Vinci"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Van Gogh"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sin Saimdang"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Gim Hongdo"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He was a great artist. He was an inventor, too.” Leonardo da Vinci에 관한 설명은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "예술가이면서 발명가였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작가이면서 음악가였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지도 제작자였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 만든 장군이었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 프랑스의 유명 박물관으로 소개한 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "루브르 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국립 고궁 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국립 항공우주 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우피치 미술관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e1d665a6aa5310:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "라이트 형제가 발명한 비행기가 전시된 곳으로 소개된 박물관은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e1d665a6aa5310:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국 국립 항공우주 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스 루브르 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대만 국립 고궁 박물관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우피치 미술관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

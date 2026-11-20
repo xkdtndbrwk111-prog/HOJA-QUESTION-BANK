@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-04552882f5519d",
+  "revision": 1,
+  "title": "학교생활 속 민주주의",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-학교생활 속 민주주의"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-04552882f5519d:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의는 구성원들의 다양한 의견을 반영하여 사회 공동의 문제에 관한 의사 결정을 하는 방식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의 사회에서는 일부 구성원만 인간으로서 존중받는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교도 학생, 교사, 학부모 등이 함께 생활하는 사회라고 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회 임원 선거에서 후보자의 공약을 듣고 투표하는 것은 민주주의 실천 사례이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공동의 문제를 민주적으로 해결할 때는 다른 사람의 의견을 들을 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주적으로 함께 결정한 해결 방안은 구성원 모두가 적극적으로 실천해야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학급 회의에서는 상대방의 의견을 존중하고 배려하는 태도가 필요하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의견이 다를 때에는 대화와 타협보다 한 사람의 의견을 무조건 따르는 것이 민주적이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회는 학생들의 의견을 학교에 전달하고 학교의 일을 민주적으로 해결하려고 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생, 교사, 학부모는 학교의 여러 가지 일을 함께 의논하며 해결할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 참여 예산제는 학교생활에 필요한 사업을 학생들이 제안하고 기획·운영할 수 있게 하는 제도이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 참여 예산제로 우산 빗물 제거기를 설치한 사례가 교과서에 제시되어 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 놀이터 문제를 해결할 때 가장 먼저 해결 방안을 정하고 나중에 문제를 확인한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 문제 해결 과정에서는 해결 방안을 탐색한 뒤 민주적인 방법으로 결정할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 이름을 바꾸는 활동에서 학생들은 학부모와 지역 주민의 도움을 요청하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 이름을 바꾸기 위해 서명 운동을 벌인 사례가 교과서에 제시되어 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의를 실천하는 태도에는 배려, 양보, 타협이 포함되지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의의 의미로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구성원들의 다양한 의견을 반영해 공동의 문제를 결정하는 방식"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "힘센 사람의 의견만 따르는 방식"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 개인이 혼자 해결하는 방식"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 결정을 교사가 대신하는 방식"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의 사회의 모습으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일부 사람만 의견을 낸다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구성원 모두가 인간으로서 존중받는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 다른 의견을 금지한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람만 자유롭게 행동한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회 임원 선거에서 학생들이 한 행동은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "후보자를 교사가 정했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "투표 없이 제비뽑기했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "후보자의 공약을 듣고 공정하게 투표했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생들의 의견을 받지 않았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공동의 문제를 민주적으로 해결하기 위해 가장 필요한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명령"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "침묵"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경쟁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "충분한 대화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다른 사람과 의견이 다를 때 바람직한 태도는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상대방의 의견을 존중하며 장단점을 생각한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내 의견만 반복한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 사람의 말을 끊는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무조건 다수의 의견을 따라간다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회의 역할로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 밖 도로를 관리한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생들의 의견을 학교에 전달한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 세금을 걷는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법을 만든다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 학생 자치회 3월 행사로 결정된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교실 증축하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 축제 열기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "욕설 없는 학교 만들기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도로 넓히기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 구성원으로 보기 어려운 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학부모"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 지역의 시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 참여 예산제의 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생이 필요한 사업을 제안하면 예산을 지원받아 기획·운영하는 제도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생이 학교 예산 전체를 마음대로 쓰는 제도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교사만 학교 시설을 정하는 제도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생이 세금을 걷는 제도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 참여 예산제로 설치한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새 운동장"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우산 빗물 제거기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "버스 정류장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 문제를 민주적으로 해결하는 첫 단계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과를 확인한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍보물을 만든다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해결하고 싶은 일을 확인한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람에게 결정하게 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 문제 해결 과정의 두 번째 단계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 무시한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과만 발표한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 밖 기관에 맡긴다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해결 방안을 탐색하고 민주적인 방법으로 결정한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 문제 해결 과정의 마지막 단계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해결 방안을 실천하고 결과를 확인한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 처음 찾는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "후보자를 추천한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기표소를 설치한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "놀이터 문제를 해결하려고 학교 구성원의 의견을 모을 때 사용한 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재판"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설문 조사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경매"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시험"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "놀이터 이용 규칙을 종합하여 정한 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경찰서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도서관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 자치회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교명 변경 활동에서 학생들이 도움을 요청한 대상으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학부모"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "졸업생"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 정부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대변 초등학교가 민주적인 절차를 거쳐 바뀐 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "용암 초등학교"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대변 중학교"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기장 초등학교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해변 초등학교"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회 임원으로서 바람직한 태도는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자기 생각만 반영한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생들의 생각을 최대한 반영하려고 노력한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "회의에 참여하지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생들의 의견을 듣지 않는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의와 관련된 가치로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "특권"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차별"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평등"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독점"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주적으로 결정한 일을 대하는 바람직한 태도는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결정 뒤에는 관심을 끊는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음에 들지 않으면 무조건 따르지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결정한 사람만 실천한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구성원 모두가 적극적으로 실천한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "구성원들의 다양한 의견을 반영하여 사회 공동의 문제에 관한 의사 결정을 하는 방식을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "민주주의"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공동의 문제를 민주적으로 해결하기 위해 충분히 나누어야 하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "대화"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생들의 대표를 뽑아 구성하는 자치 조직은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "학생 자치회"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교생활에 필요한 사업을 학생들이 제안하고 기획·운영할 수 있게 예산을 지원하는 제도는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "학생 참여 예산제"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 사례에서 학생 참여 예산제로 설치한 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "우산 빗물 제거기"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "놀이터 문제 해결 과정에서 학교 구성원의 의견을 모으기 위해 실시한 조사는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "설문 조사"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 문제 해결 과정에서 가장 먼저 해야 하는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "해결하고 싶은 일 확인하기"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안을 탐색한 뒤 어떤 방법으로 결정해야 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "민주적인 방법"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "함께 결정한 해결 방안을 실행한 뒤 확인해야 하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "결과"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "부산 기장군의 대변 초등학교가 바뀐 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "용암 초등학교"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교 이름을 바꾸는 활동에서 학생들이 지역 곳곳에서 벌인 운동은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "서명 운동"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생 자치회 임원 선거에서 후보가 학생들에게 약속하는 내용을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "공약"
+      }
+    },
+    {
+      "questionId": "legacy-04552882f5519d:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주주의를 실천할 때 상대방과 의견을 조정하기 위해 서로 조금씩 양보하여 합의하는 태도를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-04552882f5519d:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "타협"
+      }
+    }
+  ]
+}

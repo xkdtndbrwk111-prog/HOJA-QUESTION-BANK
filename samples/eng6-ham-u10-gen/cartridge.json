@@ -1,0 +1,723 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "eng6-ham-u10-gen",
+  "revision": 1,
+  "title": "How Often Do You Eat Vegetables?",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "publisher": "천재(함순애)",
+    "unit": 10,
+    "status": "pilot",
+    "reviewStatus": "pending_teacher_review"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "eng6-ham-u10-gen:q01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 기록을 보고 알맞은 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/water.webp",
+          "alt": "컵으로 물을 마시는 아이"
+        },
+        {
+          "kind": "frequency",
+          "period": "하루 기록",
+          "labels": [
+            "아침",
+            "점심",
+            "저녁"
+          ],
+          "marks": [
+            true,
+            false,
+            true
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:water-frequency",
+        "source": "p.140 / 기존 12행"
+      },
+      "explanation": "하루에 두 번은 twice a day입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I drink water once a day."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I drink water twice a day."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I drink water three times a day."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I drink water twice a week."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q02",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림과 하루 기록에 맞는 문장을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/brush.webp",
+          "alt": "칫솔로 이를 닦는 아이"
+        },
+        {
+          "kind": "frequency",
+          "period": "하루 기록",
+          "labels": [
+            "아침",
+            "점심",
+            "저녁"
+          ],
+          "marks": [
+            true,
+            true,
+            true
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:brush-frequency",
+        "source": "p.140, 142 / 기존 15행"
+      },
+      "explanation": "이를 닦는 행동은 brush my teeth, 하루 세 번은 three times a day입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I wash my hands three times a day."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I brush my teeth three times a week."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I brush my teeth three times a day."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I brush my teeth twice a day."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 일주일 기록을 보고 질문에 알맞은 답을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/library.webp",
+          "alt": "책을 들고 도서관에 들어가는 아이"
+        },
+        {
+          "kind": "frequency",
+          "period": "일주일 기록",
+          "labels": [
+            "월",
+            "화",
+            "수",
+            "목",
+            "금",
+            "토",
+            "일"
+          ],
+          "marks": [
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "How often do you go to the library?"
+            },
+            {
+              "speaker": "B",
+              "text": "________"
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:library-frequency",
+        "source": "p.139–141 / 기존 16행"
+      },
+      "explanation": "일주일에 한 번은 once a week입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Twice a day."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Every day."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Five times a week."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Once a week."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일주일 운동 기록을 보고 빈칸에 들어갈 말을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/exercise.webp",
+          "alt": "공원에서 줄넘기하는 아이"
+        },
+        {
+          "kind": "frequency",
+          "period": "일주일 기록",
+          "labels": [
+            "월",
+            "화",
+            "수",
+            "목",
+            "금",
+            "토",
+            "일"
+          ],
+          "marks": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "How often do you exercise?"
+            },
+            {
+              "speaker": "B",
+              "text": "I exercise ________."
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:exercise-frequency",
+        "source": "p.140 / 기존 11행"
+      },
+      "explanation": "일주일에 다섯 번은 five times a week입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "five times a week"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "five times a day"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "once a week"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "three times a week"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 영어 표현에 알맞은 그림을 고르세요.\n eat vegetables"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:vegetables-word",
+        "source": "p.135, 141 / 핵심 어휘 응용"
+      },
+      "explanation": "eat vegetables는 채소를 먹는다는 뜻입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/wash.webp",
+              "alt": "비누로 손을 씻는 아이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/water.webp",
+              "alt": "컵으로 물을 마시는 아이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/vegetables.webp",
+              "alt": "접시에 담긴 채소를 먹는 아이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "image",
+              "src": "assets/brush.webp",
+              "alt": "칫솔로 이를 닦는 아이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q06",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림과 친구의 대답을 보고 빈칸에 들어갈 질문을 고르세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/wash.webp",
+          "alt": "비누로 손을 씻는 아이"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "________"
+            },
+            {
+              "speaker": "B",
+              "text": "Five times a day."
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:wash-question",
+        "source": "p.139–145 / 기존 38행 응용"
+      },
+      "explanation": "손을 씻는 빈도는 How often do you wash your hands?라고 묻습니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How often do you brush your teeth?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How often do you wash your hands?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How often do you drink water?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How often do you exercise?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q07",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 좋은 생활 습관을 칭찬하는 말로 가장 알맞은 것은?"
+        },
+        {
+          "kind": "image",
+          "src": "assets/vegetables.webp",
+          "alt": "접시에 담긴 채소를 먹는 아이"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "I eat vegetables every day."
+            },
+            {
+              "speaker": "B",
+              "text": "________"
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:praise",
+        "source": "p.139, 146 / 기존 8행"
+      },
+      "explanation": "Good for you.는 상대방을 칭찬하는 표현입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have no idea."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That’s not good for you."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, thank you."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Good for you."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q08",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Clara의 말에 이어질 조언으로 가장 알맞은 것은?"
+        },
+        {
+          "kind": "image",
+          "src": "assets/clinic.webp",
+          "alt": "진료실에서 대화하는 학생과 의사"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "Clara",
+              "text": "I eat fruit every day. But I don’t eat vegetables."
+            },
+            {
+              "speaker": "Dr. Smith",
+              "text": "________"
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:clara-advice",
+        "source": "p.143 / 기존 28–31행"
+      },
+      "explanation": "채소를 먹지 않는다고 했으므로 매일 채소를 먹으라는 조언이 알맞습니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should eat vegetables every day."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should eat less fruit."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should go to the library more often."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should drink less water."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q09",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Dr. Smith는 Clara에게 운동 횟수를 줄이라고 조언했다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/clinic.webp",
+          "alt": "진료실에서 대화하는 학생과 의사"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "Clara",
+              "text": "I exercise once a week."
+            },
+            {
+              "speaker": "Dr. Smith",
+              "text": "You should exercise more often."
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:exercise-advice",
+        "source": "p.143 / 기존 30, 34행"
+      },
+      "explanation": "more often은 더 자주라는 뜻이므로 운동을 줄이라는 조언이 아닙니다.",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "eng6-ham-u10-gen:q10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대화를 보고 빈칸에 들어갈 영어 표현을 쓰세요."
+        },
+        {
+          "kind": "image",
+          "src": "assets/water.webp",
+          "alt": "컵으로 물을 마시는 아이"
+        },
+        {
+          "kind": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "text": "I don’t drink water often. I drink water twice a day."
+            },
+            {
+              "speaker": "B",
+              "text": "You should ________ more often."
+            }
+          ]
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "eng6-ham-u10-gen:water-advice",
+        "source": "p.147 / 기존 43–45행"
+      },
+      "explanation": "물을 더 자주 마셔야 한다는 조언이므로 drink water가 들어갑니다.",
+      "answer": {
+        "text": "drink water"
+      }
+    }
+  ]
+}

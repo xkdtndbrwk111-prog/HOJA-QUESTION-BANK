@@ -1,0 +1,2181 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-3e5b32190d12cd",
+  "revision": 1,
+  "title": "YBM(김)-7단원-I Went on a Tri",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-YBM(김)-7단원-I Went on a Tri"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-3e5b32190d12cd:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What did you do during the summer?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름 동안 무엇을 했나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울에 무엇을 할 건가요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어디가 아픈가요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 어떻게 생겼나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘여름 동안 무엇을 했나요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do during the summer?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your summer?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What will you do this winter?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you do in your free time?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I went on a trip."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 여행을 갔어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 영화를 봤어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 테니스를 쳤어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 배를 탔어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I went on a trip to Jeju-do."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제주도로 여행을 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제주도에서 살았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제주도에서 수영만 했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제주도에서 영화를 봤다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What did you do yesterday?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어제 무엇을 했나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오늘 무엇을 하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일 무엇을 할 건가요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어제 기분이 어땠나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I watched a movie with my cousin."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사촌과 영화를 봤다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사촌과 여행을 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사촌과 테니스를 쳤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사촌과 배를 탔다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I played tennis."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "테니스를 쳤다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화를 봤다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맛있는 음식을 먹었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I visited my grandmother."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니를 방문했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니와 영화를 봤다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니와 여행을 갔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니와 테니스를 쳤다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I rode in a boat."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자전거를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산책했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I ate delicious food."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맛있는 음식을 먹었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식을 만들었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화를 봤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여행을 갔다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I took a walk in the forest."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 산책했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 수영했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 배를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 영화를 봤다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘지난 주말에 무엇을 했나요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do last weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What will you do this weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you do in your free time?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "yesterday'는 과거의 특정 시기를 나타낼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "during the summer'는 '내년 여름에'라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "went'의 현재형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "make"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "rode'의 현재형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "have"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ate'의 현재형은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "eat"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ride"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "swim"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "How was your weekend?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주말은 어땠나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주말에 무엇을 했나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주말에 어디에 갔나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "누구와 주말을 보냈나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘주말은 어땠나요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do last weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where was your weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What will you do this weekend?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "It was great."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 좋았어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 추웠어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 어려웠어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 멀었어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I had a great time."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 즐거운 시간을 보냈어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 일찍 도착했어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맛있는 음식을 만들었어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오랫동안 공부했어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "How was your summer?에 알맞은 대답은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It was great."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went on a trip."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "During the summer."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "How was your summer?'는 여름 동안 무엇을 했는지 직접 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 24
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "How was your day?'는 하루가 어땠는지 소감을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I went to Vietnam during the summer with my family. 글쓴이가 가족과 간 나라는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베트남"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "브라질"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We went on a trip for three days and two nights. 여행 기간은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3일 2박"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2일 1박"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4일 3박"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3일 3박"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We went to the river and rode in a boat. 강에서 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낚시했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산책했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "After lunch, I swam at the beach. 점심 식사 후 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해변에서 수영했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장에서 쇼핑했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 탔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "춤 공연을 봤다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "After lunch, I swam at the beach.'에 따르면 글쓴이는 해변에서 수영했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "In the morning, I went to the market with my mom. 누구와 시장에 갔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "엄마"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아빠"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남자 형제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사촌"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We bought a beautiful dress. We ate some fresh fruit, too. 시장에서 먹은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신선한 과일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피자"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빵"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아이스크림"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We bought a beautiful dress.'에 따르면 시장에서 모자를 샀다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I made a nón la with my brother. 만든 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "nón la"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "dress"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "boat"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "jam"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We had dinner and watched a Vietnamese dance show. 저녁 식사 후 본 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베트남 춤 공연"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축구 경기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불꽃놀이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "My family had a great time in Vietnam. 가족의 여행 소감은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 즐거운 시간을 보냈다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여행이 너무 길었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨가 나빴다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식이 싫었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I ___ a nón la with my brother. 빈 칸에 들어갈 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "make"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "went"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "had"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "My family ___ a great time in Vietnam. 빈 칸에 들어갈 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "had"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "went"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I visited my aunt's farm. I watered the flowers. After lunch, we made jam with apples. 점심 식사 후 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과로 잼을 만들었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃에 물을 주었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화를 봤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배를 탔다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "We had fresh vegetables for dinner. I had a great time. 글쓴이의 소감은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아주 즐거운 시간을 보냈다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저녁을 먹지 못했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여행이 지루했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소를 싫어했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 프랑스의 대표 장소로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에펠 탑"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만리장성"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "nón la"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Green Park"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 중국의 대표 장소로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만리장성"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에펠 탑"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구엘 공원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "센트럴 파크"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3e5b32190d12cd:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What did you do during the summer?에 알맞은 대답은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3e5b32190d12cd:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went on a trip."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It was great."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your summer?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

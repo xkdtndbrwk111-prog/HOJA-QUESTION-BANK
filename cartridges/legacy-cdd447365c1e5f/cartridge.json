@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-cdd447365c1e5f",
+  "revision": 1,
+  "title": "도시의 특징과 생활 모습",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-도시의 특징과 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-cdd447365c1e5f:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시는 많은 인구가 모여 살면서 정치, 경제, 사회 활동의 중심이 되는 곳이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 우리나라 인구 10명 중 9명 정도가 도시에 산다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에는 높은 건물과 아파트, 주택이 거의 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에는 이동하는 사람이 거의 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1960년대부터 일자리를 찾아 도시로 사람들이 모여들면서 도시 인구가 많아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에는 다양한 산업이 발달하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업은 사람이 생활하는 데 필요한 것을 얻거나 만들어 내는 모든 활동을 말한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상업은 시장이나 대형 할인점 등에서 물건을 사고파는 활동과 관련 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금융업은 개인이나 회사의 돈을 맡아 주거나 빌려주는 것과 관계없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에는 교통이 발달하여 사람과 물건이 빠르고 편리하게 이동할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에 사는 사람들의 생활 모습은 모두 같다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에는 여가 생활을 즐길 만한 시설이 다양하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시는 편의 시설이 많지만 교통 혼잡과 환경 문제가 생기기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시는 교통이 발달했기 때문에 교통 혼잡이 절대로 생기지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서는 쓰레기 양이 늘어나거나 주차 공간이 부족한 문제가 생길 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바람길 숲은 도시의 미세 먼지와 대기 오염 물질을 줄이는 데 도움을 준다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 쓰레기 줄이기 캠페인에서는 일회용품 사용을 늘리도록 권장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시의 뜻으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 인구가 모여 살며 정치·경제·사회 활동의 중심이 되는 곳"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사만 짓는 곳"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람이 살지 않는 곳"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연환경만 있는 곳"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 인구 중 도시에 사는 비율로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10명 중 1명 정도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10명 중 9명 정도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10명 중 3명 정도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10명 중 5명 정도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 많이 볼 수 있는 주거 형태는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "움집"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초가집만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아파트와 연립 주택"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동굴"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 인구가 크게 늘기 시작한 시기로 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 시대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼국 시대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2000년대만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1960년대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 발달한 산업의 예로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제조업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수렵만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채집만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "목축만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 필요로 하는 물건을 한 번에 많이 만드는 산업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금융업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제조업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장이나 대형 할인점에서 물건을 사고파는 산업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제조업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금융업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개인이나 회사의 돈을 맡아 주거나 빌려주는 산업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제조업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금융업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다양한 행사가 열리고 사람들이 찾아오는 것과 관련 깊은 산업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광 산업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 교통이 발달한 결과는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이동이 불가능해진다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람과 물건이 빠르고 편리하게 이동할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 도로가 사라진다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시 인구가 0명이 된다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 사람들의 생활 모습이 다양한 까닭으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 같은 직업을 갖기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 같은 집에 살기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사는 곳, 하는 일, 여가 생활 등이 서로 다르기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여가 시설이 없기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 여가 생활을 즐길 수 있는 장소로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "논"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양식장만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 생활의 좋은 점은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 일자리가 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 혼잡이 심하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집값이 비싸다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기가 늘어난다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 생활의 좋은 점으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "편의 시설이 많다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주차 공간이 항상 부족하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통이 편리하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 일자리가 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 생활의 문제점으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "편의 시설이 많음"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 일자리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 혼잡"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 발달"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 발생할 수 있는 환경 문제는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계곡 생성"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갯벌 생성"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산봉우리 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대기 오염"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시의 주거 문제로 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집값이 비싸고 낡은 주택이 많을 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주택이 전혀 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 집이 무료다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람이 모두 같은 집에 산다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바람길 숲을 만드는 목적은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 체증을 늘리기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맑은 공기를 도시로 들이고 대기 오염을 줄이기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나무를 모두 없애기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기를 더 만들기 위해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 쓰레기 줄이기 캠페인에서 권장한 행동은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품 더 사용"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기 섞어 버리기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 물병이나 장바구니 사용"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용하지 않기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스마트 도시 전문가가 하는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농작물만 재배한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서만 물고기를 잡는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 시험지만 만든다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정보 통신 기술을 활용해 도시 문제를 분석하고 해결 방법을 찾는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "많은 인구가 모여 살면서 정치, 경제, 사회 활동의 중심이 되는 곳을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "도시"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 인구 10명 중 약 몇 명이 도시에 살고 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "9명"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이 생활하는 데 필요한 것을 얻거나 만들어 내는 모든 활동을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "산업"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 필요로 하는 물건을 한 번에 많이 만드는 산업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "제조업"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장이나 대형 할인점에서 물건을 사고파는 산업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "상업"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개인이나 회사의 돈을 맡아 주거나 빌려주는 산업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "금융업"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관광지와 각종 관광 행사와 관련된 산업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "관광 산업"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 가구가 살 수 있도록 만든 주택을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "연립 주택"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대사 없이 표정과 몸짓만으로 내용을 전달하는 연극을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "무언극"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시에서 자동차가 몰려 길이 막히는 문제를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "교통 혼잡"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도시 외곽의 맑은 공기를 도시 안으로 들이기 위해 만든 숲을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "바람길 숲"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조깅하며 쓰레기를 줍는 활동을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "플로깅"
+      }
+    },
+    {
+      "questionId": "legacy-cdd447365c1e5f:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정보 통신 기술로 도시의 문제를 분석하고 똑똑한 도시를 만드는 일을 하는 직업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-cdd447365c1e5f:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "스마트 도시 전문가"
+      }
+    }
+  ]
+}

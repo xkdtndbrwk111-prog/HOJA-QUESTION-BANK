@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-990fc1737f685b",
+  "revision": 1,
+  "title": "세계의 다양한 기후",
+  "metadata": {
+    "grade": 6,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "6-사회-세계의 다양한 기후"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-990fc1737f685b:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후는 한 지역에서 여러 해 동안 반복적으로 나타나는 평균적인 대기의 상태이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-990fc1737f685b:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 지역에서 여러 해 동안 반복적으로 나타나는 평균적인 대기의 상태를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-990fc1737f685b:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지형"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해류"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수운"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 지역에서 여러 해 동안 반복적으로 나타나는 평균적인 대기의 상태를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-990fc1737f685b:q_0001",
+      "answer": {
+        "text": "기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 기후는 기온과 강수량 등을 기준으로 구분할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-990fc1737f685b:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 기후를 구분하는 기준으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-990fc1737f685b:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기온과 강수량"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산맥의 길이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항구의 수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라의 면적"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 기후를 구분할 때 사용하는 대표적인 두 기준은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-990fc1737f685b:q_0002",
+      "answer": {
+        "text": "기온과 강수량"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 각 지역의 기후는 위도, 육지와 바다의 영향, 지형, 해발 고도, 해류 등에 따라 다르게 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-990fc1737f685b:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 기후에 영향을 주는 요인으로 알맞지 않은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-990fc1737f685b:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라 이름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해발 고도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해류"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 각 지역의 기후 차이에 영향을 주는 요인을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-990fc1737f685b:q_0003",
+      "answer": {
+        "text": "위도"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 지방은 햇볕을 수직으로 받아 기온이 높고, 극지방은 햇볕을 비스듬하게 받아 기온이 낮다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-990fc1737f685b:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 지방의 기온이 높은 까닭으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-990fc1737f685b:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햇볕을 비교적 수직으로 받기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 눈이 내리기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해발 고도가 매우 높기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하가 넓게 분포하기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햇볕을 비스듬하게 받아 기온이 낮은 곳은 어느 지방입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-990fc1737f685b:q_0004",
+      "answer": {
+        "text": "극지방"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도에서 극지방으로 갈수록 대체로 한대, 냉대, 온대, 건조, 열대 기후 순으로 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-990fc1737f685b:q_0005",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도에서 극지방으로 갈수록 대체로 나타나는 기후 순서로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-990fc1737f685b:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대-건조-온대-냉대-한대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대-냉대-온대-건조-열대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조-열대-냉대-한대-온대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온대-한대-열대-건조-냉대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 저위도 지역에 주로 나타나는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-990fc1737f685b:q_0005",
+      "answer": {
+        "text": "열대 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후는 적도 주변의 저위도 지역에 주로 나타나며 일 년 내내 기온이 높은 편이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-990fc1737f685b:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 저위도 지역에 주로 나타나는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-990fc1737f685b:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "냉대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일 년 내내 기온이 높고 적도 주변에 주로 나타나는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-990fc1737f685b:q_0006",
+      "answer": {
+        "text": "열대 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 우림 기후는 일 년 내내 덥고 비가 많이 내려 울창한 밀림이 발달한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-990fc1737f685b:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일 년 내내 덥고 비가 많이 내려 울창한 밀림이 발달하는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-990fc1737f685b:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 우림 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 사바나 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서안 해양성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일 년 내내 덥고 비가 많이 내려 발달하는 숲은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-990fc1737f685b:q_0007",
+      "answer": {
+        "text": "밀림"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 사바나 기후는 건기와 우기가 번갈아 나타나 초원이 발달한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-990fc1737f685b:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건기와 우기가 번갈아 나타나 초원이 발달하는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-990fc1737f685b:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 사바나 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 우림 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "냉대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 사바나 기후에서 비가 적게 내리는 시기를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-990fc1737f685b:q_0008",
+      "answer": {
+        "text": "건기"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역 사람들은 덥고 습한 날씨 때문에 두껍고 통풍이 잘되지 않는 옷을 주로 입는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-990fc1737f685b:q_0009",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에 알맞은 옷차림은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-990fc1737f685b:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "얇고 통풍이 잘되는 옷"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두꺼운 털옷"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈으로 만든 옷"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두꺼운 방한복만 입기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서는 어떤 성질의 옷을 주로 입습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-990fc1737f685b:q_0009",
+      "answer": {
+        "text": "얇고 통풍이 잘되는 옷"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서는 음식이 상하지 않도록 향신료를 넣거나 기름에 볶아 먹기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-990fc1737f685b:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역의 음식 생활 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-990fc1737f685b:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "향신료를 넣거나 기름에 볶아 먹는다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식을 얼음 속에만 보관한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 음식을 말려서만 먹는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "곡식을 전혀 먹지 않는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서 음식이 상하지 않도록 넣기도 하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-990fc1737f685b:q_0010",
+      "answer": {
+        "text": "향신료"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서는 땅의 열기와 습기, 해충을 피하려고 바닥을 띄운 고상 가옥에 살기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-990fc1737f685b:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서 바닥을 땅에서 띄워 지은 집은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-990fc1737f685b:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고상 가옥"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통나무집"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서 땅의 열기와 습기, 해충을 피하려고 짓는 집은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-990fc1737f685b:q_0011",
+      "answer": {
+        "text": "고상 가옥"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "화전 농업은 나무나 식물을 태운 뒤 그 재를 거름으로 이용해 농작물을 기르는 방식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-990fc1737f685b:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나무나 식물을 태우고 그 재를 거름으로 이용하는 농업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-990fc1737f685b:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전 농업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스 농업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화훼 농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나무나 식물을 태운 뒤 그 재를 거름으로 이용하는 농업을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-990fc1737f685b:q_0012",
+      "answer": {
+        "text": "화전 농업"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 열대 기후 지역에서는 커피, 카카오, 바나나 등의 열대작물을 대규모로 재배해 수출하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-990fc1737f685b:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서 대규모로 재배하여 수출하는 작물로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-990fc1737f685b:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "커피"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순록"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "침엽수 펄프"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역에서 대규모로 재배하는 열대작물을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-990fc1737f685b:q_0013",
+      "answer": {
+        "text": "커피"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후의 초원 지역에서는 야생 동물을 관찰하는 사파리 관광 산업이 발달하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-990fc1737f685b:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "초원에서 차를 타고 다니며 야생 동물을 관찰하는 여행은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-990fc1737f685b:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스키"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "래프팅"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "트레킹"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "차를 타고 다니며 야생 동물을 관찰하는 여행을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-990fc1737f685b:q_0014",
+      "answer": {
+        "text": "사파리"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후는 강수량보다 증발량이 많은 기후이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-990fc1737f685b:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강수량보다 증발량이 많은 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-990fc1737f685b:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 우림 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강수량보다 증발량이 많은 기후를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-990fc1737f685b:q_0015",
+      "answer": {
+        "text": "건조 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후 지역에는 강수량에 따라 사막이나 짧은 풀이 자라는 초원이 나타나기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-990fc1737f685b:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후 지역에서 나타날 수 있는 지형으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-990fc1737f685b:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사막과 초원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀림과 빙하만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피오르와 산호초만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갯벌과 만만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후 지역에서 비가 매우 적을 때 나타나는 지형은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-990fc1737f685b:q_0016",
+      "answer": {
+        "text": "사막"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사막 지역 사람들은 강한 햇볕과 모래바람을 막으려고 온몸을 감싸는 형태의 옷을 입는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-990fc1737f685b:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사막 지역에서 온몸을 감싸는 옷을 입는 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-990fc1737f685b:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강한 햇볕과 모래바람을 막기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비를 많이 맞기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈사태를 피하기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물속에서 생활하기 위해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사막 지역 사람들이 옷으로 막으려는 두 가지는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-990fc1737f685b:q_0017",
+      "answer": {
+        "text": "강한 햇볕과 모래바람"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후의 초원 지역에서는 전통적으로 물과 풀을 찾아 이동하며 가축을 기르는 유목 생활을 하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-990fc1737f685b:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물과 풀을 찾아 이동하며 가축을 기르는 생활은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-990fc1737f685b:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유목"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전 농업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물과 풀을 찾아 이동하며 가축을 기르는 생활을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-990fc1737f685b:q_0018",
+      "answer": {
+        "text": "유목"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후의 사막 지역에서는 오아시스나 하천 주변에서 대추야자와 밀 등을 재배하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-990fc1737f685b:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사막 지역에서 농사를 짓기 위해 주로 이용하는 물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-990fc1737f685b:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스나 하천의 물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷물만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈 녹은 물만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빗물만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사막에서 물이 솟아나거나 고여 있는 곳을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-990fc1737f685b:q_0019",
+      "answer": {
+        "text": "오아시스"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골의 게르는 이동이 편리하도록 나무 뼈대에 동물의 털로 짠 천이나 가죽을 덮어 만든 이동식 천막집이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-990fc1737f685b:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골 초원 지역의 전통적인 이동식 천막집은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-990fc1737f685b:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "샬레"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고상 가옥"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골의 이동식 천막집을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-990fc1737f685b:q_0020",
+      "answer": {
+        "text": "게르"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "카나트는 물의 증발을 막으려고 지하에 수로를 건설하여 물을 공급하는 이란의 전통 관개 시설이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-990fc1737f685b:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이란에서 물의 증발을 막기 위해 지하에 수로를 만든 전통 관개 시설은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-990fc1737f685b:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카나트"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바드기르"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이란의 전통적인 지하 수로 관개 시설을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-990fc1737f685b:q_0021",
+      "answer": {
+        "text": "카나트"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후 지역에서는 지하의 물을 끌어올려 스프링클러로 뿌려 농사를 짓기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-990fc1737f685b:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "건조 기후를 극복하기 위한 농업 방법으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-990fc1737f685b:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지하수를 끌어올려 스프링클러로 뿌리기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 올 때까지 농사를 전혀 짓지 않기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷물만 사용하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "얼음 위에 농사짓기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 흩어서 뿌려 작물에 물을 주는 기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-990fc1737f685b:q_0022",
+      "answer": {
+        "text": "스프링클러"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바드기르는 건물 안의 공기를 순환시켜 실내를 시원하게 하는 통풍구이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-990fc1737f685b:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이란에서 건물의 실내를 시원하게 만드는 통풍구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-990fc1737f685b:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바드기르"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카나트"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "더운 공기를 밀어내고 바람을 순환시키는 이란의 통풍구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-990fc1737f685b:q_0023",
+      "answer": {
+        "text": "바드기르"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온대 기후는 사계절이 비교적 뚜렷하게 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-990fc1737f685b:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사계절이 비교적 뚜렷한 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-990fc1737f685b:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사계절이 비교적 뚜렷한 기후를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-990fc1737f685b:q_0024",
+      "answer": {
+        "text": "온대 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서안 해양성 기후는 여름이 서늘하고 겨울은 비교적 따뜻하며 일 년 내내 비가 고르게 내린다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-990fc1737f685b:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일 년 내내 비가 고르게 내리고 겨울이 비교적 따뜻한 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-990fc1737f685b:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서안 해양성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지중해성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온대 계절풍 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름이 서늘하고 겨울이 비교적 따뜻한 온대 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-990fc1737f685b:q_0025",
+      "answer": {
+        "text": "서안 해양성 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해성 기후는 여름이 덥고 건조하며 겨울은 비교적 따뜻하고 여름보다 강수량이 많다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-990fc1737f685b:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름이 덥고 건조한 온대 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-990fc1737f685b:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지중해성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서안 해양성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온대 계절풍 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "냉대 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름이 덥고 건조한 온대 기후를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-990fc1737f685b:q_0026",
+      "answer": {
+        "text": "지중해성 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라와 같은 온대 계절풍 기후는 여름이 덥고 습하며 겨울은 춥고 건조하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-990fc1737f685b:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라와 같은 온대 계절풍 기후의 여름 특징은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-990fc1737f685b:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "덥고 습하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서늘하고 건조하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 춥고 건조하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일 년 내내 눈이 쌓여 있다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라와 같은 온대 계절풍 기후에서 겨울은 어떠합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-990fc1737f685b:q_0027",
+      "answer": {
+        "text": "춥고 건조하다"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서안 해양성 기후가 나타나는 서부 유럽에서는 밀 농사와 목축업, 낙농업, 화훼 농업이 발달하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-990fc1737f685b:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서부 유럽의 서안 해양성 기후 지역에서 발달한 농업으로 알맞지 않은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-990fc1737f685b:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스 농업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀 농사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화훼 농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서부 유럽에서 소나 양 등을 기르고 우유와 치즈 같은 유제품을 만드는 농업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-990fc1737f685b:q_0028",
+      "answer": {
+        "text": "낙농업"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해 주변에서는 건조한 여름에도 잘 자라는 올리브, 포도, 오렌지 등을 많이 재배한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-990fc1737f685b:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해 주변 지역에서 많이 재배하는 작물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-990fc1737f685b:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "올리브"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순록"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "침엽수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카사바만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해 주변에서 건조한 여름에도 잘 자라 많이 재배하는 작물을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-990fc1737f685b:q_0029",
+      "answer": {
+        "text": "올리브"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동부 아시아의 온대 계절풍 기후 지역은 여름철 기온이 높고 강수량이 많아 벼농사가 발달하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-990fc1737f685b:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동부 아시아의 온대 계절풍 기후 지역에서 발달한 농업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-990fc1737f685b:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼농사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순록 유목"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스 농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리 관광"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동부 아시아의 온대 계절풍 기후 지역에서 발달한 농사는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-990fc1737f685b:q_0030",
+      "answer": {
+        "text": "벼농사"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해식 가옥은 여름철 강한 햇볕과 뜨거운 열기를 막기 위해 벽을 흰색으로 칠하고 두껍게 하며 창문을 작게 만들기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-990fc1737f685b:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해식 가옥의 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-990fc1737f685b:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽을 흰색으로 칠하고 창문을 작게 만든다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈과 얼음으로 집을 짓는다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집 바닥을 항상 물 위에 띄운다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물 털 천막만 사용한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지중해식 가옥의 벽을 흰색으로 칠하는 까닭은 무엇을 막기 위해서입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-990fc1737f685b:q_0031",
+      "answer": {
+        "text": "강한 햇볕과 뜨거운 열기"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후는 온대 기후보다 여름이 짧고 겨울이 길며 매우 춥다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-990fc1737f685b:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온대 기후보다 겨울이 길고 매우 추운 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-990fc1737f685b:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "냉대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온대 기후보다 여름이 짧고 겨울이 긴 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-990fc1737f685b:q_0032",
+      "answer": {
+        "text": "냉대 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역은 겨울에 농사짓기 어려워 주로 여름에 밀, 감자, 옥수수 등을 재배한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-990fc1737f685b:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서 주로 농사를 짓는 계절은 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-990fc1737f685b:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일 년 내내 같은 정도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈이 가장 많이 올 때"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서 재배하는 작물을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-990fc1737f685b:q_0033",
+      "answer": {
+        "text": "감자"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에는 침엽수림이 넓게 분포하여 임업과 펄프 공업이 발달하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-990fc1737f685b:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서 침엽수림을 이용해 발달한 산업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-990fc1737f685b:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임업과 펄프 공업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양식업과 어업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스 농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리 관광"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서 종이 원료와 관련해 발달한 공업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-990fc1737f685b:q_0034",
+      "answer": {
+        "text": "펄프 공업"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서는 주변에서 얻기 쉬운 침엽수로 통나무집을 짓기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-990fc1737f685b:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역에서 침엽수를 재료로 지은 집은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-990fc1737f685b:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통나무집"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고상 가옥"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "침엽수로 지은 냉대 기후 지역의 집을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-990fc1737f685b:q_0035",
+      "answer": {
+        "text": "통나무집"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "타이가는 냉대 기후 지역의 침엽수림 지대이며, 눈이 많이 내리고 경사진 곳에서는 스키장이 발달하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-990fc1737f685b:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "러시아와 캐나다 북부의 냉대 기후 지역에 주로 나타나는 침엽수림 지대를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-990fc1737f685b:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "타이가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사바나"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오아시스"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산호초"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "냉대 기후 지역의 침엽수림 지대를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-990fc1737f685b:q_0036",
+      "answer": {
+        "text": "타이가"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후는 가장 따뜻한 달의 평균 기온이 10℃ 미만이며 일 년 내내 기온이 낮은 편이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-990fc1737f685b:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일 년 내내 기온이 낮고 눈과 얼음으로 덮인 곳이 많은 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-990fc1737f685b:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온대 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가장 따뜻한 달의 평균 기온이 10℃ 미만인 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-990fc1737f685b:q_0037",
+      "answer": {
+        "text": "한대 기후"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역은 농사짓기 어려워 전통적으로 사냥이나 고기잡이를 하며 생활하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-990fc1737f685b:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역의 전통적인 생활 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-990fc1737f685b:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사냥과 고기잡이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼농사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "올리브 농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화훼 농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역에서 전통적으로 해 온 생활을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-990fc1737f685b:q_0038",
+      "answer": {
+        "text": "사냥"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역에서는 여름에 풀이나 이끼를 찾아다니며 순록을 기르는 유목 생활을 하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-990fc1737f685b:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역에서 유목 생활을 하며 기르기도 하는 동물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-990fc1737f685b:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순록"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙타"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알파카"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돼지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한대 기후 지역에서 이동 수단과 털·가죽·고기를 얻는 데 이용하는 동물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-990fc1737f685b:q_0039",
+      "answer": {
+        "text": "순록"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "최근 한대 기후 지역에서는 석유와 천연가스 등의 자원 개발이 이루어지고 과학 기지도 건설되고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-990fc1737f685b:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "최근 한대 기후 지역에서 이루어지는 활동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-990fc1737f685b:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원 개발과 과학 기지 건설"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼농사 확대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대작물 재배"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지중해식 농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "극지방의 자연환경을 연구하기 위해 건설하는 시설은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-990fc1737f685b:q_0040",
+      "answer": {
+        "text": "과학 기지"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이누이트는 북극해 연안에 사는 원주민으로 동물의 털과 가죽으로 만든 옷을 입고 사냥과 고기잡이를 하며 생활한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-990fc1737f685b:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극해 연안의 이누이트가 전통적으로 입는 옷의 재료는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-990fc1737f685b:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물의 털과 가죽"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "얇은 면만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야자잎만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀짚만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극해 연안에 사는 원주민을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-990fc1737f685b:q_0041",
+      "answer": {
+        "text": "이누이트"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이글루는 멀리 사냥을 나갔을 때 임시로 머물기 위해 눈과 얼음으로 짓는 집이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-990fc1737f685b:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "눈과 얼음으로 지어 사냥 중 임시로 머무는 집은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-990fc1737f685b:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이글루"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게르"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "샬레"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바드기르"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "눈과 얼음으로 짓는 임시 거처를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-990fc1737f685b:q_0042",
+      "answer": {
+        "text": "이글루"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고산 기후는 해발 고도가 높은 지역에서 나타나며 해발 고도가 높아질수록 기온이 낮아진다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-990fc1737f685b:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해발 고도가 높은 지역에서 나타나는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-990fc1737f685b:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 우림 기후"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서안 해양성 기후"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한대 기후만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해발 고도가 높아질수록 기온은 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-990fc1737f685b:q_0043",
+      "answer": {
+        "text": "낮아진다"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 일부 고산 지역은 위도가 비슷한 다른 지역보다 일 년 내내 비교적 온화한 기후가 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-990fc1737f685b:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 일부 고산 지역의 기후 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-990fc1737f685b:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일 년 내내 비교적 온화하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일 년 내내 매우 덥다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 사막 기후이다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 한대 기후이다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 일부 고산 지역은 우리나라의 어느 계절처럼 온화합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-990fc1737f685b:q_0044",
+      "answer": {
+        "text": "봄철"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 고산 지역에서는 서늘한 기후에서도 잘 자라는 감자와 옥수수 등을 재배한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-990fc1737f685b:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 고산 지역에서 주로 재배하는 작물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-990fc1737f685b:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감자와 옥수수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "올리브와 오렌지만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대추야자와 밀만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "커피와 카카오만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변 고산 지역에서 재배하는 작물을 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-990fc1737f685b:q_0045",
+      "answer": {
+        "text": "감자"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고산 지역 사람들은 낮의 강한 햇볕을 피하려고 모자를 쓰고 밤의 추위를 막으려고 망토를 두르기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-990fc1737f685b:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고산 지역 사람들의 옷차림으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-990fc1737f685b:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모자와 망토"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "얇은 옷만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈과 얼음으로 만든 옷"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 수영복"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고산 지역에서 밤의 추위를 막기 위해 두르는 옷은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-990fc1737f685b:q_0046",
+      "answer": {
+        "text": "망토"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 주변의 일부 고산 지역은 기후가 온화하여 사람들이 살기 좋은 고산 도시가 발달하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-990fc1737f685b:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해발 약 3,600m에 있으며 연평균 기온이 약 8℃인 고산 도시는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-990fc1737f685b:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "라파스"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "싱가포르"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리야드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딕손"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "볼리비아의 대표적인 고산 도시는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-990fc1737f685b:q_0047",
+      "answer": {
+        "text": "라파스"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후는 사람들의 의식주와 산업 등 생활 모습에 많은 영향을 미친다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-990fc1737f685b:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후가 영향을 미치는 생활 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-990fc1737f685b:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의식주와 산업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라 이름만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경도선의 위치만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대륙의 개수만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후가 영향을 미치는 생활 요소를 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-990fc1737f685b:q_0048",
+      "answer": {
+        "text": "의식주"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후에 따라 지역의 전통 음식도 달라질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-990fc1737f685b:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 기후 지역인 인도네시아에서 음식을 기름에 볶아 먹는 전통 음식은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-990fc1737f685b:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나시고렝"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아롤"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파스타"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "육포"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골에서 말이나 소의 젖으로 만든 전통 유제품은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-990fc1737f685b:q_0049",
+      "answer": {
+        "text": "아롤"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들은 기후에 알맞은 옷을 입고 농업 방식을 선택하며 주변 재료로 집을 짓는 등 기후에 적응하고 극복하며 살아간다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-990fc1737f685b:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후와 인간 생활의 관계를 가장 잘 설명한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-990fc1737f685b:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들은 기후에 적응하고 때로는 극복하며 살아간다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후는 인간 생활과 관계가 없다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 지역의 생활 모습은 같다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들은 기후와 상관없이 같은 집만 짓는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-990fc1737f685b:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들은 다양한 방법으로 기후 환경에 무엇을 하며 살아갑니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-990fc1737f685b:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-990fc1737f685b:q_0050",
+      "answer": {
+        "text": "적응하고 극복한다"
+      }
+    }
+  ]
+}

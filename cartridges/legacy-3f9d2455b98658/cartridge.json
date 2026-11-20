@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-3f9d2455b98658",
+  "revision": 1,
+  "title": "옛날과 오늘날의 풍습",
+  "metadata": {
+    "grade": 3,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "3학년-사회-옛날과 오늘날의 풍습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-3f9d2455b98658:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날부터 되풀이되어 전해 오는 생활 습관과 생활 모습을 풍습이라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해마다 일정한 때에 되풀이하는 풍습을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세시 풍속"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 풍습"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신 풍습"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 차별"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "설을 맞아 새로 마련해 입는 옷이나 신발을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "text": "설빔"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "설날, 정월 대보름, 단오, 추석처럼 해마다 일정하게 지켜 즐기는 날을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명절"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통로"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "규범"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세시 풍속은 해마다 일정한 때에 되풀이하는 풍습이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "남이 잘되기를 바라며 서로 나누는 좋은 말을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "text": "덕담"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 움직임에 따라 일 년을 24개로 나누어 정한 날들을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명절"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍습"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "절기는 달의 모양만을 기준으로 일 년을 12개로 나눈 날이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명절날 아침에 조상들에게 지내는 제사는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돌잡이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성묘"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "논밭의 잡초를 뽑는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "text": "김매기"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두레는 모내기·김매기·벼 베기처럼 많은 일손이 필요한 농사일을 함께하려고 만든 공동 조직이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모내기·김매기·벼 베기처럼 많은 일손이 필요한 농사일을 함께하기 위한 공동 조직은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두레"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "품앗이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "회갑"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아기가 태어난 지 100일이 된 것을 축하하는 잔치를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "text": "백일잔치"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김장이나 지붕 얹기처럼 한 집에서 하기 어려운 일을 돌아가며 돕는 풍습은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두레"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "품앗이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세배"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "품앗이는 한 집에서 하기 어려운 일을 서로 돌아가며 돕는 풍습이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아기가 태어난 뒤 대문에 쳐서 나쁜 기운을 막고 출입을 삼가게 했던 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "text": "금줄"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "첫돌에 쌀, 붓, 활, 돈, 실 등을 펼쳐 놓고 아이가 고르게 하는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐백"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돌잡이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성묘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 사람들은 출생, 혼례, 장례와 같은 중요한 일이 있을 때 서로 축하하거나 위로하며 마음을 나눴다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "남자와 여자가 결혼하기 전에 하던 성인식으로, 마치면 어른으로 대우한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백일잔치"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조상의 산소를 찾아가 돌보는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "answer": {
+        "text": "성묘"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아기가 태어나면 대문에 금줄을 치는 풍습에는 산모와 아기의 건강을 바라는 마음이 담겨 있었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "부모님이 60년 동안 건강하게 사신 것을 축하하려고 크게 차린 잔치는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "회갑잔치"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돌잔치"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백일잔치"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단오제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "달이 지구를 한 바퀴 도는 시간을 한 달로 계산해 일 년을 나타낸 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "answer": {
+        "text": "음력"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신부가 처음 신랑 부모나 신랑 쪽 어른에게 큰절을 올리는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐백"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세배"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성묘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 관례는 결혼한 뒤에 하는 장례 의식이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정월 대보름에 달을 보며 소원을 비는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "answer": {
+        "text": "달맞이"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "화장 후 뼛가루를 나무 밑이나 주변에 묻는 장례 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해양장"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수목장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차례"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날에는 관례나 금줄 치기를 예전보다 흔하게 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "화장 후 뼛가루를 바다에 뿌리는 장례 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수목장"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐백"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돌잡이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해양장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "밤·호두·땅콩과 같은 단단한 열매를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "answer": {
+        "text": "부럼"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날과 오늘날의 결혼 풍습은 다르지만 신랑 신부의 미래를 축복하는 마음은 이어지고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "새해 처음으로 보름달이 뜨는 음력 1월 15일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정월 대보름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설날"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단오"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추석"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "단오에 여자들이 주로 즐긴 놀이로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "answer": {
+        "text": "그네뛰기"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정월 대보름에 단단한 열매를 깨물며 이가 튼튼해지기를 비는 풍습과 관련 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송편"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부럼"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "떡국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팥죽"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수목장은 화장 후 뼛가루를 바다에 뿌리는 장례 방법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추석에 그해 새로 난 곡식과 과일로 지낸 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "answer": {
+        "text": "차례"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모내기를 마치고 더운 여름을 맞이하기 전 잠시 쉬며 건강을 기원한 명절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추석"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설날"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단오"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날에는 농사와 관련 있는 세시 풍속보다 큰 명절을 중심으로 한 세시 풍속이 많이 이어진다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추석에 보름달 아래에서 즐기던 놀이로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "널뛰기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쥐불놀이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연날리기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강강술래"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구가 태양을 한 바퀴 도는 데 걸리는 시간을 일 년으로 나타낸 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "양력"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날에는 여러 지역의 축제와 체험 행사에서 계절과 관계없이 세시 풍속을 즐기기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 해 중 밤이 가장 길고 낮이 가장 짧은 날은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단오"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추석"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정월 대보름"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동지에 먹는 세시 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "팥죽"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "설날 떡국의 긴 가래떡 모양에 담긴 뜻으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사가 실패하기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건강하고 오래 살기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름이 빨리 오기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 오지 않기를 바라는 마음"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "설날에는 가족과 친척이 모여 건강과 복을 바라는 풍습이 전해져 왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "송편을 반달 모양으로 빚은 데 담긴 생각으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울이 길어지기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여행을 많이 하기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집안이나 나라가 점점 나아지기를 바라는 마음"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말을 잘 타기를 바라는 마음"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정월 대보름은 한 해 중 밤이 가장 길고 낮이 가장 짧은 날이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 농사와 관련 있는 세시 풍속을 즐기는 사람이 줄어든 이유로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사가 더 많아졌기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명절이 모두 없어졌기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절기가 24개에서 100개로 늘었기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직업이 다양해지면서 농사짓는 사람이 줄었기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "단오는 한 해 농사를 모두 마치고 수확에 감사하는 날이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-3f9d2455b98658:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동지는 태양의 움직임과 관련 있는 24절기 가운데 하나이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-3f9d2455b98658:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

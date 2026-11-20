@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-86145468deb8be",
+  "revision": 1,
+  "title": "평화로운 지구촌과 지속가능한 미래",
+  "metadata": {
+    "grade": 6,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "6-사회-평화로운 지구촌과 지속가능한 미래"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-86145468deb8be:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌은 지구 전체를 한 마을처럼 여겨 이르는 말이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-86145468deb8be:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구 전체를 한 마을처럼 여겨 이르는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-86145468deb8be:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구촌"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생태계"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제기구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구 전체를 한 마을처럼 여겨 이르는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-86145468deb8be:q_0001",
+      "answer": {
+        "text": "지구촌"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구상의 자원은 한정되어 있어 자원을 둘러싸고 여러 나라가 경쟁하거나 갈등을 겪기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-86145468deb8be:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 및 에너지 문제가 발생하는 까닭으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-86145468deb8be:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이용할 수 있는 자원이 한정되어 있기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 자원이 무한하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지를 전혀 사용하지 않기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 나라의 자원량이 같기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구상에서 우리가 이용할 수 있는 자원은 어떠하다고 설명합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-86145468deb8be:q_0002",
+      "answer": {
+        "text": "한정되어 있다"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극에는 석유와 천연가스가 많이 매장되어 있어 해저 자원을 차지하려는 나라들의 경쟁이 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-86145468deb8be:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극의 해저 자원을 둘러싼 경쟁의 대상이 되는 대표적 에너지 자원은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-86145468deb8be:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석유와 천연가스"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쌀과 밀"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "목화와 커피"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금과 은만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극에 많이 매장된 대표적인 에너지 자원 중 하나를 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-86145468deb8be:q_0003",
+      "answer": {
+        "text": "석유"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극에서 무분별하게 자원을 개발하면 북극의 생태계가 파괴될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-86145468deb8be:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극의 무분별한 자원 개발로 발생할 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-86145468deb8be:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생태계 파괴"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하의 자동 증가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원의 무한 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후변화의 완전한 해결"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북극에서 무분별한 자원 개발로 파괴될 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-86145468deb8be:q_0004",
+      "answer": {
+        "text": "생태계"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경을 고려하지 않은 무분별한 개발과 소비는 생태계를 파괴할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-86145468deb8be:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계 파괴의 원인으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-86145468deb8be:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무분별한 개발과 소비"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경을 고려한 절약"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲 보호 활동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원 재활용"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경을 고려하지 않은 무분별한 개발과 무엇이 생태계를 파괴할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-86145468deb8be:q_0005",
+      "answer": {
+        "text": "소비"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아마존 열대 우림은 지구에 필요한 산소의 약 20%를 생산해 '지구의 허파'라고 불린다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-86145468deb8be:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 허파'라고 불리는 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-86145468deb8be:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아마존 열대 우림"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사하라 사막"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "히말라야산맥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남극 대륙"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 허파'라고 불리는 열대 우림은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-86145468deb8be:q_0006",
+      "answer": {
+        "text": "아마존 열대 우림"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농경과 목축을 위해 나무를 베고 숲을 불태우는 것은 아마존 열대 우림 파괴의 원인이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-86145468deb8be:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아마존 열대 우림 파괴의 원인으로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-86145468deb8be:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농경과 목축을 위한 벌목과 방화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하 보호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양광 발전"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민 지원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아마존 열대 우림에서 나무를 베고 숲을 불태우는 목적 중 하나는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-86145468deb8be:q_0007",
+      "answer": {
+        "text": "농경"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 우림이 파괴되면 동물과 식물이 살 곳을 잃을 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-86145468deb8be:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 우림 파괴의 피해로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-86145468deb8be:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동식물이 살 곳을 잃는다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생물의 서식지가 늘어난다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소 생산이 늘어난다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생태계가 자동으로 회복된다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열대 우림이 파괴되면 동물과 식물이 잃게 되는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-86145468deb8be:q_0008",
+      "answer": {
+        "text": "살 곳"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태평양 한가운데에는 버려진 쓰레기가 파도와 바람에 밀려와 뭉쳐 만들어진 거대한 쓰레기 섬이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-86145468deb8be:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태평양의 거대한 쓰레기 섬은 어떻게 만들어졌습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-86145468deb8be:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기가 파도와 바람에 밀려와 뭉쳐서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화산이 폭발해서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하가 얼어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산호가 자라서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태평양 한가운데에서 버려진 쓰레기가 뭉쳐 만들어진 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-86145468deb8be:q_0009",
+      "answer": {
+        "text": "쓰레기 섬"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해양 생물이 플라스틱 쓰레기를 먹이로 착각해 먹으면 인간의 건강까지 위협받을 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-86145468deb8be:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다의 플라스틱 쓰레기가 일으킬 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-86145468deb8be:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해양 생물과 인간의 건강을 위협한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷물을 깨끗하게 한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해양 생물의 먹이를 늘린다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기를 자연스럽게 없앤다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해양 생물이 먹이로 착각해 먹는 쓰레기는 주로 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-86145468deb8be:q_0010",
+      "answer": {
+        "text": "플라스틱 쓰레기"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 평균 기온이 상승하면 빙하가 녹고 바닷물이 팽창해 해수면이 높아질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-86145468deb8be:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화로 해수면이 상승하는 까닭으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-86145468deb8be:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하가 녹고 바닷물이 팽창하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷물이 모두 얼기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강수량이 항상 0이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "육지가 계속 높아지기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구 평균 기온 상승으로 높아질 수 있는 바다의 높이를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-86145468deb8be:q_0011",
+      "answer": {
+        "text": "해수면"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화로 홍수와 폭우가 잦아지거나 가뭄과 사막화가 심해질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-86145468deb8be:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화의 영향으로 알맞지 않은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-86145468deb8be:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 자연재해가 완전히 사라진다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍수와 폭우가 잦아진다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가뭄이 심해진다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사막화가 심해진다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화로 비가 오지 않는 상태가 오래 지속되는 무엇이 심해질 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-86145468deb8be:q_0012",
+      "answer": {
+        "text": "가뭄"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "남태평양의 섬나라 투발루는 해수면 상승으로 국토가 바닷물에 잠길 위기에 처했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-86145468deb8be:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해수면 상승으로 국토가 잠길 위기에 처한 나라로 제시된 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-86145468deb8be:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "투발루"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스위스"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "몽골"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네팔"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해수면 상승으로 국가가 사라질 위기에 처한 남태평양의 섬나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-86145468deb8be:q_0013",
+      "answer": {
+        "text": "투발루"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민은 전쟁이나 재난 등으로 머물 곳을 찾아 자기 나라를 떠나 다른 나라로 가는 사람이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-86145468deb8be:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁이나 재난 등으로 자기 나라를 떠나 다른 나라로 가는 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-86145468deb8be:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광객"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 감독관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁이나 재난 등으로 자기 나라를 떠나는 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-86145468deb8be:q_0014",
+      "answer": {
+        "text": "난민"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시리아 내전이 계속되면서 많은 사람이 목숨을 잃거나 나라를 떠나 난민이 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-86145468deb8be:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시리아에서 많은 난민이 발생한 주요 원인으로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-86145468deb8be:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내전"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양광 발전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자유 무역 협정"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광 증가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 나라 안에서 일어나는 싸움을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-86145468deb8be:q_0015",
+      "answer": {
+        "text": "내전"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제는 여러 나라와 연결되어 있어 다양한 주체가 함께 노력해야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-86145468deb8be:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제를 해결하는 바람직한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-86145468deb8be:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 주체가 함께 노력한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제가 생긴 지역만 해결한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인은 참여하지 않는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 나라가 모든 문제를 혼자 해결한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제 해결을 위해 다양한 무엇이 함께 노력해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-86145468deb8be:q_0016",
+      "answer": {
+        "text": "주체"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김순권은 아프리카에서 잘 자라는 옥수수 품종을 개발해 식량난 해결에 도움을 주었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-86145468deb8be:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아프리카의 식량난 해결을 위해 옥수수 품종을 개발한 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-86145468deb8be:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김순권"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕가리 무타 마타이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에글렌타인 제브"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이태석"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아프리카의 식량난 해결을 위해 옥수수를 연구한 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-86145468deb8be:q_0017",
+      "answer": {
+        "text": "김순권"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕가리 무타 마타이는 훼손된 아프리카의 숲을 되살리기 위해 나무 심기 운동을 벌였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-86145468deb8be:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아프리카의 숲을 되살리기 위해 나무 심기 운동을 벌인 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-86145468deb8be:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕가리 무타 마타이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김순권"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에글렌타인 제브"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노무사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "훼손된 아프리카의 숲을 되살리려고 나무 심기 운동을 벌인 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-86145468deb8be:q_0018",
+      "answer": {
+        "text": "왕가리 무타 마타이"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에글렌타인 제브는 어린이와 난민을 돕는 모금 활동을 하고 세이브 더 칠드런을 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-86145468deb8be:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세이브 더 칠드런을 만든 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-86145468deb8be:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에글렌타인 제브"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김순권"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕가리 무타 마타이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반기문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세이브 더 칠드런을 만든 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-86145468deb8be:q_0019",
+      "answer": {
+        "text": "에글렌타인 제브"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비정부 기구(NGO)는 뜻이 같은 개인들이 스스로 모여 공공의 이익을 추구하고 지구촌 문제를 해결하려는 조직이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-86145468deb8be:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "뜻이 같은 개인들이 스스로 모여 지구촌 문제 해결을 위해 활동하는 조직은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-86145468deb8be:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비정부 기구(NGO)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제기구만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부가 아닌 개인들이 자발적으로 모여 활동하는 조직을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-86145468deb8be:q_0020",
+      "answer": {
+        "text": "비정부 기구(NGO)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국경 없는 의사회는 전쟁과 질병 등으로 고통받는 사람들에게 차별 없이 의료 지원을 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-86145468deb8be:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁과 질병으로 고통받는 사람들에게 의료 지원을 하는 비정부 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-86145468deb8be:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 없는 의사회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 무역 기구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "차별 없이 의료 지원을 하는 비정부 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-86145468deb8be:q_0021",
+      "answer": {
+        "text": "국경 없는 의사회"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해비타트는 가난한 지역이나 전쟁·자연재해로 삶의 터전을 잃은 사람들의 집을 짓고 마을을 고쳐 준다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-86145468deb8be:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "집을 짓고 마을을 고쳐 주는 활동을 하는 비정부 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-86145468deb8be:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 없는 의사회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 노동 기구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어려운 사람들의 집을 짓고 마을을 고쳐 주는 비정부 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-86145468deb8be:q_0022",
+      "answer": {
+        "text": "해비타트"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 자연 기금(WWF)은 생물 다양성을 보전하고 멸종 위기 동물을 보호하는 활동을 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-86145468deb8be:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판다와 북극곰 같은 멸종 위기 동물을 보호하는 비정부 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-86145468deb8be:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금(WWF)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 없는 의사회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 난민 기구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생물 다양성을 보전하는 비정부 기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-86145468deb8be:q_0023",
+      "answer": {
+        "text": "세계 자연 기금(WWF)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국가는 조약을 맺거나 외교 활동을 펼치는 등 지구촌의 평화와 발전을 위해 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-86145468deb8be:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제 해결을 위한 국가의 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-86145468deb8be:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조약을 맺고 외교 활동을 한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라와의 관계를 모두 끊는다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 협력을 금지한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민 지원을 모두 중단한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국가는 세계 여러 나라와 사이좋은 관계를 유지하려고 다양한 무엇 활동을 펼칩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-86145468deb8be:q_0024",
+      "answer": {
+        "text": "외교"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한국 국제 협력단(KOICA)은 어려움을 겪는 나라가 경제적·사회적으로 발전할 수 있도록 교류하고 협력하는 정부 기관이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-86145468deb8be:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어려움을 겪는 나라의 발전을 돕는 우리나라 정부 기관은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-86145468deb8be:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 국제 협력단(KOICA)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 없는 의사회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어려움을 겪는 나라의 발전을 지원하는 우리나라 정부 기관은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-86145468deb8be:q_0025",
+      "answer": {
+        "text": "한국 국제 협력단(KOICA)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "코스타리카는 군대를 없애고 이웃 나라와의 갈등을 외교적으로 해결하려고 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-86145468deb8be:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "코스타리카의 평화를 위한 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-86145468deb8be:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군대를 없애고 갈등을 외교적으로 해결한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군대를 계속 확대한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이웃 나라의 분쟁을 늘린다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외교 활동을 중단한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "군대를 없애고 외교적으로 갈등을 해결하려는 나라로 제시된 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-86145468deb8be:q_0026",
+      "answer": {
+        "text": "코스타리카"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모로코는 대규모 태양광 발전소를 건설해 친환경 에너지를 생산하고 자원을 안정적으로 확보하려고 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-86145468deb8be:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모로코가 에너지 문제 해결을 위해 건설한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-86145468deb8be:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양광 발전소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원자재 창고"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석유 시추선"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화력 발전소만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모로코가 건설한 친환경 에너지 발전 시설은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-86145468deb8be:q_0027",
+      "answer": {
+        "text": "태양광 발전소"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제기구는 주권을 가진 두 개 이상의 국가가 합의하여 만든 국제 협력 단체이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-86145468deb8be:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 개 이상의 국가가 합의하여 만든 국제 협력 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-86145468deb8be:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제기구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비정부 기구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 개 이상의 국가가 합의하여 만든 국제 협력 단체를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-86145468deb8be:q_0028",
+      "answer": {
+        "text": "국제기구"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합(UN)은 전쟁을 방지하고 지구촌의 평화를 유지하며 국제적 협력을 높이기 위해 만든 국제기구이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-86145468deb8be:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 방지와 지구촌 평화 유지, 국제 협력을 위해 만든 국제기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-86145468deb8be:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합(UN)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 없는 의사회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 방지와 세계 평화를 위해 만든 국제기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-86145468deb8be:q_0029",
+      "answer": {
+        "text": "국제 연합(UN)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 1945년에 만들어졌고 우리나라는 1991년에 회원국으로 가입했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-86145468deb8be:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라가 국제 연합(UN)에 회원국으로 가입한 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-86145468deb8be:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1991년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2015년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2023년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합(UN)이 만들어진 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-86145468deb8be:q_0030",
+      "answer": {
+        "text": "1945년"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유엔 세계 식량 계획(WFP)은 식량을 지원하고 구호 활동을 하며 굶주림 문제 해결을 위해 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-86145468deb8be:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "식량 지원과 구호 활동으로 굶주림 문제 해결을 돕는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-86145468deb8be:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 세계 식량 계획(WFP)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 난민 기구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 노동 기구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "식량을 지원하는 UN 기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-86145468deb8be:q_0031",
+      "answer": {
+        "text": "유엔 세계 식량 계획(WFP)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유엔 아동 기금(UNICEF)은 가난과 배고픔 등으로 어려움을 겪는 아동을 돕고 보호한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-86145468deb8be:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어려움을 겪는 아동을 돕고 보호하는 UN 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-86145468deb8be:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 아동 기금(UNICEF)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 난민 기구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 노동 기구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 무역 기구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아동을 돕고 보호하는 UN 기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-86145468deb8be:q_0032",
+      "answer": {
+        "text": "유엔 아동 기금(UNICEF)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유엔 난민 기구(UNHCR)는 전쟁 등으로 살 곳을 잃은 난민을 돕고 난민 문제 해결을 위해 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-86145468deb8be:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민을 돕고 난민 문제 해결을 위해 활동하는 UN 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-86145468deb8be:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 난민 기구(UNHCR)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 아동 기금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 노동 기구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 세계 식량 계획"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민을 돕는 UN 기구를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-86145468deb8be:q_0033",
+      "answer": {
+        "text": "유엔 난민 기구(UNHCR)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 노동 기구(ILO)는 근로자의 근로 조건 등 전 세계의 노동 문제 해결을 위해 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-86145468deb8be:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전 세계의 노동 문제 해결을 위해 활동하는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-86145468deb8be:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 노동 기구(ILO)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유엔 난민 기구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 자연 기금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해비타트"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전 세계의 노동 문제를 해결하려고 노력하는 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-86145468deb8be:q_0034",
+      "answer": {
+        "text": "국제 노동 기구(ILO)"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래는 미래 세대의 환경과 발전 가능성을 해치지 않으면서 오늘날의 필요를 충족하는 발전으로 이룰 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-86145468deb8be:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위한 발전의 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-86145468deb8be:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미래 세대의 가능성을 해치지 않으면서 오늘의 필요를 충족한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "현재의 필요만 생각한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원을 모두 한 번에 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경을 고려하지 않는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미래 세대의 환경과 발전 가능성을 해치지 않으면서 이루는 미래를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-86145468deb8be:q_0035",
+      "answer": {
+        "text": "지속가능한 미래"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 2015년 지구촌 문제를 해결하고 지속가능한 미래를 이루기 위한 17개의 지속가능 발전 목표를 정했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-86145468deb8be:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합이 2015년에 정한 지속가능 발전 목표는 모두 몇 개입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-86145468deb8be:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "17개"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5개"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10개"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "50개"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합이 지속가능 발전 목표를 정한 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-86145468deb8be:q_0036",
+      "answer": {
+        "text": "2015년"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능 발전 목표는 선진국과 개발 도상국을 포함한 모든 나라가 함께 실천해야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-86145468deb8be:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능 발전 목표를 실천해야 하는 대상으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-86145468deb8be:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선진국과 개발 도상국을 포함한 모든 나라"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선진국만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개발 도상국만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "섬나라만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능 발전 목표는 전 세계의 무엇이 함께 실천해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-86145468deb8be:q_0037",
+      "answer": {
+        "text": "모든 나라"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햇빛이나 바람처럼 계속 사용할 수 있는 친환경 에너지를 개발하는 것은 지속가능한 자원 이용 방법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-86145468deb8be:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위한 친환경 에너지의 예로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-86145468deb8be:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햇빛과 바람"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석유만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석탄만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용 플라스틱"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계속 사용할 수 있는 친환경 에너지원 중 하나를 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-86145468deb8be:q_0038",
+      "answer": {
+        "text": "햇빛"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원과 에너지를 절약하는 것은 지속가능한 미래를 위한 실천 방법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-86145468deb8be:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 및 에너지 문제 해결을 위한 행동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-86145468deb8be:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원과 에너지를 절약한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사용하지 않는 전등을 계속 켠다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원을 낭비한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품만 사용한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위해 자원과 무엇을 절약해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-86145468deb8be:q_0039",
+      "answer": {
+        "text": "에너지"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 나라는 생태계 파괴 문제를 해결하기 위해 국제회의를 열고 대응책과 약속을 마련한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-86145468deb8be:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계 파괴 문제 해결을 위한 국제적 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-86145468deb8be:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제회의를 열어 대응책을 세운다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "각 나라가 서로 협력하지 않는다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개발을 무조건 확대한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "멸종 위기 동물을 방치한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계 파괴 문제에 함께 대응하기 위해 여러 나라가 여는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-86145468deb8be:q_0040",
+      "answer": {
+        "text": "국제회의"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2015년 국제 연합에서는 기후변화에 대응하고 온실가스를 줄이기 위한 파리 협정을 체결했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-86145468deb8be:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화에 대응하기 위해 2015년에 체결한 협정은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-86145468deb8be:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파리 협정"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자유 무역 협정"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 자녀 정책"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 협정"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2015년에 기후변화 대응을 위해 체결한 협정은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-86145468deb8be:q_0041",
+      "answer": {
+        "text": "파리 협정"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "파리 협정에서는 기후변화에 대응하기 위해 온실가스를 줄이는 방법 등에 합의하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-86145468deb8be:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "파리 협정에서 줄이기로 한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-86145468deb8be:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온실가스"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 기회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 협력"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친환경 에너지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후변화 대응을 위해 배출을 줄여야 하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-86145468deb8be:q_0042",
+      "answer": {
+        "text": "온실가스"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민 문제를 해결하려면 국제 사회의 적극적인 협조가 필요하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-86145468deb8be:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민 문제를 해결하기 위해 필요한 태도로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-86145468deb8be:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 사회가 적극적으로 협조한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민 문제를 한 나라에만 맡긴다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민을 모두 외면한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지원 활동을 금지한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민 문제 해결에는 국제 사회의 적극적인 무엇이 필요합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-86145468deb8be:q_0043",
+      "answer": {
+        "text": "협조"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 여러 나라는 난민을 받아들이고 모금과 지원 활동을 하며 난민 문제 해결을 위해 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-86145468deb8be:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민 문제 해결을 위한 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-86145468deb8be:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민을 받아들이고 모금·지원 활동을 한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민 지원을 모두 중단한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난민 문제를 무시한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제회의를 금지한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "난민을 돕기 위해 돈을 모으는 활동을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-86145468deb8be:q_0044",
+      "answer": {
+        "text": "모금"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계시민은 지구촌 문제가 우리 모두의 문제임을 알고 이를 해결하고자 협력하는 자세를 지닌 사람이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-86145468deb8be:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제를 우리 모두의 문제로 여기고 해결을 위해 협력하는 사람은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-86145468deb8be:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계시민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광객"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제 해결을 위해 협력하는 자세를 지닌 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-86145468deb8be:q_0045",
+      "answer": {
+        "text": "세계시민"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계시민은 지구촌 문제를 균형 잡힌 관점에서 바라보며 관련 정보를 찾아볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-86145468deb8be:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계시민으로서 지구촌 문제를 바라보는 바람직한 태도는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-86145468deb8be:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "균형 잡힌 관점에서 바라본다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한쪽 주장만 무조건 믿는다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관련 정보를 찾지 않는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 외면한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구촌 문제를 어떤 관점에서 바라보는 것이 바람직합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-86145468deb8be:q_0046",
+      "answer": {
+        "text": "균형 잡힌 관점"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양치할 때 컵을 사용하고 세수나 목욕할 때 물을 낭비하지 않는 것은 세계시민의 실천이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-86145468deb8be:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 절약하는 행동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-86145468deb8be:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양치할 때 컵을 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 계속 틀어 둔다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "필요 이상으로 물을 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수도꼭지를 열어 둔다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양치할 때 물을 절약하기 위해 사용할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-86145468deb8be:q_0047",
+      "answer": {
+        "text": "컵"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사용하지 않는 전등을 끄고 사용하지 않는 플러그를 빼는 것은 에너지를 절약하는 방법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-86145468deb8be:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전기를 절약하는 행동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-86145468deb8be:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사용하지 않는 전등을 끈다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈방의 전등을 계속 켠다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사용하지 않는 플러그를 꽂아 둔다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "냉난방기를 항상 최대로 사용한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사용하지 않는 전등은 어떻게 해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-86145468deb8be:q_0048",
+      "answer": {
+        "text": "끈다"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위해 일회용품 사용을 줄이고 다회용품을 이용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-86145468deb8be:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위한 행동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-86145468deb8be:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품 사용을 줄인다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품만 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다회용품을 버린다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "플라스틱 소비를 늘린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지속가능한 미래를 위해 사용을 줄여야 하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-86145468deb8be:q_0049",
+      "answer": {
+        "text": "일회용품"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까운 거리는 걷거나 자전거를 타고 이동하는 것이 지속가능한 미래를 위한 실천이 될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-86145468deb8be:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까운 거리를 이동할 때 지속가능한 실천으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-86145468deb8be:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "걷거나 자전거를 탄다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 자동차만 이용한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이동 거리에 관계없이 비행기를 탄다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불필요하게 자동차를 운전한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-86145468deb8be:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까운 거리를 친환경적으로 이동할 때 이용할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-86145468deb8be:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-86145468deb8be:q_0050",
+      "answer": {
+        "text": "자전거"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-6df5f4cbfee383",
+  "revision": 1,
+  "title": "ILLIT",
+  "metadata": {
+    "grade": "common",
+    "subject": "kpop",
+    "status": "legacy",
+    "sourceSheet": "기타-kpop-ILLIT"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-6df5f4cbfee383:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT은 5명으로 이루어진 그룹이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0190",
+        "sourceBundleId": "q_0190",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0190",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 멤버 수는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0190",
+        "sourceBundleId": "q_0190",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0190",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아, 민주, 모카, 원희, 이로하는 ILLIT 멤버이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0191",
+        "sourceBundleId": "q_0191",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0191",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 ILLIT 멤버가 아닌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0191",
+        "sourceBundleId": "q_0191",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0191",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원영"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원희"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민주"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이로하"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT은 BELIFT LAB 소속이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0192",
+        "sourceBundleId": "q_0192",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0192",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 소속사는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0192",
+        "sourceBundleId": "q_0192",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0192",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BELIFT LAB"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STARSHIP Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SM Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KOZ Entertainment"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT은 2020년에 데뷔했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0193",
+        "sourceBundleId": "q_0193",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0193",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT이 데뷔한 해는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0193",
+        "sourceBundleId": "q_0193",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0193",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2024년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2020년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2021년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2023년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 첫 미니앨범은 'SUPER REAL ME'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0194",
+        "sourceBundleId": "q_0194",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0194",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 첫 미니앨범은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0194",
+        "sourceBundleId": "q_0194",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0194",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SUPER REAL ME"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "WHO!"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I am NOT"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 데뷔 대표곡은 'Black Mamba'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0195",
+        "sourceBundleId": "q_0195",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0195",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 데뷔 대표곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0195",
+        "sourceBundleId": "q_0195",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0195",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Black Mamba"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "District 9"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 데뷔 대표곡을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0195",
+        "sourceBundleId": "q_0195",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0195",
+      "answer": {
+        "text": "Magnetic"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 공식 팬덤 이름은 GLLIT이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0196",
+        "sourceBundleId": "q_0196",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0196",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 팬덤 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0196",
+        "sourceBundleId": "q_0196",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0196",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GLLIT"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MY"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STAY"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 팬덤 이름을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0196",
+        "sourceBundleId": "q_0196",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0196",
+      "answer": {
+        "text": "GLLIT"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT은 'Girls Planet 999'를 통해 결성됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0197",
+        "sourceBundleId": "q_0197",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0197",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT이 결성된 프로그램은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0197",
+        "sourceBundleId": "q_0197",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0197",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "R U Next?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Girls Planet 999"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Produce 48"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I-LAND"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모카와 이로하는 일본 출신 멤버다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0198",
+        "sourceBundleId": "q_0198",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0198",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 일본 출신 멤버 두 명은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0198",
+        "sourceBundleId": "q_0198",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0198",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모카와 이로하"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤아와 민주"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민주와 원희"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤아와 원희"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이로하는 어린 시절부터 춤을 배우지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0199",
+        "sourceBundleId": "q_0199",
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Magnetic'은 손동작이 인상적인 안무로 알려졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0200",
+        "sourceBundleId": "q_0200",
+        "sourceRow": 23
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 MARTIN는 ILLIT의 'Magnetic' 안무 제작에 참여했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0201",
+        "sourceBundleId": "q_0201",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0201",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Magnetic' 안무 제작에 참여한 CORTIS 멤버는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0201",
+        "sourceBundleId": "q_0201",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0201",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JAMES"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MARTIN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JUHOON"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KEONHO"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 초콜릿을 좋아한다고 멤버 인터뷰에서 언급됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0202",
+        "sourceBundleId": "q_0202",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0202",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주가 좋아한다고 언급된 음식은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0202",
+        "sourceBundleId": "q_0202",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0202",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아사이볼"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도넛"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마카로니"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이로하는 초콜릿을 보면 민주를 떠올려 먼저 나눠주기도 하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0203",
+        "sourceBundleId": "q_0203",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아는 재미있는 것을 좋아한다고 이로하가 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0204",
+        "sourceBundleId": "q_0204",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이로하는 재미있는 쇼츠를 발견하면 윤아에게 공유한다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0205",
+        "sourceBundleId": "q_0205",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모카와 이로하는 일본의 새로운 음식이나 가게 이야기를 나누기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0206",
+        "sourceBundleId": "q_0206",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원희는 꽃무늬나 작은 키링 같은 것을 좋아한다고 이로하가 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0207",
+        "sourceBundleId": "q_0207",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0207",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원희가 좋아한다고 언급된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0207",
+        "sourceBundleId": "q_0207",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0207",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃무늬와 작은 키링"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항과 물고기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예와 고전 회화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베이블레이드와 낚시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이로하는 원희에게 선물을 고를 때 원희의 취향을 고려한다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0208",
+        "sourceBundleId": "q_0208",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 가족에서도 막내가 아니며 ILLIT에서도 언니 쪽 멤버가 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0209",
+        "sourceBundleId": "q_0209",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주가 HYBE에서 처음 만난 연습생은 윤아였다고 회상했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0210",
+        "sourceBundleId": "q_0210",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0210",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주가 HYBE에서 처음 만난 연습생으로 말한 멤버는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0210",
+        "sourceBundleId": "q_0210",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0210",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤아"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원희"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모카"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이로하"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 처음 본 원희에게 특별한 가능성을 느꼈다고 회상하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0211",
+        "sourceBundleId": "q_0211",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 어린 이로하의 춤을 보고 왜 연습생이 됐는지 이해했다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0212",
+        "sourceBundleId": "q_0212",
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 처음 본 모카가 조용한 인상이어서 말을 걸어도 될지 고민했다고 회상하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0213",
+        "sourceBundleId": "q_0213",
+        "sourceRow": 40
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아는 'IYKYK'를 해당 앨범에서 좋아하는 곡으로 꼽았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0214",
+        "sourceBundleId": "q_0214",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0214",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아가 좋아하는 곡으로 꼽은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0214",
+        "sourceBundleId": "q_0214",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0214",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "IYKYK"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Pimple"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tick-Tack"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:43",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모카는 'IYKYK'에 맞춰 춤추는 것을 특히 즐긴다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0215",
+        "sourceBundleId": "q_0215",
+        "sourceRow": 43
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Pimple'은 감정을 뾰루지에 빗댄 ILLIT의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0216",
+        "sourceBundleId": "q_0216",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0216",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "감정을 뾰루지에 빗댄 ILLIT 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0216",
+        "sourceBundleId": "q_0216",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0216",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Pimple"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "IYKYK"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tick-Tack"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모카는 'Pimple'을 좋아하는 곡으로 꼽지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0217",
+        "sourceBundleId": "q_0217",
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Tick-Tack'의 후렴에는 제목처럼 'Tick Tack'이 반복된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0218",
+        "sourceBundleId": "q_0218",
+        "sourceRow": 47
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아는 'Pimple'의 통통 튀는 소리가 게임에서 나올 것 같다고 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0219",
+        "sourceBundleId": "q_0219",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0219",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤아가 게임에서 나올 것 같은 소리라고 표현한 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0219",
+        "sourceBundleId": "q_0219",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0219",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tick-Tack"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Pimple"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "IYKYK"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민주는 'Tick-Tack'을 장난감처럼 귀엽고 재미있는 느낌이라고 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0220",
+        "sourceBundleId": "q_0220",
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이로하는 과거 사진을 다시 보는 것을 좋아한다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0221",
+        "sourceBundleId": "q_0221",
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT은 'PRESS START❤' 공연 프로젝트를 진행했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0222",
+        "sourceBundleId": "q_0222",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0222",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6df5f4cbfee383:53",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ILLIT의 공연 프로젝트 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6df5f4cbfee383:q_0222",
+        "sourceBundleId": "q_0222",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-6df5f4cbfee383:q_0222",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PRESS START❤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SHOW WHAT I HAVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PUT YOUR PHONE DOWN"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DOMINATE"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

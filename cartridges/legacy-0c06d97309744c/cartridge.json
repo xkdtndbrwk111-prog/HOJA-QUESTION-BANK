@@ -1,0 +1,2181 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-0c06d97309744c",
+  "revision": 1,
+  "title": "YBM(김)-10단원-Whats Wrong",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-YBM(김)-10단원-Whats Wrong"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-0c06d97309744c:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What's wrong?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어디가 아픈가요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇을 하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어디에 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떻게 생겼나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘어디가 아픈가요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's wrong?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you do?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where is it?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What does he look like?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a cold."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기에 걸렸어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머리가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이가 아파요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a headache."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머리가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물이 나요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a stomachache."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머리가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기에 걸렸어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a toothache."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머리가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물이 나요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a runny nose."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물이 나요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배가 아파요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베인 상처가 있어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a cut."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베인 상처가 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기에 걸렸어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물이 나요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머리가 아파요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘머리가 아파요.’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a headache."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a stomachache."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a toothache."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a cold."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘배가 아파요.’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a stomachache."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a headache."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a toothache."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a runny nose."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘이가 아파요.’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a toothache."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a stomachache."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a headache."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a cold."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘콧물이 나요.’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a runny nose."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a cut."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a toothache."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a stomachache."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a headache.'는 머리가 아프다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a toothache.'는 배가 아프다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "headache"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "stomachache"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상처"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "toothache"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "runny nose"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콧물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상처"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Get some sleep."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 좀 자세요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "따뜻한 물을 마시세요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의사에게 가세요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱한 음식을 먹지 마세요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Drink some warm water."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "따뜻한 물을 좀 마시세요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 좀 자세요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동을 하세요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "찬물을 마시세요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Go and see a doctor."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "병원에 가서 의사의 진료를 받으세요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집에 가세요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 마시세요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 자세요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "That's too bad."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안됐구나."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정말 기대돼."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "길을 알려 줘."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정말 멋지다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Go and see a doctor.'는 의사에게 가 보라고 조언하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 24
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Get some sleep.'은 운동을 하라고 조언하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "John Dolittle is an animal doctor. 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물 의사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "요리사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He loves animals and looks after them very well. 무엇을 돌보나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식물"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아이들"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He can understand them. 할 수 있는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들을 이해할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 경주할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물을 그릴 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물에게 요리할 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "One day, he went to the zoo with his family. 어디에 갔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "The tiger said, 'I have a toothache.' 호랑이의 증상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Open your mouth, please.' 무엇을 부탁했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "입을 벌리기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 자기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 마시기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식을 먹기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Don't eat hard food.' 조언은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱한 음식을 먹지 않기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "따뜻한 물 마시기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 자기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "호랑이는 'I have a toothache.'라고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Dr. Dolittle은 호랑이에게 딱딱한 음식을 많이 먹으라고 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Dr. Dolittle helped many sick animals. 무엇을 도왔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아픈 동물들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아픈 사람들"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생들"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원사들"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "The animals were happy. He was happy, too. 마지막 기분은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 행복했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 슬펐다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들만 화났다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의사만 슬펐다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a headache. Do you have a runny nose, too? Yes, I do. 두 증상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두통과 콧물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복통과 치통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "치통과 상처"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감기와 복통"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a headache. I have a runny nose. Drink some warm water. 받은 조언은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "따뜻한 물을 마시기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "찬물을 마시기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱한 음식 먹기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Jun: I have a stomachache. He ate spaghetti, a pizza, and a steak. 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "너무 많이 먹었기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠을 너무 많이 잤기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동을 많이 했기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 많이 마셨기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "핀란드의 민간 감기 치료법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양파우유"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벌꿀 레몬차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "따뜻한 물"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딱딱한 음식"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오스트레일리아의 민간 감기 치료법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벌꿀을 넣은 뜨거운 레몬차"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양파우유"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "찬 우유"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과일 주스"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What's wrong?에 알맞은 대답은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have a cold."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Get some sleep."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's too bad."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0c06d97309744c:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I have a headache.에 알맞은 조언으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0c06d97309744c:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Get some sleep."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Go skiing."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Turn left."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can't wait."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

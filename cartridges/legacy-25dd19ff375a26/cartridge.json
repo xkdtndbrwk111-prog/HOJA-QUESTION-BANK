@@ -1,0 +1,2337 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-25dd19ff375a26",
+  "revision": 1,
+  "title": "YBM(김)-12단원 Do You Know An",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-YBM(김)-12단원 Do You Know An"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-25dd19ff375a26:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about jige?”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-25dd19ff375a26:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게에 관해 아는 것이 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게를 좋아하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게를 만들 수 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게는 어디에 있나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지게에 관해 아는 것이 있는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-25dd19ff375a26:q_0001",
+      "answer": {
+        "text": "Do you know anything about jige?"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘한옥에 관해 아는 것이 있나요?’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you know anything about hanok?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you think about hanok?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where is hanok?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you like hanok?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Yes, I do.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네, 알고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아니요, 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저도 그렇게 생각해요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“No, I don’t.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아니요, 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네, 알고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저도 그렇게 생각해요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도와줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I have no idea.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-25dd19ff375a26:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 모르겠어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잘 알고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저도 그렇게 생각해요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그렇게 말해 줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:8",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전혀 모르겠다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-25dd19ff375a26:q_0005",
+      "answer": {
+        "text": "I have no idea."
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I have no idea.”는 모른다는 말이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Yes, I do.”는  모른다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "jige는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean carrier"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean hat"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean house"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "traditional Korean music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "gat은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean hat"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean carrier"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean house"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean painting"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "hanok은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean house"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean carrier"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "traditional Korean music"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean hat"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "pansori는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "traditional Korean music"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean house"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean carrier"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean hat"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "yunnori는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean board game"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean painting"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean house"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "traditional Korean music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "minhwa는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean painting"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean board game"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a traditional Korean carrier"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "traditional Korean music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘지게는 한국의 전통 운반 도구예요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean carrier."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean hat."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean house."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s traditional Korean music."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘갓은 한국의 전통 모자예요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean hat."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean carrier."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean house."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It’s a traditional Korean painting."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about hanok? — Yes, I do. It’s a traditional Korean house.” 무엇에 관한 대화인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한옥"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갓"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판소리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about pansori? — It’s traditional Korean music.” 판소리는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 음악"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 가옥"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 모자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 운반 도구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 hanok은 한국 전통 가옥으로 설명된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 gat은 한국의 전통 운반 도구로 설명된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Public art is not in a museum. It’s outside for everyone.” 공공 미술에 관한 설명은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두를 위해 야외에 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관 안에만 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인만 볼 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집 안에만 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It can be in a park, in a garden, or on the street.” 글에서 공공 미술이 있을 수 있는 곳으로 제시되지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교실"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“There is a very big puppy in Bilbao, Spain.” 큰 Puppy가 있는 도시는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Bilbao"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Chicago"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Rome"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Venice"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It’s bigger than a house. It’s very colorful, too.” Puppy의 특징은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집보다 크고 매우 알록달록하다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작고 어둡다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집보다 작고 움직인다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "검고 조용하다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Puppy sits in front of the Guggenheim Museum.” Puppy가 설치된 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Guggenheim Museum 앞"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Guggenheim Museum 안"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Cloud Gate 앞"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공원 안"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Puppy sits in front of the Guggenheim Museum.”에 따르면 Puppy는 Guggenheim Museum 안에 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“But don’t be afraid! It can’t move. It’s just art.” 무서워할 필요가 없는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "움직일 수 없는 미술 작품이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 작기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관 안에 있기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람이기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It welcomes visitors and brings smiles.” Puppy의 역할은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방문객을 맞이하고 웃음을 준다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시를 움직인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관을 닫는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들을 무섭게 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about the big bean in Chicago? Its name is Cloud Gate.” 작품 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Cloud Gate"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Puppy"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Guggenheim"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The House"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We call it ‘The Bean’ because it looks like a bean.” The Bean이라고 부르는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콩처럼 생겼기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집보다 크기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "움직이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃으로 만들어졌기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Stand in front of Cloud Gate. You can see yourself and the city around you.” 볼 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자신의 모습과 주변 도시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 꽃"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공룡과 공원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다와 기차"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Cloud Gate looks like a big bean.”은 글의 내용과 일치한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Public art is outside for everyone.”과 Puppy·Cloud Gate 설명을 함께 볼 때 두 작품의 공통점은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교과서에서 소개하는 공공 미술 작품이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 음악이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관 안에만 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전통 춤이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Public art is outside for everyone.”에서 public art의 의미에 가장 가까운 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두가 볼 수 있도록 야외에 설치된 미술"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관 안의 개인 소장품"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집 안에서만 보는 그림"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책에만 있는 그림"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about talchum? It is a traditional Korean dance.” 탈춤은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 춤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 음악"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 가옥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 모자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Actors wear colorful masks and dance.” 탈춤에서 배우들이 하는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알록달록한 탈을 쓰고 춤춘다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지게를 지고 걷는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판소리를 연주한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집을 짓는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Talchum tells stories about good people and love.” 이야기의 소재는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 사람들과 사랑"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공룡과 과학자"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계절과 날씨"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지도와 배"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It is very funny, too.” 글에서는 탈춤을 어떻게 설명하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 재미있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 위험하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 어둡다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 조용하다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Yesterday, I visited a hanok. It’s a traditional Korean house.” hanok은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 가옥"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 음악"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 춤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 모자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I watched pansori there. It’s traditional Korean music.” pansori는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 음악"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 가옥"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 그림"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 전통 운반 도구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you know anything about Cinco de Mayo? It’s a ... in Mexico. It’s on May 5th.” 이 문화 행사가 있는 나라는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mexico"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Spain"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Chile"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Philippines"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 스페인의 전통 춤으로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "플라멩코"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠에카"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "티니클링"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈춤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 칠레의 전통 춤으로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠에카"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "플라멩코"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "티니클링"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈춤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 필리핀의 전통 춤으로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 46
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "티니클링"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "플라멩코"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠에카"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈춤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-25dd19ff375a26:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It’s a traditional Spanish dance.”와 연결되는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-25dd19ff375a26:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 47
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "플라멩코"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쿠에카"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "티니클링"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판소리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

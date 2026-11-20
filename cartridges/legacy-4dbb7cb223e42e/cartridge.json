@@ -1,0 +1,2150 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-4dbb7cb223e42e",
+  "revision": 1,
+  "title": "천재(함)-9단원 What Are You Goi",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-천재(함)-9단원 What Are You Goi"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-4dbb7cb223e42e:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이번 주말 계획을 물을 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are you going to do this weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do last weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Can you come this weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 이번 주말에 무엇을 할 계획인지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0001",
+      "answer": {
+        "text": "What are you going to do this weekend?"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What are you going to do this weekend?”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 주말에 무엇을 할 계획인가요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지난 주말에 무엇을 했나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 주말에 올 수 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주말에 몇 시에 일어나나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 이번 주말에 캠핑을 갈 거예요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to go camping this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to stay home this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to study math this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to clean my room this weekend."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이번 주말에 캠핑을 갈 계획이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0003",
+      "answer": {
+        "text": "I'm going to go camping this weekend."
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“That's a good idea.”는 친구의 계획에 동의할 때 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 계획에 동의하며 좋은 생각이라고 말할 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's a good idea."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's not right."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sorry, but I can't."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Please go ahead."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 계획에 동의하며 ‘좋은 생각이야.’라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-4dbb7cb223e42e:q_0004",
+      "answer": {
+        "text": "That's a good idea."
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to go camping.”은 이미 끝난 일을 나타내는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to clean my room.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방을 청소할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집에 있을 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학을 공부할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조부모님을 방문할 계획이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 농구 경기를 볼 거예요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to watch a basketball game."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to visit my grandparents."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to study math."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to stay home."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 조부모님을 방문할 거예요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to visit my grandparents."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to watch a basketball game."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to clean my room."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm going to go camping."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to study math.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학을 공부할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학 프로젝트를 할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방을 청소할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 볼 계획이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to stay home.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집에 있을 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조부모님을 방문할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 볼 계획이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My family loves basketball. Our favorite basketball team is the Blue Birds.”\n가족이 가장 좋아하는 스포츠는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배드민턴"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My family loves basketball. Our favorite basketball team is the Blue Birds.”\n가족이 응원하는 농구팀은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Blue Birds"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Red Bears"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Green Stars"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "White Tigers"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to watch the basketball game this Saturday.”\n가족은 언제 농구 경기를 볼 계획인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 토요일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 일요일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다음 월요일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다음 금요일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to watch the basketball game this Saturday. We’re going to wear the Blue Birds T-shirts.”\n농구 경기를 보러 갈 때 가족이 입을 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Blue Birds 티셔츠"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한복"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "등산복"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 체육복"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to watch the basketball game this Saturday.”\n가족은 이번 토요일에 농구 경기를 볼 계획이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My grandpa is going to visit us this Sunday. His favorite food is pad thai.”\n할아버지는 언제 방문할 예정인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 일요일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이번 토요일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다음 월요일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오늘 저녁"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My grandpa is going to visit us this Sunday. His favorite food is pad thai.”\n할아버지가 가장 좋아하는 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김밥"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국수"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mom and Dad are going to cook pad thai. I’m going to clean the house.”\n할아버지의 방문을 위해 엄마와 아빠가 할 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이를 요리한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집을 청소한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "텐트에서 잔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 본다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mom and Dad are going to cook pad thai. I’m going to clean the house.”\n할아버지의 방문을 위해 글쓴이가 할 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집을 청소한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이를 요리한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구팀 티셔츠를 입는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 등산한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to clean the house.”\n글쓴이는 집을 청소할 계획이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to go camping with my dad this weekend.”\n글쓴이는 누구와 캠핑을 갈 계획인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아빠"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할아버지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선생님"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like hiking in the forest. I’m going to go camping with my dad this weekend.”\n글쓴이가 좋아하는 활동은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숲에서 하이킹하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기 보기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학 공부하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방 청소하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to cook hamburgers. We’re going to sleep in a tent.”\n캠핑에서 요리할 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김밥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to cook hamburgers. We’re going to sleep in a tent.”\n캠핑에서 어디에서 잘 계획인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "텐트"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호텔"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할아버지 댁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Oh, I can't wait!”의 의미로 가장 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정말 기대된다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정말 미안하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 하고 싶지 않다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계획이 취소되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to go camping with my dad this weekend. We’re going to cook hamburgers. We’re going to sleep in a tent.”\n아빠와 캠핑을 가서 햄버거를 요리하고 텐트에서 잘 계획이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to go camping with my dad this weekend.”\n글쓴이는 이번 주말에 집에만 있을 계획이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘우리는 이번 주말에 캠핑을 갈 거예요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to go camping this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to stay home this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to study math this weekend."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to clean the house this weekend."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“go to Busan / visit the fish market / eat delicious noodles”\n가족과 함께 갈 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제주도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강릉"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“go to Busan / visit the fish market / eat delicious noodles”\n부산에서 할 일로 제시된 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어시장 방문하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한라산 등산하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기 보기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“go to Busan / visit the fish market / eat delicious noodles”\n부산에서 먹을 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맛있는 국수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "샌드위치"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to visit my grandparents with my family.”\n가족과 함께 방문할 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조부모님"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Anne"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 선수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할아버지만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to go hiking up Hallasan.”\n그곳에서 할 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한라산 등산하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어시장 방문하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기 보기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방 청소하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to meet Anne this weekend. Anne is from Canada.”\nAnne은 어느 나라에서 왔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "멕시코"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to visit Gyeongbokgung. We’re going to wear beautiful hanbok there.”\nAnne과 함께 이번 주말에 방문할 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경복궁"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어시장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한라산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We’re going to visit Gyeongbokgung. We’re going to wear beautiful hanbok there.”\n경복궁에서 할 계획으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아름다운 한복을 입는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 본다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이를 요리한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "텐트에서 잔다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m going to meet Anne this weekend. We’re going to visit Gyeongbokgung. We’re going to wear beautiful hanbok there.”\n이어질 계획으로 교과서에서 제시한 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to eat gimbap."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to cook hamburgers."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to study math."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "We're going to clean my room."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:43",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Anne is from Canada. We’re going to visit Gyeongbokgung.”\nAnne은 캐나다에서 왔고, 글쓴이는 Anne과 경복궁을 방문할 계획이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 43
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to do my science project.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학 프로젝트를 할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침을 먹을 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학을 공부할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 볼 계획이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4dbb7cb223e42e:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm going to eat breakfast.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4dbb7cb223e42e:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침을 먹을 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학 프로젝트를 할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방을 청소할 계획이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 계획이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

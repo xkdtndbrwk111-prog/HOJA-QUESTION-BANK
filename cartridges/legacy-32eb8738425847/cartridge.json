@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-32eb8738425847",
+  "revision": 1,
+  "title": "조선 후기의 변화와 달라진 생활 모습",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-조선 후기의 변화와 달라진 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-32eb8738425847:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모내기법은 모판에서 기른 모를 논에 옮겨 심는 농사법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-32eb8738425847:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모판에서 기른 모를 논에 옮겨 심는 농사법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-32eb8738425847:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모내기법"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밭갈이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤작"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모판에서 기른 모를 논에 옮겨 심는 농사법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-32eb8738425847:q_0001",
+      "answer": {
+        "text": "모내기법"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에는 인삼·채소·담배 같은 상품 작물을 재배해도 높은 소득을 올리기 힘들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-32eb8738425847:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 상품으로 팔아 높은 소득을 올리기도 한 작물의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-32eb8738425847:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인삼·채소·담배"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼·보리만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "목화만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "콩·팥만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 상품으로 팔아 높은 소득을 올리기도 한 작물의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-32eb8738425847:q_0002",
+      "answer": {
+        "text": "인삼·채소·담배"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농업 발달과 함께 상업이 활발해지면서 장시가 상업의 중심지가 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-32eb8738425847:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 상업의 중심지가 된 시장은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-32eb8738425847:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "향교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관아"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 상업의 중심지가 된 시장은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-32eb8738425847:q_0003",
+      "answer": {
+        "text": "장시"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에는 상평통보가 거의 쓰이지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-32eb8738425847:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에 널리 쓰인 화폐는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-32eb8738425847:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상평통보"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공명첩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에 널리 쓰인 화폐는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-32eb8738425847:q_0004",
+      "answer": {
+        "text": "상평통보"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에는 양반 중심의 신분제가 흔들렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-32eb8738425847:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 신분제에는 어떤 변화가 나타났습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-32eb8738425847:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제가 흔들렸다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제가 더 엄격해졌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 사람이 노비가 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 구분이 새로 생겼다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 신분제에는 어떤 변화가 나타났습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-32eb8738425847:q_0005",
+      "answer": {
+        "text": "신분제가 흔들렸다."
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "권력 다툼에서 밀려난 일부 양반은 일반 농민과 다를 바 없는 처지가 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-32eb8738425847:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 권력에서 밀려나 경제적으로 어려워진 양반을 가리키는 말로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-32eb8738425847:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "몰락 양반"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세도 가문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실학자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "역관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 권력에서 밀려나 경제적으로 어려워진 양반을 가리키는 말로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-32eb8738425847:q_0006",
+      "answer": {
+        "text": "몰락 양반"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "부유해진 일부 농민이나 상인은 공명첩을 사 양반으로 행세했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-32eb8738425847:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돈이나 곡식을 내고 이름을 써 넣어 양반으로 행세하는 데 이용된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-32eb8738425847:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공명첩"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "족보책"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대동여지도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돈이나 곡식을 내고 이름을 써 넣어 양반으로 행세하는 데 이용된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-32eb8738425847:q_0007",
+      "answer": {
+        "text": "공명첩"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일부 노비는 재산을 모으거나 도망하여 천민 신분에서 벗어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-32eb8738425847:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일부 노비가 천민 신분에서 벗어난 방법으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-32eb8738425847:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재산을 모으거나 도망하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거에 합격하였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족과 혼인하였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군수가 되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일부 노비가 천민 신분에서 벗어난 방법으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-32eb8738425847:q_0008",
+      "answer": {
+        "text": "재산을 모으거나 도망하였다."
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에는 양반 수가 늘고 상민과 천민 수가 줄었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-32eb8738425847:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 신분 구성의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-32eb8738425847:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반 수가 늘었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반 수가 줄었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민 수만 늘었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 신분의 수가 같아졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 신분 구성의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-32eb8738425847:q_0009",
+      "answer": {
+        "text": "양반 수가 늘었다."
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성리학은 백성의 생활을 돕고 현실 문제를 해결하려고 연구한 학문이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-32eb8738425847:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 현실 문제 해결을 중시한 학문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-32eb8738425847:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실학"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성리학"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천문학"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 현실 문제 해결을 중시한 학문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-32eb8738425847:q_0010",
+      "answer": {
+        "text": "실학"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "실학자인 이익은 농사짓는 백성이 땅을 가질 수 있도록 토지 제도를 개혁해야 한다고 주장했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-32eb8738425847:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "실학자 이익이 중요하게 생각한 개혁은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-32eb8738425847:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "토지 제도 개혁"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제 강화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제 강화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쇄국 강화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "실학자 이익이 중요하게 생각한 개혁은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-32eb8738425847:q_0011",
+      "answer": {
+        "text": "토지 제도 개혁"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "박지원은 청의 수레와 선박을 받아들여 물건 유통을 활발하게 하면 국가가 흔들릴 것이라고 주장했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-32eb8738425847:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "박지원이 청에서 받아들이자고 주장한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-32eb8738425847:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수레와 선박"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑옷과 창"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불상과 탑"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패와 족보"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "박지원이 청에서 받아들이자고 주장한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-32eb8738425847:q_0012",
+      "answer": {
+        "text": "수레와 선박"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김정호는 우리나라의 산맥과 하천을 잘 알 수 있도록 대동여지도를 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-32eb8738425847:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대동여지도를 만든 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-32eb8738425847:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이익"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박지원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김홍도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대동여지도를 만든 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-32eb8738425847:q_0013",
+      "answer": {
+        "text": "김정호"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원나라에 간 사신들이 세계지도와 과학 서적 등 서양 문물을 가져왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-32eb8738425847:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에 세계지도와 과학 서적 등을 가져오는 데 역할을 한 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-32eb8738425847:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청에 간 사신"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기수"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선에 세계지도와 과학 서적 등을 가져오는 데 역할을 한 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-32eb8738425847:q_0014",
+      "answer": {
+        "text": "청에 간 사신"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "책을 읽는 사람이 많아지며 안경이 인기를 끌었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-32eb8738425847:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에 독서 인구가 늘면서 인기를 끈 서양 문물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-32eb8738425847:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전화기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축음기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기에 독서 인구가 늘면서 인기를 끈 서양 문물은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-32eb8738425847:q_0015",
+      "answer": {
+        "text": "안경"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대동여지도는 조선 사람들이 중국 중심에서 더 넓은 세계를 바라보게 하는 데 영향을 주었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-32eb8738425847:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 사람들의 세계 인식 변화에 영향을 준 세계지도는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-32eb8738425847:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "곤여만국전도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대동여지도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혼일강리역대국도지도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팔도도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 사람들의 세계 인식 변화에 영향을 준 세계지도는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-32eb8738425847:q_0016",
+      "answer": {
+        "text": "곤여만국전도"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "영조와 정조는 강한 왕권을 바탕으로 개혁을 펼쳐 나라의 안정을 꾀했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-32eb8738425847:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 강한 왕권을 바탕으로 개혁을 펼친 두 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-32eb8738425847:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영조와 정조"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태조와 세종"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선조와 인조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고종과 순종"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 강한 왕권을 바탕으로 개혁을 펼친 두 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-32eb8738425847:q_0017",
+      "answer": {
+        "text": "영조와 정조"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕실과 혼인 관계를 맺은 몇몇 가문이 권력을 잡고 나랏일을 마음대로 한 정치를 왕도 정치라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-32eb8738425847:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇몇 가문이 권력을 잡고 나랏일을 마음대로 한 정치를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-32eb8738425847:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세도 정치"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탕평 정치"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "붕당 정치"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탕평채"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇몇 가문이 권력을 잡고 나랏일을 마음대로 한 정치를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-32eb8738425847:q_0018",
+      "answer": {
+        "text": "세도 정치"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세도 정치 시기 탐관오리들이 부정한 방식으로 백성에게 세금을 거두었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-32eb8738425847:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백성의 재물을 탐내어 부정하게 빼앗는 관리를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-32eb8738425847:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탐관오리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈제오리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탐관백숙"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오리의 효능"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백성의 재물을 탐내어 부정하게 빼앗는 관리를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-32eb8738425847:q_0019",
+      "answer": {
+        "text": "탐관오리"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕실의 수탈과 생활고를 견디지 못한 농민들이 전국 곳곳에서 봉기를 일으켰다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-32eb8738425847:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세도 정치 시기 농민들이 수탈에 맞서 일으킨 저항은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-32eb8738425847:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민 봉기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거 시험"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사신 파견"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원 건립"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세도 정치 시기 농민들이 수탈에 맞서 일으킨 저항은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-32eb8738425847:q_0020",
+      "answer": {
+        "text": "농민 봉기"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양반뿐 아니라 일반 백성이 주인공으로 참여하는 문화가 발달했는데 이를 서민 문화라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-32eb8738425847:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 일반 백성이 주인공으로 참여한 문화를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-32eb8738425847:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서민 문화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀족 문화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁중 문화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교 문화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 일반 백성이 주인공으로 참여한 문화를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-32eb8738425847:q_0021",
+      "answer": {
+        "text": "서민 문화"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서당이 널리 보급되고 한글 사용이 늘면서 한자 소설이 유행했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-32eb8738425847:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한글 소설이 유행한 배경으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-32eb8738425847:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서당 보급과 한글 사용 증가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한자 사용 금지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원 폐지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제 강화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한글 소설이 유행한 배경으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-32eb8738425847:q_0022",
+      "answer": {
+        "text": "서당 보급과 한글 사용 증가"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한글 소설은 신분 차별 비판, 남녀의 사랑, 교훈 등을 재미있게 다루었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-32eb8738425847:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 한글 소설이 다룬 내용으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-32eb8738425847:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 차별 비판·사랑·교훈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕의 명령만 기록"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금 장부만 기록"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외교 문서만 기록"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 한글 소설이 다룬 내용으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-32eb8738425847:q_0023",
+      "answer": {
+        "text": "신분 차별 비판·사랑·교훈"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "홍길동전·춘향전·만복이네 떡집 등이 대표적인 조선시대 한글 소설이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-32eb8738425847:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 대표 한글 소설을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-32eb8738425847:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍길동전·춘향전·흥부전"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼국사기·삼국유사·직지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사직설·경국대전·훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대동여지도·동의보감·칠정산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 대표 한글 소설을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-32eb8738425847:q_0024",
+      "answer": {
+        "text": "홍길동전·춘향전·흥부전"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돈을 받고 책을 읽어 주는 사람을 전기수라고 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-32eb8738425847:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돈을 받고 책을 실감 나게 읽어 주던 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-32eb8738425847:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "역관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실학자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돈을 받고 책을 실감 나게 읽어 주던 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-32eb8738425847:q_0025",
+      "answer": {
+        "text": "전기수"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탈놀이는 소리꾼이 북장단에 맞춰 노래·말·몸동작으로 이야기를 풀어가는 공연이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-32eb8738425847:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소리꾼이 북장단에 맞춰 이야기를 풀어가는 공연은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-32eb8738425847:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판소리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈놀이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산대놀이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍속화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소리꾼이 북장단에 맞춰 이야기를 풀어가는 공연은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-32eb8738425847:q_0026",
+      "answer": {
+        "text": "판소리"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판소리는 구경하는 사람도 추임새나 박수로 함께 어울릴 수 있었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-32eb8738425847:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판소리 관객이 공연에 함께 참여한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-32eb8738425847:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추임새와 박수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부처핸섬"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "투호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "활쏘기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판소리 관객이 공연에 함께 참여한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-32eb8738425847:q_0027",
+      "answer": {
+        "text": "추임새와 박수"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산대놀이는 탈을 쓰고 추는 춤이나 연극으로 장시 등 사람이 많이 모이는 곳에서 공연했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-32eb8738425847:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탈을 쓰고 춤이나 연극을 하는 공연은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-32eb8738425847:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈놀이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판소리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "버스킹"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탈을 쓰고 춤이나 연극을 하는 공연은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-32eb8738425847:q_0028",
+      "answer": {
+        "text": "탈놀이"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탈놀이는 양반의 무능함을 풍자하거나 비판하는 내용이 많았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-32eb8738425847:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 탈놀이에서 자주 풍자하거나 비판한 대상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-32eb8738425847:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반의 무능함"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사 기술"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천문 관측"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국어"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 탈놀이에서 자주 풍자하거나 비판한 대상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-32eb8738425847:q_0029",
+      "answer": {
+        "text": "양반의 무능함"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산수화는 당시 사람들의 생활 모습을 생동감 있게 표현한 그림이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-32eb8738425847:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 사람들의 생활 모습을 생동감 있게 표현한 그림은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-32eb8738425847:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍속화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산수화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선 후기 사람들의 생활 모습을 생동감 있게 표현한 그림은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-32eb8738425847:q_0030",
+      "answer": {
+        "text": "풍속화"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김홍도는 농촌 서민의 일상생활을 익살스럽게 그렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-32eb8738425847:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농촌 서민의 생활을 익살스럽게 그린 화가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-32eb8738425847:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김홍도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신윤복"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김정호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박지원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농촌 서민의 생활을 익살스럽게 그린 화가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-32eb8738425847:q_0031",
+      "answer": {
+        "text": "김홍도"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신윤복은 주로 왕과 노비들의 생활 모습을 그렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-32eb8738425847:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양반과 여성의 생활 모습을 주로 그린 화가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-32eb8738425847:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신윤복"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김홍도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이익"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전봉준"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양반과 여성의 생활 모습을 주로 그린 화가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-32eb8738425847:q_0032",
+      "answer": {
+        "text": "신윤복"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민화는 나무·동물·문자 등을 소재로 서민의 소망을 담았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-32eb8738425847:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서민의 소망을 담은 그림을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-32eb8738425847:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍속화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁중화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서민의 소망을 담은 그림을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-32eb8738425847:q_0033",
+      "answer": {
+        "text": "민화"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "흥선 대원군은 경복궁을 고쳐 짓고 양반에게도 세금을 내게 하며 서양 국가의 교류 요구도 받아들였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-32eb8738425847:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경복궁을 고쳐 짓고 양반에게도 세금을 내게 한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-32eb8738425847:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흥선 대원군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "승룡권"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바이슨"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "춘리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경복궁을 고쳐 짓고 양반에게도 세금을 내게 한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-32eb8738425847:q_0034",
+      "answer": {
+        "text": "흥선 대원군"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선은 1876년 일본과 강화도 조약을 맺고 개항했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-32eb8738425847:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 1876년 일본과 맺은 조약은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-32eb8738425847:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도 조약"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑신정변"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "을미사변"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑오개혁"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조선이 1876년 일본과 맺은 조약은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-32eb8738425847:q_0035",
+      "answer": {
+        "text": "강화도 조약"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도 조약은 조선이 외국과 맺은 최초의 근대적이며 평등한 조약이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-32eb8738425847:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도 조약의 성격으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-32eb8738425847:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선에 불리한 조약"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선에만 유리한 조약"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청과 맺은 조약"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "러시아와 맺은 조약"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도 조약의 성격으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-32eb8738425847:q_0036",
+      "answer": {
+        "text": "조선에 불리한 조약"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김옥균을 비롯한 개화 세력이 1884년 갑신정변을 일으켰다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-32eb8738425847:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김옥균을 중심으로 한 개화 세력이 1884년에 일으킨 정변은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-32eb8738425847:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑신정변"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동학 농민 운동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑오개혁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "을미사변"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김옥균을 중심으로 한 개화 세력이 1884년에 일으킨 정변은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-32eb8738425847:q_0037",
+      "answer": {
+        "text": "갑신정변"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "갑신정변은 3년 동안 계속되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-32eb8738425847:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "갑신정변은 며칠 만에 끝났습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-32eb8738425847:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "30일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "갑신정변은 며칠 만에 끝났습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-32eb8738425847:q_0038",
+      "answer": {
+        "text": "3일"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전봉준이 농민을 이끌고 고부 군수의 횡포에 맞선 봉기가 1894년 대규모 동학 농민 운동으로 발전했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-32eb8738425847:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동학 농민 운동을 이끈 대표 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-32eb8738425847:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전봉준"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김옥균"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서재필"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흥선 대원군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동학 농민 운동을 이끈 대표 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-32eb8738425847:q_0039",
+      "answer": {
+        "text": "전봉준"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동학 농민군은 탐관오리를 보호하고 세금을 늘리라고 요구했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-32eb8738425847:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동학 농민군의 요구로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-32eb8738425847:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탐관오리 축출과 세금 부담 감소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 차별 강화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군 주둔 확대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동학 농민군의 요구로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-32eb8738425847:q_0040",
+      "answer": {
+        "text": "탐관오리 축출과 세금 부담 감소"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 1894년 갑오개혁을 추진하여 노비제와 과거제를 없앴다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-32eb8738425847:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노비제와 과거제를 없애는 개혁을 추진한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-32eb8738425847:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑오개혁"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑신정변"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세도 정치"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위화도 회군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노비제와 과거제를 없애는 개혁을 추진한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-32eb8738425847:q_0041",
+      "answer": {
+        "text": "갑오개혁"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필이 펴낸 신문은 동아일보이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-32eb8738425847:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필이 펴낸 신문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-32eb8738425847:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립신문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "황성신문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제국신문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한성순보"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필이 펴낸 신문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-32eb8738425847:q_0042",
+      "answer": {
+        "text": "독립신문"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필은 관리·지식인과 함께 독립 협회를 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-32eb8738425847:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필 등이 만든 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-32eb8738425847:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동학 농민군"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼별초"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서재필 등이 만든 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-32eb8738425847:q_0043",
+      "answer": {
+        "text": "독립 협회"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "독립 협회는 독립문을 허물고 만민 공동회를 금지하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-32eb8738425847:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "독립 협회의 활동을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-32eb8738425847:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립문과 만민 공동회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경복궁 중건과 과거제 실시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도 천도와 별무반 조직"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팔만대장경 제작과 연등회 개최"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "독립 협회의 활동을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-32eb8738425847:q_0044",
+      "answer": {
+        "text": "독립문과 만민 공동회"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고종은 1897년 황제로 즉위하고 나라 이름을 대한 제국으로 바꾸었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-32eb8738425847:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고종이 황제로 즉위한 뒤 바꾼 나라 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-32eb8738425847:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "후백제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고종이 황제로 즉위한 뒤 바꾼 나라 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-32eb8738425847:q_0045",
+      "answer": {
+        "text": "대한 제국"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전신과 전화가 도입된 뒤 소식을 주고받는 데 더 오랜 시간이 걸렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-32eb8738425847:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전신과 전화의 도입으로 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-32eb8738425847:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소식을 빠르게 주고받았다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밤에만 이동했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사를 그만두었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제가 강화되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전신과 전화의 도입으로 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-32eb8738425847:q_0046",
+      "answer": {
+        "text": "소식을 빠르게 주고받았다."
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전기 기술과 전등·가로등의 설치로 밤 시간을 이용하는 사람이 늘었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-32eb8738425847:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전등과 가로등의 설치로 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-32eb8738425847:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밤 시간을 이용하는 사람이 늘었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮에만 생활했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신이 끊겼다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장이 사라졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전등과 가로등의 설치로 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-32eb8738425847:q_0047",
+      "answer": {
+        "text": "밤 시간을 이용하는 사람이 늘었다."
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1899년 서대문에서 청량리까지 전차 운행이 시작되었다.라는 설명은 옳지 않다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-32eb8738425847:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1899년 서대문에서 청량리까지 운행을 시작한 교통수단은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-32eb8738425847:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전차"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자동차"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비행기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1899년 서대문에서 청량리까지 운행을 시작한 교통수단은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-32eb8738425847:q_0048",
+      "answer": {
+        "text": "전차"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 학교에서 근대식 교육을 하고 신문을 발행해 나라 안팎의 소식을 알렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-32eb8738425847:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개항 이후 교육과 정보 전달의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-32eb8738425847:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교와 신문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서당만 남기고 신문을 금지했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교를 없앴다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 소식을 차단했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개항 이후 교육과 정보 전달의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-32eb8738425847:q_0049",
+      "answer": {
+        "text": "학교와 신문"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양복·구두 등 서양식 의복과 외국의 식사 문화·식료품이 들어왔다.라는 설명은 옳지 않다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-32eb8738425847:q_0050",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개항 이후 들어온 서양식 생활 문화의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-32eb8738425847:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양복과 구두"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패와 갓"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상평통보와 공명첩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "족보와 위패"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32eb8738425847:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개항 이후 들어온 서양식 생활 문화의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32eb8738425847:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-32eb8738425847:q_0050",
+      "answer": {
+        "text": "양복과 구두"
+      }
+    }
+  ]
+}

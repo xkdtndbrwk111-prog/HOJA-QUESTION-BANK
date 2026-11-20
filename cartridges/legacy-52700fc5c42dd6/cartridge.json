@@ -1,0 +1,2067 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-52700fc5c42dd6",
+  "revision": 1,
+  "title": "YBM(김)-8단원-What Does He Lo",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-YBM(김)-8단원-What Does He Lo"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-52700fc5c42dd6:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What does he look like?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 어떻게 생겼나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 무엇을 입고 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 무엇을 하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 어디에 있나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘그는 어떻게 생겼나요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What does he look like?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's he wearing?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What does he do?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where is he?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has short curly hair."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 짧은 곱슬머리예요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 긴 생머리예요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 파란 옷을 입었어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 갈색 바지를 입었어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She has long straight hair."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 긴 생머리이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 짧은 곱슬머리이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 긴 곱슬머리이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 짧은 생머리이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has short straight hair and brown eyes."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 생머리와 갈색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 곱슬머리와 갈색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 생머리와 파란 눈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 곱슬머리와 갈색 눈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She has blue eyes."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갈색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "검은색 눈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "curly hair"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "곱슬머리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생머리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 머리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 머리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "straight hair"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생머리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "곱슬머리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 눈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갈색 눈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What's she wearing?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 무엇을 입고 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 어떻게 생겼나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 무엇을 하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 어디에 있나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘그녀는 무엇을 입고 있나요?’에 알맞은 영어 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's she wearing?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What does she look like?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What does she do?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where is she?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He's wearing blue shorts."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 파란색 반바지를 입고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 파란색 셔츠를 입고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 갈색 바지를 입고 있어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그는 분홍색 모자를 쓰고 있어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She's wearing a blue T-shirt and brown pants."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 티셔츠와 갈색 바지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란 티셔츠와 갈색 바지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 드레스와 리본"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주황 티셔츠와 파란 바지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She's wearing an orange T-shirt."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주황색 티셔츠"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란색 티셔츠"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란색 셔츠"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨간색 드레스"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He's wearing a pink cap."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "분홍색 모자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갈색 안경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 모자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란 리본"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What does he look like?'는 생김새를 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What's she wearing?'은 눈 색깔을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생김새를 나타내는 어구는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "brown eyes"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a yellow T-shirt"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "brown pants"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pink shoes"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옷차림을 나타내는 어구는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a yellow T-shirt"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "brown eyes"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "curly hair"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "straight hair"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "안경, 신발처럼 한 쌍으로 이루어진 물건의 단어 형태는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "-s 또는 -es를 붙인 복수형"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 단수형"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 과거형"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 대문자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "You can see a little boy with a dog. 남자아이와 함께 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고양이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "The boy is standing in a field. 남자아이가 서 있는 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들판"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교실"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has short curly hair and blue eyes. 남자아이의 생김새는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 곱슬머리와 파란색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 곱슬머리와 갈색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 생머리와 파란색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 생머리와 갈색 눈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He's wearing a red jacket and brown pants. 남자아이의 옷차림은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨간 재킷과 갈색 바지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 재킷과 갈색 바지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨간 재킷과 파란 바지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란 셔츠와 빨간 반바지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has short curly hair and blue eyes.'에 따르면 남자아이는 짧은 곱슬머리와 파란 눈이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He's wearing a red jacket and brown pants.'에 따르면 남자아이는 파란 재킷을 입었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "The girl is sitting in a garden. 여자아이가 앉아 있는 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들판"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도서관"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She has long curly hair. 여자아이의 머리는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 곱슬머리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 생머리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 곱슬머리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 생머리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She's wearing a blue dress and a ribbon. 여자아이의 옷차림은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란색 드레스와 리본"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨간색 드레스와 모자"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란색 셔츠와 바지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란색 드레스와 안경"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She has long curly hair.'에 따르면 여자아이는 긴 생머리이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She's wearing a blue dress and a ribbon.'에 따르면 여자아이는 리본을 하고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She ___ green eyes."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "has"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wearing"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He ___ short curly hair."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "has"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "wear"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "She ___ wearing black glasses."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "has"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "does"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has short hair and blue eyes. 생김새는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 머리와 파란 눈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 머리와 갈색 눈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 곱슬머리와 초록 눈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 생머리와 파란 눈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He is wearing a yellow shirt and red shorts. 옷차림은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란 셔츠와 빨간 반바지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨간 셔츠와 노란 반바지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란 셔츠와 갈색 바지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록 티셔츠와 파란 신발"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "He has a long nose. He is Pinocchio. 이 인물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피노키오"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아나"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "레오"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미구엘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "This is Anna. She has long curly hair and blue eyes. She's wearing a green T-shirt and blue shoes. Anna의 옷차림은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록색 티셔츠와 파란색 신발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파란색 티셔츠와 초록색 신발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록색 드레스와 파란색 모자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노란색 셔츠와 갈색 바지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "페루의 전통 의상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판초"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한복"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "킬트"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재킷"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스코틀랜드 남성들의 전통 의상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "킬트"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한복"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판초"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리본"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-52700fc5c42dd6:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "What does she look like?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-52700fc5c42dd6:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 어떻게 생겼나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 무엇을 입고 있나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 무엇을 하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀는 어디에 있나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

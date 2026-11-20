@@ -1,0 +1,1408 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-32e76b3a09c2cf",
+  "revision": 1,
+  "title": "천재(함)-7단원 I Went to a Wate",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-7단원 I Went to a Wate"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-32e76b3a09c2cf:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어제 무엇을 했는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do yesterday?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What would you like?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어제 무엇을 했는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0001",
+      "answer": {
+        "text": "What did you do yesterday?"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주말이 어땠는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your weekend?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What did you do yesterday?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주말이 어땠는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0002",
+      "answer": {
+        "text": "How was your weekend?"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다에서 수영했다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I swam in the sea."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I played basketball."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went to a festival."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I picked watermelons."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다에서 수영했다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-32e76b3a09c2cf:q_0003",
+      "answer": {
+        "text": "I swam in the sea."
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농구를 했다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I played basketball."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I visited my grandma."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I made chocolate cookies."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I swam in the sea."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "할머니를 방문했다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I visited my grandma."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I picked watermelons."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went to a festival."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I played basketball."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "축제에 갔다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went to a festival."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I made chocolate cookies."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I swam in the sea."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I visited my grandma."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수박을 땄다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I picked watermelons."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I played basketball."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I visited my grandma."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I went to a festival."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "초콜릿 쿠키를 만들었다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I made chocolate cookies."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I picked watermelons."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I swam in the sea."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I played basketball."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I went to a festival.”은 축제에 갔다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I picked watermelons.”는 농구를 했다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What did you do yesterday?” B: “I played basketball.” B가 어제 한 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played basketball"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "swam in the sea"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "visited my grandma"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "went to a festival"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “How was your weekend?” B: “It was great.” B의 주말은 어땠나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "great"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "bad"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "boring"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "busy"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How was your weekend?”는 주말이 어땠는지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I went to the beach with my family. We swam in the sea.” 이 아이가 가족과 간 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the beach"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a grape festival"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jeju-do"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a basketball court"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “We swam in the sea. We played beach soccer, too.” 이 아이가 한 두 가지 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "swam in the sea and played beach soccer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked grapes and made ice cream"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "visited grandma and made cookies"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "went to a festival and played basketball"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I went to the beach with my family. We played beach soccer, too.” 누구와 해변에 갔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my family"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my friends"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my grandma"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my grandpa"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We swam in the sea. We played beach soccer, too.” 이들은 바다에서 수영하고 비치사커도 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I went to a grape festival with my friends. We picked some grapes.” 무엇을 땄나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "grapes"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "watermelons"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "tomatoes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "potatoes"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “We picked some grapes. We made grape ice cream, too.” 포도로 무엇을 만들었나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "grape ice cream"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "chocolate cookies"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "potato soup"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fruit juice"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I went to a grape festival with my friends. We made grape ice cream, too.” 누구와 축제에 갔나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my friends"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my family"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my grandma"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "my grandpa"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We picked some grapes. We made grape ice cream, too.” 이들은 포도를 따고 포도 아이스크림도 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Tina says, “I went to Jeju-do with my family. We swam in the sea.” Tina가 간 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jeju-do"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the U.K."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a grape festival"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the beach festival"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Tina says, “I went to Jeju-do with my family. We swam in the sea.” Tina가 한 일로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "swam in the sea"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked watermelons"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played basketball"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made chocolate cookies"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A child says, “I went to the beach with my friends. We played beach soccer.” 이 아이가 친구들과 한 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played beach soccer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made grape ice cream"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked tomatoes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "visited grandma"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I went to the beach with my friends. We played beach soccer.” 이 아이는 혼자 해변에 갔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “How was your day?” B: “It was great. I picked tomatoes.” B가 한 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked tomatoes"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked watermelons"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made cookies"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played basketball"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What did you do?” B: “I made potato soup in the afternoon.” B가 오후에 한 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "made potato soup"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "picked tomatoes"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "swam in the sea"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "played beach soccer"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-32e76b3a09c2cf:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I made potato soup in the afternoon.”는 오후에 감자 수프를 만들었다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-32e76b3a09c2cf:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

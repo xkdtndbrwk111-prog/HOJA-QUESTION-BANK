@@ -1,0 +1,2465 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-bc65b3561b1fdb",
+  "revision": 1,
+  "title": "계절의 변화 (날아라펭귄)",
+  "metadata": {
+    "grade": 6,
+    "subject": "과학",
+    "status": "legacy",
+    "sourceSheet": "6-과학-계절의 변화 (날아라펭귄)"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-bc65b3561b1fdb:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 높이는 태양이 지표면과 이루는 각으로 나타낼 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 높이를 나타내는 각은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 남중 고도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮의 길이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자 길이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양이 지표면과 이루는 각을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0001",
+      "answer": {
+        "text": "태양 고도"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양은 동쪽 하늘에서 남쪽 하늘을 지나 서쪽 하늘로 위치가 달라집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양의 위치는 어떻게 달라집니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동쪽 하늘 → 남쪽 하늘 → 서쪽 하늘"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서쪽 하늘 → 남쪽 하늘 → 동쪽 하늘"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남쪽 하늘 → 동쪽 하늘 → 서쪽 하늘"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동쪽 하늘 → 서쪽 하늘 → 남쪽 하늘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양이 지나는 하늘의 방향을 순서대로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0002",
+      "answer": {
+        "text": "동쪽 하늘, 남쪽 하늘, 서쪽 하늘"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도 측정기를 이용하면 태양 고도를 측정할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도 측정기를 이용해 측정할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮의 길이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기온"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 에너지양"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 높이를 측정할 때 사용하는 도구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0003",
+      "answer": {
+        "text": "태양 고도 측정기"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아질수록 그림자 길이는 짧아집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아질수록 그림자 길이는 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "길어집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "변하지 않습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먼저 길어졌다가 짧아집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아질수록 그림자 길이는 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0004",
+      "answer": {
+        "text": "짧아집니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양 고도는 점점 높아졌다가 다시 낮아집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양 고도는 어떻게 변합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "점점 높아졌다가 다시 낮아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "점점 낮아졌다가 다시 높아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계속 높아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계속 낮아집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 동안 태양 고도는 어떻게 변합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0005",
+      "answer": {
+        "text": "점점 높아졌다가 다시 낮아집니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하루 중 태양 고도가 가장 높을 때 태양은 정남쪽에 위치합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양이 정남쪽에 위치할 때의 태양 고도를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 남중 고도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮의 길이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자 길이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양이 정남쪽에 위치할 때의 태양 고도를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0006",
+      "answer": {
+        "text": "태양의 남중 고도"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 낮아질수록 그림자 길이는 길어지고 기온은 낮아집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 낮아질 때 나타나는 변화로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자는 길어지고 기온은 낮아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자는 짧아지고 기온은 낮아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자는 길어지고 기온은 높아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자와 기온이 모두 높아집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 낮아질수록 그림자 길이는 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0007",
+      "answer": {
+        "text": "길어집니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 가장 높은 시각과 기온이 가장 높은 시각은 항상 같습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 측정 자료에서 태양 고도와 기온이 가장 높은 시각은 각각 언제였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도 12시 30분 무렵, 기온 2시 30분 무렵"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도 2시 30분 무렵, 기온 12시 30분 무렵"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 12시 30분 무렵"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 2시 30분 무렵"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 자료에서 기온이 가장 높은 때는 언제였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0008",
+      "answer": {
+        "text": "오후 2시 30분 무렵"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름에는 겨울보다 태양이 더 일찍 뜨고 더 늦게 집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름과 겨울의 낮의 길이에 대한 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름의 낮이 더 깁니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울의 낮이 더 깁니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 계절의 낮의 길이는 같습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교과서에서 비교하지 않습니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름과 겨울 중 낮의 길이가 더 긴 계절은 어느 계절입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0009",
+      "answer": {
+        "text": "여름"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 남중 고도가 높아질수록 낮의 길이가 길어집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 남중 고도와 낮의 길이의 관계로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 높을수록 낮의 길이가 길어집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 높을수록 낮의 길이가 짧아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 값은 관계가 없습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 낮을수록 낮의 길이가 길어집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 남중 고도가 높은 여름에는 낮의 길이가 어떻습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0010",
+      "answer": {
+        "text": "깁니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름에서 겨울로 갈수록 태양의 남중 고도는 낮아지고 낮의 길이는 짧아집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름에서 겨울로 갈수록 어떻게 변합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도는 낮아지고 낮의 길이는 짧아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도는 높아지고 낮의 길이는 짧아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도는 낮아지고 낮의 길이는 길어집니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도와 낮의 길이가 모두 길어집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "겨울의 태양 남중 고도는 여름보다 어떻습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0011",
+      "answer": {
+        "text": "낮습니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아질수록 일정한 면적의 지표면이 받는 태양 에너지양은 많아집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아질수록 일정한 면적의 지표면이 받는 태양 에너지양은 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "적어집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "변하지 않습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먼저 많아졌다가 적어집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높을 때 일정한 면적의 지표면이 받는 태양 에너지양은 어떻습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0012",
+      "answer": {
+        "text": "많습니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름에는 태양의 남중 고도가 높아 일정한 면적의 지표면이 받는 태양 에너지양이 많습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여름의 태양 남중 고도와 태양 에너지양에 대한 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 높고 태양 에너지양이 많습니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 낮고 태양 에너지양이 많습니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도가 높고 태양 에너지양이 적습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도와 태양 에너지양이 모두 적습니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "겨울에는 일정한 면적의 지표면이 받는 태양 에너지양이 여름보다 어떻습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0013",
+      "answer": {
+        "text": "적습니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 자전축이 수직인 채 태양 주위를 공전해도 계절의 변화가 생깁니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 자전축이 수직인 채 공전한다면 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 남중 고도가 달라지지 않아 계절의 변화가 생기지 않습니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮의 길이가 크게 달라져 계절이 생깁니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 에너지양이 항상 달라져 계절이 생깁니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림자 길이가 항상 달라져 계절이 생깁니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구의 자전축이 수직인 채 공전하면 계절 변화가 생길까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0014",
+      "answer": {
+        "text": "생기지 않습니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "실제 지구는 자전축이 기울어진 채 태양 주위를 공전합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 변화의 원인으로 교과서에서 제시한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구의 자전축이 기울어진 채 태양 주위를 공전하기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구의 자전축이 수직인 채 태양 주위를 공전하기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양이 지구 주위를 공전하기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구가 공전하지 않기 때문입니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절의 변화가 생기는 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0015",
+      "answer": {
+        "text": "지구의 자전축이 기울어진 채 태양 주위를 공전하기 때문입니다"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지구본을 공전시킬 때 지구본의 자전축은 항상 같은 방향을 향하게 합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 변화 모형실험에서 지구본을 공전시킬 때 자전축은 어떻게 해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 같은 방향을 향하게 합니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매번 다른 방향을 향하게 합니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수직으로만 유지합니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전등을 향하게 돌립니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 변화 모형실험에서 공전할 때 자전축은 어떤 방향을 향하게 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0016",
+      "answer": {
+        "text": "항상 같은 방향"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절에 따라 태양의 남중 고도, 낮의 길이, 일정한 면적의 지표면이 받는 태양 에너지양이 달라집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절에 따라 달라지는 것을 고른 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 남중 고도, 낮의 길이, 태양 에너지양"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 색깔, 지구의 크기, 달의 모양"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구의 크기, 태양의 크기, 낮의 길이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 위치만 달라지고 다른 것은 변하지 않습니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절에 따라 달라지는 세 가지를 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0017",
+      "answer": {
+        "text": "태양의 남중 고도, 낮의 길이, 일정한 면적의 지표면이 받는 태양 에너지양"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추적형 태양광 발전기는 태양의 위치와 고도가 바뀌면 방향과 각도를 자동으로 움직입니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추적형 태양광 발전기의 특징은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 위치와 고도에 따라 방향과 각도를 자동으로 움직입니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 같은 방향과 각도로 고정되어 있습니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양을 가리지 않도록 자동으로 접힙니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낮에는 전기를 생산하지 않습니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양의 위치와 고도에 따라 자동으로 움직이는 발전기는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0018",
+      "answer": {
+        "text": "추적형 태양광 발전기"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추적형 태양광 발전기를 이용하면 고정형 태양광 발전기보다 전기 에너지를 더 많이 생산할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추적형 태양광 발전기를 이용하는 이유로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고정형보다 전기 에너지를 더 많이 생산할 수 있기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고정형보다 설치 장소가 더 넓기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양을 가릴 수 있기 때문입니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기온을 낮출 수 있기 때문입니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "추적형 태양광 발전기는 고정형보다 무엇을 더 많이 생산할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0019",
+      "answer": {
+        "text": "전기 에너지"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햇빛 지도는 장소별로 일 년 동안 받을 수 있는 태양 에너지양에 관한 정보를 알려 줍니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햇빛 지도는 무엇을 알려 주는 지도입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장소별로 일 년 동안 받을 수 있는 태양 에너지양"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 동안의 기온 변화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계절별 강수량"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기 사용량"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "햇빛 지도를 활용하면 태양광 발전기를 어느 장소에 설치할 때 무엇을 알 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0020",
+      "answer": {
+        "text": "전기 에너지를 더 많이 생산할 수 있는지"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료를 만들 때 태양의 남중 고도, 낮의 길이, 기온 등을 조사할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료를 만들 때 조사하는 내용으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양의 남중 고도, 낮의 길이, 기온"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구의 질량, 달의 크기, 태양의 질량"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기 회로, 전자석, 전지의 종류"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 연소, 산소의 양, 연소 생성물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료에서 조사하는 기온 관련 자료는 어디에서 찾을 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0021",
+      "answer": {
+        "text": "기상청 날씨누리"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료를 공유할 때 다른 모둠의 자료를 보고 잘한 점을 댓글로 달 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공유 플랫폼에 댓글을 작성할 때 교과서에서 강조한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바르고 고운 말을 사용합니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짧은 말만 사용합니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정답만 적습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 모둠의 자료를 수정합니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다른 모둠의 자료를 보며 댓글로 무엇을 달 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0022",
+      "answer": {
+        "text": "잘한 점"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료를 만들 때 디자인 플랫폼을 이용하면 글자, 사진, 아이콘 등을 자유롭게 배치할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "디자인 플랫폼을 이용하면 무엇을 자유롭게 배치할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "글자, 사진, 아이콘"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양, 지구, 달의 실제 위치"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전선, 전지, 전구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실험 기구의 실제 크기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계절 축제 안내 자료를 만들 때 사용하는 디지털 도구 중 하나는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0023",
+      "answer": {
+        "text": "디자인 플랫폼"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 에너지를 많이 받기 위한 기술로 추적형 태양광 발전기와 햇빛 지도가 활용됩니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 에너지를 많이 받기 위한 과학 기술로 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추적형 태양광 발전기와 햇빛 지도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기 회로와 전자석"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도 측정기와 온도계"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "디자인 플랫폼과 공유 플랫폼"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 에너지를 많이 받기 위해 활용하는 지도는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0024",
+      "answer": {
+        "text": "햇빛 지도"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 높아지면 일정한 면적의 지표면이 받는 태양 에너지양이 적어집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0025",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도와 태양 에너지양의 관계를 바르게 설명한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도가 높을수록 태양 에너지양이 많아집니다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도가 높을수록 태양 에너지양이 적어집니다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도와 태양 에너지양은 관계가 없습니다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양 고도가 낮을수록 태양 에너지양이 많아집니다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bc65b3561b1fdb:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태양 고도가 낮아질수록 일정한 면적의 지표면이 받는 태양 에너지양은 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bc65b3561b1fdb:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-bc65b3561b1fdb:q_0025",
+      "answer": {
+        "text": "적어집니다"
+      }
+    }
+  ]
+}

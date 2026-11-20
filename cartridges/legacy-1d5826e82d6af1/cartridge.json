@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-1d5826e82d6af1",
+  "revision": 1,
+  "title": "가계와 기업의 역할",
+  "metadata": {
+    "grade": 6,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "6-사회-가계와 기업의 역할"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-1d5826e82d6af1:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자유와 경쟁을 특징으로 하는 시장 중심의 경제 체제를 시장경제라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자유와 경쟁을 특징으로 하는 시장 중심의 경제 체제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장경제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계획경제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자급자족"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물물교환"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자유와 경쟁을 특징으로 하는 경제 체제를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0001",
+      "answer": {
+        "text": "시장경제"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서는 개인과 기업의 경제활동의 자유가 보장된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 보장되는 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경제활동의 자유"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 직업의 강제 배정"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 상품 가격의 동일화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 소비 금지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서는 개인과 기업의 무엇이 보장됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0002",
+      "answer": {
+        "text": "경제활동의 자유"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 개인은 자신의 능력이나 적성에 따라 직업을 선택할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 개인이 자유롭게 할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "능력과 적성에 따른 직업 선택"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 생산량 강제 결정"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 사람의 소득 결정"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 상품의 가격 결정"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개인은 자신의 능력이나 적성에 따라 무엇을 선택할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0003",
+      "answer": {
+        "text": "직업"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 개인은 경제활동으로 얻은 소득을 자유롭게 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개인이 경제활동으로 얻은 소득에 대해 할 수 있는 일은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자유롭게 사용할 수 있다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반드시 모두 저축해야 한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업이 사용 방법을 정한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사용할 수 없다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개인은 경제활동으로 얻은 무엇을 자유롭게 사용할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0004",
+      "answer": {
+        "text": "소득"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 기업은 무엇을 얼마나 생산하고 어떻게 판매할지 자유롭게 결정할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 기업이 자유롭게 결정할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생산할 물건과 생산량·판매 방법"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 직업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 모든 사생활"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가의 법"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 무엇을 얼마나 생산하고 어떻게 무엇할지를 자유롭게 결정합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0005",
+      "answer": {
+        "text": "판매할지"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서는 개인이 더 좋은 일자리를 얻기 위해 다른 사람과 경쟁하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 개인들이 경쟁하는 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 좋은 일자리를 얻으려고 실력을 높인다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 사람의 직업을 국가가 정한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 생산을 모두 중단한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소득 사용을 금지한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "더 좋은 일자리를 얻기 위해 개인이 높이려고 노력하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0006",
+      "answer": {
+        "text": "실력"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 적은 비용으로 좋은 상품을 만들어 더 많이 판매하려고 다른 기업과 경쟁한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업 간 경쟁의 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 상품을 개발하고 판매하려고 노력한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 기업이 같은 상품만 만든다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품의 품질을 일부러 낮춘다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판매를 하지 않는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 좋은 상품을 더 많이 무엇하려고 경쟁합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0007",
+      "answer": {
+        "text": "판매"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제의 자유와 경쟁은 개인에게만 도움이 되고 국가 경제 발전에는 도움이 되지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 자유와 경쟁을 보장할 때 나타날 수 있는 효과는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사회 효율성과 국가 경제 발전에 도움을 준다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 생산 활동이 사라진다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 능력 발휘를 막는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품의 다양성이 줄어든다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자유와 경쟁은 국가의 무엇에도 도움을 줍니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0008",
+      "answer": {
+        "text": "경제 발전"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한집안의 살림을 같이 꾸리는 생활 공동체를 가계라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한집안의 살림을 같이 꾸리는 생활 공동체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정부"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한집안의 살림을 같이 꾸리는 생활 공동체를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0009",
+      "answer": {
+        "text": "가계"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계는 생산 활동에 참여한 대가로 소득을 얻는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 생산 활동에 참여한 대가로 얻는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소득"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이윤만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 가격"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 생산 활동에 참여한 대가로 얻는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0010",
+      "answer": {
+        "text": "소득"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계는 생활에 필요한 물건을 구매하거나 서비스를 이용하는 소비 활동을 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계의 소비 활동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "필요한 물건을 구매하거나 서비스를 이용한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 법을 만든다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 임금을 결정한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가의 예산을 편성한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 물건을 구매하거나 서비스를 이용하는 활동을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0011",
+      "answer": {
+        "text": "소비 활동"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이윤을 얻고자 생산 활동을 하는 경제 주체를 기업이라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이윤을 얻고자 생산 활동을 하는 경제 주체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 단체"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이윤을 얻고자 생산 활동을 하는 경제 주체를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0012",
+      "answer": {
+        "text": "기업"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이윤은 물건이나 서비스를 판매한 수입에서 생산에 들어간 비용을 뺀 순수한 이익이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판매 수입에서 생산 비용을 뺀 순수한 이익은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이윤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동력"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "판매 수입에서 생산 비용을 뺀 순수한 이익을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0013",
+      "answer": {
+        "text": "이윤"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 사람들에게 필요한 물건이나 서비스를 만들고 판매하여 이윤을 얻는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 이윤을 얻기 위해 하는 활동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물건이나 서비스를 생산하고 판매한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비만 한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직업 선택만 한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법만 만든다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 물건이나 서비스를 만들고 무엇하여 이윤을 얻습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0014",
+      "answer": {
+        "text": "판매"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 생산 활동에 필요한 사람을 고용하여 가계에 일자리와 소득을 제공한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 가계에 제공하는 것으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일자리와 소득"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후와 지형"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법과 재판"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선거권과 투표권"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 사람을 고용하여 가계에 일자리와 무엇을 제공합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0015",
+      "answer": {
+        "text": "소득"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 소비자가 필요한 것에 관심을 기울이고 품질 좋은 상품을 생산하려고 기술을 개발한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 더 좋은 상품을 생산하기 위해 하는 노력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기술 개발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비 금지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 중단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생산량을 항상 줄이기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 품질 좋은 상품을 생산하기 위해 무엇을 개발합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0016",
+      "answer": {
+        "text": "기술"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 기업의 물건이나 서비스를 소비하면 기업은 그 대가로 이윤을 얻는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 기업이 생산한 물건을 구매하거나 서비스를 이용할 때 기업이 얻는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이윤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동력"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 시간"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계의 소비 활동을 통해 기업이 얻는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0017",
+      "answer": {
+        "text": "이윤"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계는 기업에 노동력을 제공하고 기업은 그 대가로 가계에 소득을 제공한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계가 기업의 생산 활동에 제공하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동력"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이윤"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 가격"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경세"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 가계가 제공한 노동력의 대가로 무엇을 제공합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0018",
+      "answer": {
+        "text": "소득"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계와 기업의 경제활동은 서로 영향을 주지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0019",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계와 기업의 관계를 가장 잘 설명한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경제활동에서 서로 영향을 주고받는다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 아무 관계가 없다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계만 기업에 영향을 준다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업만 가계에 영향을 준다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가계와 기업이 서로 영향을 주고받는 관계를 무엇이라고 볼 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0019",
+      "answer": {
+        "text": "상호 의존 관계"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라는 소비자가 상품을 구매하고 사용할 때 누릴 수 있는 여러 권리를 법으로 보장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자의 권리는 우리나라에서 어떻게 보장되고 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법으로 보장된다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업이 원할 때만 인정된다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전혀 보장되지 않는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국인에게만 보장된다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상품을 구매하고 사용하는 사람의 권리를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0020",
+      "answer": {
+        "text": "소비자의 권리"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상품 자체의 불량으로 피해를 입은 소비자는 기업으로부터 환불이나 보상을 받을 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상품 자체의 불량으로 피해를 입은 소비자가 요구할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환불이나 보상"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 시간 연장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 해산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직업 배정"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상품 불량으로 피해를 입었을 때 소비자가 받을 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0021",
+      "answer": {
+        "text": "보상"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 소비자의 정당한 불만을 처리하지 않으면 한국소비자원에 도움을 청할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자의 권리를 보호하는 국가기관으로 교과서에 제시된 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국소비자원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 단체"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스타트업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업 이사회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자의 권리를 보호하는 국가기관은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0022",
+      "answer": {
+        "text": "한국소비자원"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자는 기업에서 일한 대가로 얻은 소득으로 생활하는 사람이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업에서 일한 대가로 얻은 소득으로 생활하는 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업에서 일한 대가로 얻은 소득으로 생활하는 사람을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0023",
+      "answer": {
+        "text": "근로자"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자가 노동력을 제공하지 않아도 기업의 생산 활동은 그대로 이루어진다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시장경제에서 근로자의 역할이 중요한 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생산 과정에 필요한 노동력을 제공하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 상품 가격을 정하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가의 법을 만들기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 이윤을 모두 가져가기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자가 생산 과정에 제공하는 능력과 기술 등을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0024",
+      "answer": {
+        "text": "노동력"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임금과 근로 시간 등 근로자가 일하는 데 따르는 조건을 근로 조건이라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임금과 근로 시간 등을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 조건"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이윤"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비 활동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사회적 책임"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "임금과 근로 시간 등 일하는 데 따르는 조건을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0025",
+      "answer": {
+        "text": "근로 조건"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자가 임금을 받지 못하거나 최저 임금보다 낮은 임금을 받는 것은 권리 침해의 사례이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 권리를 침해한 사례로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최저 임금보다 낮은 임금을 지급한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정당한 임금을 지급한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴일을 보장한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전한 작업 환경을 제공한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "법으로 정한 최저 수준의 임금을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0026",
+      "answer": {
+        "text": "최저 임금"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자에게는 적정한 근로 시간과 휴일을 보장받을 권리가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로 조건에 관한 권리로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "적정한 근로 시간과 휴일을 보장받을 권리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무제한으로 일해야 할 의무"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금을 받지 않을 권리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전 장비를 거부할 권리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자는 적정한 근로 시간과 무엇을 보장받을 권리가 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0027",
+      "answer": {
+        "text": "휴일"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자에게는 안전한 작업 환경에서 일할 권리가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로 조건에 관한 권리로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전한 작업 환경에서 일할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험한 환경에서만 일할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금을 포기할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴일 없이 일할 권리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자는 어떤 작업 환경에서 일할 권리가 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0028",
+      "answer": {
+        "text": "안전한 작업 환경"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라는 근로자가 인간다운 삶을 살 수 있도록 법과 제도로 근로자의 권리를 보호한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라가 근로자의 권리를 보호하는 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법과 제도를 마련한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업에만 맡긴다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 요구를 금지한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 조건을 없앤다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 권리는 무엇과 제도로 보호합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0029",
+      "answer": {
+        "text": "법"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 노동 삼권에는 단체를 만들 권리, 기업과 자주적으로 협상할 권리, 단체 행동을 할 권리가 포함된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 노동 삼권에 포함되지 않는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 이윤을 모두 가질 권리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단체를 만들 권리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업과 자주적으로 협상할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단체 행동을 할 권리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자에게 보장된 세 가지 단체 관련 권리를 묶어 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0030",
+      "answer": {
+        "text": "노동 삼권"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자는 근로 조건을 유지하거나 개선하기 위해 단체를 만들 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자가 단체를 만들 수 있는 목적은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 조건을 유지하거나 개선하기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 상품을 없애기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비를 금지하기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직업 선택을 제한하기 위해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자는 근로 조건을 개선하기 위해 무엇을 만들 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0031",
+      "answer": {
+        "text": "근로자 단체"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자 단체는 기업과 자주적으로 협상할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자 단체에 보장된 권리로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업과 자주적으로 협상할 수 있다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 모든 재산을 가질 수 있다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법을 마음대로 바꿀 수 있다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자의 선택을 제한할 수 있다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자 단체는 기업과 자주적으로 무엇을 할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0032",
+      "answer": {
+        "text": "협상"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 기업 사이에 갈등이 발생한 경우 근로자는 단체 행동을 할 수 있는 권리가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 기업 사이에 갈등이 발생했을 때 근로자에게 보장된 권리는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단체 행동을 할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금을 포기할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업을 소유할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 가격을 정할 권리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "갈등이 발생한 경우 근로자가 함께 할 수 있도록 보장된 행동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0033",
+      "answer": {
+        "text": "단체 행동"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 권리 보호는 근로자 스스로만 노력하면 되고 기업과 정부의 노력은 필요 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 권리를 보호하기 위해 노력해야 하는 주체는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자·기업·정부 모두"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정부만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자의 권리를 보호하기 위해 근로자와 기업 외에 노력해야 하는 주체는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0034",
+      "answer": {
+        "text": "정부"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 무엇을 얼마나 어떻게 생산할지 자유롭게 결정할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 자유로운 경제활동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇을 얼마나 어떻게 생산할지 결정한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 권리를 없앤다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자의 직업을 정한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법을 지키지 않는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 무엇을 얼마나 어떻게 무엇할지 자유롭게 결정합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0035",
+      "answer": {
+        "text": "생산할지"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 혁신적인 방법을 시도하여 새롭거나 품질이 더 좋은 상품을 생산하려고 노력한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 새롭고 품질 좋은 상품을 만들기 위해 시도하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "혁신적인 방법"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생산 중단"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비 제한"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 권리 침해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기존 방법을 바꾸어 새롭게 하는 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0036",
+      "answer": {
+        "text": "혁신"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 자유롭고 창의적인 생산 활동은 소비자의 만족과 국가 경제 발전에 도움을 줄 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 자유롭고 창의적인 생산 활동의 효과로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 좋은 상품과 경제 발전에 도움을 준다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 선택을 없앤다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 기업의 생산을 중단시킨다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자의 만족을 낮추기만 한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 창의적인 생산 활동은 우리나라의 무엇에도 도움을 줄 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0037",
+      "answer": {
+        "text": "경제 발전"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혁신적인 기술과 아이디어를 바탕으로 새로운 상품이나 서비스를 제공하려고 설립한 창업 기업을 스타트업이라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혁신적인 기술과 아이디어를 바탕으로 설립한 창업 기업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스타트업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가계"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 단체"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국소비자원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "혁신적인 기술과 아이디어로 시작한 창업 기업을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0038",
+      "answer": {
+        "text": "스타트업"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 이윤만 중시하면 근로 시간을 늘리거나 임금을 깎는 등 근로자의 권리를 침해할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 이윤만 중시할 때 생길 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 권리 침해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 조건의 자동 개선"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경의 자동 보호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자 권리의 자동 확대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 임금을 깎거나 근로 시간을 늘리면 누구의 권리를 침해할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0039",
+      "answer": {
+        "text": "근로자"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 생산 비용을 아끼려고 몸에 좋지 않은 값싼 재료를 사용하면 소비자의 권리를 침해할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 값싼 불량 재료를 사용해 사람에게 피해를 주면 누구의 권리를 침해한 것입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정부"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 단체"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상품 때문에 손해를 입을 때 침해될 수 있는 누구의 권리입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0040",
+      "answer": {
+        "text": "소비자"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 법을 어기고 오염 물질을 배출하거나 자원을 무분별하게 개발하면 환경을 파괴할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 이윤만 추구할 때 나타날 수 있는 환경 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질 배출과 무분별한 자원 개발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 보호 기술의 자동 발달"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원 사용의 완전 중단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질의 자연 소멸"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 무분별한 자원 개발은 무엇을 파괴할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0041",
+      "answer": {
+        "text": "환경"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 사회적 책임은 이윤뿐 아니라 사회에 긍정적인 영향을 주기 위해 기업이 지켜야 하는 책임이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 이윤뿐 아니라 사회에 긍정적인 영향을 주기 위해 지켜야 하는 책임은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 사회적 책임"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자의 선택권"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 시간"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장 가격"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 사회에 긍정적인 영향을 주기 위해 지켜야 하는 책임을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0042",
+      "answer": {
+        "text": "기업의 사회적 책임"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 생산 활동 과정에서 자원 절약과 환경 보호에 관심을 기울여야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 사회적 책임을 실천하는 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 오염을 줄이는 기술을 개발한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질을 몰래 배출한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원을 무분별하게 개발한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 문제를 무시한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 자원을 절약하고 무엇을 보호하려고 노력해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0043",
+      "answer": {
+        "text": "환경"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 회사 수익의 일부를 사회 취약 계층의 장학금이나 생활비로 지원하며 나눔을 실천할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 사회적 책임 실천 사례로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사회 취약 계층을 지원한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 임금을 이유 없이 깎는다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질을 배출한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불량 재료를 사용한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업이 수익 일부를 어려운 사람에게 지원하는 활동을 무엇이라고 할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0044",
+      "answer": {
+        "text": "나눔"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 일자리를 만들고 근로자가 좋은 근로 조건에서 일하도록 권리 보호에 힘써야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업의 사회적 책임으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 권리 보호에 힘쓴다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최저 임금보다 낮게 지급한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴일을 없앤다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전한 작업 환경을 없앤다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 좋은 근로 조건을 마련하여 누구의 권리를 보호해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0045",
+      "answer": {
+        "text": "근로자"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ESG 경영은 환경 보호, 사회 발전 기여, 법과 윤리 준수를 고려해 지속가능한 성장을 추구하는 기업 운영 방식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경·사회·지배 구조를 고려하여 지속가능한 성장을 추구하는 경영은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ESG 경영"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유목"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장경제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전 농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경·사회·지배 구조의 영어 앞 글자를 딴 경영 방식을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0046",
+      "answer": {
+        "text": "ESG 경영"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공지능 기술로 시각 장애인을 돕는 서비스를 제공하는 것은 사회 발전에 도움이 되는 ESG 경영의 사례이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 통신 회사가 사회적 약자를 지원하기 위해 활용한 기술은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인공지능(AI)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "증기 기관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카나트"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스프링클러"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시각 장애인 지원 서비스에 활용한 기술은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0047",
+      "answer": {
+        "text": "인공지능(AI)"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "재활용 플라스틱 용기 사용과 화장품 공병 수거·재활용은 환경 보호와 자원 절약의 사례이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 화장품 회사가 환경 보호를 위해 한 활동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용 플라스틱 용기를 사용하고 공병을 수거한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질을 더 배출한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 용기를 한 번만 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐기물을 그대로 버린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "화장품 회사가 다시 수거해 재활용한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0048",
+      "answer": {
+        "text": "화장품 공병"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버려지는 현수막에 활용성을 더해 우산이나 가방 등으로 만드는 것은 업사이클링의 사례이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "폐기물에 활용성을 더해 새로운 가치를 가진 물건으로 만드는 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "업사이클링"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유목"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전 농업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙농업"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버려지는 물건에 활용성을 더해 가치를 높이는 활동을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0049",
+      "answer": {
+        "text": "업사이클링"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자는 여러 상품이나 서비스 중에서 자신에게 필요한 것을 선택할 권리가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자에게 보장된 권리로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여러 상품이나 서비스 중에서 선택할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 생산량을 정할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 임금을 정할 권리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가의 법을 바꿀 권리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1d5826e82d6af1:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소비자가 여러 상품이나 서비스 중에서 고를 수 있는 권리는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1d5826e82d6af1:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-1d5826e82d6af1:q_0050",
+      "answer": {
+        "text": "선택할 권리"
+      }
+    }
+  ]
+}

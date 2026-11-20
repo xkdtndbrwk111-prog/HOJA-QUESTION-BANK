@@ -1,0 +1,1370 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-4979df297df107",
+  "revision": 1,
+  "title": "천재(함)-8단원 What Would You L",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-8단원 What Would You L"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-4979df297df107:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "식당에서 상대방이 무엇을 원하는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-4979df297df107:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What would you like?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you want some more?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are they?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are these?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "식당에서 상대방이 무엇을 원하는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-4979df297df107:q_0001",
+      "answer": {
+        "text": "What would you like?"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비프스테이크를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-4979df297df107:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a beef steak."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a fruit salad."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you want some more?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like beef steak."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비프스테이크를 주문한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-4979df297df107:q_0002",
+      "answer": {
+        "text": "I'd like a beef steak."
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과일 샐러드를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a fruit salad."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a cheese pizza."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like carrot cake."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like tomato spaghetti."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "치즈 피자를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a cheese pizza."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a beef steak."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like an orange juice."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a fruit salad."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오렌지 주스를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like an orange juice."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a cheese pizza."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like tomato spaghetti."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like carrot cake."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당근 케이크를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like carrot cake."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a beef steak."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like an orange juice."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like tomato spaghetti."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "토마토 스파게티를 주문할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like tomato spaghetti."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a fruit salad."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like carrot cake."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like a cheese pizza."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What would you like?”는 상대방이 원하는 것을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'd like a cheese pizza.”는 치즈 피자를 주문하고 싶다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음식을 더 먹을 것인지 권할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-4979df297df107:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Do you want some more?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What would you like?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are they?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 음식을 더 먹을 것인지 영어로 권해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-4979df297df107:q_0010",
+      "answer": {
+        "text": "Do you want some more?"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음식을 더 권받았지만 사양하고 싶을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, thanks."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, please."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'd like some more."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What would you like?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Do you want some more?”는 음식을 더 먹을 것인지 권하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“No, thanks.”는 음식을 더 먹겠다고 수락하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What would you like?” B: “I’d like a fruit salad.” B가 주문한 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a fruit salad"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a beef steak"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a cheese pizza"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "carrot cake"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What would you like?” B: “I’d like an orange juice.” B가 주문한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "an orange juice"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "tomato spaghetti"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a fruit salad"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a cheese pizza"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Do you want some more?” B: “No, thanks.” B의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 먹지 않겠다고 정중하게 사양한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식을 더 달라고 부탁한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇을 주문할지 묻는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식의 가격을 묻는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A food truck says, “We sell fruit juice. It has fruit and ice in it.” 과일 주스에는 무엇이 들어 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fruit and ice"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "meat and cheese"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fish and potatoes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "beef and chicken"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A food truck says, “You can choose grape or watermelon. It is tasty!” 고를 수 있는 맛은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "grape or watermelon"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "beef or chicken"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "orange or banana"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "apple or tomato"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It has fruit and ice in it.”는 그 음식에 과일과 얼음이 들어 있다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A food truck says, “We sell sandwiches. They have meat and cheese in them.” 샌드위치에는 무엇이 들어 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "meat and cheese"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fruit and ice"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fish and potatoes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "orange and watermelon"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A food truck says, “You can choose beef or chicken. They are delicious!” 고를 수 있는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "beef or chicken"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "grape or watermelon"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fish or potatoes"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "orange or banana"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“They have meat and cheese in them.”는 샌드위치에 과일과 얼음이 들어 있다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This is fish and chips. It’s from the U.K.” 이 음식은 어느 나라 음식인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the U.K."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korea"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the U.S."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "France"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This is fish and chips. It has fish and chips in it.” 들어 있는 재료로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fish and chips"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "meat and cheese"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "fruit and ice"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "beef and chicken"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "At a banh mi shop, A asks, “What would you like?” B says, “I’d like a banh mi.” B가 주문한 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a banh mi"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a beef steak"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a fruit salad"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a cheese pizza"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Do you want some more?” B: “No, thanks.” B는 음식을 더 먹고 싶어 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아니요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네, 더 먹고 싶어 합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가격을 먼저 알고 싶어 합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 음식을 주문하고 싶어 합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What would you like?” B: “I’d like a banh mi.” B는 banh mi를 주문했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-4979df297df107:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'd like tomato spaghetti.”는 음식을 더 먹을 것인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-4979df297df107:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

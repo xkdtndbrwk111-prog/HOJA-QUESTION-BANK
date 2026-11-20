@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-a5ef776b562e95",
+  "revision": 1,
+  "title": "지역문제의 해결",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-지역문제의 해결"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-a5ef776b562e95:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제는 주민의 생활을 불편하게 하거나 주민 사이에 갈등을 일으키는 문제이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제는 모든 지역에서 똑같이 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경 오염, 주차 시설 부족, 교통 혼잡은 지역문제의 예가 될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제가 있는지 알아보려면 지역에서 일어나는 일에 관심을 가져야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 신문 기사나 뉴스는 지역문제를 확인하는 자료가 될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 해결할 때는 문제가 일어난 원인을 알아볼 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제의 원인을 알려면 다양한 자료가 필요하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 관련 자료를 분석하면 문제의 원인을 찾는 데 도움이 된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다양한 해결 방안이 나오면 장단점을 비교할 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제의 해결 방안을 정할 때 대화와 타협으로 의견을 조정할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결 방안은 효과, 비용, 실천 가능성 등을 기준으로 평가할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제는 어느 한 사람의 노력만으로 항상 해결할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안을 정한 다음에는 구체적인 계획을 세워 실천해야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제는 공공 기관만 노력하면 해결할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민은 공공 기관에 지역문제 해결 방안을 제안할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불법 주차 문제를 해결하기 위해 캠페인을 벌인 사례가 교과서에 나온다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결 방안을 정한 뒤에야 문제의 원인을 처음 알아보는 것이 올바른 순서이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제의 뜻으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민의 생활을 불편하게 하거나 갈등을 일으키는 문제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인만 알고 있는 취미 문제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라의 역사 문제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 시험 문제만을 뜻함"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제의 예로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 오염"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 좋아하는 색 선택"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 혼잡"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주차 시설 부족"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 지역의 문제를 알아보는 방법으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추측만 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 소식은 보지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역을 직접 둘러본다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라 문제만 조사한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시·도청 누리집에서 확인할 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 성적"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 비밀번호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국의 선거 결과만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민이 올린 생활 불편 관련 글"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 조사하는 방법으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민과 면담한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 숨긴다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자료를 보지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과를 먼저 정한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 해결하기 전에 먼저 알아야 하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축제 이름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제가 일어난 원인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨 예보만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 지역의 인구만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제의 원인을 알아보기 위해 필요한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람의 추측만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광고 문구만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 자료"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정답을 미리 정한 표"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안이 여러 개 나왔을 때 해야 할 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "첫 번째 방안만 무조건 선택한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "토의하지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 방안을 버린다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "각 해결 방안의 장단점을 비교한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안을 정할 때 바람직한 의사소통 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대화와 타협"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명령과 강요"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "침묵"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안 평가 기준으로 교과서에 제시되지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "효과가 큰가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "글씨 색이 예쁜가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비용이 적게 드는가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실천할 수 있는가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시원이네 학급이 해결할 지역문제로 정한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 오염 문제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산불 문제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주차 문제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국경 문제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주차 문제 해결을 위해 시청 게시판에 제안한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 운동장 폐쇄"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 자동차 통행 금지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새 공항 건설"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오후 6시 이후 공공 기관 주차장 개방"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불법 주차 문제를 줄이려고 주민들과 함께 한 활동은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불법 주차 위험성을 알리는 캠페인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 판매"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교과서 만들기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결 방안을 정한 다음 해야 할 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인을 잊는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구체적인 계획을 세워 실천한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민에게 알리지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 다른 지역에 넘긴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결을 위해 주민과 함께 힘을 모아야 하는 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외 관광객만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 방송부만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공공 기관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 가게 한 곳만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공공 기관의 협조를 구할 때 작성할 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성적표"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일기장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조리법"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제안서에 포함될 내용으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안한 까닭"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "게임 점수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 비밀"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋아하는 색"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 해결하는 데 꾸준히 노력해야 하는 주체는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민 모두"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광객만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 한 명만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공익 광고 영상을 기획할 때 가장 먼저 하는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영상을 먼저 게시한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배경음만 정한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해결하고 싶은 지역문제와 해결 방안을 정한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 숨긴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결을 위한 공익 광고의 목적으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역문제를 더 크게 만들기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사실을 숨기기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민의 의견을 막기 위해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제와 해결 방안을 알리고 참여를 이끌기 위해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민의 생활을 불편하게 하거나 주민 사이에 갈등을 일으키는 문제를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "지역문제"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제가 있는지 알아보려면 지역에서 일어나는 일에 무엇을 가져야 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "관심"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 알아보기 위해 지역 주민을 만나 이야기를 듣는 조사 방법은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "면담"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 해결하려면 먼저 문제가 일어난 무엇을 알아야 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "원인"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 해결 방안의 좋은 점과 아쉬운 점을 함께 나타내는 말을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "장단점"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 다른 의견을 조정해 해결 방안을 정할 때 필요한 방법 중, 서로 의견을 주고받는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "대화"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 조금씩 양보하여 의견을 조정하는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "타협"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시원이네 학급이 해결하려고 정한 지역문제는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "주차 문제"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저녁 시간대 공공 기관 주차장 개방을 요청하기 위해 작성한 글의 형식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "제안서"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해결 방안을 정한 뒤에는 구체적인 계획을 세워 무엇해야 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "실천"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제를 주민과 함께 해결하도록 협조를 요청할 수 있는 곳은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "공공 기관"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불법 주차의 위험성을 주민에게 알리기 위해 한 활동은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "캠페인"
+      }
+    },
+    {
+      "questionId": "legacy-a5ef776b562e95:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역문제 해결 방안을 널리 알리기 위해 만드는 광고를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a5ef776b562e95:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "공익 광고"
+      }
+    }
+  ]
+}

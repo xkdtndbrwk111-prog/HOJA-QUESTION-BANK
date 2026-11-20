@@ -1,0 +1,4286 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-8e67c75631d294",
+  "revision": 1,
+  "title": "기초어휘",
+  "metadata": {
+    "grade": "common",
+    "subject": "문해력",
+    "status": "legacy",
+    "sourceSheet": "기타-문해력-기초어휘"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-8e67c75631d294:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버스 시간이 얼마 남지 않아 민수는 가방을 들고 급하게 집을 나섰습니다. 민수의 행동을 나타내는 말로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서두르다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머뭇거리다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차근차근하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아버지가 무거운 상자를 옮기자 지우가 옆에서 함께 들어 주었습니다. 지우의 행동을 나타내는 말은? 제시한 답을 '거들다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-8e67c75631d294:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아버지가 무거운 상자를 옮기자 지우가 옆에서 함께 들어 주었습니다. 지우의 행동을 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-8e67c75631d294:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거들다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "챙기다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살피다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소풍 전날 준비물을 하나씩 확인해 가방에 넣었습니다. 이 행동을 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "챙기다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "놓치다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미루다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "헤아리다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강아지가 다친 곳은 없는지 몸을 자세히 보았습니다. 알맞은 말은? 제시한 답을 '둘러보다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-8e67c75631d294:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강아지가 다친 곳은 없는지 몸을 자세히 보았습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-8e67c75631d294:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살피다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘러보다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "챙기다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈치채다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 이야기를 듣고 나서 내가 오해했다는 사실을 알게 되었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "깨닫다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짐작하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "떠올리다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈치채다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무도 말하지 않았지만 교실이 평소보다 조용한 것을 보고 무슨 일이 있음을 알았습니다. 알맞은 말은? 제시한 답을 '알아차리다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-8e67c75631d294:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무도 말하지 않았지만 교실이 평소보다 조용한 것을 보고 무슨 일이 있음을 알았습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-8e67c75631d294:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알아차리다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짐작하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살피다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "떠올리다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사진을 보자 작년 운동회에서 있었던 일이 생각났습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-8e67c75631d294:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "떠올리다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나누다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:12",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사진을 보자 작년 운동회에서 있었던 일이 생각났습니다. 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-8e67c75631d294:q_0007",
+      "answer": {
+        "text": "떠올리다"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "약속 시간이 다가오자 형이 동생에게 빨리 준비하라고 여러 번 말했습니다. 알맞은 말은? 제시한 답을 '권하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-8e67c75631d294:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "약속 시간이 다가오자 형이 동생에게 빨리 준비하라고 여러 번 말했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-8e67c75631d294:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부탁하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "창밖의 먹구름을 보고 곧 비가 올 것 같다고 생각했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짐작하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "확인하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기록하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경기 전 연습 모습을 보고 어느 팀이 잘할지 미리 생각해 보았습니다. 알맞은 말은? 제시한 답을 '예상하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-8e67c75631d294:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경기 전 연습 모습을 보고 어느 팀이 잘할지 미리 생각해 보았습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-8e67c75631d294:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "예상하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기록하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발견하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나열하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구들이 몰래 준비했지만 표정을 보고 깜짝 파티가 있다는 것을 알아버렸습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈치채다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거들다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보태다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 달 동안 연습한 곡을 끝까지 연주하고 나니 스스로 자랑스럽고 만족스러웠습니다. 이 마음은? 제시한 답을 '억울하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-8e67c75631d294:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 달 동안 연습한 곡을 끝까지 연주하고 나니 스스로 자랑스럽고 만족스러웠습니다. 이 마음은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-8e67c75631d294:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뿌듯하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "억울하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서운하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친한 친구가 내 생일을 기억하지 못해 마음이 섭섭했습니다. 가장 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서운하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뿌듯하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다정하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경기가 재미있었지만 종료 시간이 되어 더 하지 못했습니다. 이 마음은? 제시한 답을 '아쉽다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-8e67c75631d294:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경기가 재미있었지만 종료 시간이 되어 더 하지 못했습니다. 이 마음은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-8e67c75631d294:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아쉽다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "억울하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대견하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경기가 재미있었지만 종료 시간이 되어 더 하지 못했습니다. 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-8e67c75631d294:q_0014",
+      "answer": {
+        "text": "아쉽다"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열심히 만든 작품이 실수로 망가져 마음이 좋지 않았습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "속상하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다정하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선뜻"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하지 않은 장난 때문에 내가 꾸중을 들었습니다. 이때 느끼기 알맞은 감정은? 제시한 답을 '뿌듯하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-8e67c75631d294:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하지 않은 장난 때문에 내가 꾸중을 들었습니다. 이때 느끼기 알맞은 감정은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-8e67c75631d294:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "억울하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뿌듯하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대견하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발표를 시작하려는데 준비한 자료가 갑자기 보이지 않아 어찌할 바를 몰랐습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당황하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다정하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야무지다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동생이 어려운 일을 스스로 해내는 모습을 보니 마음이 기쁘고 만족스러웠습니다. 알맞은 말은? 제시한 답을 '흐뭇하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-8e67c75631d294:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "동생이 어려운 일을 스스로 해내는 모습을 보니 마음이 기쁘고 만족스러웠습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-8e67c75631d294:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흐뭇하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "억울하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서운하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다리가 불편한 친구가 지나가도록 길을 비켜 주었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배려하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오해하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버스에서 할머니께 내 자리를 내어 드렸습니다. 알맞은 말은? 제시한 답을 '재촉하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-8e67c75631d294:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버스에서 할머니께 내 자리를 내어 드렸습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-8e67c75631d294:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양보하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주장하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내 생각과 달라도 친구의 의견을 끝까지 듣고 소중하게 받아들였습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-8e67c75631d294:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "존중하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오해하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무시하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:35",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내 생각과 달라도 친구의 의견을 끝까지 듣고 소중하게 받아들였습니다. 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-8e67c75631d294:q_0021",
+      "answer": {
+        "text": "존중하다"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모둠 친구들이 역할을 나누고 힘을 합쳐 과제를 끝냈습니다. 알맞은 말은? 제시한 답을 '협력하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-8e67c75631d294:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모둠 친구들이 역할을 나누고 힘을 합쳐 과제를 끝냈습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-8e67c75631d294:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "협력하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양보하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배려하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "타협하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 내 생각을 받아들일 수 있도록 이유를 들어 차근차근 설명했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설득하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명령하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학급 회의에서 '운동장 쓰레기를 함께 줍자'라는 생각을 내놓았습니다. 알맞은 말은? 제시한 답을 '권하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-8e67c75631d294:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학급 회의에서 '운동장 쓰레기를 함께 줍자'라는 생각을 내놓았습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-8e67c75631d294:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "권하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부탁하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주장하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 속상했던 일을 이야기하자 그 마음을 이해하며 함께 마음 아파했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공감하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이해하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인정하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배려하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "맡은 일을 빠뜨리지 않고 끝까지 해내는 친구를 보고 느낄 수 있는 말은? 제시한 답을 '믿음직하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-8e67c75631d294:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "맡은 일을 빠뜨리지 않고 끝까지 해내는 친구를 보고 느낄 수 있는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-8e67c75631d294:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "믿음직하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무뚝뚝하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서운하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 따뜻한 말을 건네고 친절하게 대해 주는 모습을 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다정하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "억울하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무뚝뚝하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:45",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 작은 실수를 화내지 않고 이해해 주었습니다. 알맞은 말은? 제시한 답을 '성급하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-8e67c75631d294:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 작은 실수를 화내지 않고 이해해 주었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-8e67c75631d294:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "너그럽다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성급하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무뚝뚝하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 작은 실수를 화내지 않고 이해해 주었습니다. 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-8e67c75631d294:q_0028",
+      "answer": {
+        "text": "너그럽다"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "준비물을 스스로 챙기고 맡은 일도 빈틈없이 해내는 모습을 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 48
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야무지다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "난처하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서운하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성급하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:49",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "잠든 아기를 깨우지 않으려고 소리를 내지 않고 조심스럽게 걸었습니다. 알맞은 말은? 제시한 답을 '살금살금'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-8e67c75631d294:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:50",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "잠든 아기를 깨우지 않으려고 소리를 내지 않고 조심스럽게 걸었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-8e67c75631d294:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살금살금"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성큼성큼"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "허둥지둥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우물쭈물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "긴 다리로 큰 걸음을 내디디며 거침없이 걸어갔습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 51
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성큼성큼"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살금살금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우물쭈물"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차근차근"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지각할 것 같아 정신없이 가방을 챙기며 뛰어나갔습니다. 알맞은 말은? 제시한 답을 '차근차근'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-8e67c75631d294:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:53",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지각할 것 같아 정신없이 가방을 챙기며 뛰어나갔습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-8e67c75631d294:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "허둥지둥"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차근차근"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "살금살금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이따금"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "복잡한 문제를 순서대로 하나씩 해결했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 54
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차근차근"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "허둥지둥"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우물쭈물"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성큼성큼"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:55",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시험을 다 푼 뒤 빠뜨린 것이 없는지 자세하고 빈틈없이 확인했습니다. 알맞은 말은? 제시한 답을 '꼼꼼히'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-8e67c75631d294:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:56",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시험을 다 푼 뒤 빠뜨린 것이 없는지 자세하고 빈틈없이 확인했습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-8e67c75631d294:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꼼꼼히"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대충"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문득"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이따금"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘은 평소보다 바람이 특별히 더 세게 붑니다. 이때 '유난히'는 어떤 뜻으로 쓰였나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-8e67c75631d294:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평소보다 특별히 더"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조금씩 천천히"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가끔 한 번씩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "처음부터 끝까지 계속"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘은 평소보다 바람이 특별히 더 세게 붑니다. 이때 '유난히'는 어떤 뜻으로 쓰였나요? 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-8e67c75631d294:q_0035",
+      "answer": {
+        "text": "평소보다 특별히 더"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "마감 시간이 되기 바로 전에 어렵게 과제를 끝냈습니다. 알맞은 말은? 제시한 답을 '선뜻'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-8e67c75631d294:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "마감 시간이 되기 바로 전에 어렵게 과제를 끝냈습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-8e67c75631d294:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간신히"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선뜻"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "줄곧"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문득"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:61",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "길을 걷다가 갑자기 어제 잊어버린 일이 생각났습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 61
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문득"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "줄곧"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꼼꼼히"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차근차근"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "매일은 아니지만 가끔 할머니 댁에 갑니다. '가끔'과 가까운 말은? 제시한 답을 '이따금'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-8e67c75631d294:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "매일은 아니지만 가끔 할머니 댁에 갑니다. '가끔'과 가까운 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-8e67c75631d294:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이따금"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "줄곧"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유난히"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간신히"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:64",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아침부터 저녁까지 쉬지 않고 계속 비가 내렸습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 64
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "줄곧"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이따금"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문득"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선뜻"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "길이 젖은 까닭이 밤새 내린 비라면, '밤새 내린 비'에 해당하는 것은? 제시한 답을 '결과'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-8e67c75631d294:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "길이 젖은 까닭이 밤새 내린 비라면, '밤새 내린 비'에 해당하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-8e67c75631d294:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의견"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:67",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "밤새 비가 내려 운동장이 젖었습니다. '운동장이 젖은 것'에 해당하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 67
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방법"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "종이비행기를 더 멀리 날리기 위해 접는 방식을 바꾸었습니다. 여기서 '접는 방식'에 해당하는 말은? 제시한 답을 '방법'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-8e67c75631d294:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "종이비행기를 더 멀리 날리기 위해 접는 방식을 바꾸었습니다. 여기서 '접는 방식'에 해당하는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-8e67c75631d294:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방법"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의견"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "종이비행기를 더 멀리 날리기 위해 접는 방식을 바꾸었습니다. 여기서 '접는 방식'에 해당하는 말은? 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-8e67c75631d294:q_0042",
+      "answer": {
+        "text": "방법"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:71",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "라면을 끓일 때 무엇을 먼저 하고 다음에 무엇을 하는지 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 71
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "특징"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의견"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:72",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기린은 목이 길다는 점처럼 다른 대상과 구별되는 두드러진 점을 무엇이라고 하나요? 제시한 답을 '순서'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-8e67c75631d294:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:73",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기린은 목이 길다는 점처럼 다른 대상과 구별되는 두드러진 점을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-8e67c75631d294:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "특징"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방법"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:74",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고래와 돌고래가 모두 새끼를 낳는 것처럼 두 대상에서 서로 같은 점을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 74
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공통점"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차이점"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:75",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연필은 지울 수 있지만 볼펜은 쉽게 지울 수 없다는 것처럼 서로 다른 점을 무엇이라고 하나요? 제시한 답을 '차이점'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-8e67c75631d294:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:76",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연필은 지울 수 있지만 볼펜은 쉽게 지울 수 없다는 것처럼 서로 다른 점을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-8e67c75631d294:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차이점"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공통점"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:77",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 반도 아침 독서 시간을 늘리면 좋겠다.'와 같이 어떤 일에 대한 생각을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 77
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의견"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사실"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:78",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 '사실'에 해당하는 것은? 제시한 답을 '우리 학교가 세상에서 가장 멋지다.'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-8e67c75631d294:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:79",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 '사실'에 해당하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-8e67c75631d294:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지구는 태양 주위를 돈다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리 학교가 세상에서 가장 멋지다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름보다 겨울이 더 좋다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "급식은 매일 맛있어야 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:80",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "콩을 심은 뒤 매일 잎의 수와 크기가 어떻게 변하는지 자세히 살펴 기록했습니다. 이 활동을 나타내는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-8e67c75631d294:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관찰"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추측"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "분류"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:81",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "콩을 심은 뒤 매일 잎의 수와 크기가 어떻게 변하는지 자세히 살펴 기록했습니다. 이 활동을 나타내는 말은? 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-8e67c75631d294:q_0049",
+      "answer": {
+        "text": "관찰"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:82",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발표를 준비하며 책, 사진, 표에서 필요한 내용을 모았습니다. 이렇게 판단이나 설명에 이용하는 내용을 무엇이라고 하나요? 제시한 답을 '자료'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-8e67c75631d294:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:83",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발표를 준비하며 책, 사진, 표에서 필요한 내용을 모았습니다. 이렇게 판단이나 설명에 이용하는 내용을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-8e67c75631d294:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자료"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기분"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약속"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "날씨 앱에서 오늘 기온과 비가 올 가능성을 확인했습니다. 이렇게 어떤 대상에 대해 알 수 있는 내용을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0051",
+        "sourceBundleId": "q_0051",
+        "sourceRow": 84
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정보"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "감정"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약속"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:85",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 규칙을 이해할 수 있도록 방법과 까닭을 알기 쉽게 말해 주었습니다. 알맞은 말은? 제시한 답을 '거절'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0052",
+        "sourceBundleId": "q_0052",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-8e67c75631d294:q_0052",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:86",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 규칙을 이해할 수 있도록 방법과 까닭을 알기 쉽게 말해 주었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0052",
+        "sourceBundleId": "q_0052",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-8e67c75631d294:q_0052",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명령"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자신의 생각이나 느낌을 말, 글, 그림 등으로 나타내는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0053",
+        "sourceBundleId": "q_0053",
+        "sourceRow": 87
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "표현"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "결과"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:88",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과일에는 사과와 배가 들어간다.'에서 사과와 배를 과일의 범위 안에 함께 넣는다는 뜻의 말은? 제시한 답을 '포함하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0054",
+        "sourceBundleId": "q_0054",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-8e67c75631d294:q_0054",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:89",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과일에는 사과와 배가 들어간다.'에서 사과와 배를 과일의 범위 안에 함께 넣는다는 뜻의 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0054",
+        "sourceBundleId": "q_0054",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-8e67c75631d294:q_0054",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "포함하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제외하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재촉하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모든 학생이 참가하지만 이미 대회에 나간 학생은 대상에서 뺀다고 합니다. '대상에서 빼다'에 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0055",
+        "sourceBundleId": "q_0055",
+        "sourceRow": 90
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제외하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "포함하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연결하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배려하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:91",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 관계있는 낱말과 뜻을 선으로 이어 짝을 만들었습니다. 알맞은 말은? 제시한 답을 '제외하다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0056",
+        "sourceBundleId": "q_0056",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-8e67c75631d294:q_0056",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:92",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 관계있는 낱말과 뜻을 선으로 이어 짝을 만들었습니다. 알맞은 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0056",
+        "sourceBundleId": "q_0056",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-8e67c75631d294:q_0056",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연결하다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제외하다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절하다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나열하다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:93",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 관계있는 낱말과 뜻을 선으로 이어 짝을 만들었습니다. 알맞은 낱말이나 표현을 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0056",
+        "sourceBundleId": "q_0056",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-8e67c75631d294:q_0056",
+      "answer": {
+        "text": "연결하다"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:94",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연락이 없던 동생이 무사히 집에 도착했다는 말을 듣고 걱정을 덜었습니다. 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0057",
+        "sourceBundleId": "q_0057",
+        "sourceRow": 94
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 먹다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "입을 모으다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "매일 아침 일찍 일어나 운동하기로 굳게 결심했습니다. 알맞은 표현은? 제시한 답을 '마음을 먹다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0058",
+        "sourceBundleId": "q_0058",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-8e67c75631d294:q_0058",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "매일 아침 일찍 일어나 운동하기로 굳게 결심했습니다. 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0058",
+        "sourceBundleId": "q_0058",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-8e67c75631d294:q_0058",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 먹다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀에 익다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:97",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 발표를 놓치지 않으려고 주의 깊게 들었습니다. 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0059",
+        "sourceBundleId": "q_0059",
+        "sourceRow": 97
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀를 기울이다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에 띄다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "입을 모으다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "많은 작품 가운데 색과 모양이 독특한 작품 하나가 특히 두드러져 보였습니다. 알맞은 표현은? 제시한 답을 '귀에 익다'이라고 하면 알맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0060",
+        "sourceBundleId": "q_0060",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-8e67c75631d294:q_0060",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "많은 작품 가운데 색과 모양이 독특한 작품 하나가 특히 두드러져 보였습니다. 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0060",
+        "sourceBundleId": "q_0060",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-8e67c75631d294:q_0060",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에 띄다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀에 익다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손에 익다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 놓다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8e67c75631d294:100",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "무거운 책장을 옮기기 위해 여러 친구가 함께 노력했습니다. 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8e67c75631d294:q_0061",
+        "sourceBundleId": "q_0061",
+        "sourceRow": 100
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "힘을 모으다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손을 놓다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "입이 가볍다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마음을 돌리다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

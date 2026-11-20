@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-e74ecb7f3eb0f7",
+  "revision": 1,
+  "title": "교통의 변화로 달라진 생활 모습",
+  "metadata": {
+    "grade": 3,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "3학년-사회-교통의 변화로 달라진 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 사람들은 다른 곳으로 가거나 물건을 옮길 때 주로 걸어서 이동했지만 교통수단도 이용했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이나 물건이 한 장소에서 다른 장소로 이동하는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍습"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 많이 다녀 자연스럽게 생긴 길이나 강처럼 이동에 이용하는 길을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "text": "교통로"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 교통수단을 움직이게 한 힘으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람의 힘"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물의 힘"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바람의 힘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 교통수단은 주로 석유와 전기의 힘으로 움직였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가마를 들어 사람을 옮기던 사람을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "text": "가마꾼"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소나 말이 끄는 수레로 무거운 짐을 옮기던 교통수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나룻배"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "달구지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뗏목"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 사람들은 사람들이 많이 다녀 자연스럽게 생긴 길이나 강을 교통로로 이용했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람과 짐을 싣고 사람이 노를 저어 강 양쪽을 오가던 교통수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돛단배"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비행기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나룻배"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강이나 바다에서 배를 저어 사람과 물건을 나르던 직업을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "text": "뱃사공"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가마는 가마꾼이 사람을 태운 가마를 들어 옮기는 교통수단이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통나무 여러 개를 이어 붙여 만들고 긴 막대기로 밀어 움직인 교통수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뗏목"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자동차"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열차"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자동차에 연료를 넣는 시설을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "text": "주유소"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "먼 거리를 이동하거나 빨리 갈 때 옛날 사람들이 이용한 동물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "닭"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고양이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "돛단배는 바람의 힘을 이용해 움직였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자동차를 고치고 점검하는 시설을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "text": "자동차 정비소"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바람의 힘을 이용해 강이나 바다를 건넌 옛날 교통수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "달구지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돛단배"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과학 기술의 발달로 기계의 힘으로 움직이는 기차, 배, 자동차, 비행기 등이 나타났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 교통수단에서 많이 사용하는 힘으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람의 힘만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물의 힘만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바람의 힘만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기계의 힘"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여행 중 운전자가 쉬어 갈 수 있는 도로의 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "answer": {
+        "text": "휴게소"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 교통수단이 발달하면서 한 번에 나를 수 있는 짐의 양은 옛날보다 줄었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 교통수단과 관련 시설의 연결로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차-기차역"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "버스-공항"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비행기-지하철역"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배-자동차 정비소"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "버스를 타고 내리거나 갈아타는 큰 시설을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "answer": {
+        "text": "버스 터미널"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비행기가 뜨고 내리는 데 필요한 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도 건널목"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "활주로"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴게소"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "버스 터미널"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날에는 도로, 철도, 다리, 지하 도로, 역, 터미널 같은 교통 시설이 생겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통수단을 이용하는 사람들이 안전하게 따르도록 만든 것을 통틀어 교통 신호와 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "answer": {
+        "text": "약속"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "배가 항구에서 다니는 길을 확인하는 데 도움을 주는 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주유소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기차역"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "등대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지하철역"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통수단이 다양해지면서 안전을 위한 신호와 약속은 필요 없어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기차가 지나갈 때를 알려 주는 신호 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복조리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나발"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도 건널목 신호기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "배나 항공기 등이 안전하게 다니도록 돕는 교통 관련 직업 중 배의 운항을 안내하는 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "answer": {
+        "text": "도선사"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통의 발달로 사람들의 생활 공간은 더 넓어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통의 변화로 나타난 생활 모습으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "먼 곳까지 더 빠르고 편하게 갈 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 번에 나르는 짐이 줄었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가기 어려운 곳은 더 가기 어려워졌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활 공간이 좁아졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물건을 집이나 회사로 배달하는 교통 관련 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "answer": {
+        "text": "택배 기사"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통의 변화로 새로 생긴 직업으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마꾼"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항공기 조종사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뱃사공"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파발꾼"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통의 변화로 항공기 조종사나 자동차 정비사 같은 직업이 새로 생기기도 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기차를 운전하는 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "answer": {
+        "text": "철도 기관사"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통의 변화로 거의 사라진 직업으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자동차 정비사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도 기관사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마꾼"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항공 정비사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통이 발달하면서 가마꾼이나 뱃사공 같은 직업은 오히려 더 많아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통 문제를 해결하기 위한 노력으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보행자를 위한 교통 시설을 개발한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 정보를 빠르게 제공한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친환경 에너지를 사용한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통사고 정보를 숨긴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비행기의 안전한 운항을 위해 비행기를 점검하고 고치는 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "항공 정비사"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통이 발달하면 교통 혼잡이나 환경 오염 같은 문제는 절대로 생기지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전기 자전거 공유 사업의 효과로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미세 먼지를 줄이고 건강과 여가 생활에 도움을 준다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 혼잡을 늘린다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자전거 전용 도로를 없앤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 오염을 늘린다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 사람이 함께 이용하는 자전거를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "공유 자전거"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전기의 힘으로 공중에 떠서 이동하는 미래 교통수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초고속 자기 부상 열차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뗏목"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "달구지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통 문제 해결을 위해 친환경 에너지를 사용하는 교통수단을 이용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "300~600m 높이의 하늘을 교통로로 삼는 미래 교통 체계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도 교통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수상 교통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도심 항공 교통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보행 교통"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전기 자전거 공유 사업은 교통 혼잡과 환경 문제를 줄이는 데 도움을 줄 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도심 항공 교통수단의 장점으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석유를 매우 많이 사용한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반드시 넓은 도로가 필요하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "땅에서만 움직인다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공해와 소음이 적고 교통 혼잡을 줄일 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미래 교통수단은 오직 더 빠르게 이동하는 방향으로만 발전한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-e74ecb7f3eb0f7:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도심 항공 교통수단은 하늘을 교통로로 이용할 수 있어 땅의 교통 혼잡을 줄이는 데 도움이 될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-e74ecb7f3eb0f7:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

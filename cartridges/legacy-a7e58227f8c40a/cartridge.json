@@ -1,0 +1,1535 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-a7e58227f8c40a",
+  "revision": 1,
+  "title": "수수께끼와 넌센스",
+  "metadata": {
+    "grade": "common",
+    "subject": "FUN",
+    "status": "legacy",
+    "sourceSheet": "기타-FUN-수수께끼와 넌센스"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-a7e58227f8c40a:2",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "남을 말릴수록 나는 점점 더 젖어요. 나는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "answer": {
+        "text": "수건"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몸에 구멍이 아주 많은데도 물을 잘 머금을 수 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 3
+      },
+      "answer": {
+        "text": "스펀지"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나에게서 무언가를 가져갈수록 나는 점점 더 커져요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 4
+      },
+      "answer": {
+        "text": "구멍"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "손가락이 다섯 개 있지만 손은 아니에요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 5
+      },
+      "answer": {
+        "text": "장갑"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이가 아주 많지만 음식을 먹지는 못해요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 6
+      },
+      "answer": {
+        "text": "빗"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "눈이 하나 있지만 아무것도 볼 수 없어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 7
+      },
+      "answer": {
+        "text": "바늘"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:8",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "목은 있지만 머리는 없어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 8
+      },
+      "answer": {
+        "text": "병"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내가 웃으면 웃고, 찡그리면 함께 찡그려요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 9
+      },
+      "answer": {
+        "text": "거울"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람의 말을 따라하기만 하고 스스로는 말을 못해요. 나는 누구 일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 10
+      },
+      "answer": {
+        "text": "메아리"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "길도 있고 도시도 있고 강도 있지만 자동차도 사람도 없어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 11
+      },
+      "answer": {
+        "text": "지도"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:12",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 손이 계속 움직이지만 아무것도 잡지 못해요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 12
+      },
+      "answer": {
+        "text": "시계"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비가 오면 활짝 펴지고, 비가 그치면 다시 작아져요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 13
+      },
+      "answer": {
+        "text": "우산"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "집을 등에 지고 어디든 함께 다녀요. 누구일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 14
+      },
+      "answer": {
+        "text": "달팽이"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "줄에 붙잡혀 있어야 오히려 하늘 높이 날 수 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 15
+      },
+      "answer": {
+        "text": "연"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계속 늘어나지만 다시 줄어들지는 않아요. 사람마다 하나씩 있는 이것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 16
+      },
+      "answer": {
+        "text": "나이"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 먹으면 오히려 죽어 버려요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 17
+      },
+      "answer": {
+        "text": "불"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:18",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "깨뜨려야 비로소 속을 사용할 수 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 18
+      },
+      "answer": {
+        "text": "달걀"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온 세상을 여행하면서도 늘 봉투 한쪽 구석에 붙어 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 19
+      },
+      "answer": {
+        "text": "우표"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:20",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "밝은 곳에서 나를 따라다니지만 잡을 수는 없어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 20
+      },
+      "answer": {
+        "text": "그림자"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사용할수록 몸이 점점 짧아져요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 21
+      },
+      "answer": {
+        "text": "연필,초,지우개"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공기만 먹어도 배가울러요. 나는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 22
+      },
+      "answer": {
+        "text": "풍선"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:23",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "밤네는 잘 보이지만 낮에는 잘 보이지 않아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 23
+      },
+      "answer": {
+        "text": "별, 달"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저는 매일 밤 커졌다가 작아졌다 해요. 누구일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 24
+      },
+      "answer": {
+        "text": "달"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들은 저를 좋아하지만 저는 부끄럼이 많아서 비가와야지만 모습을 보여줘요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 25
+      },
+      "answer": {
+        "text": "무지개"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:26",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리를 한 번에 꼭 두 번씩 놀라게 해요.나는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 26
+      },
+      "answer": {
+        "text": "번개"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하늘을 떠다니다가 때로는 비나 눈을 내려요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 27
+      },
+      "answer": {
+        "text": "구름"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "따듯하게 해주면 부끄러워서 사라져버려요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 28
+      },
+      "answer": {
+        "text": "얼음"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:29",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나오고 싶어서 계속 발버둥치지만 나오지 못해요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 29
+      },
+      "answer": {
+        "text": "파도"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:30",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "만질 수는 없지만 얼굴과 피부로 느낄 수 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 30
+      },
+      "answer": {
+        "text": "바람"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "새이지만 하늘을 날기보다 물속을 헤엄치는 데 더 능숙해요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 31
+      },
+      "answer": {
+        "text": "펭귄"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:32",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나는 새도 곤충도 아니지만 날 수 있어요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 32
+      },
+      "answer": {
+        "text": "박쥐"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:33",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구를 만나면 껴안거나 싸우기만해요. 나는 누구일까요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 33
+      },
+      "answer": {
+        "text": "자석"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "얼굴은 여섯 개이고 그 얼굴의 점을 모두 세면 스물한 개예요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 34
+      },
+      "answer": {
+        "text": "주사위"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:35",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 눈 앞에 있지만 스스로는 아무것도 보지 못해요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 35
+      },
+      "answer": {
+        "text": "안경"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:36",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이 사이를 매일 돌아다니지만 음식을 먹지는 않아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 36
+      },
+      "answer": {
+        "text": "칫솔"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몸을 씻겨 줄수록 자기 몸은 점점 작아져요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 37
+      },
+      "answer": {
+        "text": "비누"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:38",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 저를 좋아하지만 저를 만지면 사라지고 말아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 38
+      },
+      "answer": {
+        "text": "눈"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전 바퀴와 다리가가 없지만 꽤나 빠르게 달릴수 있어요. 땅에서는 못달려요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "배"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "길 위에서 모든 사람들과 자동차들이 제 얼굴만 쳐다봐요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "신호등"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무리 빠른 자동차도 여기서는 멈춰야해요.  무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "횡단보도"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무리 예쁘고 잘 만들어도 1년이 지나면 아무도 쳐다보지 않아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "달력"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정말 많은 이야기를 알고 있지만 절대 스스로는 말하지는 않아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0051",
+        "sourceBundleId": "q_0051",
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "책"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 억울한 도형은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0052",
+        "sourceBundleId": "q_0052",
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "원통"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이 갑자기 가장 무거워지는 때는 언제일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0053",
+        "sourceBundleId": "q_0053",
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "철들 때"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 뜨거운 복숭아는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0054",
+        "sourceBundleId": "q_0054",
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "천도복숭아"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "숫자 8이 화가 나면 뭐라고 할까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0055",
+        "sourceBundleId": "q_0055",
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "에잇!"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "병아리가 아플때 먹이는 약은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0056",
+        "sourceBundleId": "q_0056",
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "삐약"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중학생과 고등학생이 함께 타는 차는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0057",
+        "sourceBundleId": "q_0057",
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "중고차"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "말은 말인데 사람이 탈 수 없는 말은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0058",
+        "sourceBundleId": "q_0058",
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "거짓말(비슷한면 인정)"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 뜨거운 전화는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0060",
+        "sourceBundleId": "q_0060",
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "화상전화"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강아지가 좋아할 것 같은 이름의 풀은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0061",
+        "sourceBundleId": "q_0061",
+        "sourceRow": 52
+      },
+      "answer": {
+        "text": "강아지풀"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:53",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무리 많이 먹어도 배부르지 않은 '먹기'는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0062",
+        "sourceBundleId": "q_0062",
+        "sourceRow": 53
+      },
+      "answer": {
+        "text": "마음먹기"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:54",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람이 먹을 수 없는 밥은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0063",
+        "sourceBundleId": "q_0063",
+        "sourceRow": 54
+      },
+      "answer": {
+        "text": "톱밥"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 뜨거운 사람은 누구일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0065",
+        "sourceBundleId": "q_0065",
+        "sourceRow": 55
+      },
+      "answer": {
+        "text": "열받은 사람"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:56",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가장 급하게 만든 떡처럼 들리는 말은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0066",
+        "sourceBundleId": "q_0066",
+        "sourceRow": 56
+      },
+      "answer": {
+        "text": "헐레벌떡"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:57",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 쉬운 문은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0067",
+        "sourceBundleId": "q_0067",
+        "sourceRow": 57
+      },
+      "answer": {
+        "text": "소문"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 착한 사자는 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0068",
+        "sourceBundleId": "q_0068",
+        "sourceRow": 58
+      },
+      "answer": {
+        "text": "지원봉사자 (비슷하면 인정)"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:59",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세상에서 가장 뜨거운 산은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0069",
+        "sourceBundleId": "q_0069",
+        "sourceRow": 59
+      },
+      "answer": {
+        "text": "화산"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:60",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한눈을 판다는 말은 눈 한 개를 가게에서 판다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0071",
+        "sourceBundleId": "q_0071",
+        "sourceRow": 60
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:61",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발이 넓다는 말은 발의 크기가 커서 신발이 잘 찢어지는 사람을 의미한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0072",
+        "sourceBundleId": "q_0072",
+        "sourceRow": 61
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "입이 무겁다는 말은 입의 무게가 많이 나간다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0073",
+        "sourceBundleId": "q_0073",
+        "sourceRow": 62
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:63",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘천도복숭아’의 '천'은 숫자 천을 의미한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0077",
+        "sourceBundleId": "q_0077",
+        "sourceRow": 63
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1년 중 28일이 있는 달은 몇 개일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0078",
+        "sourceBundleId": "q_0078",
+        "sourceRow": 64
+      },
+      "answer": {
+        "text": "12개"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:65",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경주에서 서울까지 가는 ktx 기차가 있습니다. 서울에 도착하면 연기는 어느 쪽으로 날아갈까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0080",
+        "sourceBundleId": "q_0080",
+        "sourceRow": 65
+      },
+      "answer": {
+        "text": "KTX는 전기 기차라 연기가 안난다."
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:66",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비가 아주 많이 오는데 우산도 모자도 쓰지 않은 사람의 머리카락이 젖지 않았습니다. 왜일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0081",
+        "sourceBundleId": "q_0081",
+        "sourceRow": 66
+      },
+      "answer": {
+        "text": "실내에 있었다. 또는 대머리여서"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "방 안에 성냥, 촛불, 난로가 있습니다.  무엇을 가장 먼저 켜야 할까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0082",
+        "sourceBundleId": "q_0082",
+        "sourceRow": 67
+      },
+      "answer": {
+        "text": "성냥. 성냥을 안켜면 다른걸 켤 수 없다."
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:68",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어떤 사람이 금요일이라는 이름의 말을 타고 떠났다가 사흘 뒤 돌아왔습니다. 그가 타고 간 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0084",
+        "sourceBundleId": "q_0084",
+        "sourceRow": 68
+      },
+      "answer": {
+        "text": "말"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:69",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무리 달려도 제자리에서 빙글빙글 도는 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0085",
+        "sourceBundleId": "q_0085",
+        "sourceRow": 69
+      },
+      "answer": {
+        "text": "바퀴"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "얼굴과 뒷통수는 있지만 몸은 없는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0087",
+        "sourceBundleId": "q_0087",
+        "sourceRow": 70
+      },
+      "answer": {
+        "text": "동전"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:71",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아무리 세게 때려도 아프다고 하지 않고 소리만 지르는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0088",
+        "sourceBundleId": "q_0088",
+        "sourceRow": 71
+      },
+      "answer": {
+        "text": "북, 징같은 악기 종류"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:72",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "입은 있지만 말은 못 하고 건드리면 침만 뱉는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0089",
+        "sourceBundleId": "q_0089",
+        "sourceRow": 72
+      },
+      "answer": {
+        "text": "수도꼭지"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 번 지나가면 다시 되돌릴 수 없는 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0090",
+        "sourceBundleId": "q_0090",
+        "sourceRow": 73
+      },
+      "answer": {
+        "text": "시간"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:74",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다리는 네 개지만 걷지 못하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0092",
+        "sourceBundleId": "q_0092",
+        "sourceRow": 74
+      },
+      "answer": {
+        "text": "의자 또는 식탁"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:75",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "매일 아침 사람들을 깨우지만 자기는 잠을 자지 않아요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0093",
+        "sourceBundleId": "q_0093",
+        "sourceRow": 75
+      },
+      "answer": {
+        "text": "알람시계"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음식은 싫어하고 쓰레기만 받는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0094",
+        "sourceBundleId": "q_0094",
+        "sourceRow": 76
+      },
+      "answer": {
+        "text": "쓰레기통"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:77",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "손도 없는데 문을 열 수 있는 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0095",
+        "sourceBundleId": "q_0095",
+        "sourceRow": 77
+      },
+      "answer": {
+        "text": "열쇠"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:78",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "입도 배도 없는데 종이를 넣으면 글자나 그림이 찍혀 나와요. 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0096",
+        "sourceBundleId": "q_0096",
+        "sourceRow": 78
+      },
+      "answer": {
+        "text": "프린터"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계속 빙글빙글 돌지만 아무 데도 가지 않는 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0097",
+        "sourceBundleId": "q_0097",
+        "sourceRow": 79
+      },
+      "answer": {
+        "text": "팽이"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:80",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비가 와도 젖지 않고 눈이 와도 춥지 않은 사람은 누구일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0098",
+        "sourceBundleId": "q_0098",
+        "sourceRow": 80
+      },
+      "answer": {
+        "text": "사진 속 사람"
+      }
+    },
+    {
+      "questionId": "legacy-a7e58227f8c40a:81",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내가 말하기 전에는 나만 알고 있지만, 말하고 나면 다른 사람도 알게 되는 것은 무엇일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-a7e58227f8c40a:q_0099",
+        "sourceBundleId": "q_0099",
+        "sourceRow": 81
+      },
+      "answer": {
+        "text": "비밀"
+      }
+    }
+  ]
+}

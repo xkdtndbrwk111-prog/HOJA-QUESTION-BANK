@@ -1,0 +1,1349 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-ec3bd34a5e0c7e",
+  "revision": 1,
+  "title": "천재(함)-4단원 Whose Pen Is Thi",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-4단원 Whose Pen Is Thi"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이 펜이 누구의 것인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-ec3bd34a5e0c7e:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose pen is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose phone is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Is this your pen?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이 펜이 누구의 것인지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-ec3bd34a5e0c7e:q_0001",
+      "answer": {
+        "text": "Whose pen is this?"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저 병이 누구의 것인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose bottle is that?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose bottle is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What bottle is that?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Is that a phone?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이 필통이 누구의 것인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose pencil case is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose textbook is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose top is this?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose pen is that?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이 교과서가 누구의 것인지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose textbook is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose phone is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose bottle is that?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What textbook is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물건이 Jiho의 것이라고 답할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-ec3bd34a5e0c7e:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Jiho's."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's mine."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Jiho."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose is Jiho's?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:8",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물건이 Jiho의 것이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-ec3bd34a5e0c7e:q_0005",
+      "answer": {
+        "text": "It's Jiho's."
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물건이 자신의 것이라고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's mine."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's yours."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Mina's."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose phone is this?”는 이 전화기가 누구의 것인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It's mine.”은 그것이 내 것이라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Whose phone is this?” B: “It’s Aladdin’s.” 전화기의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Aladdin"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jasmine"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jiho"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tina"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Whose pen is that?” B: “It’s Jasmine’s.” 펜의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jasmine"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Aladdin"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mia"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jiho"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Whose bottle is that?” B: “No, it’s Noah’s phone.” B는 물건을 무엇이라고 바로잡았나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Noah's phone"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Noah's bottle"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Judy's phone"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Alex's bottle"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“No, it’s Noah’s phone.”에서 “No”는 앞의 잘못된 내용을 바로잡는 데 쓰였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Whose pencil case is this?” B: “It’s Juho’s.” 필통의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Juho"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jiho"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tina"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mia"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a black bag. It’s small and new.” 가방의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black, small, and new"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "green, big, and old"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black, big, and old"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "green, small, and new"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It has a bear key ring. Whose bag is this? It’s Ann’s.” 가방의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ann"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jack"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mia"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ben"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a black bag. It has a bear key ring.” 가방에 달린 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a bear key ring"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "an airplane key ring"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a rabbit key ring"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a phone"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It’s Ann’s. She likes animals.” 이 가방의 주인은 Ann이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 20
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a green bag. It’s big and old.” 가방의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "green, big, and old"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black, small, and new"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "green, small, and new"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black, big, and old"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It has an airplane key ring. Whose bag is that? It’s Jack’s.” 가방의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jack"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ann"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ben"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lisa"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a green bag. It has an airplane key ring.” 가방에 달린 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "an airplane key ring"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a bear key ring"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a flower key ring"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "a bottle"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It’s Jack’s. He likes airplanes.” 이 가방의 주인은 Ann이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 24
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a bottle. It’s small and new.” 물건의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "small and new"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "big and old"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "small and old"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "big and new"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a green bag. It’s big and new.” 글의 내용과 일치하는 가방은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록색이고 크며 새 가방"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초록색이고 작으며 헌 가방"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "검은색이고 크며 헌 가방"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "검은색이고 작으며 새 가방"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:27",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Here is a green bag. It’s big and new.”는 초록색이고 크며 새 가방을 설명한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 27
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Whose hand is this?” B: “It’s your tree.” 이 대화가 나오는 교과서의 특별 코너는 어떤 이야기인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오성과 한음 이야기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수박 축제 이야기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "포도 축제 이야기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑 이야기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“This tree is mine!”에서 “mine”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내 것"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "네 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그의 것"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그녀의 것"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose hand is this?”는 손이 누구의 것인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-ec3bd34a5e0c7e:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It’s mine.”은 그것이 다른 사람의 것이라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-ec3bd34a5e0c7e:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

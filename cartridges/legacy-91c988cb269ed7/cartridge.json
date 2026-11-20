@@ -1,0 +1,1598 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-91c988cb269ed7",
+  "revision": 1,
+  "title": "비상-8단원 What Time Do You Ge",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-비상-8단원 What Time Do You Ge"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-91c988cb269ed7:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 일어나는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go home?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you do?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How was your day?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 일어나는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0001",
+      "answer": {
+        "text": "What time do you get up?"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "7시에 일어난다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I get up at 7."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to bed at 7."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I get up 7."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have lunch at 7."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "7시에 일어난다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0002",
+      "answer": {
+        "text": "I get up at 7."
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 집에 가는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go home?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you have lunch?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where do you go home?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5시에 집에 간다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go home at five."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to school at five."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I do homework at five."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go home five."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 점심을 먹는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you have lunch?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go to bed?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you have?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How is your lunch?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몇 시에 잠자리에 드는지 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go to bed?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you go home?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where is your bed?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘 하루가 너무 바빴을 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What a busy day!"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time is it?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Have a busy day."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It was busy?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘 너무 바빴을 때 영어로 이야기 해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-91c988cb269ed7:q_0007",
+      "answer": {
+        "text": "What a busy day!"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What time do you get up?”는 몇 시에 일어나는지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I go home at five.”는 5시에 학교에 간다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시각을 나타내어 ‘~시에’라고 말할 때 시각 앞에 쓰는 낱말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "to"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What time do you get up?” B: “I get up at seven thirty.” B가 일어나는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "07:30"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "07:00"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "08:30"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "05:00"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “I get up at seven in the morning. I play basketball at ten.” Lucas가 일어나는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7 in the morning"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12:30"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “I play basketball at ten. I have lunch at twelve thirty.” 농구를 하는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12:30"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “I have lunch at twelve thirty. Then I do homework at three.” 점심을 먹는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12:30"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “Then I do homework at three. What a fun day!” 숙제를 하는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12:30"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “I get up at seven in the morning.” Lucas는 아침 7시에 일어난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucas says, “I play basketball at ten .” Lucas는 11시에 농구를 한다고 소개한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“She is a haenyeo from Jejudo. I’m at the beach in Jejudo.” Yujin의 직업은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해녀"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선생님"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상인"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “What time do you get up?” Yujin: “I get up at fout thirty.” Yujin이 일어나는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "04:30"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "05:00"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "02:00"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "07:00"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“In the summer, I go to work at five in the morning. I check the weather first.” 여름에 일을 시작하러 가는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5 in the morning"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "04:30"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2 in the afternoon"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7 in the morning"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I check the weather first. I take a boat and go to the sea.” 바다에 가기 전에 먼저 하는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨를 살핀다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식사를 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배에 기름을 넣는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낚시대를 확인한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I take a boat and go to the sea. I come back to the land at two in the afternoon.” 육지로 돌아오는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2 in the afternoon"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5 in the morning"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "04:30"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12:30"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Did you catch a lot today?” Yujin: “Yes, I did. My bag is full!” Yujin의 가방 상태는 어떤가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽉 찼다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비어있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잃어버렸다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Yujin says, “I get up at four thirty.” Yujin은 4시 30분에 일어난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Yujin says, “I come back to the land at two in the afternoon.” Yujin은 오전 2시에 육지로 돌아온다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“In the morning, I get up at seven. I exercise at eight.” 우주가 운동하는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "12"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise at eight. I watch the stars at nine.” 별을 보는 시각은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 학교에서 체스를 배우는 시간이 있다고 소개한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Armenia"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "France"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korea"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 오전 10시쯤 간식을 먹으며 쉬는 ‘모닝티’ 시간이 있다고 소개한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Armenia"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "France"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korea"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 점심시간이 1시간 30분에서 2시간으로 길다고 소개한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "France"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Armenia"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Korea"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서는 뉴질랜드 학교에 오전 10시쯤 간식을 먹으며 쉬는 모닝티 시간이 있다고 소개한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-91c988cb269ed7:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서는 프랑스 학교의 점심시간이 매우 짧다고 소개한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-91c988cb269ed7:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

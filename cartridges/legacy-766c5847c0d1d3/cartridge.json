@@ -1,0 +1,2208 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-766c5847c0d1d3",
+  "revision": 1,
+  "title": "YBM(김)-10단원 What Season Do",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-YBM(김)-10단원 What Season Do"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-766c5847c0d1d3:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘어떤 계절을 좋아하나요?’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What season do you like?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you think?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are you good at?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어떤 계절을 좋아하는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0001",
+      "answer": {
+        "text": "What season do you like?"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What season do you like?”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떤 계절을 좋아하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇이 되고 싶나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떻게 생각하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무엇을 잘하나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 가을을 좋아해요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like autumn."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like spring."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like summer."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like winter."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나는 가을을 좋아한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0003",
+      "answer": {
+        "text": "I like autumn."
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like autumn because I can see the colorful leaves.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알록달록한 나뭇잎을 볼 수 있어서 가을을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에서 놀 수 있어서 겨울을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서 여름을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃을 볼 수 있어서 봄을 좋아한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘아름다운 꽃을 볼 수 있어서 봄을 좋아해요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like spring because I can see the beautiful flowers."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like summer because I can swim in the sea."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like autumn because I can see the colorful leaves."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like winter because I can play in the snow."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아름다운 꽃을 볼 수 있어서 봄을 좋아한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0005",
+      "answer": {
+        "text": "I like spring because I can see the beautiful flowers."
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다에서 수영할 수 있어서 좋아하는 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "summer"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spring"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "autumn"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "winter"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "눈 속에서 놀 수 있어서 좋아하는 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "winter"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spring"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "summer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "autumn"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "알록달록한 나뭇잎을 볼 수 있어서 좋아하는 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "autumn"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spring"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "summer"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "winter"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아름다운 꽃을 볼 수 있어서 좋아하는 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "spring"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "summer"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "autumn"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "winter"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like autumn because I can go camping.” 가을을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스키를 탈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에서 놀 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like winter because I can go skiing.” 겨울을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스키를 탈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃을 볼 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like spring because the weather is warm.” 봄을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨가 따뜻해서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈이 와서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나뭇잎이 알록달록해서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스키를 탈 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "좋아하는 이유를 이어 말할 때 사용하는 말은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "because"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "but"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "and"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "or"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“because”는 좋아하는 이유를 이어 말할 때 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like summer because I can swim in the sea.”는 겨울을 좋아한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like spring because the birds sing in the morning.” 봄을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침에 새들이 노래해서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영해서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에서 놀아서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 가서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Summer is my favorite season. I like summer because I can swim in the sea.” 가장 좋아하는 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "같은 글에서 여름을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에서 놀 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃을 볼 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Thanks for saying that.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그렇게 말해 줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도와줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구해 줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "와 줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "누군가 좋은 말을 해 주었을 때 감사하는 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thanks for saying that."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have no idea."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I don’t think so."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you think?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Thanks for saying that.”은 상대방의 말에 감사를 나타낼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Thanks for helping me.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도와줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말해 줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "구해 줘서 고마워요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기다려 줘서 고마워요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘도와줘서 고마워요.’에 알맞은 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thanks for helping me."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Thanks for saying that."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I think so, too."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I have no idea."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gerda and Kai were good friends.” 두 사람의 관계는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 친구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "형제자매"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선생님과 학생"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "처음 만난 사람"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kai: I like summer because I can swim in the sea.” Kai가 처음 좋아한다고 말한 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "같은 문장에서 Kai가 여름을 좋아한 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈을 볼 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃을 볼 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Snow Queen was not happy with their smile. She took away Kai’s memory.” Snow Queen이 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kai의 기억을 빼앗았다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kai를 집으로 보냈다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Gerda의 기억을 빼앗았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kai에게 수영을 가르쳤다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Snow Queen took away Kai’s memory.”에 따르면 Snow Queen은 Kai의 기억을 빼앗았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kai: I like winter because I can see the snow.” 기억을 잃은 뒤 Kai가 좋아한다고 말한 계절은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여름"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kai: I like winter because I can see the snow.” Kai는 왜 겨울을 좋아한다고 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-766c5847c0d1d3:q_0029",
+      "answer": {
+        "text": "눈을 볼 수 있다."
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Snow Queen took Kai to Snow Land.” Kai가 간 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Snow Land"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과수원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gerda arrived at Snow Land and met Kai again.” Kai를 다시 만난 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Gerda"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Snow Queen"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ian"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Carlos"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gerda started to cry and Kai’s memory came back.” 이후 Kai에게 일어난 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기억이 돌아왔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기억을 잃었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Snow Land를 잊었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠이 들었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Gerda started to cry and Kai’s memory came back.”에 따르면 Gerda가 울자 Kai의 기억이 돌아왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Thanks for saving me, Gerda.” Kai가 감사한 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자신을 구해 주어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 말을 해 주어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 가서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈을 보여 주어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kai and Gerda went back home and lived happily.”에 따르면 두 사람은 집으로 돌아가 행복하게 살았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 40
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Spring is here. I like spring because I can see the beautiful flowers.” 봄을 좋아하는 이유는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아름다운 꽃을 볼 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈에서 놀 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다에서 수영할 수 있어서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캠핑을 갈 수 있어서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The flowers are pink and yellow. The weather is nice and warm.” 봄 날씨는 어떻게 표현되나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋고 따뜻하다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어둡고 춥다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험하고 덥다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지루하고 서늘하다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Spring is my favorite season.”의 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄은 내가 가장 좋아하는 계절이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄에는 눈이 온다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄에는 캠핑을 간다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봄은 가장 추운 계절이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 네덜란드의 계절 축제로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쾨켄호프 꽃 축제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "퀘벡 윈터 카니발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "로이끄라통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Cinco de Mayo"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 캐나다의 계절 축제로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "퀘벡 윈터 카니발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쾨켄호프 꽃 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "로이끄라통"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Cinco de Mayo"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-766c5847c0d1d3:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 태국의 계절 축제로 소개한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-766c5847c0d1d3:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 46
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "로이끄라통"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쾨켄호프 꽃 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "퀘벡 윈터 카니발"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Cinco de Mayo"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1693 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-eb8c043d48695a",
+  "revision": 1,
+  "title": "비상-1단원 Where Are You From",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-비상-1단원 Where Are You From"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-eb8c043d48695a:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 어느 나라에서 왔는지 물을 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How do you spell your name?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who am I?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What is your name?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 어느 나라에서 왔는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0001",
+      "answer": {
+        "text": "Where are you from?"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한국에서 왔다고 영어로 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Korea."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from France."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Egypt."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Brazil."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한국에서 왔다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0002",
+      "answer": {
+        "text": "I'm from Korea."
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Where are you from?”은 상대방의 출신 국가를 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm from France.”는 ‘나는 이집트에서 왔어요.’라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방 이름의 철자를 물을 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How do you spell your name?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Who am I?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Korea."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방 이름의 철자를 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-eb8c043d48695a:q_0005",
+      "answer": {
+        "text": "How do you spell your name?"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이름이 Jian일 때 “How do you spell your name?”에 알맞은 대답은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "J-I-A-N."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "J-I-E-N."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "J-A-I-N."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "J-I-A-M."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“E-B-O-N-E-E.”에 해당하는 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ebonee"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Eboni"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Emily"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ebone"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How do you spell your name?”은 이름의 철자를 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공항 체험에서 입국 심사관의 질문에 바르게 답하면 무엇을 받나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해당 국가의 스탬프에 표시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새 여권"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비행기 표"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이름표"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Hello. My name is Louis. I’m from France.”를 읽고, Louis의 출신 국가는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m a student. I like chocolate cake.”를 읽고, Louis가 좋아하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿 케이크"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김밥"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Louis는 “I’m from France.”라고 자신을 소개했다. Louis는 프랑스에서 왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Louis는 “I like chocolate cake.”라고 말했다. Louis는 김밥을 좋아한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m from India. I live in the jungle.”을 읽고, 글쓴이의 출신 국가는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m from India. I live in the jungle.”을 읽고, 글쓴이가 사는 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀림"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사막"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like talking to animals.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물들과 이야기하는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책 읽는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 나는 것을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿 케이크를 좋아한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can run fast and climb trees.”를 읽고, 글쓴이가 할 수 있는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨리 달리고 나무를 오를 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 날고 공을 잡을 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 읽고 이야기를 쓸 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노래하고 춤출 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can run fast and climb trees.”는 빨리 달리고 나무를 오를 수 있다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m from the U.K. I’m a student at Hogwarts School.”을 읽고, 글쓴이의 출신 국가는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like flying. I can catch the small golden ball.”을 읽고, 글쓴이가 좋아하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 나는 것"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책 읽기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 이야기하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "케이크 먹기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can catch the small golden ball.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작은 황금 공을 잡을 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨리 달릴 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 이야기를 쓸 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 이야기할 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m from Canada. I have red hair.”를 읽고, 글쓴이의 출신 국가는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like reading books. I can write many stories.”를 읽고, 글쓴이가 좋아하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책 읽기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 나는 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 이야기하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나무 오르기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can write many stories.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 이야기를 쓸 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작은 황금 공을 잡을 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨리 달릴 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 날 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "캐나다에서 온 인물은 “I like reading books.”라고 자신을 소개한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My name is Emily. I’m from Canada.”를 읽고, Emily의 출신 국가는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I like donuts. I am strong.”을 읽고, Emily가 좋아하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도넛"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿 케이크"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김밥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팟타이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I can fly in the sky.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘을 날 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빨리 달릴 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나무를 오를 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 이야기를 쓸 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 신사임당을 소개한 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 시대의 화가이자 시인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에베레스트산을 등정한 탐험가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인간과 사회를 탐구한 소설가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다에서 태어난 학생"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 에드먼드 힐러리를 소개한 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 최초로 에베레스트산을 등정한 탐험가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 시대의 화가이자 시인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인간과 사회를 탐구한 소설가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호그와트 학교의 학생"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 제인 오스틴을 소개한 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인간과 사회의 관계를 깊이 있게 탐구한 소설가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 시대의 화가이자 시인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에베레스트산을 등정한 탐험가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동물과 이야기하는 인물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m from Egypt.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 이집트에서 왔어요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 브라질에서 왔어요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 태국에서 왔어요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 미국에서 왔어요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-eb8c043d48695a:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 브라질에서 왔어요.’라고 영어로 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-eb8c043d48695a:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Brazil."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from France."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from Thailand."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm from the U.S."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

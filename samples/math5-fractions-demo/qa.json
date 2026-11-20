@@ -1,0 +1,18 @@
+{
+  "questionCount": 10,
+  "types": {
+    "MCQ": 6,
+    "OX": 2,
+    "SHORT": 2
+  },
+  "soloUnits": 8,
+  "teamUnits": 10,
+  "issues": [],
+  "minimum25": false,
+  "assets": [
+    "assets/bar_1_3.svg",
+    "assets/bar_2_5.svg"
+  ],
+  "structuralGate": false,
+  "publication": "NOT_APPROVED"
+}

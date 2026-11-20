@@ -1,0 +1,444 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "math5-fractions-demo",
+  "revision": 1,
+  "title": "분수의 덧셈과 뺄셈 · 체험 카트리지",
+  "metadata": {
+    "grade": 5,
+    "subject": "수학",
+    "unit": "분수의 덧셈과 뺄셈",
+    "status": "pilot",
+    "reviewStatus": "pending_teacher_review"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "math5-fractions-demo:q01",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[frac:1/4]] + [[frac:2/4]] 를 계산하세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:same-den-add",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "분모가 같으므로 분자는 더하고 분모는 그대로 둡니다. [[frac:1/4]] + [[frac:2/4]] = [[frac:3/4]] 입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:3/4]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:3/8]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/2]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/4]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q02",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[frac:5/6]] - [[frac:1/6]] 을 계산하세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:same-den-sub-reduce",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "분모가 같으므로 분자를 뺍니다. [[frac:5/6]] - [[frac:1/6]] = [[frac:4/6]] = [[frac:2/3]] 입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:5/12]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:3/6]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:2/3]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:5/6]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q03",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[frac:1/3]] + [[frac:1/6]] 을 계산하세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:unlike-den-add",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "[[frac:1/3]]을 [[frac:2/6]]으로 바꾸면 [[frac:2/6]] + [[frac:1/6]] = [[frac:3/6]] = [[frac:1/2]] 입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:2/9]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/2]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:2/6]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/6]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q04",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[mixed:1:3/4]] - [[frac:1/2]] 를 계산하세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:unlike-den-sub",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "[[frac:1/2]]는 [[frac:2/4]]이므로 [[mixed:1:3/4]] - [[frac:2/4]] = [[mixed:1:1/4]] 입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[mixed:1:1/4]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[mixed:1:1/2]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:3/8]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/8]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q05",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림에서 색칠된 부분은 전체의 얼마인가요?"
+        },
+        {
+          "kind": "image",
+          "src": "assets/bar_1_3.svg",
+          "alt": "분수의 크기를 나타낸 정확한 분수 막대 도식"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:fraction-model",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "전체를 3등분했고 그중 1부분이 색칠되어 있으므로 [[frac:1/3]]입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/2]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/3]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/4]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:2/3]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q06",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[frac:2/5]] + [[frac:1/5]] = [[frac:3/5]] 입니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:same-den-add-ox",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "분모가 같은 분수의 덧셈입니다. [[frac:2/5]] + [[frac:1/5]] = [[frac:3/5]] 입니다.",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q07",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수빈이는 피자 [[frac:3/8]]판을 먹고, 동생은 [[frac:2/8]]판을 먹었습니다. 두 사람이 먹은 양은 모두 몇 판인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:word-add",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "분모가 같으므로 분자를 더합니다. [[frac:3/8]] + [[frac:2/8]] = [[frac:5/8]]판입니다.",
+      "answer": {
+        "text": "5/8"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q08",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리본 [[frac:7/10]]m 중 [[frac:3/10]]m를 사용했습니다. 남은 리본은 몇 m인가요? 기약분수로 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:word-sub-reduce",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "[[frac:7/10]] - [[frac:3/10]] = [[frac:4/10]]이고, 약분하면 [[frac:2/5]]m입니다.",
+      "answer": {
+        "text": "2/5"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q09",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "[[frac:4/6]]과 크기가 같은 기약분수를 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:equivalent-reduce",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "4와 6을 각각 2로 나누면 [[frac:2/3]]입니다.",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:1/3]]"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:3/4]]"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:2/3]]"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "[[frac:4/3]]"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "math5-fractions-demo:q10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림에서 색칠된 부분은 전체의 [[frac:3/5]]입니다."
+        },
+        {
+          "kind": "image",
+          "src": "assets/bar_2_5.svg",
+          "alt": "분수의 크기를 나타낸 정확한 분수 막대 도식"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "math5-fractions-demo:model-ox",
+        "source": "초등 5학년 수준의 분수 덧셈·뺄셈 응용 예시(교과서 원본 미제공)"
+      },
+      "explanation": "전체를 5등분했고 2칸이 색칠되어 있으므로 [[frac:2/5]]입니다.",
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

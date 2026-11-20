@@ -1,0 +1,1731 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-66e1341f707ab3",
+  "revision": 1,
+  "title": "비상-2단원 Whose Umbrella Is T",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-비상-2단원 Whose Umbrella Is T"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-66e1341f707ab3:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물건의 주인이 누구인지 물을 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose cap is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Is this yours?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, it's not mine."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Eric's."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모자의 주인이 누구인지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0001",
+      "answer": {
+        "text": "Whose cap is this?"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose cap is this?”에 ‘Eric의 것이야.’라고 답할 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Eric's."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Mia's."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Lily's."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Nick's."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘아니, 내 것이 아니야.’라고 수정해서 말할 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "No, it's not mine."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Yes, it's mine."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Eric's."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose cap is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘아니, 내 것이 아니야.’를 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0003",
+      "answer": {
+        "text": "No, it's not mine."
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose cap is this?”는 모자의 주인이 누구인지 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“No, it's not mine.”은 ‘그래, 내 것이야.’라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose brush is this?”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 솔은 누구의 것인가요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 모자는 누구의 것인가요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 공은 누구의 것인가요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이 전화기는 누구의 것인가요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“It's Nick's.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Nick의 것이에요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mia의 것이에요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ruby의 것이에요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Suho의 것이에요."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose ball is this?”에 교과서에서 제시한 대답은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Mia's."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Ruby's."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Liam's."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Nick's."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전화기의 주인이 누구인지 영어로 물을 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose phone is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose ball is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose cap is this?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose shoe is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose phone is this? It's Harry's.”를 읽고, 전화기의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Harry"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mia"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Nick"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "알림 글의 “It is small. It is blue and yellow.”를 읽고, 모자의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작고 파란색과 노란색이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "크고 빨간색과 초록색이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작고 빨간색과 파란색이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "크고 파란색과 노란색이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose cap is this? … It's Lily's.”를 읽고, 모자의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ben"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Emma"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mike"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "알림 글의 모자는 파란색과 노란색이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "알림 글의 모자는 Ben의 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이름 뒤에 's를 붙인 “Lily's”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily의 것"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily가 아닌 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily에게 묻는 것"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily와 함께 있는 것"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose basketball is this? It's Henry's.”를 읽고, 농구공의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Henry"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lucy"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ann"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Henry is my brother.”를 읽고, Henry와 글쓴이 Ann의 관계로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오빠 또는 남동생"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선생님"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He is a good basketball player.”를 읽고, Henry를 설명한 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구를 잘하는 선수이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국어를 공부하고 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 여행을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피아노를 잘 친다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He can pass the ball very well.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공을 매우 잘 패스할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공을 매우 잘 잡을 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공을 매우 멀리 찰 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공을 매우 높이 던질 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“He has a big game tomorrow.”를 읽고, Henry에게 내일 있는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중요한 경기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국어 수업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 여행"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피아노 공연"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Whose notebook is this? It's Lucy's.”를 읽고, 공책의 주인은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lucy"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Henry"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ann"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lily"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Lucy is my grandmother.”를 읽고, Lucy와 글쓴이 Ann의 관계로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "할머니"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남자 형제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선생님"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“She is studying Chinese.”를 읽고, Lucy가 공부하고 있는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국어"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영어"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Now she can speak English, French, and Chinese.”를 읽고, Lucy가 말할 수 있는 언어에 포함되지 않는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국어"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영어"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "프랑스어"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국어"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“She likes traveling around the world.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 여행을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구 경기를 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국 음식을 좋아한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공책 모으기를 좋아한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucy는 중국어를 공부하고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Henry는 공책의 주인이고 Lucy는 농구공의 주인이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "프로젝트 예시에서 “Whose ship is this?”의 정답으로 제시된 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Yi Sun-sin's."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Napoleon's."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Beethoven's."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "It's Kate's."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과테말라의 친구들이 걱정 인형에게 하는 일은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자신의 걱정을 털어놓는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형 안에 작은 인형을 넣는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가죽 인형극을 공연한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인형에게 중국어를 가르친다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "와양쿨릿에 대한 설명으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도네시아 전통 인형극에 쓰는 가죽 인형"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "러시아의 겹겹이 들어 있는 인형"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과테말라에서 걱정을 털어놓는 인형"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국의 전통 나무 인형"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "마트료시카 인형의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작은 인형이 안에 겹겹이 들어 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가죽으로 만든 인형극용 인형이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "걱정을 털어놓는 데 사용한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구공을 들고 있는 인형이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘이 우산은 누구의 것인가요?’를 영어로 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose umbrella is this?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose phone is this?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose ball is this?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whose brush is this?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:36",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘이 우산은 누구의 것인가요?’를 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-66e1341f707ab3:q_0032",
+      "answer": {
+        "text": "Whose umbrella is this?"
+      }
+    },
+    {
+      "questionId": "legacy-66e1341f707ab3:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“No, it's not mine.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-66e1341f707ab3:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아니, 내 것이 아니야."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그래, 내 것이야."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그것은 Lily의 것이야."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이것은 누구의 것이야?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

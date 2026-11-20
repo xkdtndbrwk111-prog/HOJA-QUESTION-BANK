@@ -1,0 +1,2049 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-b6c22e7694c1a7",
+  "revision": 1,
+  "title": "BOYNEXTDOOR",
+  "metadata": {
+    "grade": "common",
+    "subject": "kpop",
+    "status": "legacy",
+    "sourceSheet": "기타-kpop-BOYNEXTDOOR"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-b6c22e7694c1a7:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR는 6명으로 이루어진 그룹이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0071",
+        "sourceBundleId": "q_0071",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0071",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 멤버 수는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0071",
+        "sourceBundleId": "q_0071",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0071",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성호, 리우, 명재현, 태산, 이한, 운학은 BOYNEXTDOOR 멤버이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0072",
+        "sourceBundleId": "q_0072",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0072",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 BOYNEXTDOOR 멤버가 아닌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0072",
+        "sourceBundleId": "q_0072",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0072",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "현진"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운학"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR는 KOZ Entertainment 소속이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0073",
+        "sourceBundleId": "q_0073",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0073",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 소속사는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0073",
+        "sourceBundleId": "q_0073",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0073",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KOZ Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BIGHIT MUSIC"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STARSHIP Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BELIFT LAB"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR는 2020년에 데뷔했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0074",
+        "sourceBundleId": "q_0074",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0074",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR가 데뷔한 해는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0074",
+        "sourceBundleId": "q_0074",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0074",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2023년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2020년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2021년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2024년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 첫 싱글은 'WHO!'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0075",
+        "sourceBundleId": "q_0075",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0075",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 첫 싱글은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0075",
+        "sourceBundleId": "q_0075",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0075",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "WHO!"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I am NOT"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SUPER REAL ME"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR라는 이름에는 '선 밖에 색칠하기'이라는 뜻이 담겨 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0076",
+        "sourceBundleId": "q_0076",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0076",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그룹명에 담긴 뜻은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0076",
+        "sourceBundleId": "q_0076",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0076",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "옆집의 소년들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선 밖에 색칠하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내가 가진 것을 보여주기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반짝이는 팬들"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 공식 팬덤 이름은 ONEDOOR이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0077",
+        "sourceBundleId": "q_0077",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0077",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 팬덤 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0077",
+        "sourceBundleId": "q_0077",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0077",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ONEDOOR"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COER"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STAY"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DIVE"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 팬덤 이름을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0077",
+        "sourceBundleId": "q_0077",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0077",
+      "answer": {
+        "text": "ONEDOOR"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 BOYNEXTDOOR의 리더다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0078",
+        "sourceBundleId": "q_0078",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0078",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR의 리더는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0078",
+        "sourceBundleId": "q_0078",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0078",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명재현"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태산"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이한"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운학"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "One and Only'는 BOYNEXTDOOR의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0079",
+        "sourceBundleId": "q_0079",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0079",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 BOYNEXTDOOR의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0079",
+        "sourceBundleId": "q_0079",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0079",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "One and Only"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MANIAC"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Supernova"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kitsch"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "But I Like You'는 BOYNEXTDOOR의 데뷔 싱글에 실린 곡이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0080",
+        "sourceBundleId": "q_0080",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Serenade'는 BOYNEXTDOOR의 데뷔 싱글에 실린 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0081",
+        "sourceBundleId": "q_0081",
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR 멤버들은 작사와 작곡에 직접 참여하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0082",
+        "sourceBundleId": "q_0082",
+        "sourceRow": 23
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학은 어린 시절 먼저 친구들에게 다가가는 활발한 성격이었다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0083",
+        "sourceBundleId": "q_0083",
+        "sourceRow": 24
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학은 어린 시절 자신과 닮은 캐릭터로 원피스의 피카츄를 골랐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0084",
+        "sourceBundleId": "q_0084",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0084",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학이 자신과 닮았다고 고른 캐릭터는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0084",
+        "sourceBundleId": "q_0084",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0084",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "루피"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피카츄"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "짱구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "코난"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:27",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학은 다른 반 친구에게도 먼저 축구하자고 말할 정도로 적극적이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0085",
+        "sourceBundleId": "q_0085",
+        "sourceRow": 27
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학은 점심시간에 선생님을 찾아가 고민 상담을 하기도 했다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0086",
+        "sourceBundleId": "q_0086",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운학은 자신의 어린 시절을 '공부 못하는 모범생'이라고 재미있게 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0087",
+        "sourceBundleId": "q_0087",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 서예를 아주 좋아한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0088",
+        "sourceBundleId": "q_0088",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0088",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한이 특히 좋아하는 것으로 알려진 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0088",
+        "sourceBundleId": "q_0088",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0088",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물고기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베이블레이드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 중학교 1학년 때부터 직접 어항을 꾸미고 물고기를 키웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0089",
+        "sourceBundleId": "q_0089",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0089",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한이 중학교 1학년 때부터 직접 꾸민 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0089",
+        "sourceBundleId": "q_0089",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0089",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작업실"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "옷장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 어항을 꾸밀 때 먼저 테마를 정하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0090",
+        "sourceBundleId": "q_0090",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 아마존 분위기의 어항을 위해 실제 자료를 찾아보기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0091",
+        "sourceBundleId": "q_0091",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 완성된 서예 작품을 2~3시간 바라보기도 한다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0092",
+        "sourceBundleId": "q_0092",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0092",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한이 오랫동안 바라보기도 한다고 한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0092",
+        "sourceBundleId": "q_0092",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0092",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예 작품"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "컴퓨터 폴더"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축구 경기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 물고기가 무슨 생각을 하는지 상상하기도 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0093",
+        "sourceBundleId": "q_0093",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한은 서예도 즐긴다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0094",
+        "sourceBundleId": "q_0094",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0094",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이한과 연결되는 취미는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0094",
+        "sourceBundleId": "q_0094",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0094",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스쿠버다이빙"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베이블레이드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피아노"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리우는 어머니의 권유로 춤을 배우기 시작했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0095",
+        "sourceBundleId": "q_0095",
+        "sourceRow": 41
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리우는 초등학교 1학년부터 댄스 학원에 다녔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0096",
+        "sourceBundleId": "q_0096",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0096",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리우가 댄스 학원에 다니기 시작한 때는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0096",
+        "sourceBundleId": "q_0096",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0096",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초등학교 5학년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초등학교 1학년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중학교 3학년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고등학교 2학년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리우는 중학교 축제에서 BTS의 'IDOL'과 'DNA'를 춘 경험이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0097",
+        "sourceBundleId": "q_0097",
+        "sourceRow": 44
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:45",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리우는 학교 축제 무대를 통해 무대 위에 있을 때 행복하다는 것을 느꼈다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0098",
+        "sourceBundleId": "q_0098",
+        "sourceRow": 45
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 자신을 'Dreamer'라고 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0099",
+        "sourceBundleId": "q_0099",
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 잠들기 전 스마트폰 대신 음악을 들으며 상상하는 것을 좋아한다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0100",
+        "sourceBundleId": "q_0100",
+        "sourceRow": 47
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 자각몽을 꾸는 경험에 대해 이야기했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0101",
+        "sourceBundleId": "q_0101",
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:49",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 자각몽에서 우주를 돌아다니며 어항을 움직인 기억을 이야기했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0102",
+        "sourceBundleId": "q_0102",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0102",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:50",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산이 자각몽에서 움직였다고 이야기한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0102",
+        "sourceBundleId": "q_0102",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0102",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "행성"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "용"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도넛"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 영상보다 소설 읽기를 좋아한다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0103",
+        "sourceBundleId": "q_0103",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0103",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:52",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산이 영상보다 더 좋아한다고 말한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0103",
+        "sourceBundleId": "q_0103",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0103",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소설 읽기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낚시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그림 그리기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명재현은 가방이나 바지에 키링을 달고 다니는 것을 좋아하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0104",
+        "sourceBundleId": "q_0104",
+        "sourceRow": 53
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:54",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명재현은 곰돌이 키링을 운학이라고 부르며 가지고 다닌 적이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0105",
+        "sourceBundleId": "q_0105",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0105",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:55",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명재현이 운학이라고 부르며 가지고 다닌 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0105",
+        "sourceBundleId": "q_0105",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0105",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "곰돌이 키링"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "베이블레이드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예 붓"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명재현은 어릴 때 강아지를 무서워했다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0106",
+        "sourceBundleId": "q_0106",
+        "sourceRow": 56
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:57",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "명재현은 반려견과의 경험을 계기로 강아지를 좋아하게 됐다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0107",
+        "sourceBundleId": "q_0107",
+        "sourceRow": 57
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:58",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "뮤직비디오 촬영에서 강아지가 음식 냄새를 따라 움직이자 명재현이 강아지 쪽으로 가서 촬영하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0108",
+        "sourceBundleId": "q_0108",
+        "sourceRow": 58
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "촬영 중 강아지가 명재현을 많이 핥아 메이크업이 지워질 정도였다고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0109",
+        "sourceBundleId": "q_0109",
+        "sourceRow": 59
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:60",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산의 본가 강아지 이름은 럭키이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0110",
+        "sourceBundleId": "q_0110",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0110",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:61",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산의 본가 강아지 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0110",
+        "sourceBundleId": "q_0110",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-b6c22e7694c1a7:q_0110",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두팔"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "럭키"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비키"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산의 아버지가 '두팔'이라는 강아지 이름을 지었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0111",
+        "sourceBundleId": "q_0111",
+        "sourceRow": 62
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:63",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR 자체 콘텐츠에서는 멤버들이 옛 예능 유행어를 활용해 장난하기도 하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0112",
+        "sourceBundleId": "q_0112",
+        "sourceRow": 63
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:64",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들이 게임에 몰입하면 오디오가 혼란스러울 정도로 떠들썩해진다고 자체 콘텐츠 제작진이 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0113",
+        "sourceBundleId": "q_0113",
+        "sourceRow": 64
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태산은 사람들이 BOYNEXTDOOR 영상을 보고 '나도 저기에 끼고 싶다'고 느끼길 바란다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0114",
+        "sourceBundleId": "q_0114",
+        "sourceRow": 65
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:66",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버 공개 과정에서 각 멤버의 취향을 암시하는 여섯 개의 문이 등장했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0115",
+        "sourceBundleId": "q_0115",
+        "sourceRow": 66
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:67",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그 여섯 개의 문에는 어항, 강아지, 음악, 미술, 농구, 브레이크댄스 같은 취향 요소가 표현되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0116",
+        "sourceBundleId": "q_0116",
+        "sourceRow": 67
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b6c22e7694c1a7:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "BOYNEXTDOOR는 Lollapalooza Chicago 무대에 참가했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b6c22e7694c1a7:q_0117",
+        "sourceBundleId": "q_0117",
+        "sourceRow": 68
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,2433 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-2047d72a6855e8",
+  "revision": 1,
+  "title": "한글 맞춤법 심화",
+  "metadata": {
+    "grade": "common",
+    "subject": "문해력",
+    "status": "legacy",
+    "sourceSheet": "기타-문해력-한글 맞춤법 심화"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-2047d72a6855e8:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "웬일'과 '왠지'는 모두 바른 표기이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모두 바르게 쓴 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "웬일인지 왠지 마음이 설렌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왠일인지 웬지 마음이 설렌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "웬일인지 웬지 마음이 설렌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왠일인지 왠지 마음이 설렌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시계를 정확한 시간에 맞추다.'는 알맞은 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정답을 ___. / 시계를 ___.'"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맞혔다 / 맞췄다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맞췄다 / 맞혔다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맞혔다 / 맞혔다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "맞췄다 / 맞췄다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내일 선생님을 봬요.'는 바른 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 표현을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일 봬요."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일 뵈요."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일 봴게요."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일 봬여."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음에 다시 봴게요.'는 바른 표기이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 주에 다시 ___.'"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뵐게요"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봴게요"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뵐께요"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봴께요"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구를 만난 지 세 달이 지났다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전학 온 지 한 달이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전학 온지 한 달이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전학온 지 한 달이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전학온지 한 달이 되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 어디에 있는 지 모르겠다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 어디에 있는지 모르겠다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 어디에 있는 지 모르겠다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 어디에있는지 모르겠다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 어디에있는 지 모르겠다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주말에 놀러 갈 데를 찾는다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 읽을 데가 필요하다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을 읽을데가 필요하다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을읽을 데가 필요하다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책을읽을데가 필요하다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비가 오 는데 우산이 없다.'는 바른 표기이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 오는데 우산이 없다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 오 는데 우산이 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가오는 데 우산이 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 오 는 데 우산이 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나 만 알고 있는 비밀이다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0009",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나만 알고 있는 비밀이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나 만 알고 있는 비밀이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나만알고 있는 비밀이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나 만알고 있는 비밀이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 번만에 성공했다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 번 만에 성공했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 번만에 성공했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두번 만에 성공했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두번만에 성공했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교실에는 나 뿐이었다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0011",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남은 것은 이것뿐이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남은 것은 이것 뿐이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남은것은 이것뿐이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남은것은 이것 뿐이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나는 기다릴뿐이었다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 조용히 기다릴 뿐이었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 조용히 기다릴뿐이었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는조용히 기다릴 뿐이었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는조용히 기다릴뿐이었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나 만큼 빠르게 달린다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0013",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동생도 나만큼 키가 컸다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동생도 나 만큼 키가 컸다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동생도나만큼 키가 컸다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동생도나 만큼 키가 컸다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연습한만큼 실력이 늘었다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노력한 만큼 결과가 좋아졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노력한만큼 결과가 좋아졌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노력한 만큼결과가 좋아졌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노력한만큼결과가 좋아졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "계획 대로 진행했다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0015",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약속대로 움직였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약속 대로 움직였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약속대 로 움직였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약 속대로 움직였다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "들은대로 이야기했다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들은 대로 이야기했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들은대로 이야기했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들은 대로이야기했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "들은대로이야기했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물 한 병 밖에 남지 않았다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0017",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물 한 병밖에 남지 않았다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물 한 병 밖에 남지 않았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물한 병밖에 남지 않았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물한병 밖에 남지 않았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "먹든 말든 네가 결정해.'에서 '든'은 바르게 쓰였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "먹___ 말든 / 어릴 때 먹___ 과자'"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "든 / 던"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "던 / 든"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "든 / 든"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "던 / 던"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 들었는데 내일 비가 온대.'의 '대'는 바르게 쓰였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민수가 내일 학교에 안 온___.'"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "데"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "돼"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "되"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생으로서 책임을 다하자.'는 바르게 썼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생___ 책임 / 연필___ 표시'"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "으로서 / 로써"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "으로써 / 로서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "으로서 / 로서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "으로써 / 로써"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성공율'은 바른 표기이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0021",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모두 바르게 쓴 것을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비율 / 성공률"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비률 / 성공율"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비율 / 성공율"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비률 / 성공률"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "웃어른을 공경하다.'는 바르게 썼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모두 바르게 쓴 것을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윗사람 / 웃어른"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "웃사람 / 윗어른"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윗사람 / 윗어른"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "웃사람 / 웃어른"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "책을 읽어 보았다.'의 '읽어'는 바른 표기이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 표현을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의자에 앉아 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의자에 안자 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의자에 앉아있따."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의자에 안좌 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "꽃이 피었다.'를 '꼬치 피었다.'라고 적는 것이 맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃이 활짝 피었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꼬치 활짝 피었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꽃치 활짝 피었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "꼳이 활짝 피었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "곰곰이 생각하고 솔직히 말하다.'는 바르게 썼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 단어를 모두 바르게 쓴 것을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "깨끗이 / 꼼꼼히"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "깨끗히 / 꼼꼼이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "깨끗이 / 꼼꼼이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "깨끗히 / 꼼꼼히"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기다릴 수밖에 없었다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:53",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다시 할 수밖에 없다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다시 할 수 밖에 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다시 할수밖에 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다시 할수 밖에 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:54",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "내가 아는바가 없다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0027",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:55",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내가 아는 바가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내가 아는바가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내가아는 바가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내가아는바가 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그럴리가 없다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그럴 리가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그럴리가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그럴 리 가 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그럴리 가 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:58",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구가 올줄 알았다.'는 띄어쓰기가 바르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0029",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:59",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바른 문장을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 올 줄 알았다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가 올줄 알았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가올 줄 알았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구가올줄 알았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:60",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에어컨 바깥 장치를 '에어컨 시래기'라고 부르는 것이 맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:61",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에어컨의 바깥쪽 장치를 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에어컨 실외기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에어컨 시래기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에어컨 실내기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에어컨 시외기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시험 답안 용지를 '오회말카드'라고 쓰는 것이 맞다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0031",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-2047d72a6855e8:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시험 답안을 표시하는 카드의 이름을 고르세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-2047d72a6855e8:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-2047d72a6855e8:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "OMR 카드"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오회말카드"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오엠알르 카드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오회말 카드"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

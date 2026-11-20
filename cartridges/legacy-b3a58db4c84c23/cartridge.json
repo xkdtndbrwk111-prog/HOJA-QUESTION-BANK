@@ -1,0 +1,1940 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-b3a58db4c84c23",
+  "revision": 1,
+  "title": "천재(함)-8단원 Its Taller Than ",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-천재(함)-8단원 Its Taller Than "
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-b3a58db4c84c23:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘A가 B보다 더 키가 크다.’라는 비교 문장에 알맞은 영어 형태는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A is taller than B."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A is tall with B."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A is the tall B."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "A taller is B."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘Jesse가 Noah보다 더 힘이 세다.’를 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0001",
+      "answer": {
+        "text": "Jesse is stronger than Noah."
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Jesse is stronger than Noah.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jesse가 Noah보다 더 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Noah가 Jesse보다 더 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jesse와 Noah의 힘이 같다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Jesse가 Noah보다 더 빠르다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방의 비교가 맞지 않다고 부인할 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's not right."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Of course."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Please come here."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How nice!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방의 말이 맞지 않다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0003",
+      "answer": {
+        "text": "That's not right."
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“That's not right.”는 상대방의 말이 맞지 않다고 할 때 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mimi is faster than Didi.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 빠르다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 빠르다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 무겁다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mimi is bigger than Didi.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 몸집이 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 몸집이 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 무겁다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 나이가 많다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mimi is older than Didi.”를 읽고, 나이가 더 많은 것은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘의 나이가 같다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알 수 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Mimi is taller than Didi.”를 읽고, 키가 더 큰 것은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘의 키가 같다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "알 수 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Didi is stronger than Mimi.”를 읽고 알맞은 내용은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 빠르다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 무겁다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Didi is heavier than Mimi.”를 읽고 알맞은 내용은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 무겁다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 무겁다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Didi가 Mimi보다 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Mimi가 Didi보다 더 나이가 많다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 내용을 읽어 보세요.\n“Mimi is faster than Didi. Mimi is taller than Didi.”\nMimi는 Didi보다 더 빠르고 키가 더 크다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Didi is stronger than Mimi. Didi is heavier than Mimi.”\nDidi는 Mimi보다 더 가볍고 힘이 약하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘기차가 자동차보다 더 빠르다.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The train is faster than the car."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The train is heavier than the car."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The car is faster than the train."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The train is taller than the car."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘기차가 자동차보다 더 빠르다.’를 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-b3a58db4c84c23:q_0013",
+      "answer": {
+        "text": "The train is faster than the car."
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘농구공이 야구공보다 더 크다.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The basketball is bigger than the baseball."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The baseball is bigger than the basketball."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The basketball is heavier than the baseball."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The basketball is faster than the baseball."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘수박이 사과보다 더 무겁다.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The watermelon is heavier than the apple."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The apple is heavier than the watermelon."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The watermelon is taller than the apple."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The watermelon is faster than the apple."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비교 표현 “older”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이가 더 많은"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키가 더 큰"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "힘이 더 센"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 빠른"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비교 표현 “heavier”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 무거운"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 큰"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 빠른"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 힘이 센"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비교 표현 “stronger”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 힘이 센"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 나이가 많은"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 키가 큰"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 무거운"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My friend’s name is Jack, too. We like basketball. We practice basketball after school every day.”\n두 Jack은 방과 후 매일 무엇을 연습하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My friend is taller than me. He is good at catching the ball.”\n글쓴이 Jack의 친구는 글쓴이보다 어떤 점에서 더 뛰어난가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키가 더 크고 공을 잘 잡는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 빠르고 드리블을 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "몸집이 더 크고 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이가 더 많고 공을 잘 던진다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I’m faster than my friend. I’m good at dribbling.”\n글쓴이 Jack은 친구보다 어떤 점에서 더 뛰어난가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 빠르고 드리블을 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키가 더 크고 공을 잘 잡는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 무겁고 힘이 세다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이가 더 많고 키가 크다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My friend is taller than me. I’m faster than my friend.”\n글에서 두 Jack에게 붙은 별명으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Fast Jack과 Tall Jack"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Big Jack과 Strong Jack"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Old Jack과 Heavy Jack"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Red Jack과 Blue Jack"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Get the ball. You're faster than me.”를 읽고, 공을 잡으러 가는 데 더 적합한 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 빠른 Jack"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 키가 큰 Jack"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 공을 잡을 수 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "글만으로는 알 수 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We always play together. We make a good basketball team.”\n두 Jack의 관계를 가장 잘 설명한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 다른 장점을 살려 함께 농구하는 좋은 팀이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 농구를 싫어해 함께 연습하지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "둘 다 드리블만 잘하고 공을 잡지 못한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 다른 운동을 좋아해 함께 놀지 않는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We like basketball. We practice basketball after school every day.”\n두 Jack은 농구를 좋아하고 방과 후 매일 함께 연습한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 글을 읽어 보세요.\n“My friend is taller than me. I’m faster than my friend.”\nTall Jack은 Fast Jack보다 더 빠르다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘기린이 토끼보다 더 키가 크다.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The giraffe is taller than the rabbit."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The rabbit is taller than the giraffe."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The giraffe is stronger than the rabbit."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The giraffe is heavier than the rabbit."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘코끼리가 돼지보다 더 힘이 세다.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The elephant is stronger than the pig."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The pig is stronger than the elephant."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The elephant is faster than the pig."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "The elephant is older than the pig."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Hulk — stronger — Superman”\nHulk를 Superman과 비교할 때 사용한 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "힘"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빠르기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Hulk — bigger — Spider-Man”\nHulk를 Spider-Man과 비교할 때 사용한 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "크기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빠르기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Hulk — heavier — Tinker Bell”\nHulk를 Tinker Bell과 비교할 때 사용한 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "몸무게"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빠르기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "키"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비교 올림픽에서 가방의 무게를 비교할 때 사용하는 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "heavier"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "older"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "taller"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "faster"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비교 올림픽에서 생일을 비교할 때 사용하는 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "older"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "bigger"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "stronger"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "faster"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The giraffe is taller than the lion.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기린이 사자보다 키가 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사자가 기린보다 키가 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기린이 사자보다 몸집이 더 크다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사자가 기린보다 더 빠르다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Big Ben is taller than the Eiffel Tower.” “That’s not right. The Eiffel Tower is taller than Big Ben.”\n올바른 비교는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에펠탑이 빅벤보다 더 높다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빅벤이 에펠탑보다 더 높다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빅벤이 에펠탑보다 더 새 건물이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 건물의 높이는 같다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-b3a58db4c84c23:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“The Eiffel Tower is taller than Big Ben. Big Ben is older than the Eiffel Tower.”\n빅벤과 에펠탑의 나이에 대한 설명으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-b3a58db4c84c23:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빅벤이 에펠탑보다 더 오래되었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에펠탑이 빅벤보다 더 오래되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 건물은 같은 해에 지어졌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교과서에는 나이 비교가 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

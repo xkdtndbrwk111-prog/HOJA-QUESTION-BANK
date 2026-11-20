@@ -1,0 +1,2282 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-9ff2803db41b4c",
+  "revision": 1,
+  "title": "천재(함)-10단원 How Often Do Yo",
+  "metadata": {
+    "grade": 6,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "6-영어-천재(함)-10단원 How Often Do Yo"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-9ff2803db41b4c:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 습관의 빈도수를 물을 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How often do you exercise?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are you going to do?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Why are you happy?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Can you come to the party?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 얼마나 자주 운동하는지 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0001",
+      "answer": {
+        "text": "How often do you exercise?"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How often do you eat vegetables?”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소를 얼마나 자주 먹나요?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어떤 채소를 좋아하나요?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소를 먹을 계획인가요?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소를 왜 먹나요?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘일주일에 한 번’에 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "once a week"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twice a day"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "three times a week"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "every day"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:6",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘일주일에 한 번’이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0003",
+      "answer": {
+        "text": "Once a week."
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘하루에 두 번’에 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twice a day"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "once a week"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "three times a day"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "five times a week"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 좋은 생활 습관을 칭찬할 때 알맞은 영어 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Good for you."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's not right."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sorry, but I can't."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I can't wait."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 좋은 생활 습관을 영어로 칭찬해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-9ff2803db41b4c:q_0005",
+      "answer": {
+        "text": "Good for you."
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Good for you.”는 상대방의 좋은 생활 습관을 칭찬할 때 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise five times a week.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 다섯 번 운동한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 다섯 번 운동한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번 운동한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 다섯 시간 운동한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I drink water twice a day.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 두 번 물을 마신다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 두 번 물을 마신다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 세 번 물을 마신다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 채소를 두 번 먹는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I eat vegetables three times a day.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 세 번 채소를 먹는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 세 번 채소를 먹는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 두 번 채소를 먹는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 세 종류의 채소를 먹는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I wash my hands once a week.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번 손을 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 한 번 손을 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 두 번 손을 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 손을 씻는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 하루에 세 번 이를 닦아요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I brush my teeth three times a day."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I wash my hands three times a day."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I brush my teeth three times a week."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I eat vegetables three times a day."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘나는 일주일에 한 번 도서관에 가요.’에 알맞은 영어 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to the library once a week."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to the library twice a day."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I exercise once a week."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I go to the library three times a week."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“once a week”는 일주일에 한 번이라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“twice a day”는 일주일에 두 번이라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“We need good habits for a healthy life. Here are some healthy habits.”\n건강한 생활을 위해 필요하다고 한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 생활 습관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 장난감"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "긴 수면만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 외식하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I eat fresh vegetables every day. I drink enough water every day.”\n매일 먹으라고 제시한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신선한 채소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "패스트푸드"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과자"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아이스크림"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I eat fresh vegetables every day. I drink enough water every day.”\n매일 충분히 마시라고 한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탄산음료"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "커피"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주스"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I eat breakfast every day. I exercise three or four times a week.”\n매일 먹는 습관으로 제시된 끼니는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침 식사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야식"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간식"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저녁 후 디저트"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise three or four times a week.”\n운동은 일주일에 몇 번 하도록 제시되어 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3~4번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "7~8번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I brush my teeth three times a day.”\n이를 닦는 횟수는 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 3번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 1번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일 3번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일 1번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I wash my hands often.”\n손 씻기에 대해 어떻게 제시했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자주 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 한 번만 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "손을 씻지 않는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kevin: I have six healthy habits.”\nKevin은 건강한 습관을 몇 가지 가지고 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6가지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2가지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3가지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4가지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Kevin: I have six healthy habits. Dr. Smith: Good for you, Kevin!”\nDr. Smith가 Kevin에게 한 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Good for you, Kevin!"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "That's not right, Kevin."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sorry, but I can't."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should exercise more often."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Clara: I eat fruit every day. But I don’t eat vegetables.”\nClara가 매일 먹는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침 식사만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Clara: I eat fruit every day. But I don’t eat vegetables.”\nClara가 먹지 않는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아침 식사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Clara: I exercise once a week.”\nClara는 운동을 얼마나 자주 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 한 번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 네 번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“You should eat vegetables every day. Also, you should exercise more often.”\nDr. Smith가 Clara에게 매일 먹으라고 조언한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과자"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "햄버거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아이스크림"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“You should eat vegetables every day. Also, you should exercise more often.”\nDr. Smith가 Clara에게 운동에 관해 한 조언은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 자주 운동해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동을 그만해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번만 운동해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동 대신 책만 읽어야 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Clara: I eat fruit every day. But I don’t eat vegetables.”\nClara는 매일 과일을 먹지만 채소는 먹지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“You should exercise more often.”\nDr. Smith는 Clara에게 운동 횟수를 줄이라고 조언했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“You should eat vegetables every day.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 채소를 먹어야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 과일만 먹어야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번 운동해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 적게 마셔야 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“You should exercise more often.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "더 자주 운동해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동을 덜 해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 도서관에 가야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동을 한 번만 해야 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I brush my teeth three times a day. I wash my hands five times a day. But I exercise once a week.”\n좋은 습관으로 제시된 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 세 번 이를 닦는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번만 이를 닦는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물을 마시지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소를 먹지 않는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I brush my teeth three times a day. I wash my hands five times a day.”\n손은 하루에 몇 번 씻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I wash my hands five times a day. But I exercise once a week. That’s not good for me.”\n개선해야 할 습관은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 39
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번만 운동한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 세 번 이를 닦는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루 다섯 번 손을 씻는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 채소를 먹는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I should exercise more often.”의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 더 자주 운동해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 운동을 그만해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 더 자주 이를 닦아야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나는 물을 덜 마셔야 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:41",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise three times a week. I eat vegetables every day.”\n운동은 얼마나 자주 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 41
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 세 번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 세 번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 다섯 번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise three times a week. I eat vegetables every day.”\n채소는 얼마나 자주 먹나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 42
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 한 번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 두 번만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 달에 한 번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise four times a week. But I don’t drink water often. I drink water twice a day.”\n여자아이는 운동을 얼마나 자주 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 네 번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 두 번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 네 번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 한 번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:44",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I exercise four times a week. But I don’t drink water often. I drink water twice a day.”\n여자아이는 물을 얼마나 자주 마시나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 44
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 두 번"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일주일에 두 번"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하루에 네 번"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일 다섯 번"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“But I don’t drink water often. I drink water twice a day.”\n이 여자아이에게 알맞은 조언은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should drink water more often."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should exercise less often."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should eat vegetables once a week."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "You should go to the library more often."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-9ff2803db41b4c:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "단원 마지막 Into the World에서 소개하는 내용은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-9ff2803db41b4c:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 46
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장수 마을 ‘훈자’의 건강 비결"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계의 유명한 건물 비교"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국과 멕시코의 생일잔치 문화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종 대왕의 계획적인 하루"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

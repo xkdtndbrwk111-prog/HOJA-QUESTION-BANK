@@ -1,0 +1,2052 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-8622e6505e828a",
+  "revision": 1,
+  "title": "IVE",
+  "metadata": {
+    "grade": "common",
+    "subject": "kpop",
+    "status": "legacy",
+    "sourceSheet": "기타-kpop-IVE"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-8622e6505e828a:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 6명으로 이루어진 그룹이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0118",
+        "sourceBundleId": "q_0118",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-8622e6505e828a:q_0118",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 멤버 수는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0118",
+        "sourceBundleId": "q_0118",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-8622e6505e828a:q_0118",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유진, 가을, 레이, 원영, 리즈, 이서는 IVE 멤버이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0119",
+        "sourceBundleId": "q_0119",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-8622e6505e828a:q_0119",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE 멤버가 아닌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0119",
+        "sourceBundleId": "q_0119",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-8622e6505e828a:q_0119",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원희"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원영"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "레이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리즈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 STARSHIP Entertainment 소속이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0120",
+        "sourceBundleId": "q_0120",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-8622e6505e828a:q_0120",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 소속사는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0120",
+        "sourceBundleId": "q_0120",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-8622e6505e828a:q_0120",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STARSHIP Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SM Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BELIFT LAB"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KOZ Entertainment"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 'Magnetic'으로 데뷔했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0121",
+        "sourceBundleId": "q_0121",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-8622e6505e828a:q_0121",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 데뷔곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0121",
+        "sourceBundleId": "q_0121",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-8622e6505e828a:q_0121",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Black Mamba"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "District 9"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 데뷔곡을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0121",
+        "sourceBundleId": "q_0121",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-8622e6505e828a:q_0121",
+      "answer": {
+        "text": "ELEVEN"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유진은 IVE의 리더다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0122",
+        "sourceBundleId": "q_0122",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-8622e6505e828a:q_0122",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 리더는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0122",
+        "sourceBundleId": "q_0122",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-8622e6505e828a:q_0122",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유진"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원영"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 공식 팬덤 이름은 MY이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0123",
+        "sourceBundleId": "q_0123",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-8622e6505e828a:q_0123",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 팬덤 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0123",
+        "sourceBundleId": "q_0123",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-8622e6505e828a:q_0123",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MY"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GLLIT"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STAY"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 팬덤 이름을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0123",
+        "sourceBundleId": "q_0123",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-8622e6505e828a:q_0123",
+      "answer": {
+        "text": "DIVE"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "LOVE DIVE'는 IVE의 대표곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0124",
+        "sourceBundleId": "q_0124",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-8622e6505e828a:q_0124",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0124",
+        "sourceBundleId": "q_0124",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-8622e6505e828a:q_0124",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "LOVE DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Supernova"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MANIAC"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Whiplash'는 IVE의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0125",
+        "sourceBundleId": "q_0125",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-8622e6505e828a:q_0125",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0125",
+        "sourceBundleId": "q_0125",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-8622e6505e828a:q_0125",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "After LIKE"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whiplash"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Serenade"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JoyRide"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I AM'은 IVE의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0126",
+        "sourceBundleId": "q_0126",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-8622e6505e828a:q_0126",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0126",
+        "sourceBundleId": "q_0126",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-8622e6505e828a:q_0126",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I AM"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GO!"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "District 9"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tick-Tack"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Savage'는 IVE의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0127",
+        "sourceBundleId": "q_0127",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-8622e6505e828a:q_0127",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0127",
+        "sourceBundleId": "q_0127",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-8622e6505e828a:q_0127",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kitsch"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Savage"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "God's Menu"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "IYKYK"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Baddie'는 IVE의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0128",
+        "sourceBundleId": "q_0128",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-8622e6505e828a:q_0128",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 IVE의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0128",
+        "sourceBundleId": "q_0128",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-8622e6505e828a:q_0128",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Baddie"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Drama"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MANIAC"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Pimple"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유진과 원영은 IVE 데뷔 전에도 아이돌 활동 경험이 없었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0129",
+        "sourceBundleId": "q_0129",
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:27",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "레이는 일본 출신 멤버다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0130",
+        "sourceBundleId": "q_0130",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-8622e6505e828a:q_0130",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 일본 출신 멤버는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0130",
+        "sourceBundleId": "q_0130",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-8622e6505e828a:q_0130",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "레이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리즈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE라는 이름은 'COLOR OUTSIDE THE LINES'에서 비롯됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0131",
+        "sourceBundleId": "q_0131",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-8622e6505e828a:q_0131",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE라는 이름의 바탕이 된 표현은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0131",
+        "sourceBundleId": "q_0131",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-8622e6505e828a:q_0131",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I HAVE"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COLOR OUTSIDE THE LINES"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SUPER REAL ME"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "WHO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE라는 이름에는 자신들이 가진 것을 당당하게 보여주겠다는 의미가 담겨 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0132",
+        "sourceBundleId": "q_0132",
+        "sourceRow": 31
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 데뷔 초기부터 음악방송에서 빠르게 1위를 기록하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0133",
+        "sourceBundleId": "q_0133",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "LOVE DIVE'는 2022년을 대표하는 K-pop 히트곡 가운데 하나가 됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0134",
+        "sourceBundleId": "q_0134",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "After LIKE'에는 익숙한 디스코 음악을 떠올리게 하는 샘플이 사용되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0135",
+        "sourceBundleId": "q_0135",
+        "sourceRow": 34
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "I AM'은 자신감과 자기 확신을 강조하는 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0136",
+        "sourceBundleId": "q_0136",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리즈는 IVE의 막내다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0137",
+        "sourceBundleId": "q_0137",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-8622e6505e828a:q_0137",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 막내는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0137",
+        "sourceBundleId": "q_0137",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-8622e6505e828a:q_0137",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리즈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "레이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가을은 IVE의 맏언니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0138",
+        "sourceBundleId": "q_0138",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-8622e6505e828a:q_0138",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 맏언니는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0138",
+        "sourceBundleId": "q_0138",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-8622e6505e828a:q_0138",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가을"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유진"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원영"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "리즈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "리즈와 레이는 음악에 관심을 가지면서 가수의 꿈으로 이어졌다고 설명하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0139",
+        "sourceBundleId": "q_0139",
+        "sourceRow": 40
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가을과 유진은 춤과 퍼포먼스에 관심이 있었다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0140",
+        "sourceBundleId": "q_0140",
+        "sourceRow": 41
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영은 무대의 빛나는 모습에 끌렸다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0141",
+        "sourceBundleId": "q_0141",
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:43",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이서는 캐스팅된 뒤 점차 가수 활동에 관심을 가지게 됐다고 설명했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0142",
+        "sourceBundleId": "q_0142",
+        "sourceRow": 43
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영은 댄스 학원에 갔다가 캐스팅됐다고 말했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0143",
+        "sourceBundleId": "q_0143",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-8622e6505e828a:q_0143",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영이 캐스팅된 계기가 된 장소는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0143",
+        "sourceBundleId": "q_0143",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-8622e6505e828a:q_0143",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "언니의 졸업식"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "댄스 학원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영 대회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "레코드숍"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영은 자신의 캐스팅 경험을 운명처럼 표현했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0144",
+        "sourceBundleId": "q_0144",
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE 멤버들은 그룹을 설명하는 중요한 특징으로 자신감을 꼽지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0145",
+        "sourceBundleId": "q_0145",
+        "sourceRow": 47
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 서로 칭찬을 읽어주며 웃음을 참는 'Compliment Battle'을 한 적이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0146",
+        "sourceBundleId": "q_0146",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-8622e6505e828a:q_0146",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Compliment Battle의 핵심은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0146",
+        "sourceBundleId": "q_0146",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-8622e6505e828a:q_0146",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "웃음 참기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숨 오래 참기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "춤 멈추기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈 감고 그림 그리기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Compliment Battle에서 멤버들은 가위바위보로 순서를 정하기도 하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0147",
+        "sourceBundleId": "q_0147",
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들은 긴 칭찬 문장을 랩처럼 읽어보기도 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0148",
+        "sourceBundleId": "q_0148",
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이서는 Compliment Battle 중 자신을 'Mac and cheese girl'이라고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0149",
+        "sourceBundleId": "q_0149",
+        "sourceRow": 52
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 Saweetie와 'All Night'을 함께 작업했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0150",
+        "sourceBundleId": "q_0150",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-8622e6505e828a:q_0150",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE가 'All Night'을 함께 작업한 아티스트는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0150",
+        "sourceBundleId": "q_0150",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-8622e6505e828a:q_0150",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Saweetie"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Ariana Grande"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Dua Lipa"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sabrina Carpenter"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:55",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "All Night'은 IVE의 영어 활동곡이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0151",
+        "sourceBundleId": "q_0151",
+        "sourceRow": 55
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "All Night'은 Icona Pop의 동명곡을 새롭게 만든 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0152",
+        "sourceBundleId": "q_0152",
+        "sourceRow": 56
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:57",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 미국에서 'All Night'을 녹음하고 뮤직비디오도 촬영하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0153",
+        "sourceBundleId": "q_0153",
+        "sourceRow": 57
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:58",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "All Night' 뮤직비디오에는 1990~2000년대 분위기가 활용됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0154",
+        "sourceBundleId": "q_0154",
+        "sourceRow": 58
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 첫 월드투어 이름은 'PUT YOUR PHONE DOWN'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0155",
+        "sourceBundleId": "q_0155",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-8622e6505e828a:q_0155",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE의 첫 월드투어 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0155",
+        "sourceBundleId": "q_0155",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-8622e6505e828a:q_0155",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SHOW WHAT I HAVE"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PUT YOUR PHONE DOWN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DOMINATE"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PRESS START"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:61",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "IVE는 독일 KPOP.FLEX에서 대규모 해외 관객 앞에 공연했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0156",
+        "sourceBundleId": "q_0156",
+        "sourceRow": 61
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영적 사고'는 원영의 긍정적인 사고방식과 연결돼 널리 알려진 표현이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0157",
+        "sourceBundleId": "q_0157",
+        "sourceRow": 62
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:63",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영적 사고'는 예상과 다른 일이 생겨도 그 안에서 긍정적인 면을 찾아보는 태도와 연결된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0158",
+        "sourceBundleId": "q_0158",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-8622e6505e828a:q_0158",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:64",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영적 사고'와 가장 가까운 설명은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0158",
+        "sourceBundleId": "q_0158",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-8622e6505e828a:q_0158",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뜻밖의 상황에서도 긍정적인 면 찾기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무조건 경쟁에서 이기기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계획을 절대 바꾸지 않기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실수를 숨기기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lucky Vicky'는 원영의 긍정적인 사고방식과 연결돼 유행한 표현이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0159",
+        "sourceBundleId": "q_0159",
+        "sourceRow": 65
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8622e6505e828a:66",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원영은 인터뷰에서 자신을 설명하는 특징으로 자신감을 꼽았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8622e6505e828a:q_0160",
+        "sourceBundleId": "q_0160",
+        "sourceRow": 66
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

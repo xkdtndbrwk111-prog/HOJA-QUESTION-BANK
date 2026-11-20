@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-563b214c98ebaf",
+  "revision": 1,
+  "title": "지역을 알리는 노력",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-지역을 알리는 노력"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-563b214c98ebaf:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역에는 자연환경, 역사, 문화, 생산물 등과 관련 있는 자랑거리가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리를 살펴보면 그 지역의 특징을 알 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 사람들은 자랑거리를 알리기 위해 아무런 활동도 하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자연환경을 이용한 관광 상품을 지역의 자랑거리로 개발할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관광 상품 개발은 지역을 알리고 지역 경제에 도움을 줄 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "보령시는 해마다 대천 해수욕장에서 머드 축제를 연다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "보령 머드 축제는 산에서 캐낸 석탄을 활용한 축제이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통영에서는 이순신 장군의 나라 사랑 정신을 기리는 체험 프로그램을 운영한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기지시 줄다리기는 500여 년이 넘는 역사를 지닌 행사이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기지시 줄다리기 축제에는 외국인이 참여하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 생산물은 자연환경, 역사, 문화 등에 따라 다양하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 생산물을 알리기 위해 직거래 장터를 열 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리 안내도에는 백지도를 활용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리 소개 자료는 만화나 포스터로 만들 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사회 관계망 서비스를 이용해 지역의 자랑거리를 소개할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인터넷에 사진을 올릴 때 수집한 사진의 출처를 표시할 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리를 알리는 활동은 지역을 더 깊이 이해하는 데 도움을 준다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리와 관련 있는 범주가 아닌 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 시험 점수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연환경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "역사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리를 살펴보면 알 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 지역이 똑같다는 점"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그 지역의 독특한 점과 특징"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 비밀번호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 모든 나라의 법"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전남광주통합특별시의 자랑거리 예로 제시된 자연환경은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남산타워"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한라봉"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무등산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기지시 줄다리기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "담양에서 자란 대나무로 만든 생산물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인삼"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "죽세공품"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "보령시가 자연환경을 활용해 알리는 축제는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보령 머드 축제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기지시 줄다리기 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이천 도자기 축제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청도 소싸움 축제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "보령 머드 축제의 머드는 어디에서 얻나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산 정상"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보령 해안의 깨끗한 갯벌"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강바닥의 자갈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시의 도로"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통영의 역사 관련 자랑거리와 관계 깊은 인물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세종"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김홍도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이순신"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통영 체험 프로그램에서 견학하는 곳이 아닌 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세병관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "충렬사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거북선"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경복궁"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당진시의 대표 민속 축제는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기지시 줄다리기 축제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머드 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강진 청자 축제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송이 연어 축제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기지시 줄다리기가 지닌 의미로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "겨울 눈을 기리는 행사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마을의 안녕과 풍년을 비는 행사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 교통을 기리는 행사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 졸업을 기리는 행사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김제시가 알리는 생산물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부채"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인삼"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쌀"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "진안군의 생산물로 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쌀"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부채"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인삼"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "장수군이 축제를 열어 알리는 생산물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대나무"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부채"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전주시가 체험 행사로 알리는 생산물은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연어"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부채"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "머드"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 생산물을 알리는 방법으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박람회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직거래 장터"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비밀로 숨기기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 지역의 자랑거리를 소개하는 자료로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성적표"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "처방전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "포스터"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자랑거리 안내도를 만들 때 사용하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백지도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온도계"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저울"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사회 관계망 서비스에 지역 자랑거리 사진을 올릴 때 해야 할 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출처를 지운다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사진의 출처를 표시한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설명을 쓰지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 이름을 숨긴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제주시 삼양 검은 모래 해변에서 열리는 축제는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보령 머드 축제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통영 한산 대첩 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼양 검은 모래 축제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이천 도자기 축제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양양군에서 송이와 연어를 주제로 열리는 축제는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청도 소싸움 축제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기지시 줄다리기 축제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강진 청자 축제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양양 송이 연어 축제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자연환경, 역사, 문화, 생산물 등과 관련되어 지역이 내세울 만한 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "자랑거리"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "보령시가 대천 해수욕장에서 해마다 여는 축제는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "보령 머드 축제"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통영에서 이순신 장군의 나라 사랑 정신을 기리며 운영하는 축제와 관련된 전투는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "한산 대첩"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당진시에서 500여 년의 전통을 이어 온 민속 행사는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "기지시 줄다리기"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김제시가 박람회를 열어 알리는 생산물은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "쌀"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "진안군이 직거래 장터에서 알리거나 파는 생산물은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "인삼"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "장수군이 축제를 통해 알리는 생산물은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "사과"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전주시가 부채 만들기 체험 행사로 알리는 생산물은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "부채"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 자랑거리 위치와 특징을 지도에 나타내는 소개 자료는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "안내도"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자랑거리 안내도를 만들 때 바탕으로 활용하는 지도는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "백지도"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인터넷이나 휴대전화에서 여러 사람과 글과 사진을 공유하는 서비스를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "사회 관계망 서비스"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사회 관계망 서비스에 다른 사람이 만든 사진을 사용할 때 반드시 표시해야 하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "출처"
+      }
+    },
+    {
+      "questionId": "legacy-563b214c98ebaf:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 생산물을 생산자와 소비자가 직접 만나 판매하는 장터를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-563b214c98ebaf:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "직거래 장터"
+      }
+    }
+  ]
+}

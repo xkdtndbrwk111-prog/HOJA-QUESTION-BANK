@@ -1,0 +1,1938 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-8de5a8080297ef",
+  "revision": 1,
+  "title": "CORTIS",
+  "metadata": {
+    "grade": "common",
+    "subject": "kpop",
+    "status": "legacy",
+    "sourceSheet": "기타-kpop-CORTIS"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-8de5a8080297ef:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 5명으로 이루어진 그룹이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 멤버 수는 몇 명일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 멤버 수를 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0001",
+      "answer": {
+        "text": "5명"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "MARTIN, JAMES, JUHOON, SEONGHYEON, KEONHO는 CORTIS 멤버이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 CORTIS 멤버가 아닌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "TAESAN"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MARTIN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JAMES"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KEONHO"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 BIGHIT MUSIC 소속이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 소속사는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BIGHIT MUSIC"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KOZ Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STARSHIP Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BELIFT LAB"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 BIGHIT MUSIC이 6년 만에 선보인 새 그룹으로 소개되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS라는 이름은 'COLOR OUTSIDE THE LINES'에서 글자를 가져와 만들어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 이름의 바탕이 된 문구는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COLOR OUTSIDE THE LINES"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SUPER REAL ME"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I HAVE"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "WHO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 이름에는 정해진 선 밖에서 자유롭게 생각한다는 의미가 담겨 있지 않다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 자신들을 'creative collective'라고 소개했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 음악 제작에 직접 참여하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 안무 제작에도 참여한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 뮤직비디오와 영상 아이디어에도 참여하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 처음에는 따로 작업하다가 이후 가사 한 줄도 함께 만드는 공동 작업 방식으로 바꿨다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 첫 EP는 'SUPER REAL ME'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 첫 EP는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COLOR OUTSIDE THE LINES"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SUPER REAL ME"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I am NOT"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "WHO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 첫 EP에는 다섯 멤버 모두 크레디트가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 20
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 첫 EP를 준비하며 2년 동안 30곡 이상을 만들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "첫 EP 준비 과정에서 만든 곡은 약 몇 곡 이상일까요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "300곡"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "30곡"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "100곡"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "200곡"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 많은 작업물 가운데 5곡을 첫 EP의 중심 트랙으로 골랐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "첫 EP에 고른 중심 트랙 수는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5곡"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4곡"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6곡"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8곡"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:25",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 첫 EP 리드 싱글은 'Magnetic'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 CORTIS의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What You Want"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Black Mamba"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 첫 EP 리드 싱글을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0016",
+      "answer": {
+        "text": "What You Want"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "GO!'는 CORTIS가 세상을 향해 나아가겠다는 선언을 담은 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JoyRide'은 패션을 소재로 CORTIS의 생활방식을 표현한 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "패션을 소재로 한 CORTIS 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "FaSHioN"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JoyRide"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lullaby"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:31",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JoyRide'는 자유로운 여름날의 분위기를 담은 CORTIS 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자유로운 여름 분위기와 연결되는 CORTIS 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JoyRide"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "FaSHioN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Lullaby"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lullaby'는 불확실한 미래 속에서 서로에게 의지하는 내용을 담은 CORTIS 곡이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:34",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "FaSHioN'에는 동묘와 홍대가 등장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "FaSHioN'에 등장하는 서울 지역 조합은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동묘와 홍대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "잠실과 여의도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "명동과 대학로"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인사동과 강남"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 연습생 때부터 동묘와 홍대에서 빈티지 패션에 관심을 키우지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:37",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "MARTIN은 멤버들 사이에서 밈과 유행에 민감한 멤버로 언급됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "밈과 유행에 특히 민감하다고 언급된 CORTIS 멤버는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MARTIN"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JAMES"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JUHOON"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KEONHO"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들은 'GO!'가 JUHOON과 특히 잘 어울린다고 고르지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:40",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들은 'What You Want'와 잘 어울리는 멤버로 MARTIN을 골랐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 40
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들은 'FaSHioN'과 잘 어울리는 멤버로 JAMES를 고르지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 41
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "멤버들은 SEONGHYEON을 특히 웃긴 멤버로 꼽았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "특히 웃긴 멤버로 꼽힌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SEONGHYEON"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MARTIN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JUHOON"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KEONHO"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "SEONGHYEON의 독특한 웃음소리는 다른 멤버들까지 웃게 만든다고 하지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 44
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:45",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "KEONHO는 수영을 잘한다고 알려져 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "KEONHO와 연결되는 특기는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항 꾸미기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피아노"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JAMES는 ILLIT의 'ELEVEN' 안무 제작에 참여했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JAMES가 안무 제작에 참여한 ILLIT 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Supernova"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "LOVE DIVE"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JAMES가 안무 제작에 참여한 ILLIT 곡을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0030",
+      "answer": {
+        "text": "Magnetic"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Magnetic'의 대표 손동작 아이디어에는 JAMES의 즉흥 동작이 반영됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JAMES의 즉흥적인 'Magnetic' 동작을 MARTIN이 휴대전화로 촬영한 적이 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:52",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들은 친구가 되고 싶은 대상으로 공룡을 언급한 적이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:53",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 인터뷰에서 뜻밖의 '친구가 되고 싶은 대상'으로 언급된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공룡"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물고기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강아지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "용"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:54",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "JUHOON은 파리에서 처음으로 에스프레소를 마시는 장면을 콘텐츠에서 보여주지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 54
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:55",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 멤버들이 좋아하는 음식 가운데 하나로 아사이볼이 소개됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:56",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS 콘텐츠에서 좋아하는 음식으로 소개된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아사이볼"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초콜릿"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "마카로니"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도넛"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:57",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 파리 레코드숍에서 Edith Piaf의 'La Vie en Rose' 음반을 고르지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 57
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:58",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 공식 팬클럽 이름은 COER이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:59",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 공식 팬클럽 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COER"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STAY"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ONEDOOR"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GLLIT"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:60",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 팬클럽 이름을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0037",
+      "answer": {
+        "text": "COER"
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:61",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS는 2026년 'SHOW WHAT I HAVE' 투어를 진행했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8de5a8080297ef:62",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "CORTIS의 2026년 투어 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8de5a8080297ef:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-8de5a8080297ef:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PUT YOUR PHONE DOWN"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SHOW WHAT I HAVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DOMINATE"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "PRESS START"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    }
+  ]
+}

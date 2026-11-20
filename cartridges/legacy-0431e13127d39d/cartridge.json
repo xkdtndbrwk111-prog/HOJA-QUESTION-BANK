@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-0431e13127d39d",
+  "revision": 1,
+  "title": "사회 변화로 달라진 생활 모습",
+  "metadata": {
+    "grade": 3,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "3학년-사회-사회 변화로 달라진 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-0431e13127d39d:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 우리 사회는 사람 수의 변화, 평균 수명의 증가, 과학 기술의 발달, 다른 나라와의 교류 등으로 계속 변화하고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_1k8dnxkxx7",
+        "sourceBundleId": "q_1k8dnxkxx7",
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태어나는 아이의 수가 줄어들어 출산율이 감소하는 현상은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_wns73an96h",
+        "sourceBundleId": "q_wns73an96h",
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지능정보화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태어나서부터 죽을 때까지 살아 있는 기간을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_qzig4xnjs8",
+        "sourceBundleId": "q_qzig4xnjs8",
+        "sourceRow": 4
+      },
+      "answer": {
+        "text": "수명"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전체 사람 수에서 노인의 수가 차지하는 비율이 높아지는 현상은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_1uu7c6rwzl",
+        "sourceBundleId": "q_1uu7c6rwzl",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정보 통신 기술"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1980년대 일부 학교에서 오전반과 오후반으로 나누어 수업한 까닭은 학생은 적고 교실이 많았기 때문이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_mmo6cj54bq",
+        "sourceBundleId": "q_mmo6cj54bq",
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운영하지 않고 문을 닫는 학교를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_hcmpucgzdv",
+        "sourceBundleId": "q_hcmpucgzdv",
+        "sourceRow": 7
+      },
+      "answer": {
+        "text": "폐교"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1970년부터 2020년까지 태어나는 아이의 수를 나타낸 그래프에서 알 수 있는 변화로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_nfcixxp0h6",
+        "sourceBundleId": "q_nfcixxp0h6",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태어나는 아이의 수가 계속 늘어났다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 해의 수가 같았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태어나는 아이의 수가 전체적으로 줄어들었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2010년 이후만 급격히 늘었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산이 계속되면 학생 수와 일할 수 있는 사람의 수가 줄어들 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_9b4oef6773",
+        "sourceBundleId": "q_9b4oef6773",
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산이 계속될 때 나타날 수 있는 모습으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_thclr7pjp4",
+        "sourceBundleId": "q_thclr7pjp4",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가족 구성원 수가 줄 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출산을 돕는 병원 수가 줄 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일할 수 있는 사람의 수가 줄 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 수가 크게 늘어난다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어린아이들을 돌보아 기르는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_gx310wf1rd",
+        "sourceBundleId": "q_gx310wf1rd",
+        "sourceRow": 11
+      },
+      "answer": {
+        "text": "보육"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산 문제를 해결하기 위해 아이를 키우는 데 필요한 돈과 물품을 지원하는 방법이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_lm6pnqua1u",
+        "sourceBundleId": "q_lm6pnqua1u",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산 문제를 해결하기 위한 방법으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_wi87kk4qe6",
+        "sourceBundleId": "q_wi87kk4qe6",
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전하고 쾌적한 보육 시설을 만들고 운영한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보육 시설을 줄인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자녀가 있는 가정의 지원을 없앤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부모가 일을 쉴 수 없게 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일정한 양을 기준으로 어떤 양이 차지하는 정도를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_lt94r5akfg",
+        "sourceBundleId": "q_lt94r5akfg",
+        "sourceRow": 14
+      },
+      "answer": {
+        "text": "비율"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화가 나타나는 배경으로 교과서에서 설명한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_hnx5sw45u8",
+        "sourceBundleId": "q_hnx5sw45u8",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평균 수명이 크게 줄어든 것"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의학 기술 발달과 깨끗한 생활 환경으로 사람들이 오래 살게 된 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 노인이 다른 나라로 이주한 것"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 수가 갑자기 늘어난 것"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화가 진행되면 노인을 위한 시설이나 프로그램은 줄어드는 것이 일반적이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_gmwttenkcp",
+        "sourceBundleId": "q_gmwttenkcp",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "편히 쉬면서 병을 치료하는 시설을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_y2euj8a5f0",
+        "sourceBundleId": "q_y2euj8a5f0",
+        "sourceRow": 17
+      },
+      "answer": {
+        "text": "요양 시설"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화로 나타난 생활 모습으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_4pojs3hfy7",
+        "sourceBundleId": "q_4pojs3hfy7",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 관련 시설이 모두 사라진다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인은 사회에서 일을 할 수 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 복지관과 노인 대상 프로그램이 늘어난다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 전문 병원이 줄어든다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화 사회에서는 일을 하거나 일자리를 찾는 노인의 모습도 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_0ntf2onc5l",
+        "sourceBundleId": "q_0ntf2onc5l",
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 건강하고 행복하게 살 수 있도록 사회에서 지원하는 제도를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_ft5xo5cjcn",
+        "sourceBundleId": "q_ft5xo5cjcn",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 제도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 제도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신 제도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복지 제도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "컴퓨터 등을 활용해 디지털 공간에서 실제처럼 체험할 수 있게 하는 기술은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_kc20zpryh3",
+        "sourceBundleId": "q_kc20zpryh3",
+        "sourceRow": 21
+      },
+      "answer": {
+        "text": "가상 현실"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노인의 건강하고 안정적인 생활을 돕기 위해 복지 제도를 운영할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_vobzx8903f",
+        "sourceBundleId": "q_vobzx8903f",
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공지능을 활용한 기술이 사회 전반에 폭넓은 영향을 미치는 현상은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_l4nrblywbw",
+        "sourceBundleId": "q_l4nrblywbw",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지능정보화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람처럼 정보를 익히고 처리하여 여러 상황에 적용할 수 있는 컴퓨터 시스템은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_xj6ah88ups",
+        "sourceBundleId": "q_xj6ah88ups",
+        "sourceRow": 24
+      },
+      "answer": {
+        "text": "인공지능"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지능정보화의 생활 모습으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_zm7tr1utef",
+        "sourceBundleId": "q_zm7tr1utef",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인공지능 기기로 정보를 얻는다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인터넷을 전혀 사용하지 못한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "로봇이 음식을 배달한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인공지능이 운전자의 안전 운전을 돕는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정보 통신 기술은 전화나 컴퓨터 같은 기기를 이용해 정보를 주고받는 기술이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_1u7v5bv35r",
+        "sourceBundleId": "q_1u7v5bv35r",
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인터넷이나 스마트폰을 지나치게 이용하여 문제가 되는 상태는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_2m0oqycwby",
+        "sourceBundleId": "q_2m0oqycwby",
+        "sourceRow": 27
+      },
+      "answer": {
+        "text": "인터넷·스마트폰 과의존"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지능정보화로 나타날 수 있는 문제로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_7g5iww51sk",
+        "sourceBundleId": "q_7g5iww51sk",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "달의 모양 변화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계절의 변화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 정보 노출"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "풍년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가상 현실은 실제 공간에서만 체험할 수 있고 디지털 공간에서는 체험할 수 없는 기술이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_qo8ruyeep2",
+        "sourceBundleId": "q_qo8ruyeep2",
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공지능이 만든 그럴듯한 가짜 뉴스가 퍼지는 문제와 가장 관련 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_5vih4pfofk",
+        "sourceBundleId": "q_5vih4pfofk",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 발달"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거짓 정보 확산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다른 사람과 구별해 개인을 알 수 있는 모든 정보를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_nvijrcu3nz",
+        "sourceBundleId": "q_nvijrcu3nz",
+        "sourceRow": 31
+      },
+      "answer": {
+        "text": "개인 정보"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지능정보화가 진행되면 사이버 범죄나 거짓 정보 확산 같은 문제가 생길 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_95ltnndyto",
+        "sourceBundleId": "q_95ltnndyto",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지능정보화의 문제를 줄이기 위한 노력으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_xxo8qe2hdr",
+        "sourceBundleId": "q_xxo8qe2hdr",
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사이버 범죄를 감시하고 피해를 줄이려고 노력한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인 정보를 공개한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인터넷 사용 규칙을 없앤다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거짓 정보를 확인 없이 퍼뜨린다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 환경에 적응하면서 살아가는 생활 방식이나 사고방식을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_lium5x6hp5",
+        "sourceBundleId": "q_lium5x6hp5",
+        "sourceRow": 34
+      },
+      "answer": {
+        "text": "생활 양식"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 여러 나라가 다양한 분야에서 교류하면서 전 세계가 하나로 연결되는 현상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_sgelcmok68",
+        "sourceBundleId": "q_sgelcmok68",
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보육"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지능정보화의 문제를 줄이려면 인터넷과 스마트폰을 아무 제한 없이 오래 사용하는 것이 좋다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_cp9q82ldo4",
+        "sourceBundleId": "q_cp9q82ldo4",
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 회사와 대중가요·드라마·영화 등의 영향으로 한국에 대한 관심이 높아져 생긴 현상은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_cwi2k1d8dc",
+        "sourceBundleId": "q_cwi2k1d8dc",
+        "sourceRow": 37
+      },
+      "answer": {
+        "text": "한류"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국과 관련 있는 것들이 다른 나라에서 인기를 얻는 현상을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_4bz67u755j",
+        "sourceBundleId": "q_4bz67u755j",
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교류로"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한류"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과의존"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공지능은 많은 양의 정보를 빠르고 정확하게 처리하는 데 활용될 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_5ol5ppnzh6",
+        "sourceBundleId": "q_5ol5ppnzh6",
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세종 학당이 하는 일로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_grezv0ufvj",
+        "sourceBundleId": "q_grezv0ufvj",
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 일자리를 제공한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 수를 조사한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통수단을 정비한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라 사람들에게 한국어와 한국 문화를 가르친다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다른 나라에서 한국어와 한국 문화를 가르치는 기관은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_61192x9hl1",
+        "sourceBundleId": "q_61192x9hl1",
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "세종 학당"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화가 진행되면 다른 나라의 식품과 물건을 구입하거나 여러 나라 사람과 함께하는 행사에 참여할 기회가 늘어난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_xn04529a1s",
+        "sourceBundleId": "q_xn04529a1s",
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화로 나타날 수 있는 문제로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_7futrg6z24",
+        "sourceBundleId": "q_7futrg6z24",
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전통적인 생활 양식이 약해질 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라 소식을 전혀 알 수 없다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라 사이의 교류가 완전히 사라진다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 물건을 살 수 없게 된다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들이 오가거나 물건, 기술 등을 서로 주고받는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_rdooe3twpx",
+        "sourceBundleId": "q_rdooe3twpx",
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "교류"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화에 대응하는 태도로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_3lw9rv4l57",
+        "sourceBundleId": "q_3lw9rv4l57",
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 문화는 모두 거부한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라의 생활 양식은 장단점을 따져 받아들인다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리 문화는 모두 버린다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 문제에는 관심을 갖지 않는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화가 진행될수록 각 나라의 전통적인 생활 양식은 항상 더 강해지기만 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_ir946dbhch",
+        "sourceBundleId": "q_ir946dbhch",
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 세계화의 사례로 제시한 모습은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_ldxacg7f8r",
+        "sourceBundleId": "q_ldxacg7f8r",
+        "sourceRow": 47
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오직 한 지역 안에서만 생활하는 모습"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통수단을 전혀 이용하지 않는 모습"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라에서 만든 영화를 보는 모습"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인터넷을 사용하지 않는 모습"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화로 감염병이 여러 나라로 빠르게 퍼지는 문제가 생길 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_lm56xhu0s1",
+        "sourceBundleId": "q_lm56xhu0s1",
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공지능 전문가가 갖추면 도움이 되는 능력으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_pdiwls9cjm",
+        "sourceBundleId": "q_pdiwls9cjm",
+        "sourceRow": 49
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방향을 외우는 능력만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동 능력만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노래 부르는 능력만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "논리적으로 생각하는 능력"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계화에 대응하려면 다른 나라의 생활 양식을 무조건 따라야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_vixr2g53xk",
+        "sourceBundleId": "q_vixr2g53xk",
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0431e13127d39d:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다양한 사회 변화에 대응할 때 장점은 활용하고 문제점은 보완하려는 태도가 필요하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0431e13127d39d:q_w7awgkgeox",
+        "sourceBundleId": "q_w7awgkgeox",
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "scope": "prior exported public snapshot, NOT live Sheets; all entries held for review",
+  "sourceCatalogSha256": "bc4dca2cb8844cec3d107ebe7cc9d22f719f84ab3ef3dbdf5030a7db0cedfc44",
+  "totals": {
+    "cartridges": 76,
+    "questions": 5672,
+    "soloUnits": 3191,
+    "teamUnits": 3410,
+    "structuralGatePass": 73
+  },
+  "types": {
+    "MCQ": 2683,
+    "OX": 1571,
+    "SHORT": 1418
+  },
+  "roundtripQuestions": 5672,
+  "heldStructural": [
+    {
+      "id": "legacy-a348ac08eaaa82",
+      "title": "5-영어-비상-9단원 How Much Are These ",
+      "soloUnits": 32,
+      "issues": [
+        {
+          "questionId": "legacy-a348ac08eaaa82:15",
+          "code": "duplicate_choice"
+        }
+      ]
+    },
+    {
+      "id": "legacy-f9e2e20f0a0f2c",
+      "title": "5-영어-천재(함)-1단원 Where Are You Fr",
+      "soloUnits": 23,
+      "issues": []
+    },
+    {
+      "id": "legacy-a7e58227f8c40a",
+      "title": "기타-FUN-수수께끼와 넌센스",
+      "soloUnits": 4,
+      "issues": []
+    }
+  ],
+  "samples": [
+    {
+      "id": "eng6-ham-u10-gen",
+      "qa": {
+        "questionCount": 10,
+        "types": {
+          "MCQ": 8,
+          "OX": 1,
+          "SHORT": 1
+        },
+        "soloUnits": 9,
+        "teamUnits": 10,
+        "issues": [],
+        "minimum25": false,
+        "assets": [
+          "assets/brush.webp",
+          "assets/clinic.webp",
+          "assets/exercise.webp",
+          "assets/library.webp",
+          "assets/vegetables.webp",
+          "assets/wash.webp",
+          "assets/water.webp"
+        ],
+        "structuralGate": false,
+        "publication": "NOT_APPROVED"
+      },
+      "sourceSha256": "29ac2400635e27e1675010a530e92cf670e68853bf40359b837c6d65d7e08422"
+    },
+    {
+      "id": "math5-fractions-demo",
+      "qa": {
+        "questionCount": 10,
+        "types": {
+          "MCQ": 6,
+          "OX": 2,
+          "SHORT": 2
+        },
+        "soloUnits": 8,
+        "teamUnits": 10,
+        "issues": [],
+        "minimum25": false,
+        "assets": [
+          "assets/bar_1_3.svg",
+          "assets/bar_2_5.svg"
+        ],
+        "structuralGate": false,
+        "publication": "NOT_APPROVED"
+      },
+      "sourceSha256": "5e619a0a497db5e38bc88ab30ed29c51bb0b61d01d34a978901afa075d37d2fd"
+    }
+  ]
+}

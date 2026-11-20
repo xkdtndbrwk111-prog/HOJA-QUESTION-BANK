@@ -1,0 +1,1727 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-6bbe7a8f2497f5",
+  "revision": 1,
+  "title": "aespa",
+  "metadata": {
+    "grade": "common",
+    "subject": "kpop",
+    "status": "legacy",
+    "sourceSheet": "기타-kpop-aespa"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa는 4명으로 이루어진 그룹이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0161",
+        "sourceBundleId": "q_0161",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0161",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 멤버 수는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0161",
+        "sourceBundleId": "q_0161",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0161",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4명"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "카리나, 지젤, 윈터, 닝닝은 aespa 멤버이 아니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0162",
+        "sourceBundleId": "q_0162",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0162",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa 멤버가 아닌 사람은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0162",
+        "sourceBundleId": "q_0162",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0162",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원영"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카리나"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윈터"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "닝닝"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa는 SM Entertainment 소속이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0163",
+        "sourceBundleId": "q_0163",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0163",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 소속사는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0163",
+        "sourceBundleId": "q_0163",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0163",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "SM Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "STARSHIP Entertainment"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "BELIFT LAB"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KOZ Entertainment"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa는 2021년에 데뷔했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0164",
+        "sourceBundleId": "q_0164",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0164",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa가 데뷔한 해는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0164",
+        "sourceBundleId": "q_0164",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0164",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2020년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2021년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2023년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2024년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 데뷔곡은 'Black Mamba'이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0165",
+        "sourceBundleId": "q_0165",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0165",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 데뷔곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0165",
+        "sourceBundleId": "q_0165",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0165",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Black Mamba"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "District 9"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:12",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 데뷔곡을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0165",
+        "sourceBundleId": "q_0165",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0165",
+      "answer": {
+        "text": "Black Mamba"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 공식 팬덤 이름은 DIVE이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0166",
+        "sourceBundleId": "q_0166",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0166",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 팬덤 이름은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0166",
+        "sourceBundleId": "q_0166",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0166",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MY"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GLLIT"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COER"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 팬덤 이름을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0166",
+        "sourceBundleId": "q_0166",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0166",
+      "answer": {
+        "text": "MY"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "카리나는 aespa의 리더다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0167",
+        "sourceBundleId": "q_0167",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0167",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 리더는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0167",
+        "sourceBundleId": "q_0167",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0167",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카리나"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윈터"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지젤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "닝닝"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "LOVE DIVE'은 aespa의 대표곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0168",
+        "sourceBundleId": "q_0168",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0168",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0168",
+        "sourceBundleId": "q_0168",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0168",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Next Level"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "LOVE DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MANIAC"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Savage'는 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0169",
+        "sourceBundleId": "q_0169",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0169",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0169",
+        "sourceBundleId": "q_0169",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0169",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Savage"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kitsch"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Serenade"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GO!"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Baddie'는 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0170",
+        "sourceBundleId": "q_0170",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0170",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0170",
+        "sourceBundleId": "q_0170",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0170",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Spicy"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Baddie"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "JoyRide"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "IYKYK"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Drama'는 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0171",
+        "sourceBundleId": "q_0171",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0171",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0171",
+        "sourceBundleId": "q_0171",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0171",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Drama"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Pimple"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "District 9"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "After LIKE"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "LOVE DIVE'는 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0172",
+        "sourceBundleId": "q_0172",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0172",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0172",
+        "sourceBundleId": "q_0172",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0172",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Supernova"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "LOVE DIVE"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Magnetic"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "One and Only"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Armageddon'은 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0173",
+        "sourceBundleId": "q_0173",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0173",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0173",
+        "sourceBundleId": "q_0173",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0173",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Armageddon"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ELEVEN"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "MANIAC"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Tick-Tack"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kitsch'는 aespa의 곡이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0174",
+        "sourceBundleId": "q_0174",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0174",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 중 aespa의 곡은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0174",
+        "sourceBundleId": "q_0174",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0174",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Whiplash"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kitsch"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Serenade"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "FaSHioN"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 초기 세계관에는 멤버들과 연결되는 æ 아바타 개념이 있었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0175",
+        "sourceBundleId": "q_0175",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "ONEDOOR는 aespa의 초기 세계관에서 중요한 용어였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0176",
+        "sourceBundleId": "q_0176",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0176",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 초기 세계관과 연결되는 용어는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0176",
+        "sourceBundleId": "q_0176",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0176",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "KWANGYA"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ONEDOOR"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "COER"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "DIVE"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa라는 이름에는 avatar, experience, aspect와 관련된 의미가 담겨 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0177",
+        "sourceBundleId": "q_0177",
+        "sourceRow": 35
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "카리나은 중국 출신 멤버다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0178",
+        "sourceBundleId": "q_0178",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0178",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa의 중국 출신 멤버는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0178",
+        "sourceBundleId": "q_0178",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0178",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "닝닝"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "카리나"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윈터"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지젤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지젤은 일본에서 태어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0179",
+        "sourceBundleId": "q_0179",
+        "sourceRow": 38
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터는 스쿠버다이빙를 배우기 시작했다고 인터뷰에서 밝혔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0180",
+        "sourceBundleId": "q_0180",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0180",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터가 배우기 시작했다고 밝힌 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0180",
+        "sourceBundleId": "q_0180",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0180",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서예"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스쿠버다이빙"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항 꾸미기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낚시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터의 외할아버지는 전통 서예를 한다고 알려졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0181",
+        "sourceBundleId": "q_0181",
+        "sourceRow": 41
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터는 붓글씨와 고전 회화 같은 전통적인 것을 좋아한다고 말하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0182",
+        "sourceBundleId": "q_0182",
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:43",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터는 운전면허를 땄다고 인터뷰에서 밝혔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0183",
+        "sourceBundleId": "q_0183",
+        "sourceRow": 43
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윈터는 새로운 강아지를 가족으로 맞았다고 밝히지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0184",
+        "sourceBundleId": "q_0184",
+        "sourceRow": 44
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:45",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지젤은 게임에서 자신을 가장 장난꾸러기인 멤버로 골랐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0185",
+        "sourceBundleId": "q_0185",
+        "sourceRow": 45
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa 멤버들은 서로의 얼굴을 30초 안에 그리는 게임을 한 적이 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0186",
+        "sourceBundleId": "q_0186",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0186",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa가 콘텐츠에서 한 도전은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0186",
+        "sourceBundleId": "q_0186",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0186",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로의 얼굴을 30초 안에 그리기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어항을 30초 안에 꾸미기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노래를 30초 안에 작곡하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강아지 이름을 30초 안에 맞히기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa 멤버들은 서로를 흉내 내는 미션을 한 적이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0187",
+        "sourceBundleId": "q_0187",
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:49",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lemonade'에서는 조선 시대 궁중복이 활용됐다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0188",
+        "sourceBundleId": "q_0188",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0188",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:50",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "aespa 'Lemonade'와 연결되는 패션 분위기는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0188",
+        "sourceBundleId": "q_0188",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-6bbe7a8f2497f5:q_0188",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1960년대풍 mod fashion"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 시대 궁중복"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서부극 카우보이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스포츠 유니폼"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-6bbe7a8f2497f5:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Lemonade' 뮤직비디오에는 컬러풀한 드레스와 복고풍 헤어스타일이 등장한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-6bbe7a8f2497f5:q_0189",
+        "sourceBundleId": "q_0189",
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

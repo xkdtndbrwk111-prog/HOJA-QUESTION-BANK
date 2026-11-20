@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-915c5b3e00b81b",
+  "revision": 1,
+  "title": "지역의 환경과 변화",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-지역의 환경과 변화"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-915c5b3e00b81b:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리를 둘러싸고 있는 모든 것을 환경이라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산, 들, 하천, 바다는 자연환경에 속한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "논과 밭은 자연 그대로 생겨난 자연환경이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "항구, 건물, 도로는 사람들이 만든 인문환경이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산이 많은 지역에서는 갯벌과 모래사장이 대표적인 모습이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "풍력 발전기는 산이 많은 지역에서만 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산이 많은 지역에서는 댐, 스키장, 캠핑장, 삼림욕장을 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "들이 펼쳐진 지역에서는 하천이나 저수지와 관계없이 논과 밭을 전혀 볼 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다가 있는 지역에서는 갯벌이나 모래사장을 볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양식장은 물고기나 김 등을 기르는 곳이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다가 있는 지역에서는 양식장을 볼 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경을 개발하면 항상 좋은 영향만 나타난다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산의 삼림이 훼손되면 산사태 위험이 커질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "간척은 산을 깎아 도로를 만드는 일이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "간척으로 생긴 땅에 공업 단지나 주택 단지를 만들 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시화 갯벌 간척 뒤 공장 폐수로 환경 오염이 일어난 사례가 제시되어 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인간과 환경의 조화를 위해 자연 휴식년제를 시행할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리를 둘러싸고 있는 모든 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자치"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자연환경에 해당하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도로"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하천"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인문환경에 해당하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "목장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "논과 밭이 인문환경인 까닭은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비가 내려 생겼기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바람이 만들었기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연 그대로 생겼기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람들이 농사를 지으려고 만들었기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산이 많은 지역에서 볼 수 있는 모습은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계곡"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갯벌"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지하철역만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대형 항구만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산비탈에서 사람들이 하는 활동의 예는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김 양식"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "약초와 버섯 재배"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조개잡이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항구 운영"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 저장하거나 전기를 만들기 위해 볼 수 있는 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백화점"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공항"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "댐"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지하철역"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "숲속에서 상쾌한 공기를 마시며 머무는 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양식장"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼림욕장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "들이 펼쳐진 지역에서 주로 볼 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "논과 밭"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갯벌"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산봉우리만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대형 항구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비닐하우스에서 재배할 수 있다고 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광물"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "채소와 과일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물고기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석탄"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다가 있는 지역에서 볼 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스키장만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광산만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양식장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "논만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양식장에서 기르는 것으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소와 양"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사과와 배"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀과 보리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물고기와 김"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다가 있는 지역에서 공업이 발달할 수 있는 까닭은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "배로 원료와 제품을 실어 나르기 쉽기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산이 높기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈이 많이 오기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "논이 많기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "울산에서 공업이 발달한 후 나타난 변화로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산업이 사라졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공장이 많이 세워지고 지역 모습이 달라졌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 사람이 농사만 지었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구가 반드시 줄었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경 개발의 부정적 영향으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여가 시설 증가"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 편리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼림 훼손과 환경 오염"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일자리 증가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼림이 훼손되면 산사태 위험이 커지는 까닭은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷물이 늘기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도로가 모두 없어지기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강수량이 항상 0이 되기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "흙을 잡아 주는 나무뿌리가 줄어들기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다나 갯벌을 땅으로 만드는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "간척"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양식"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시화 갯벌 간척 후 긍정적 영향으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 생물이 사라졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "넓은 땅과 공장이 생겨 지역 경제가 발전했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 오염만 늘었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민이 모두 떠났다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시화 갯벌 간척 후 나타난 부정적 영향은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쌀 생산만 늘었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "눈이 많이 내렸다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공장 폐수로 환경 오염이 일어났다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산이 높아졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인간과 환경의 조화를 이루기 위한 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 숲을 개발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갯벌을 모두 매립"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "야생 동물 이동을 막기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연 휴식년제 시행"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리를 둘러싸고 있는 모든 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "환경"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산, 들, 하천, 바다처럼 자연 그대로 생겨난 환경을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "자연환경"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "도로, 항구, 건물처럼 사람이 만든 환경을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "인문환경"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산이 많은 지역에서 물을 저장하거나 전기를 만들어 내는 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "댐"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "숲속에서 상쾌한 공기를 마시며 머물 수 있도록 만든 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "삼림욕장"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물을 모아 두어 필요할 때 사용할 수 있게 해 둔 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "저수지"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람의 힘으로 물고기나 김 등을 기르는 곳은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "양식장"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어떤 물건을 만드는 데 들어가는 재료를 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "원료"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원료를 이용하여 생활에 필요한 물건을 만드는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "공업"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산에 있던 바위나 흙이 갑자기 무너져 내리는 현상은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "산사태"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다나 갯벌을 땅으로 만드는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "간척"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자연환경이 원래 모습을 되찾도록 일정 기간 사람의 출입을 막는 제도는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "자연 휴식년제"
+      }
+    },
+    {
+      "questionId": "legacy-915c5b3e00b81b:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "야생 동물이 자유롭게 이동하도록 마련한 길은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-915c5b3e00b81b:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "생태 통로"
+      }
+    }
+  ]
+}

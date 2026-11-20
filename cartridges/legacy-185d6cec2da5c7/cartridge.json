@@ -1,0 +1,1429 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-185d6cec2da5c7",
+  "revision": 1,
+  "title": "천재(함)-9단원 They Are Twenty ",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-9단원 They Are Twenty "
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-185d6cec2da5c7:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 양말 가격을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the socks?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are the socks?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much is the sock?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What color are the socks?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 양말 가격을 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0001",
+      "answer": {
+        "text": "How much are the socks?"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 장갑 가격을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the gloves?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the shoes?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What color are the gloves?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much is the glove?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 신발 가격을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the shoes?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the pants?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are the shoes?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much is the shoe?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 바지 가격을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the pants?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the glasses?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What color are the pants?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much is the pants?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 개의 안경 가격을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the glasses?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are the gloves?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What are the glasses?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much is the glasses?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가격이 만 원이라고 답할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are ten thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are twenty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are thirty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forty thousand won."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:9",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가격이 만 원이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0006",
+      "answer": {
+        "text": "They are ten thousand won."
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가격이 이만 원이라고 답할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are twenty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are ten thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are thirty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forty thousand won."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:11",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가격이 삼만 원이라고 답할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are thirty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are twenty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are ten thousand won."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가격이 사만 원이라고 답할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are forty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are thirty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are twenty thousand won."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are ten thousand won."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How much are the socks?”는 여러 개의 양말 가격을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“They are twenty thousand won.”는 가격이 이만 원이라는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "검은색을 원한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want black, please."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I want socks, please."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How much are they?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "They are black."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "검은색을 원한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0012",
+      "answer": {
+        "text": "I want black, please."
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I want black, please.”는 검은색을 원한다고 말하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A seller says, “Look at these yellow pants. They are ten thousand won.” 바지의 가격은 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ten thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twenty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "thirty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forty thousand won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A seller says, “They are too small for me. They are nice and pretty.” 바지의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "nice and pretty"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "new and cool"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "big and expensive"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "old and small"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A seller says, “Look at these yellow pants. They are nice and pretty.” 바지의 색깔은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "yellow"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "red"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "blue"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Look at these yellow pants. They are ten thousand won.” 이 바지의 가격은 이만 원이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A seller says, “Look at these soccer shoes. They are twenty thousand won.” 축구화의 가격은 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twenty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ten thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "thirty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forty thousand won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A seller says, “They are too big for me. They are new and cool.” 축구화의 특징으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "new and cool"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "nice and pretty"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "small and old"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "yellow and pretty"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“These soccer shoes are new and cool.”은 이 축구화가 새것이고 멋지다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Look at these gloves. They are nice and pretty.” 물건과 특징을 바르게 연결한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "gloves — nice and pretty"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "shoes — nice and pretty"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pants — new and cool"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "socks — too big"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Look at these gloves. They are ten thousand won.” 장갑의 가격은 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ten thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twenty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "thirty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forty thousand won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Look at these socks. They’re cool. They’re ten thousand won.” 양말에 대한 설명으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "멋지고 가격은 만 원이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "예쁘고 가격은 이만 원이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새것이고 가격은 삼만 원이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "작고 가격은 사만 원이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Look at these socks. They are nice and pretty.” B: “How much are the pants?” 대화에서 B가 가격을 묻는 물건은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pants"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "socks"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "gloves"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "shoes"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “How much are the pants?” B: “They are ten thousand won.” 바지의 가격은 만 원이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “How much are the pants?” B: “They are ten thousand won.” 바지의 가격은 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-185d6cec2da5c7:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ten thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twenty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "thirty thousand won"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "forty thousand won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "At a yard sale, a child asks, “How much are the pants?” The seller says, “They’re five dollars.” 바지의 가격은 얼마인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "five dollars"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ten dollars"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "twenty dollars"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "five thousand won"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How much are the pants?”에 “They’re five dollars.”라고 답했다면 바지 가격은 5달러이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-185d6cec2da5c7:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How much are the glasses?”는 안경의 색깔을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-185d6cec2da5c7:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

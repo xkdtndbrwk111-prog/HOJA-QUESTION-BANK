@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-0cc96c18f24cfa",
+  "revision": 1,
+  "title": "8·15 광복과 6·25 전쟁",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-8·15 광복과 6·25 전쟁"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-0cc96c18f24cfa:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 민족은 1945년 8월 15일 광복을 맞이하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 민족이 광복을 맞이한 날짜는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1919년 3월 1일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1948년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1950년 6월 25일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 민족이 광복을 맞이한 날짜는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0001",
+      "answer": {
+        "text": "1945년 8월 15일"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1950년 6월 25일 일본은 연합국에 항복하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 8월 15일 일본이 항복한 상대는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연합국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소련군만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 8월 15일 일본이 항복한 상대는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0002",
+      "answer": {
+        "text": "연합국"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복은 연합국의 승리와 우리 민족의 끊임없는 독립운동이 함께 이룬 결과였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복을 이룬 배경으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연합국의 승리와 우리 민족의 독립운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 자발적 철수만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남북한 총선거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "6·25 전쟁의 승리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복을 이룬 배경으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0003",
+      "answer": {
+        "text": "연합국의 승리와 우리 민족의 독립운동"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 김구를 비롯한 여러 독립운동가가 귀국하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 중국에서 대한민국 임시 정부를 이끌다 귀국한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤봉길"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김좌진"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신돌석"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 중국에서 대한민국 임시 정부를 이끌다 귀국한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0004",
+      "answer": {
+        "text": "김구"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 사람들은 한국식 성과 이름을 회복하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 사람들이 다시 사용할 수 있게 된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국식 성과 이름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본식 성과 이름만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공명첩"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 사람들이 다시 사용할 수 있게 된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0005",
+      "answer": {
+        "text": "한국식 성과 이름"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 우리말과 우리글을 자유롭게 사용할 수 있게 되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 자유롭게 사용할 수 있게 된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리말과 우리글"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본어만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한자만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국어만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 자유롭게 사용할 수 있게 된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0006",
+      "answer": {
+        "text": "우리말과 우리글"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 학교에서는 한글로 된 교과서로 우리말과 역사를 가르쳤다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 학교에서 학생들이 사용한 교과서는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한글 교과서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본어 교과서만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영어 교과서만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한문 교과서만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 학교에서 학생들이 사용한 교과서는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0007",
+      "answer": {
+        "text": "한글 교과서"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 강제로 폐간되었던 신문이 다시 발간되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 강제로 폐간되었던 신문은 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다시 발간되었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계속 금지되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 일본어로만 발간되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교에서만 읽을 수 있었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 뒤 강제로 폐간되었던 신문은 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0008",
+      "answer": {
+        "text": "다시 발간되었다."
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 금지했던 어린이날은 광복 이후 부활하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 금지했던 어린이날은 광복 뒤 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부활하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐지되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본 기념일이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 수업일로만 남았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 금지했던 어린이날은 광복 뒤 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0009",
+      "answer": {
+        "text": "부활하였다."
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 미군과 소련군은 휴전선을 기준으로 한반도를 나누어 관리했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 미군과 소련군이 한반도를 나누어 관리한 기준선은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "38도선"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴전선"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "압록강"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한강"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 미군과 소련군이 한반도를 나누어 관리한 기준선은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0010",
+      "answer": {
+        "text": "38도선"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "38도선 남쪽에는 미군이 들어왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 38도선 남쪽에 들어온 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소련군"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 38도선 남쪽에 들어온 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0011",
+      "answer": {
+        "text": "미군"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "38도선 북쪽에는 미군이 들어왔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 38도선 북쪽에 들어온 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소련군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미군"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광복 직후 38도선 북쪽에 들어온 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0012",
+      "answer": {
+        "text": "소련군"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 12월 모스크바 3국 외상 회의가 열렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 12월 미국·영국·소련의 외무 장관이 한반도 문제 등을 논의한 회의는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모스크바 3국 외상 회의"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파리 강화 회의"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남북 정상 회담"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 자오선 회의"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 12월 미국·영국·소련의 외무 장관이 한반도 문제 등을 논의한 회의는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0013",
+      "answer": {
+        "text": "모스크바 3국 외상 회의"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의에서는 최대 5년 동안 식민 통치를 실시하기로 결정했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의에서 최대 몇 년 동안 실시하기로 한 통치는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신탁 통치"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식민 통치"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군사 독재"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세도 정치"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의에서 최대 몇 년 동안 실시하기로 한 통치는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0014",
+      "answer": {
+        "text": "신탁 통치"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의 결정이 알려지자 신탁 통치 실시 문제를 둘러싸고 갈등이 일어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의의 결정이 알려진 뒤 국내에서 갈등이 일어난 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신탁 통치 실시 문제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제 실시 문제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호패 사용 문제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원 건립 문제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모스크바 3국 외상 회의의 결정이 알려진 뒤 국내에서 갈등이 일어난 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0015",
+      "answer": {
+        "text": "신탁 통치 실시 문제"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국과 소련은 임시 정부 수립 방법에 합의했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국과 소련은 임시 정부 수립 방법을 논의했지만 어떤 결과에 이르렀습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "합의를 이루지 못했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "즉시 통일 정부를 세웠다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본에 통치를 맡겼다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국을 복원했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국과 소련은 임시 정부 수립 방법을 논의했지만 어떤 결과에 이르렀습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0016",
+      "answer": {
+        "text": "합의를 이루지 못했다."
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국은 한반도 문제를 국제 연합에 넘겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국과 소련의 회의가 결렬된 뒤 한반도 문제를 논의하게 된 국제기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합(UN)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미국과 소련의 회의가 결렬된 뒤 한반도 문제를 논의하게 된 국제기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0017",
+      "answer": {
+        "text": "국제 연합(UN)"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 처음에 남북이 따로 선거를 통해 각각 정부를 세우기로 결정했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합이 처음 통일 정부를 세우기 위해 결정한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남북한 총선거"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남한만의 선거"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북한만의 선거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕 선출"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합이 처음 통일 정부를 세우기 위해 결정한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0018",
+      "answer": {
+        "text": "남북한 총선거"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "소련은 국제 연합 한국 임시 위원단이 북한에 들어오는 것을 막았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합 한국 임시 위원단이 북한에 들어가는 것을 막은 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소련"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합 한국 임시 위원단이 북한에 들어가는 것을 막은 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0019",
+      "answer": {
+        "text": "소련"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 결국 선거가 가능한 북한에서 총선거를 치르기로 결정하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 결국 어디에서 총선거를 치르기로 결정했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선거가 가능한 남한"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북한만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 결국 어디에서 총선거를 치르기로 결정했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0020",
+      "answer": {
+        "text": "선거가 가능한 남한"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제주도의 일부 주민은 남한만의 단독 선거와 단독 정부 수립에 반대하며 봉기를 일으켰다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 4월 3일 제주도의 일부 주민이 봉기를 일으킨 이유 중 하나는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남한만의 단독 선거와 정부 수립에 반대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 재식민 통치 요구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제 부활 요구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제 강화 요구"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 4월 3일 제주도의 일부 주민이 봉기를 일으킨 이유 중 하나는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0021",
+      "answer": {
+        "text": "남한만의 단독 선거와 정부 수립에 반대"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제주 4·3 사건의 진압 과정에서 많은 자연환경이 파괴되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제주 4·3 사건의 진압 과정에서 큰 피해를 입은 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민간인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 상인만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립군만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제주 4·3 사건의 진압 과정에서 큰 피해를 입은 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0022",
+      "answer": {
+        "text": "민간인"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 5월 10일 남한에서 5·10 총선거가 실시되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 5월 10일 남한에서 국회의원을 뽑기 위해 실시한 선거는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5·10 총선거"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3·1 운동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑신정변"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광주 학생 항일 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 5월 10일 남한에서 국회의원을 뽑기 위해 실시한 선거는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0023",
+      "answer": {
+        "text": "5·10 총선거"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거는 21세 이상 모든 남성의 투표권을 인정했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거에서 투표권을 인정받은 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "21세 이상 모든 국민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남성 관리만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군인만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거에서 투표권을 인정받은 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0024",
+      "answer": {
+        "text": "21세 이상 모든 국민"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거는 민주적인 절차에 따라 치러진 우리나라 최초의 민주 선거였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거는 우리나라 역사에서 어떤 의미가 있는 선거입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최초의 민주 선거"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최초의 과거 시험"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최초의 왕 선거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "최초의 지방 향교 선거"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거는 우리나라 역사에서 어떤 의미가 있는 선거입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0025",
+      "answer": {
+        "text": "최초의 민주 선거"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거에서 뽑힌 국회의원으로 제헌 국회가 구성되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거에서 뽑힌 국회의원으로 구성된 국회는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제헌 국회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임시 의정원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "5·10 총선거에서 뽑힌 국회의원으로 구성된 국회는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0026",
+      "answer": {
+        "text": "제헌 국회"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회는 나라 이름을 대한민국으로 정하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 정한 우리나라의 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 정한 우리나라의 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0027",
+      "answer": {
+        "text": "대한민국"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회는 제헌헌법을 완성하지 못했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 만든 우리나라의 헌법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제헌헌법"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경국대전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼강행실도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 만든 우리나라의 헌법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0028",
+      "answer": {
+        "text": "제헌헌법"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법은 대한민국을 민주 공화국이라고 규정하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법 제1조에서 대한민국을 어떤 나라라고 하였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민주 공화국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절대 왕국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식민지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제 국가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법 제1조에서 대한민국을 어떤 나라라고 하였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0029",
+      "answer": {
+        "text": "민주 공화국"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법은 대한민국의 주권이 조선의 국왕에게 있다고 밝혔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법에 따르면 대한민국의 주권은 누구에게 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 군대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌헌법에 따르면 대한민국의 주권은 누구에게 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0030",
+      "answer": {
+        "text": "국민"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회 국회의원들은 이승만을 대통령으로 뽑았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 초대 대통령으로 선출한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이승만"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안창호"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서재필"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제헌 국회가 초대 대통령으로 선출한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0031",
+      "answer": {
+        "text": "이승만"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1945년 8월 15일 대한민국 정부 수립이 선포되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 정부 수립이 선포된 날은 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1948년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1948년 5월 10일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1950년 6월 25일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 정부 수립이 선포된 날은 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0032",
+      "answer": {
+        "text": "1948년 8월 15일"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 정부 수립은 대한민국 임시 정부의 법통을 이어 독립 정부를 세웠다는 의의가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 정부 수립의 의의로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부의 법통을 이은 독립 정부 수립"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부의 통치 계승"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 식민 통치 재개"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국 군대 해산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 정부 수립의 의의로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0033",
+      "answer": {
+        "text": "대한민국 임시 정부의 법통을 이은 독립 정부 수립"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 9월 북한에는 조선소련 민주주의 인민 공화국이라는 별도의 정권이 세워졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 9월 북한에 세워진 별도의 정권 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 민주주의 인민 공화국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1948년 9월 북한에 세워진 별도의 정권 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0034",
+      "answer": {
+        "text": "조선 민주주의 인민 공화국"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1950년 6월 25일 북한이 남한을 침략하면서 6·25 전쟁이 시작되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁이 시작된 날짜는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1950년 6월 25일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1948년 8월 15일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1953년 7월"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁이 시작된 날짜는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0035",
+      "answer": {
+        "text": "1950년 6월 25일"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁은 국군의 북침으로 시작되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁을 시작한 직접적인 사건은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북한군의 남침"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국군의 남침"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군의 침략"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합군의 공격"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁을 시작한 직접적인 사건은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0036",
+      "answer": {
+        "text": "북한군의 남침"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북한군의 공격으로 국군은 3일 만에 서울을 빼앗겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북한군의 갑작스러운 공격으로 국군은 며칠 만에 서울을 빼앗겼습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "10일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "30일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북한군의 갑작스러운 공격으로 국군은 며칠 만에 서울을 빼앗겼습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0037",
+      "answer": {
+        "text": "3일"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 초기에 국군은 낙동강 일대까지 후퇴하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 초기에 국군이 후퇴한 지역은 어디까지입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙동강 일대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "압록강 일대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두만강 일대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평양 일대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 초기에 국군이 후퇴한 지역은 어디까지입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0038",
+      "answer": {
+        "text": "낙동강 일대"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합은 북한을 침략자로 규정하고 국제 연합군을 남한에 파견하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북한을 침략자로 규정하고 남한에 국제 연합군을 파견한 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제 연합(UN)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북한을 침략자로 규정하고 남한에 국제 연합군을 파견한 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0039",
+      "answer": {
+        "text": "국제 연합(UN)"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합군에는 3개국이 참여하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합군에는 몇 개 나라가 참여했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "16개국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3개국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8개국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "38개국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국제 연합군에는 몇 개 나라가 참여했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0040",
+      "answer": {
+        "text": "16개국"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군은 인천 상륙 작전을 펼쳐 서울을 되찾았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군이 서울을 되찾는 계기가 된 작전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인천 상륙 작전"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울 진공 작전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "행주 대첩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노량 해전"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군이 서울을 되찾는 계기가 된 작전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0041",
+      "answer": {
+        "text": "인천 상륙 작전"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군은 38도선을 넘어 낙동강 주변까지 나아갔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인천 상륙 작전 뒤 국군과 국제 연합군은 어디 주변까지 나아갔습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "압록강"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한강"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "낙동강"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "섬진강"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인천 상륙 작전 뒤 국군과 국제 연합군은 어디 주변까지 나아갔습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0042",
+      "answer": {
+        "text": "압록강"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군이 북쪽으로 나아가자 중국군이 북한을 돕기 위해 참전하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군이 북쪽 국경으로 나아가자 북한을 돕기 위해 참전한 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영국군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소련군만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국군과 국제 연합군이 북쪽 국경으로 나아가자 북한을 돕기 위해 참전한 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0043",
+      "answer": {
+        "text": "중국군"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국군의 공격으로 국군과 국제 연합군이 후퇴하면서 10·4 후퇴가 일어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국군의 공격으로 1951년 1월 4일 서울이 다시 함락된 사건은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1·4 후퇴"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5·10 총선거"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "8·15 광복"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정전 협정"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국군의 공격으로 1951년 1월 4일 서울이 다시 함락된 사건은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0044",
+      "answer": {
+        "text": "1·4 후퇴"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1953년 7월 정전 협정이 체결되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁의 정전 협정이 체결된 때는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1953년 7월"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년 8월"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1950년 6월"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1960년 4월"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁의 정전 협정이 체결된 때는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0045",
+      "answer": {
+        "text": "1953년 7월"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정전 협정이 체결되면서 38도선이 그어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정전 협정이 체결되면서 그어진 선은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴전선"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "38도선"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호남선"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금강선"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정전 협정이 체결되면서 그어진 선은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0046",
+      "answer": {
+        "text": "휴전선"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 수많은 이산가족과 전쟁고아가 생겨났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 가족이 흩어지면서 많이 생겨난 사람들을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이산가족과 전쟁고아"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반과 중인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호족과 노비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "역관과 전기수"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 가족이 흩어지면서 많이 생겨난 사람들을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0047",
+      "answer": {
+        "text": "이산가족과 전쟁고아"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 건물, 공장, 도로, 철도, 다리와 국가유산 등이 파괴되지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 파괴된 것의 예로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건물·공장·도로·철도·다리·국가유산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고인돌만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 교과서만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6·25 전쟁으로 파괴된 것의 예로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0048",
+      "answer": {
+        "text": "건물·공장·도로·철도·다리·국가유산"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 도시로 인구가 몰리면서 판잣집에서 생활하는 사람이 많아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 도시로 인구가 몰리면서 많이 생긴 열악한 주거 형태는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "판잣집"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기와 궁궐"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "움집 마을"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 도시로 인구가 몰리면서 많이 생긴 열악한 주거 형태는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0049",
+      "answer": {
+        "text": "판잣집"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 많은 여성이 공장에 취업하거나 행상을 하며 가족의 생계를 책임졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 많은 여성에게 나타난 생활 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공장 취업이나 행상으로 가족의 생계를 책임졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경제활동이 완전히 사라졌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 관직에 올랐다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모두 농촌을 떠나지 않았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-0cc96c18f24cfa:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전쟁 뒤 많은 여성에게 나타난 생활 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-0cc96c18f24cfa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-0cc96c18f24cfa:q_0050",
+      "answer": {
+        "text": "공장 취업이나 행상으로 가족의 생계를 책임졌다."
+      }
+    }
+  ]
+}

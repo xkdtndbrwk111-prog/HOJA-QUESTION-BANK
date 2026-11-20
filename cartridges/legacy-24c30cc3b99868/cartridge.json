@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-24c30cc3b99868",
+  "revision": 1,
+  "title": "세계의 인구",
+  "metadata": {
+    "grade": 6,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "6-사회-세계의 인구"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-24c30cc3b99868:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구는 한 나라 또는 지역에 사는 사람의 수를 말한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 나라 또는 지역에 사는 사람의 수를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 밀도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 구조"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 나라 또는 지역에 사는 사람의 수를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0001",
+      "answer": {
+        "text": "인구"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 어디에 얼마나 모여 살고 있는지를 나타낸 것을 인구 분포라고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 어디에 얼마나 모여 살고 있는지를 나타낸 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 분포"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 구조"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "합계 출산율"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 어디에 얼마나 모여 살고 있는지를 나타낸 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0002",
+      "answer": {
+        "text": "인구 분포"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 밀도는 한 나라 또는 지역의 총인구를 총면적으로 나눈 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "총인구를 총면적으로 나눈 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 밀도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 구조"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "총인구를 총면적으로 나눈 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0003",
+      "answer": {
+        "text": "인구 밀도"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 밀도가 높다는 것은 일정한 면적 안에 많은 사람이 빽빽하게 모여 있다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 밀도가 높은 지역의 모습으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일정한 면적에 많은 사람이 모여 있다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람이 한 명도 없다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토 면적이 반드시 넓다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률이 반드시 낮다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일정한 면적에 많은 사람이 빽빽하게 모여 있으면 인구 무엇이 높다고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0004",
+      "answer": {
+        "text": "밀도"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구의 약 90%는 육지 면적이 넓은 북반구에 산다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구가 특히 많이 분포하는 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북반구"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남반구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남극"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북극해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구의 약 90%가 분포하는 반구는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0005",
+      "answer": {
+        "text": "북반구"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북위 20°~40°의 기후가 온화한 중위도 지역에는 인구가 많이 분포한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 많이 분포하는 위도 지역으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후가 온화한 중위도 지역"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "극지방"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "적도 부근의 모든 지역"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "높은 산지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후가 온화하여 인구가 많이 분포하는 위도대를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0006",
+      "answer": {
+        "text": "중위도"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "적도 지방이나 극지방에는 인구가 비교적 적게 분포한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 비교적 적게 분포하는 지역으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "극지방"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서부 유럽"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국 남동부"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산업이 발달한 해안 지역"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기온이 매우 낮아 인구가 적게 분포하는 지역의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0007",
+      "answer": {
+        "text": "극지방"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구는 아시아와 아프리카, 유럽 대륙에 비교적 많이 분포한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구가 많이 분포하는 대륙에 해당하지 않는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오세아니아"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아시아"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아프리카"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유럽"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구가 가장 많이 분포하는 대륙은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0008",
+      "answer": {
+        "text": "아시아"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인도와 중국의 인구를 합하면 세계 인구의 약 3분의 1을 차지한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구의 약 3분의 1을 차지하는 두 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도와 중국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "캐나다와 아이슬란드"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오스트레일리아와 뉴질랜드"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노르웨이와 스웨덴"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구에서 매우 큰 비중을 차지하는 두 나라는 인도와 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0009",
+      "answer": {
+        "text": "중국"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기후가 온화하고 평야가 넓어 농업에 유리한 지역에는 인구가 많다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 많이 모여 살기 좋은 자연환경은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후가 온화하고 평야가 넓은 곳"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 추운 곳"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 건조한 사막"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "높은 산지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "농업에 유리하여 인구가 많이 모이는 넓고 평평한 지형은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0010",
+      "answer": {
+        "text": "평야"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해안 지역은 인구가 많이 분포하는 지역 중 하나이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 인구가 많이 분포한다고 설명한 지역은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해안 지역"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "높은 산지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "극지방"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "열대 우림의 깊은 곳"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "바다와 맞닿아 있어 인구가 많이 분포하기도 하는 지역을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0011",
+      "answer": {
+        "text": "해안 지역"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업이 발달하여 일자리가 풍부한 지역에는 인구가 많이 모인다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업이 발달한 지역에 인구가 모이는 중요한 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일자리가 풍부하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 기온이 낮기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사막이 넓기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통이 불편하기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업이 발달한 지역에 풍부하여 사람들을 모이게 하는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0012",
+      "answer": {
+        "text": "일자리"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교통이 편리하고 교육·문화 시설이 잘 갖추어진 지역에는 인구가 많이 모인다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 많이 모이는 인문환경으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "편리한 교통과 잘 갖추어진 교육·문화 시설"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불편한 교통"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일자리 부족"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시설 부족"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 분포에 영향을 주는 인문환경 중 사람의 이동과 관련된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0013",
+      "answer": {
+        "text": "교통"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "너무 춥거나 건조한 지역, 열대 우림 지역, 높은 산지에는 인구가 적다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 적게 분포하는 지역으로 알맞지 않은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후가 온화한 넓은 평야"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 추운 지역"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조한 지역"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "높은 산지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "비가 매우 적어 인구가 적게 분포할 수 있는 지역을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0014",
+      "answer": {
+        "text": "건조한 지역"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업화 이전보다 산업화 이후에 인문환경이 인구 분포에 더 큰 영향을 미치고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업화 이후 인구 분포에 더 큰 영향을 미치게 된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인문환경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자연환경만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위도만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강수량만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업화 이후 인구 분포에 더 큰 영향을 미치는 환경은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0015",
+      "answer": {
+        "text": "인문환경"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "방글라데시는 벼농사가 발달한 것과 관련해 인구 밀도가 매우 높다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "방글라데시의 인구 밀도가 높은 까닭으로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼농사가 발달했기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토 대부분이 사막이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매우 추운 기후이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "높은 산지만 있기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "방글라데시에서 발달해 많은 사람의 식량을 공급하는 농업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0016",
+      "answer": {
+        "text": "벼농사"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오스트레일리아는 국토의 60% 이상에서 건조 기후가 나타나 인구 밀도가 매우 낮다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오스트레일리아의 인구 밀도가 낮은 주요 이유는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "건조 기후 지역이 넓기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벼농사가 매우 발달했기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토가 매우 작기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강수량이 항상 많기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오스트레일리아의 넓은 지역에 나타나 인구 밀도를 낮게 하는 기후는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0017",
+      "answer": {
+        "text": "건조 기후"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구의 증가와 감소는 출생자 수와 사망자 수의 차이에 따라 결정된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구의 증가와 감소를 결정하는 두 수는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생자 수와 사망자 수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학생 수와 교사 수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도시 수와 농촌 수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남자 수와 여자 수만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 변화는 출생자 수와 무엇의 차이에 따라 결정됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0018",
+      "answer": {
+        "text": "사망자 수"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업 혁명 이후 생활 환경 개선과 의료 기술 발달로 사망자 수가 줄면서 인구가 급격히 증가했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업 혁명 이후 세계 인구가 급격히 증가한 이유로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망자 수가 감소했기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생이 완전히 중단됐기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활 환경이 나빠졌기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의료 기술이 사라졌기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업 혁명 이후 발달하여 사망자 수 감소에 도움을 준 기술은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0019",
+      "answer": {
+        "text": "의료 기술"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1950년대 이후 아시아와 아프리카의 사망률이 감소하면서 세계 인구가 증가했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1950년대 이후 세계 인구 증가에 크게 관련된 두 대륙은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아시아와 아프리카"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유럽과 오세아니아"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남극과 북극"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북아메리카와 남극"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1950년대 이후 아시아와 어느 대륙의 사망률 감소가 세계 인구 증가에 영향을 주었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0020",
+      "answer": {
+        "text": "아프리카"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2000년대 이후에는 출생률이 감소하면서 세계 인구 증가율이 낮아지고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2000년대 이후 세계 인구 증가율이 낮아지는 이유는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률이 감소하기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률이 0이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 나라의 인구가 같아졌기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산업 혁명이 끝났기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2000년대 이후 감소하여 세계 인구 증가율을 낮추는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0021",
+      "answer": {
+        "text": "출생률"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구는 2022년에 80억 명을 넘었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구가 80억 명을 넘은 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2022년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1820년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1930년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1975년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 인구가 80억 명을 넘은 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0022",
+      "answer": {
+        "text": "2022년"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2023년 기준 세계에서 인구가 가장 많은 나라는 인도이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2023년 기준 세계에서 인구가 가장 많은 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도네시아"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2023년 기준 세계에서 인구가 가장 많은 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0023",
+      "answer": {
+        "text": "인도"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "투발루와 나우루 같은 섬나라와 리히텐슈타인, 모나코 같은 도시 국가는 인구가 적다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 인구가 적은 나라의 사례로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "투발루"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미국"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구가 적은 섬나라의 사례로 제시된 나라를 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0024",
+      "answer": {
+        "text": "투발루"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 인구 증가율은 모든 대륙에서 똑같다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0025",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 인구 증가율에 대한 설명으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대륙별로 큰 차이가 나타난다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 대륙에서 완전히 같다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 대륙에서 감소만 한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아프리카에는 인구가 없다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계의 인구 증가율은 무엇별로 큰 차이가 나타납니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0025",
+      "answer": {
+        "text": "대륙"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아시아와 아프리카에서는 사망률이 낮아지고 출생률은 여전히 높아 인구 증가율이 높다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아시아와 아프리카의 인구 증가율이 높은 이유는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률은 낮아지고 출생률은 여전히 높기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률이 0이기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률만 매우 높기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사람이 이동할 수 없기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아시아와 아프리카에서 여전히 높아 인구 증가에 영향을 주는 비율은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0026",
+      "answer": {
+        "text": "출생률"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산업화가 일찍 시작된 유럽과 북아메리카에서는 출생률 감소로 인구 증가율이 유지되거나 감소하고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유럽과 북아메리카의 인구 증가율이 낮아지는 주요 이유는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률 감소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률 급증"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률이 항상 100%이기 때문"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농지가 모두 늘었기 때문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유럽과 북아메리카에서 감소하여 인구 증가율에 영향을 주는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0027",
+      "answer": {
+        "text": "출생률"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인도는 생활 환경 개선과 의료 기술 발달 등으로 사망자 수가 줄어 인구가 빠르게 증가했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인도의 빠른 인구 증가 이유로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활 환경 개선과 의료 기술 발달"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의료 기술의 후퇴"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출산의 완전한 금지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망자 수의 급증"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인도에서 발달하여 사망자 수 감소에 영향을 준 기술은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0028",
+      "answer": {
+        "text": "의료 기술"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국은 급속한 인구 증가를 막기 위해 1979년부터 한 자녀 정책을 추진하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국이 1979년부터 추진한 산아 제한 정책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 자녀 정책"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무역 자유화 정책"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화 장려 정책"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이민 금지 정책"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국이 급속한 인구 증가를 막으려고 추진한 정책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0029",
+      "answer": {
+        "text": "한 자녀 정책"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산아 제한 정책은 급속한 인구 증가를 막으려고 출산을 억제하는 정책이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "급속한 인구 증가를 막으려고 출산을 억제하는 정책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산아 제한 정책"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복지 정책"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무역 정책"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통 정책"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "출산을 억제해 급속한 인구 증가를 막으려는 정책을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0030",
+      "answer": {
+        "text": "산아 제한 정책"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조는 어느 인구 집단의 연령별·성별·산업별 등의 인구 구성 상태를 말한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연령별·성별·산업별 등의 인구 구성 상태를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 구조"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 분포"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 밀도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연령별·성별·산업별 인구 구성 상태를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0031",
+      "answer": {
+        "text": "인구 구조"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 피라미드는 인구의 연령별·성별 구성을 피라미드 모양으로 나타낸 그래프이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구의 연령별·성별 구성을 나타낸 그래프는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 피라미드"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후 그래프"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무역 그래프"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지형 단면도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구의 연령별·성별 구성을 피라미드 모양으로 나타낸 그래프는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0032",
+      "answer": {
+        "text": "인구 피라미드"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 피라미드는 사회적 특성과 인구 변화를 파악하고 인구 문제를 예상하는 데 유용하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 피라미드의 활용으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 문제를 예상한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산의 높이를 측정한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강수량만 계산한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무역 관세를 정한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 피라미드로 앞으로의 인구 무엇을 예상할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0033",
+      "answer": {
+        "text": "문제"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 0~14세는 유소년층에 해당한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 0~14세에 해당하는 연령층은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청장년층"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중년층"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "0~14세를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0034",
+      "answer": {
+        "text": "유소년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 15~64세는 청장년층에 해당한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 15~64세에 해당하는 연령층은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청장년층"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영유아층"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "15~64세를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0035",
+      "answer": {
+        "text": "청장년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 65세 이상은 노년층에 해당한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인구 구조에서 65세 이상에 해당하는 연령층은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청장년층"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아동층"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "65세 이상을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0036",
+      "answer": {
+        "text": "노년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일반적으로 선진국은 개발 도상국보다 유소년층 비율이 낮고 노년층 비율이 높다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일반적인 선진국의 인구 구조로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 비율이 낮고 노년층 비율이 높다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 비율이 높고 노년층 비율이 낮다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층이 전혀 없다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 연령층 비율이 같다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "선진국에서 상대적으로 높은 연령층의 인구 비율은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0037",
+      "answer": {
+        "text": "노년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개발 도상국은 대체로 합계 출산율이 높아 유소년층 인구 비율이 높다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일반적인 개발 도상국의 인구 구조로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 인구 비율이 높다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층만 존재한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층이 전혀 없다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 연령층이 같다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개발 도상국에서 대체로 높은 연령층의 인구 비율은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0038",
+      "answer": {
+        "text": "유소년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "합계 출산율은 한 여성이 15~49세 동안 낳을 것으로 예상되는 평균 출생아 수이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 여성이 15~49세 동안 낳을 것으로 예상되는 평균 출생아 수는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "합계 출산율"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 밀도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사망률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 분포"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 여성이 낳을 것으로 예상되는 평균 출생아 수를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0039",
+      "answer": {
+        "text": "합계 출산율"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "선진국에서는 낮은 합계 출산율과 높은 노년층 비율로 저출산·고령화 현상이 나타날 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "선진국에서 나타나는 대표적인 인구 현상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산·고령화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 급증만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 밀도 0"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생률 폭증만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "출생아 수는 줄고 노년층 비율은 높아지는 현상을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0040",
+      "answer": {
+        "text": "저출산·고령화"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산·고령화가 지속되면 일할 사람이 줄어 노동력이 부족해질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "저출산·고령화로 나타날 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동력 부족"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 급증"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식량 생산의 자동 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 부양 비용 감소"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일할 사람이 줄면서 부족해질 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0041",
+      "answer": {
+        "text": "노동력"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구가 늘면 노인 부양 비용이 증가할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화가 지속될 때 증가할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 부양 비용"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 비율만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "출생아 수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농지 면적"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고령화로 증가할 수 있는 노인을 돌보는 비용을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0042",
+      "answer": {
+        "text": "노인 부양 비용"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개발 도상국에서는 인구 증가 속도가 경제 발전 속도보다 빠르면 식량 부족과 일자리 부족 문제가 나타날 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "개발 도상국의 빠른 인구 증가로 나타날 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식량 부족과 일자리 부족"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동력 부족만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노인 부양 비용만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구가 0이 되는 문제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빠른 인구 증가로 먹을 것이 모자라는 문제를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0043",
+      "answer": {
+        "text": "식량 부족"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 7% 이상이면 고령화 사회로 구분한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 7% 이상인 사회를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화 사회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산 사회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 7% 이상인 사회는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0044",
+      "answer": {
+        "text": "고령화 사회"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 14% 이상이면 고령 사회로 구분한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 14% 이상인 사회를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화 사회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개발 도상 사회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 14% 이상인 사회는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0045",
+      "answer": {
+        "text": "고령 사회"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 20% 이상이면 초고령 사회로 구분한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 20% 이상인 사회를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "초고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화 사회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령 사회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청년 사회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노년층 인구 비율이 20% 이상인 사회는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0046",
+      "answer": {
+        "text": "초고령 사회"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본은 합계 출산율이 낮고 기대 수명이 길어 저출산·고령화가 빠르게 진행되고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본의 인구 특징으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산·고령화가 나타난다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층만 급증한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층이 거의 없다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명이 매우 짧다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본에서 빠르게 진행되는 인구 현상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0047",
+      "answer": {
+        "text": "저출산·고령화"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "니제르는 독일보다 유소년층 인구 비율이 높고, 독일은 니제르보다 노년층 인구 비율이 높다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "니제르와 독일의 인구 구조 비교로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "니제르는 유소년층, 독일은 노년층 비율이 상대적으로 높다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 나라의 구조는 완전히 같다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독일은 유소년층 비율만 매우 높다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "니제르는 노년층 비율만 매우 높다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "독일에서 니제르보다 상대적으로 높은 연령층의 비율은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0048",
+      "answer": {
+        "text": "노년층"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나라의 인구수, 인구 밀도, 연령별 인구 비율 등을 조사하면 그 나라의 사회 상황과 인구 문제를 이해하는 데 도움이 된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계 여러 나라의 인구 특징을 조사할 때 살펴볼 자료로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구수·인구 밀도·연령별 인구 비율"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국기 색깔만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라 이름의 글자 수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "요일의 수"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나라별 인구 특징을 조사할 때 총인구를 면적으로 나눈 자료는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0049",
+      "answer": {
+        "text": "인구 밀도"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 브라질 조사 사례에서는 유소년층 인구 비율이 낮아지고 있다고 설명한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 브라질 인구 특징 사례로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 인구 비율이 낮아지고 있다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유소년층 비율이 계속 100%이다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노년층이 전혀 없다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구수가 0명이다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-24c30cc3b99868:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "브라질에서 낮아지고 있다고 제시된 연령층의 인구 비율은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-24c30cc3b99868:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-24c30cc3b99868:q_0050",
+      "answer": {
+        "text": "유소년층"
+      }
+    }
+  ]
+}

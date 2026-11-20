@@ -1,0 +1,1433 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-1a28074288ef38",
+  "revision": 1,
+  "title": "천재(함)-11단원 My Favorite Sub",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-11단원 My Favorite Sub"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-1a28074288ef38:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 가장 좋아하는 과목을 물을 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-1a28074288ef38:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What's your favorite subject?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What do you want to be?"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time do you get up?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Where are you from?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상대방이 가장 좋아하는 과목을 영어로 물어보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-1a28074288ef38:q_0001",
+      "answer": {
+        "text": "What's your favorite subject?"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수학을 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-1a28074288ef38:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is math."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at doing math."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite color is blue."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pizza."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:5",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수학을 가장 좋아하는 과목이라고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-1a28074288ef38:q_0002",
+      "answer": {
+        "text": "My favorite subject is math."
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "영어를 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is English."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at speaking English."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is science."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like English books."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과학을 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is science."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is art."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at making robots."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like science books."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "미술을 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is art."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is music."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at drawing pictures."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pictures."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음악을 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 9
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is music."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is P.E."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing music."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like music."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "체육을 가장 좋아한다고 말할 때 알맞은 문장은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is P.E."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is math."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing sports."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like sports."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“What's your favorite subject?”는 상대방이 가장 좋아하는 과목을 묻는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My favorite subject is science.”는 미술을 가장 좋아한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음악 연주를 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-1a28074288ef38:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing music."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is music."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like playing music."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at doing math."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "음악 연주를 잘한다고 영어로 말해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-1a28074288ef38:q_0010",
+      "answer": {
+        "text": "I'm good at playing music."
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "수학 문제 푸는 것을 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at doing math."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is math."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing music."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like math."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:16",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "그림 그리기를 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at drawing pictures."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at speaking English."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is art."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like pictures."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "영어 말하기를 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at speaking English."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at making robots."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is English."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like English."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "로봇 만들기를 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at making robots."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing sports."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is science."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like robots."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "운동을 잘한다고 말할 때 알맞은 표현은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at playing sports."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm good at drawing pictures."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "My favorite subject is P.E."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I like sports."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm good at drawing pictures.”는 그림 그리기를 잘한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm good at doing math.”는 음악 연주를 잘한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Naru says, “My favorite food is chicken. My favorite subject is science.” Naru가 가장 좋아하는 과목은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "science"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "math"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "art"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "English"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Naru says, “I’m good at making robots.” Naru는 로봇 만들기를 잘한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-1a28074288ef38:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Naru says, “My favorite color is black. I’m good at making robots.” Naru가 잘하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-1a28074288ef38:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "making robots"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing math"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Naru says, “My favorite food is chicken. My favorite color is black.” Naru가 가장 좋아하는 색깔은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "black"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "red"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "green"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "yellow"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Minsu says, “I’m good at doing math.” Minsu는 음악 연주를 잘한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-1a28074288ef38:q_0021",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Minsu says, “My favorite subject is math. I’m good at doing math.” Minsu가 가장 좋아하는 과목은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-1a28074288ef38:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "math"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "science"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "music"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "art"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Minsu says, “My favorite food is pizza. My favorite color is blue.” Minsu가 가장 좋아하는 음식은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pizza"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "chicken"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "salad"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "steak"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Sojin says, “My favorite food is pizza. I’m good at drawing pictures.” Sojin이 잘하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "drawing pictures"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "making robots"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "doing math"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "playing music"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My favorite subject is art. I’m good at drawing pictures.” 이 사람은 미술을 가장 좋아하고 그림 그리기를 잘한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-1a28074288ef38:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My favorite subject is art. I’m good at drawing pictures.” 두 문장의 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-1a28074288ef38:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술을 가장 좋아하고 그림 그리기를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학을 가장 좋아하고 계산을 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음악을 가장 좋아하고 연주를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학을 가장 좋아하고 로봇 만들기를 잘한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“My favorite subject is music. I’m good at playing music.” 두 문장의 내용으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음악을 가장 좋아하고 음악 연주를 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미술을 가장 좋아하고 그림을 잘 그린다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수학을 가장 좋아하고 수학을 잘한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "체육을 가장 좋아하고 운동을 잘한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1a28074288ef38:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“I'm good at making robots.”는 로봇 만들기를 잘한다는 뜻이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1a28074288ef38:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 33
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-134cb87e47ddce",
+  "revision": 1,
+  "title": "고대 사람들의 생활 모습",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-고대 사람들의 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-134cb87e47ddce:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주몽은 고구려를 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "압록강 유역의 졸본에 고구려를 세운 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주몽"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온조"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박혁거세"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김수로"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주몽이 졸본에 세운 나라의 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0001",
+      "answer": {
+        "text": "고구려"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온조는 신라를 떠나 백제를 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고구려를 떠나 한강 남쪽에 나라를 세운 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온조"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주몽"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김수로"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박혁거세"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "온조가 세웠으며, 한강 유역에 터를 잡은 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0002",
+      "answer": {
+        "text": "백제"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "박혁거세는 지금의 경주 지역에 신라를 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "박혁거세가 신라를 세운 곳은 지금의 어느 지역인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경주"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공주"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "부여"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평양"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라를 세운 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0003",
+      "answer": {
+        "text": "박혁거세"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금관가야를 세운 사람은 온조이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김수로가 세운 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금관가야"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금관가야를 세운 사람은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0004",
+      "answer": {
+        "text": "김수로"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고조선이 멸망할 무렵, 철기 문화를 바탕으로 여러 나라가 생겨났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고조선이 멸망할 무렵 여러 나라가 생겨나는 바탕이 된 문화는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철기 문화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교문화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고분 문화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유교 문화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고조선이 멸망할 무렵 여러 나라가 생겨나는 바탕이 된 문화는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0005",
+      "answer": {
+        "text": "철기 문화"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제는 장수왕 때 삼국 가운데 가장 먼저 전성기를 맞이하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제의 전성기를 이끈 왕은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근초고왕"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광개토 대왕"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장수왕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "진흥왕"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근초고왕 때 삼국 가운데 가장 먼저 전성기를 맞이한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0006",
+      "answer": {
+        "text": "백제"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "칠지도는 백제가 왜에 보낸 칼이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "칠지도를 통해 확인할 수 있는 사실은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제가 왜와 교류하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라가 당과 동맹을 맺었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려가 수도를 평양으로 옮겼다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야가 신라에 정복되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제와 왜의 교류를 보여 주는 칼의 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0007",
+      "answer": {
+        "text": "칠지도"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광개토 대왕은 요동 지역까지 영토를 넓혔다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "요동 지역과 한강 이북의 땅을 차지하며 고구려의 영토를 넓힌 왕은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광개토 대왕"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근초고왕"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "진흥왕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무왕"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광개토 대왕이 차지한, 랴오허강 동쪽 지역을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0008",
+      "answer": {
+        "text": "요동"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "장수왕은 고구려의 수도를 경주로 옮겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0009",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "장수왕이 옮긴 고구려의 수도는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평양"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한성"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "금성"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고구려의 수도를 평양으로 옮긴 왕은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0009",
+      "answer": {
+        "text": "장수왕"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "충주 고구려비는 백제가 한반도 중부 지역으로 진출했음을 알려 준다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "충주 고구려비를 통해 알 수 있는 고구려의 변화는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한반도 중부 지역까지 영토를 넓혔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수도를 사비로 옮겼다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대가야를 정복하였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왜에 칠지도를 보냈다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고구려의 한반도 중부 진출을 알려 주는, 충주에 있는 비석은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0010",
+      "answer": {
+        "text": "충주 고구려비"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라는 6세기 진흥왕 때 전성기를 맞이하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제와 함께 한강 상류를 차지한 뒤, 백제가 차지한 하류까지 빼앗은 왕은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "진흥왕"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근초고왕"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장수왕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광개토 대왕"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6세기에 신라의 전성기를 이끈 왕은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0011",
+      "answer": {
+        "text": "진흥왕"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라는 한강 유역을 차지한 뒤 한강을 통해 중국과 직접 교류할 수 있게 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 한강 유역을 차지하여 얻은 이점은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기름진 땅을 얻고 중국과 직접 교류하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "요동을 얻고 수도를 국내성으로 옮겼다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동모산에 새 나라를 세웠다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려의 옛 땅을 대부분 되찾았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 기름진 땅을 얻고 중국과 직접 교류할 수 있게 된 것은 어느 강 유역을 차지한 뒤인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0012",
+      "answer": {
+        "text": "한강"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국은 고구려, 백제, 신라 순서로 전성기를 맞이하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0013",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국이 전성기를 맞이한 순서로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제 → 고구려 → 신라"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려 → 백제 → 신라"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라 → 백제 → 고구려"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제 → 신라 → 고구려"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제 다음으로, 신라보다 먼저 전성기를 맞이한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0013",
+      "answer": {
+        "text": "고구려"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가야는 여러 나라가 연맹을 이루었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가야의 정치적 모습을 바르게 설명한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여러 나라가 연맹을 이루었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제의 한 지방으로 출발하였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당의 여러 지방이 모여 성립하였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라가 통일한 뒤에 세워졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 나라가 서로 돕고 함께 행동하기로 약속한 집단을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0014",
+      "answer": {
+        "text": "연맹"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가야가 활발하게 수출한 자원은 금이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0015",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가야가 다른 나라와 활발히 교류할 수 있었던 까닭은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바닷가에 자리 잡고 질 좋은 철이 풍부하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당과 연합하여 백제를 멸망시켰다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려의 옛 땅을 대부분 되찾았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수도를 평양으로 옮겼다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가야에 풍부하여 다른 나라로 수출한 금속은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0015",
+      "answer": {
+        "text": "철"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금관가야가 약해지자 대가야가 가야 연맹을 이끌었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금관가야의 세력이 약해진 뒤 가야 연맹을 이끈 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대가야"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "금관가야 다음으로 가야 연맹을 이끈 나라의 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0016",
+      "answer": {
+        "text": "대가야"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야의 귀족은 나라의 중요한 일을 결정하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야에서 많은 토지와 노비를 가지고 풍족하게 산 신분은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀족"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평민"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천민"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노비"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야에서 나라의 중요한 일을 결정한 신분은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0017",
+      "answer": {
+        "text": "귀족"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야의 평민은 대부분 농민이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야 평민의 주된 생활 모습은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농사를 지어 나라에 세금을 냈다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 노비를 거느리고 나랏일을 결정했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕실의 재산으로 여겨져 거래되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성골과 진골로 나뉘어 왕위를 이었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야에서 농민이 대부분을 차지한 신분은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0018",
+      "answer": {
+        "text": "평민"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야의 평민은 전쟁에도 동원되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가실이 설씨의 아버지 대신 군대에 간 이야기는 평민의 어떤 생활과 관련이 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전쟁에 동원되었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕실에서 잔치를 열었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노비를 사고팔았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라의 중요한 일을 결정했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가실은 설씨의 아버지 대신 어디에 가겠다고 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0019",
+      "answer": {
+        "text": "군대"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야의 노비는 재산으로 여겨져 주인이 사고팔기도 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야의 노비에 대한 설명으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕실·관청·귀족에 매여 자유롭지 못했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나라의 중요한 일을 결정했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대부분 많은 토지와 노비를 소유했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성골과 진골로 나뉘었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야에서 천민의 대부분을 차지한 사람들은 무엇이라고 불렸나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0020",
+      "answer": {
+        "text": "노비"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라에서는 골품에 관계없이 오를 수 있는 관직이 같았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0021",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라에서 관직뿐 아니라 옷의 색깔과 집의 크기에도 영향을 준 제도는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "골품제"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야 연맹"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라와 당의 동맹"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼국 통일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성골·진골·두품 등으로 지배층을 나눈 신라의 신분제는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0021",
+      "answer": {
+        "text": "골품제"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야 사람들은 살아 있을 때의 삶이 죽은 뒤에도 이어진다고 생각하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야 사람들이 무덤에 여러 물건을 함께 묻은 까닭은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "죽은 뒤에도 삶이 이어진다고 생각했기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "무덤을 나라의 세금 창고로 사용했기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국에 보낼 물건을 보관했기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군사들이 사용할 무기를 모았기 때문이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야 사람들은 살아 있을 때 누리던 무엇이 죽은 뒤에도 이어진다고 생각했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0022",
+      "answer": {
+        "text": "삶"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고분의 유물과 벽화로 당시 사람들의 생각과 생활 모습을 살펴볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고분 벽화를 살펴보는 목적으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당시 사람들의 생활 모습을 알아보기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당시의 인구수를 알아보기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미래의 전쟁 결과를 예측하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당시의 나라별 세금액을 알아보기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛사람들이 만든 무덤을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0023",
+      "answer": {
+        "text": "고분"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "무령왕릉에서 발견된 중국 도자기는 신라의 교류를 보여 준다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "무령왕릉의 중국 도자기와 일본산 나무로 만든 관이 보여 주는 사실은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제가 중국·일본과 교류하였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려가 신라·가야와 교류하였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라가 발해·당과 교류하였다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야가 고구려·발해와 교류하였다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "중국 도자기와 일본에서 나는 나무로 만든 관이 발견된 백제 왕의 무덤은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0024",
+      "answer": {
+        "text": "무령왕릉"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국은 왕의 권위를 낮추려고 불교를 받아들였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0025",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국이 불교를 받아들인 목적으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕의 권위를 높이고 백성의 마음을 모으기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕의 힘을 줄이고 나라를 나누기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀족의 토지를 평민에게 모두 나누기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군대를 없애고 세금을 폐지하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국이 왕권을 강화하는 데 활용한 종교는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0025",
+      "answer": {
+        "text": "불교"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "익산 미륵사지 석탑은 고구려의 탑이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 석탑의 초기 모습을 보여 주는 백제의 탑은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "익산 미륵사지 석탑"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경주 불국사 다보탑"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경주 불국사 3층 석탑"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상경성 발해 석등"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "익산 미륵사지 석탑을 만든 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0026",
+      "answer": {
+        "text": "백제"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국의 문화에 영향을 준 유교와 불교는 일본에서 전해졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0027",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국에 유교와 불교를 전하여 문화 발전에 영향을 준 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국에 유교와 불교를 전한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0027",
+      "answer": {
+        "text": "중국"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본 고류사의 목조 미륵보살 반가 사유상은 삼국 불상의 영향을 받았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본 고류사의 목조 미륵보살 반가 사유상은 어떤 문화 교류를 보여 주나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼국의 불상 문화가 일본에 영향을 주었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 골품제가 신라에 전해졌다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해의 온돌이 백제에 전해졌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왜의 칠지도가 고구려에 전해졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 가야가 문화를 전하여 문화 발전에 도움을 준 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0028",
+      "answer": {
+        "text": "일본"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경주 천마총과 황남 대총의 유리 제품은 로마·서아시아의 것과 비슷한 모양이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼국과 서역의 교류를 살펴볼 수 있는 유물은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천마총과 황남 대총의 유리 제품"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "익산 미륵사지 석탑"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울 북한산 신라 진흥왕 순수비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "충주 고구려비"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천마총과 황남 대총에서 나온, 로마·서아시아의 것과 모양이 비슷한 제품의 재료는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0029",
+      "answer": {
+        "text": "유리"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라는 김춘추를 왜에 보내 동맹을 맺었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 당에 보내 동맹을 맺도록 한 인물은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김춘추"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대조영"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원효"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설계두"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 백제의 공격으로 어려움을 겪을 때 김춘추를 보내 동맹을 맺은 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0030",
+      "answer": {
+        "text": "당"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제를 공격할 때 신라군을 이끈 사람은 김유신이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당군과 연합하여 백제를 공격한 신라군의 지휘자는 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김유신"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대조영"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장수왕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근초고왕"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제를 멸망시킬 때 신라군을 이끈 인물은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0031",
+      "answer": {
+        "text": "김유신"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라와 당의 연합군은 백제보다 고구려를 먼저 멸망시켰다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라와 당의 연합군이 두 나라를 멸망시킨 순서는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제(660년) → 고구려(668년)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려(660년) → 백제(668년)"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제(668년) → 고구려(676년)"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려(668년) → 백제(676년)"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라와 당의 연합군이 660년에 멸망시킨 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0032",
+      "answer": {
+        "text": "백제"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제와 고구려가 멸망한 뒤 당은 한반도 전체를 지배하려 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 당에 맞서 싸우게 된 까닭은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당이 동맹을 깨고 한반도 전체를 지배하려 했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당이 금관가야를 새로 세웠다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당이 신라의 수도를 동모산으로 옮겼다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "당이 신라에 골품제를 없애라고 했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제와 고구려 멸망 뒤 신라와의 동맹을 깨고 한반도 전체를 지배하려 한 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0033",
+      "answer": {
+        "text": "당"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라는 왜를 한반도에서 몰아내고 676년에 삼국을 통일하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 당을 몰아내고 삼국 통일을 이룬 해는 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "676년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "660년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "668년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "698년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라가 676년 삼국을 통일하기까지 한반도에서 몰아낸 나라는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0034",
+      "answer": {
+        "text": "당"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통일 뒤 신라는 영토와 인구가 줄어 경제력과 군사력이 약해졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0035",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통일 이후 신라의 경제력과 군사력이 커진 배경은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영토가 넓어지고 인구가 늘어났다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영토가 줄고 인구가 줄어들었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 백성이 귀족이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려와 백제의 문화를 버렸다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통일 뒤 신라의 경제력과 군사력이 커진 배경 중, 영토 확대와 함께 늘어난 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0035",
+      "answer": {
+        "text": "인구"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 왕실과 귀족은 동궁과 월지에서 잔치와 뱃놀이를 즐겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 왕실과 귀족이 잔치와 뱃놀이를 즐긴 별궁 터는 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경주 동궁과 월지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공주 무령왕릉"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려 무용총"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해 정효 공주 무덤"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 왕실과 귀족의 잔치·뱃놀이 모습을 알려 주는 경주의 별궁 터는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0036",
+      "answer": {
+        "text": "동궁과 월지"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지은은 귀족에서 평민이 되어 어머니를 모셨다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0037",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "효녀 지은의 이야기에서 나타난 신분 변화는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평민에서 노비가 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노비에서 귀족이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀족에서 평민이 되었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평민에서 진골이 되었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가난한 지은이 어머니를 모시려고 자신을 팔아 일하게 된 신분은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0037",
+      "answer": {
+        "text": "노비"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "원효의 노력으로 불교가 일반 백성에게도 널리 퍼졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "마을을 다니며 노래와 춤으로 백성에게 불교를 전한 인물은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원효"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김춘추"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김유신"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설계두"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백성에게 ‘나무아미타불’을 외면 극락에 갈 수 있다고 전한 인물은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0038",
+      "answer": {
+        "text": "원효"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "석굴암은 나무를 다듬어 동굴처럼 쌓아 올린 절이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0039",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "화강암을 다듬어 동굴처럼 쌓아 올린 통일 신라의 절은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석굴암"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불국사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미륵사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "황룡사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 사람들이 석굴암을 동굴처럼 쌓아 올릴 때 사용한 돌은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0039",
+      "answer": {
+        "text": "화강암"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 사람들은 부처의 나라를 이루려는 마음을 담아 불국사를 지었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경주 불국사 3층 석탑과 다보탑이 나란히 있는 절은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불국사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석굴암"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "미륵사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "황룡사"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 사람들이 부처의 나라를 이루려는 마음을 담아 지은 절은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0040",
+      "answer": {
+        "text": "불국사"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "6두품인 설계두는 신라에서 높은 관직에 오를 수 있어 당으로 떠났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0041",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "설계두, 최치원이 뜻을 펼치고자 당으로 떠난 까닭은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 때문에 신라에서 높은 관직에 오를 수 없었다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려의 옛 땅에 나라를 세우려고 했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백성에게 불교를 전하려고 했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왜에 철을 수출하려고 했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신분의 한계로 당으로 떠난 설계두, 최치원의 골품은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0041",
+      "answer": {
+        "text": "6두품"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해를 세운 대조영은 신라 장군 출신이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고구려 장군 출신으로 발해를 세운 인물은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대조영"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "걸사비우"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "걸걸중상"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영이 세운 나라의 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0042",
+      "answer": {
+        "text": "발해"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영은 고구려 백성과 말갈 사람들을 이끌고 발해를 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영과 함께 발해 건국에 참여한 사람들은 누구인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려 백성과 말갈 사람들"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제 백성과 당 사람들"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라 백성과 왜 사람들"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야 백성과 서역 사람들"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영이 고구려 백성과 함께 이끌고 발해를 세운 민족은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0043",
+      "answer": {
+        "text": "말갈"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영은 한강 유역에 발해를 세웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대조영이 발해를 세운 곳은 어디인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동모산 근처"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한강 남쪽"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경주 지역"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "졸본"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "698년 대조영이 발해를 세운 곳 근처의 산은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0044",
+      "answer": {
+        "text": "동모산"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당은 전성기를 맞은 발해를 해동성국이라고 불렀다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당이 발해를 부른 ‘해동성국’의 뜻은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 동쪽에 있는 번성한 나라"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강 동쪽에 있는 작은 나라"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 서쪽에 있는 새로운 나라"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 북쪽에 있는 아름다운 나라"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "당이 번성한 발해에 붙인 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0045",
+      "answer": {
+        "text": "해동성국"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해가 일본에 보낸 외교 문서에는 발해 왕을 신라 국왕으로 표현하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해 왕이 외교 문서에서 자신을 고구려 국왕으로 표현한 것은 무엇을 보여 주나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해가 고구려를 계승한 나라로 여겼다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해가 신라의 한 지방이라고 여겼다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해가 백제를 세웠다고 여겼다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해가 가야 연맹을 이끌었다고 여겼다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해가 일본에 보낸 외교 문서의 ‘고려’는 어느 옛 나라를 가리키나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0046",
+      "answer": {
+        "text": "고구려"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해는 고구려 문화를 계승하고 주변 나라의 문화도 받아들였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해의 문화 발전 모습을 바르게 설명한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려 문화를 잇고 주변 문화도 받아들였다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려 문화를 버리고 일본 문화만 받아들였다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주변 문화를 막고 고구려 문화만 그대로 지켰다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가야 문화만 이어받고 불교문화를 없앴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해가 계승한 옛 나라의 문화는 어느 나라의 문화인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0047",
+      "answer": {
+        "text": "고구려"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해의 ‘ㄱ’ 자·‘ㄷ’ 자 온돌은 고구려의 전통을 이어받았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해의 ‘ㄱ’ 자·‘ㄷ’ 자 온돌이 보여 주는 사실은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려의 생활 문화를 이어받았다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 장례 문화를 이어받았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제의 금관 문화를 이어받았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라의 골품제를 이어받았다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해에서 발견된, 방바닥을 따뜻하게 하는 시설은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0048",
+      "answer": {
+        "text": "온돌"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정효 공주 무덤의 내부 그림으로 발해 사람들의 옷차림을 살펴볼 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정효 공주 무덤 내부에 그려진 사람들의 모습에서 살펴볼 수 있는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해 사람들의 옷차림"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해의 전체 인구수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해의 모든 국경선"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해가 세금을 거둔 날짜"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해 사람들의 옷차림을 보여 주는 내부 그림이 남아 있는 것은 어느 공주의 무덤인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0049",
+      "answer": {
+        "text": "정효 공주"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해 이불병좌상은 부처 한 명이 서 있는 모습이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0050",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발해 이불병좌상의 모습으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 부처가 나란히 앉아 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 부처가 홀로 서 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 부처가 말을 타고 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두 부처가 등을 맞대고 서 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-134cb87e47ddce:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "두 부처가 나란히 앉아 있는 발해 불상의 이름은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-134cb87e47ddce:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-134cb87e47ddce:q_0050",
+      "answer": {
+        "text": "이불병좌상"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-f7eb973ab1bd84",
+  "revision": 1,
+  "title": "주민 자치와 민주주의",
+  "metadata": {
+    "grade": 4,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "4학년-사회-주민 자치와 민주주의"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-f7eb973ab1bd84:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치는 주민이 지역의 주인으로서 지역의 일에 참여해 함께 문제를 해결해 나가는 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:3",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치회는 지역 주민을 대표하는 기구이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:4",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치는 어느 지역에서나 똑같은 모습으로 이루어진다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민들이 주민 자치에 적극적으로 참여하면 지역에서 민주주의를 실천할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역에서 일어나는 일들은 지역 주민의 생활에 영향을 거의 주지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:7",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 참여가 활발하면 지역의 일을 민주적으로 해결하는 데 도움이 된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민은 지역의 일을 다른 주민이나 공공 기관에 의견으로 전달할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 투표는 주민 참여 방법이 될 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:10",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민은 주민 자치에 참여하며 지역 구성원으로서 만족감을 느낄 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 사례는 지역 신문, 게시판, 주민 면담, 인터넷 등으로 조사할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공공 기관을 방문해 주민 자치 사례를 조사할 때는 미리 연락할 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 사례를 조사한 후에는 조사 보고서를 작성할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 실험실은 지역 주민이 공공 기관·전문가와 함께 생활 속 문제를 해결하는 방식이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:15",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민의 힘만으로 해결하기 어려운 문제는 공공 기관에 도움을 요청할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치에 참여하려면 지역의 일에 관심을 가질 필요가 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 참여로 화단 만들기와 벽화 그리기 같은 활동을 할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 활동은 지역을 더 불편하게 만드는 것을 목표로 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치의 뜻으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민이 지역의 주인으로서 지역 일에 참여해 함께 문제를 해결하는 것"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공공 기관이 모든 일을 대신하는 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교에서만 자치하는 것"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 일을 다른 지역에 맡기는 것"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치회의 역할로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가의 법률을 만든다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민 자치 활동을 운영하고 지원한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 시험을 출제한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 상품 가격을 정한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 주민 자치회가 어두운 골목길에 설치한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신호등"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양광 가로등"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어두운 골목길 밝히기 사업의 주된 목적은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광객만 이용하게 하려고"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "차량 속도를 높이려고"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 운동장을 넓히려고"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민들이 밤에도 안전하게 다니도록 하기 위해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 참여가 중요한 까닭으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민이 지역을 잘 알기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민은 지역을 잘 모르기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공공 기관은 지역 일을 전혀 하지 않기 때문이다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 일은 주민 생활과 관계없기 때문이다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "‘온 마을이 학교다’에서 지역 주민과 학교가 함께 찾은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국의 국경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 내 문화유산과 관광 자원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바다 밑 자원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라의 법"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에 제시된 주민 참여 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국회의원 법안 작성"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재판 판결"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "축제 자원봉사 참여"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화폐 발행"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 투표에서 활용한 방식으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역에 설치된 투표판에 직접 투표하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사회 관계망 서비스로 투표하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민이 사업을 선택하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우편으로 외국에 보내기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 투표로 결정한 사업에 해당하지 않는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국제공항 건설하기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "디지털 정보 교육 실시하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용 분리수거 시설 늘리기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민 자선 장터 개최하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 사례를 조사하는 방법으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교과서 내용을 임의로 바꾸기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 주민과 면담하기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 나라 자료만 보기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "추측만으로 정리하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공공 기관을 방문해 조사하기 전에 해야 할 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아무 연락 없이 바로 방문한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조사 내용을 먼저 지운다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방문하고 싶은 기관에 미리 연락해 신청한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구에게 모두 맡긴다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공공 기관 방문 조사에서 담당자에게 해야 할 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시설을 임의로 사용한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자료를 숨긴다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "질문하지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁금한 점을 묻고 보고 들은 내용을 기록한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 사례 조사 후 작성하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조사 보고서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기상 관측표"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성적표"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "처방전"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:32",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "조사 보고서에 포함될 내용으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시험 점수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조사 목적"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품 가격표"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동 경기 결과"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 실험실의 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과학자만 실험하는 연구소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 시험을 보는 교실"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민이 공공 기관·전문가와 함께 생활 속 문제를 직접 해결하는 방식"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상품만 판매하는 시장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 실험실 사례에서 학생들이 만든 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광 지도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계 지도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후 지도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안전 지도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "메타버스 통학로에서 학생들이 한 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위험한 부분을 찾아 지도에 표시했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광지를 선정했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농작물을 재배했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공장을 세웠다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민이 중심이 되어 노력할 때 기대할 수 있는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역 문제는 반드시 늘어난다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지역이 더 나아질 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주민 의견이 사라진다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 공공 기관이 없어지게 된다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 참여 활동의 예로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통화 발행"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외교 협상"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화단 만들기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국가 예산 전체 결정"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 참여 활동을 계획할 때 지역의 힘만으로 어려운 문제는 어떻게 할 수 있나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "그대로 포기한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 지역 주민을 금지한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아무에게도 알리지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공공 기관에 도움을 요청한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:39",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민이 지역의 주인으로서 지역의 일에 참여하여 함께 문제를 해결해 나가는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "text": "주민 자치"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민을 대표하며 주민 자치 활동을 운영하고 지원하는 기구는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "answer": {
+        "text": "주민 자치회"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서의 주민 자치회가 어두운 골목길을 밝히기 위해 설치한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "태양광 가로등"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:42",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역의 일에 주민이 직접 참여하는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "text": "주민 참여"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민들이 지역 사업을 직접 선택하는 참여 방법은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "answer": {
+        "text": "주민 투표"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 자치 사례를 알아보기 위해 지역 주민을 만나 이야기를 듣는 조사 방법은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "면담"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:45",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공공 기관 방문 조사가 끝난 뒤 조사 내용을 정리하여 작성하는 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "answer": {
+        "text": "조사 보고서"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민이 공공 기관과 전문가와 함께 생활 속 문제를 직접 해결하는 방식을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "text": "생활 실험실"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생활 실험실 사례에서 학생들이 위험한 통학로를 표시해 만든 지도는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "answer": {
+        "text": "안전 지도"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:48",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 주민 전체의 이익을 위해 국가나 지방 자치 단체가 세워 관리하는 곳을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "text": "공공 기관"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "지역 사업을 선택하기 위해 주민들이 직접 참여하는 의사 결정 방법은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "answer": {
+        "text": "주민 투표"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주민 참여를 통해 지역 주민으로서 느낄 수 있는 마음을 교과서에서는 무엇이라고 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "text": "만족감"
+      }
+    },
+    {
+      "questionId": "legacy-f7eb973ab1bd84:51",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 지역의 주민 자치 사례를 조사할 수 있는 온라인 장소로 교과서에서 제시한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-f7eb973ab1bd84:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "text": "공공 기관 누리집"
+      }
+    }
+  ]
+}

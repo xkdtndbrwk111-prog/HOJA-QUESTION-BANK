@@ -1,0 +1,4836 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-8f9d4234838937",
+  "revision": 1,
+  "title": "고려 시대 사회 모습과 사람들의 생활 모습",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-고려 시대 사회 모습과 사람들의 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-8f9d4234838937:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "견훤이 후백제를 세움."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-8f9d4234838937:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "후백제를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-8f9d4234838937:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광종"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "후백제를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-8f9d4234838937:q_0001",
+      "answer": {
+        "text": "견훤"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "견훤가 후고구려를 세움."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-8f9d4234838937:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "후고구려를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-8f9d4234838937:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광종"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "후고구려를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-8f9d4234838937:q_0002",
+      "answer": {
+        "text": "궁예"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕건이 궁예를 몰아내고 918년 고려를 세움."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-8f9d4234838937:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-8f9d4234838937:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광종"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려를 세운 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-8f9d4234838937:q_0003",
+      "answer": {
+        "text": "왕건"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "백제를 계승한다는 뜻으로 고려라 이름 붙임."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-8f9d4234838937:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려라는 이름은 어느 나라를 계승한다는 뜻에서 지었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-8f9d4234838937:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고구려"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려라는 이름은 어느 나라를 계승한다는 뜻에서 지었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-8f9d4234838937:q_0004",
+      "answer": {
+        "text": "고구려"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신라 왕은 스스로 나라를 고려에 넘겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-8f9d4234838937:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에 자발적으로 항복한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-8f9d4234838937:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에 자발적으로 항복한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-8f9d4234838937:q_0005",
+      "answer": {
+        "text": "신라"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 태봉을 마지막으로 공격해서 후삼국을 통일햇다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:18",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 거란에 멸망한 옛 발해 사람들을 받아들였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-8f9d4234838937:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 받아들인 유민은 어느 나라 사람들이었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-8f9d4234838937:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:20",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 받아들인 유민은 어느 나라 사람들이었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-8f9d4234838937:q_0007",
+      "answer": {
+        "text": "발해"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:21",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종가 옛 고구려 영토를 되찾고자 북쪽으로 영토 확대."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-8f9d4234838937:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛 고구려 영토를 되찾으려 북쪽으로 영토를 넓힌 고려 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-8f9d4234838937:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태조"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광종"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성종"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공민왕"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:23",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛 고구려 영토를 되찾으려 북쪽으로 영토를 넓힌 고려 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-8f9d4234838937:q_0008",
+      "answer": {
+        "text": "태조"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:24",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조는 세금을 줄이고 백성이 굶주리지 않도록 힘씀."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-8f9d4234838937:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 백성의 부담을 덜기 위해 줄인 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-8f9d4234838937:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관직"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:26",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 백성의 부담을 덜기 위해 줄인 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-8f9d4234838937:q_0009",
+      "answer": {
+        "text": "세금"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:27",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조는 호족을 통합, 견제하지 못해서 고려가 크게 흔들렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-8f9d4234838937:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 통합하고 견제하려 한 지방 세력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-8f9d4234838937:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "호족"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:29",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "태조가 통합하고 견제하려 한 지방 세력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-8f9d4234838937:q_0010",
+      "answer": {
+        "text": "호족"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:30",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "광종이 처음 과거제를 실시해 관리 선발했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-8f9d4234838937:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서 처음 과거제를 실시한 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-8f9d4234838937:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광종"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:32",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서 처음 과거제를 실시한 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-8f9d4234838937:q_0011",
+      "answer": {
+        "text": "광종"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:33",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가문·신분이  관리 선발에서 가장 중요했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-8f9d4234838937:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:34",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과거제 실시 뒤 관리 선발에서 가문·신분과 함께 중요해진 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-8f9d4234838937:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개인의 능력"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가문의 힘"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재산의 양"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:35",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과거제 실시 뒤 관리 선발에서 가문·신분과 함께 중요해진 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-8f9d4234838937:q_0012",
+      "answer": {
+        "text": "개인의 능력"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종이 유교를 나라의 통치 이념으로 삼음."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-8f9d4234838937:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:37",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교를 나라의 통치 이념으로 삼은 고려 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-8f9d4234838937:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성종"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:38",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유교를 나라의 통치 이념으로 삼은 고려 왕은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-8f9d4234838937:q_0013",
+      "answer": {
+        "text": "성종"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종은 지방에 상인를 보내 왕의 명령이 전달되게 했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-8f9d4234838937:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종이 지방에 보내 왕의 명령이 전달되도록 한 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-8f9d4234838937:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "승려"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성종이 지방에 보내 왕의 명령이 전달되도록 한 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-8f9d4234838937:q_0014",
+      "answer": {
+        "text": "관리"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕건이 후대 왕들에게 열 가지 가르침을 남겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-8f9d4234838937:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕건이 후대 왕들에게 남긴 열 가지 가르침을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-8f9d4234838937:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼별초"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕건이 후대 왕들에게 남긴 열 가지 가르침을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-8f9d4234838937:q_0015",
+      "answer": {
+        "text": "훈요 10조"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:45",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "거란은 고려와 여진의 관계를 끊고자 침입했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-8f9d4234838937:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:46",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "거란이 고려와 관계를 끊게 하려 했던 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-8f9d4234838937:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:47",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "거란이 고려와 관계를 끊게 하려 했던 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-8f9d4234838937:q_0016",
+      "answer": {
+        "text": "송"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서희가 거란 장수 소손녕과 담판을 벌였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-8f9d4234838937:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "거란 장수 소손녕과 담판한 고려 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-8f9d4234838937:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서희"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:50",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "거란 장수 소손녕과 담판한 고려 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-8f9d4234838937:q_0017",
+      "answer": {
+        "text": "서희"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서희와 소손녕의 담판 결과 고려가 압록강 동쪽 동북 9성를 얻었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-8f9d4234838937:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:52",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서희의 담판 결과 고려가 얻은 지역은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-8f9d4234838937:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강동 6주"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:53",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서희의 담판 결과 고려가 얻은 지역은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-8f9d4234838937:q_0018",
+      "answer": {
+        "text": "강동 6주"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:54",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강감찬이 이끄는 고려군이 귀주에서 거란군을 크게 물리침."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-8f9d4234838937:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:55",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "귀주에서 거란군을 크게 물리친 고려 장군은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-8f9d4234838937:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강감찬"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:56",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "귀주에서 거란군을 크게 물리친 고려 장군은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-8f9d4234838937:q_0019",
+      "answer": {
+        "text": "강감찬"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:57",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서희가 별무반을 이끌고 여진을 몰아냈다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-8f9d4234838937:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:58",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "별무반을 이끌고 여진을 몰아낸 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-8f9d4234838937:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:59",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "별무반을 이끌고 여진을 몰아낸 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-8f9d4234838937:q_0020",
+      "answer": {
+        "text": "윤관"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:60",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여진을 몰아낸 뒤 동북 지역에 9개의 성을 쌓았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-8f9d4234838937:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:61",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤관이 여진을 몰아낸 뒤 동북 지역에 쌓은 성을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-8f9d4234838937:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "동북 9성"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:62",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤관이 여진을 몰아낸 뒤 동북 지역에 쌓은 성을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-8f9d4234838937:q_0021",
+      "answer": {
+        "text": "동북 9성"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:63",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려는 여진과 가장 활발히 교류했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-8f9d4234838937:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:64",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 가장 활발히 교류한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-8f9d4234838937:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:65",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려가 가장 활발히 교류한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-8f9d4234838937:q_0022",
+      "answer": {
+        "text": "송"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:66",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "예성강 입구 벽란도가 교류 중심지로 성장했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-8f9d4234838937:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:67",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대 예성강 입구의 국제 교류 중심지는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-8f9d4234838937:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀주"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:68",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대 예성강 입구의 국제 교류 중심지는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-8f9d4234838937:q_0023",
+      "answer": {
+        "text": "벽란도"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:69",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도에 송·여진·일본·몽골 상인이 드나들었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-8f9d4234838937:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:70",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "벽란도에 드나든 먼 지역의 상인으로 교과서에 제시된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-8f9d4234838937:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아라비아"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여진"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:71",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "벽란도에 드나든 먼 지역의 상인으로 교과서에 제시된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-8f9d4234838937:q_0024",
+      "answer": {
+        "text": "아라비아"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:72",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아라비아 상인에 의해 고려 이름이 알려져 코리아로 불리게 됨."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-8f9d4234838937:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:73",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아라비아 상인에게 알려져 오늘날 '코리아'의 바탕이 된 나라 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-8f9d4234838937:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백제"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:74",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "아라비아 상인에게 알려져 오늘날 '코리아'의 바탕이 된 나라 이름은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-8f9d4234838937:q_0025",
+      "answer": {
+        "text": "고려"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:75",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려는 석탄·화문석·삼베 등을 주로 수출했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-8f9d4234838937:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:76",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 주요 수출품으로 제시된 약재는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-8f9d4234838937:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인삼"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비단"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "책"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:77",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 주요 수출품으로 제시된 약재는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-8f9d4234838937:q_0026",
+      "answer": {
+        "text": "인삼"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:78",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골은 고려에 왔던 몽골 사신의 죽음을 구실로 침략했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-8f9d4234838937:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:79",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골이 고려 침략의 구실로 삼은 사건과 관련된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-8f9d4234838937:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "몽골 사신"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송 상인"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여진 장수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려 농민"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:80",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골이 고려 침략의 구실로 삼은 사건과 관련된 사람은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-8f9d4234838937:q_0027",
+      "answer": {
+        "text": "몽골 사신"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:81",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려는 몽골과 싸우기 위해 수도를 개경에서 탐라로 옮김."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-8f9d4234838937:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:82",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 싸움을 준비하며 고려가 수도를 옮긴 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-8f9d4234838937:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀주"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:83",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 싸움을 준비하며 고려가 수도를 옮긴 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-8f9d4234838937:q_0028",
+      "answer": {
+        "text": "강화도"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:84",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김윤후와 처인성 백성이 몽골 장수 살리타를 죽이고 격퇴했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-8f9d4234838937:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:85",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처인성 백성과 함께 몽골군을 물리친 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-8f9d4234838937:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김윤후"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕건"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "견훤"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "궁예"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:86",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "처인성 백성과 함께 몽골군을 물리친 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-8f9d4234838937:q_0029",
+      "answer": {
+        "text": "김윤후"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:87",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노비 등 왕족도 몽골군에 맞서 싸웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-8f9d4234838937:q_0030",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:88",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "충주성에서 몽골군에 맞서 싸운 사람들 가운데 눈에 띄던 계층은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-8f9d4234838937:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하층민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고위 관리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:89",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "충주성에서 몽골군에 맞서 싸운 사람들 가운데 눈에 띄던 계층은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-8f9d4234838937:q_0030",
+      "answer": {
+        "text": "하층민(천민)"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:90",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과 오랜 전쟁으로 국토 황폐·백성 희생과 포로 발생했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-8f9d4234838937:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:91",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 오랜 전쟁으로 고려의 땅은 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-8f9d4234838937:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토 황폐"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영토 확대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금 폐지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:92",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 오랜 전쟁으로 고려의 땅은 어떻게 되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-8f9d4234838937:q_0031",
+      "answer": {
+        "text": "국토 황폐"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:93",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과 강화 뒤 1270년 수도를 강화도에서 평양으로 다시 옮겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-8f9d4234838937:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:94",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과 강화 뒤 고려가 다시 수도로 삼은 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-8f9d4234838937:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "개경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀주"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:95",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과 강화 뒤 고려가 다시 수도로 삼은 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-8f9d4234838937:q_0032",
+      "answer": {
+        "text": "개경"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:96",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "삼별초는 강화도·진도·탐라로 옮겨 가며 몽골군과 싸웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-8f9d4234838937:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:97",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도·진도·탐라로 옮겨 가며 몽골군과 싸운 세력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-8f9d4234838937:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼별초"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:98",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "강화도·진도·탐라로 옮겨 가며 몽골군과 싸운 세력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-8f9d4234838937:q_0033",
+      "answer": {
+        "text": "삼별초"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:99",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 전쟁 뒤 고려가 송의 간섭을 받았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-8f9d4234838937:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:100",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 전쟁 뒤 고려를 간섭한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-8f9d4234838937:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "송"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신라"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발해"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:101",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골과의 전쟁 뒤 고려를 간섭한 나라는 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-8f9d4234838937:q_0034",
+      "answer": {
+        "text": "원"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:102",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려와 원의 문화 교류로 서로의 풍습이 전해졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-8f9d4234838937:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:103",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려와 원 사이에서 서로의 풍습이 전해진 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-8f9d4234838937:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 교류"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교류 단절"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전쟁 중단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 폐지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:104",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려와 원 사이에서 서로의 풍습이 전해진 까닭은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-8f9d4234838937:q_0035",
+      "answer": {
+        "text": "문화 교류"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:105",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "크게 귀족과 평민, 양인은 지배·중간·피지배층으로 구분된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-8f9d4234838937:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:106",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 신분은 크게 무엇과 무엇으로 나뉘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-8f9d4234838937:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양인과 천인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "귀족과 평민"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족과 관리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민과 상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:107",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 신분은 크게 무엇과 무엇으로 나뉘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-8f9d4234838937:q_0036",
+      "answer": {
+        "text": "양인과 천인"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:108",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 지배층은 왕족·고위 관리로 많은 토지를 가졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-8f9d4234838937:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:109",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕족과 고위 관리가 속한 양인의 계층은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-8f9d4234838937:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "지배층"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중간 계층"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "피지배층"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:110",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "왕족과 고위 관리가 속한 양인의 계층은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-8f9d4234838937:q_0037",
+      "answer": {
+        "text": "지배층"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:111",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양인은 대부분 왕족으로 세금을 내고 나랏일에 동원."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-8f9d4234838937:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:112",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양인 피지배층의 대부분을 차지한 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-8f9d4234838937:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "농민"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고위 관리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:113",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양인 피지배층의 대부분을 차지한 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-8f9d4234838937:q_0038",
+      "answer": {
+        "text": "농민"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:114",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천인은 노비가 대부분이며 재산으로 취급."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-8f9d4234838937:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:115",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 천인 가운데 대부분을 차지한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-8f9d4234838937:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노비"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕족"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:116",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 천인 가운데 대부분을 차지한 신분은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-8f9d4234838937:q_0039",
+      "answer": {
+        "text": "노비"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:117",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 청자는 푸른 빛 도자기로 지배층의 생활용품에 널리 사용 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-8f9d4234838937:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:118",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대를 대표하는 푸른 빛깔의 도자기는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-8f9d4234838937:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고려청자"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:119",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대를 대표하는 푸른 빛깔의 도자기는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-8f9d4234838937:q_0040",
+      "answer": {
+        "text": "고려청자"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:120",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 신분제도는 지방 관리의 중앙 진출, 일부 노비의 양인 전환 사례가 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-8f9d4234838937:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:121",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 제한적이나마 무엇의 가능성이 열려 있었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-8f9d4234838937:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 상승"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분 폐지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전쟁 확대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영토 축소"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:122",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 제한적이나마 무엇의 가능성이 열려 있었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-8f9d4234838937:q_0041",
+      "answer": {
+        "text": "신분 상승"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:123",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 가족 제도에서 남성과 여성의 관계가 완전히 불평등했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-8f9d4234838937:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:124",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 가족 제도에서 남성과 여성의 관계는 어떠하였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-8f9d4234838937:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비교적 동등"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "완전히 불평등"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남성만 상속"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여성만 상속"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:125",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 가족 제도에서 남성과 여성의 관계는 어떠하였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-8f9d4234838937:q_0042",
+      "answer": {
+        "text": "비교적 동등"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:126",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려는 신랑이 신부의 집에서 사는 경우가 많음."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-8f9d4234838937:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:127",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 혼인 뒤 신랑이 주로 누구의 집에서 사는 경우가 많았습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-8f9d4234838937:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신부의 집"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신랑의 집"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕궁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:128",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 혼인 뒤 신랑이 주로 누구의 집에서 사는 경우가 많았습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-8f9d4234838937:q_0043",
+      "answer": {
+        "text": "신부의 집"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:129",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 아들과 딸 중에 재산을 아들에게만 나누어 주었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-8f9d4234838937:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:130",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 아들과 딸에게 재산을 어떻게 나누어 주었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-8f9d4234838937:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "똑같이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아들에게만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "딸에게만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장남에게만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:131",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려에서는 아들과 딸에게 재산을 어떻게 나누어 주었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-8f9d4234838937:q_0044",
+      "answer": {
+        "text": "똑같이"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:132",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 호적에는 아들과 딸을 구분하지 않고 태어난 순서대로 기록."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-8f9d4234838937:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:133",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 호적에는 아들과 딸을 어떤 순서로 기록했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-8f9d4234838937:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태어난 순서"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성별 순서"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재산 순서"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나이와 무관하게"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:134",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려의 호적에는 아들과 딸을 어떤 순서로 기록했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-8f9d4234838937:q_0045",
+      "answer": {
+        "text": "태어난 순서"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:135",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려왕실에서 일반 백성까지 도교를 널리 믿었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-8f9d4234838937:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:136",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 왕실에서 일반 백성까지 널리 믿은 종교는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-8f9d4234838937:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불교"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유교"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도교"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "천주교"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:137",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 왕실에서 일반 백성까지 널리 믿은 종교는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-8f9d4234838937:q_0046",
+      "answer": {
+        "text": "불교"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:138",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연등회는 봄에 등불을 밝혀 농사와 부처의 가르침 확산을 기원했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-8f9d4234838937:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:139",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "봄에 등불을 밝히며 농사가 잘되기를 기원한 행사는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-8f9d4234838937:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연등회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:140",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "봄에 등불을 밝히며 농사가 잘되기를 기원한 행사는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-8f9d4234838937:q_0047",
+      "answer": {
+        "text": "연등회"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:141",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "초조대장경은 몽골 침입을 부처의 힘으로 막고자 다시 대장경을 만든 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-8f9d4234838937:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:142",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골의 침입을 부처의 힘으로 막고자 다시 만든 대장경은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-8f9d4234838937:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "팔만대장경"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:143",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "몽골의 침입을 부처의 힘으로 막고자 다시 만든 대장경은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-8f9d4234838937:q_0048",
+      "answer": {
+        "text": "팔만대장경"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:144",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "직지심체요절은 현존하는 금속 활자 인쇄 책 가운데 세계에서 가장 오래된 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-8f9d4234838937:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:145",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "현존하는 금속 활자 인쇄 책 가운데 세계에서 가장 오래된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-8f9d4234838937:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "직지심체요절"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈요 10조"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:146",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "현존하는 금속 활자 인쇄 책 가운데 세계에서 가장 오래된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-8f9d4234838937:q_0049",
+      "answer": {
+        "text": "직지심체요절"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:147",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "관청에서 매매·대여·숙박 시설 운영 등 경제활동도 이루어졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-8f9d4234838937:q_0050",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:148",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대에 종교 활동뿐 아니라 물건 매매·대여·숙박 운영도 한 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-8f9d4234838937:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관청"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시장"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "왕궁"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-8f9d4234838937:149",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고려 시대에 종교 활동뿐 아니라 물건 매매·대여·숙박 운영도 한 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-8f9d4234838937:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-8f9d4234838937:q_0050",
+      "answer": {
+        "text": "절"
+      }
+    }
+  ]
+}

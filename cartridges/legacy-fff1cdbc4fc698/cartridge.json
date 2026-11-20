@@ -1,0 +1,1446 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-fff1cdbc4fc698",
+  "revision": 1,
+  "title": "천재(함)-5단원 Let’s Go Shoppin",
+  "metadata": {
+    "grade": 5,
+    "subject": "영어",
+    "status": "legacy",
+    "sourceSheet": "5-영어-천재(함)-5단원 Let’s Go Shoppin"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-fff1cdbc4fc698:2",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 쇼핑하자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go shopping."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's do homework."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's read comic books."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go swimming."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:3",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 쇼핑하자고 영어로 제안해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0001",
+      "answer": {
+        "text": "Let's go shopping."
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:4",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 수영하자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 4
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go swimming."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go to the movies."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's play a board game."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's do homework."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 영화를 보러 가자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go to the movies."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go shopping."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's read comic books."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go swimming."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 보드게임을 하자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 6
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's play a board game."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's do homework."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go shopping."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's read comic books."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:7",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 숙제하자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 7
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's do homework."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go swimming."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go to the movies."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's play a board game."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구에게 함께 만화책을 읽자고 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's read comic books."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go shopping."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's do homework."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go swimming."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Let's go shopping.”은 함께 쇼핑하자고 제안하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 제안이 마음에 들어 수락할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sounds good."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sorry, but I'm busy."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How about at 3?"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "See you at the park."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 제안을 좋다고 영어로 수락해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0008",
+      "answer": {
+        "text": "Sounds good."
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구의 제안을 바빠서 거절할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 12
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sorry, but I'm busy."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Sounds good."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "I'm in!"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How about at 3?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:13",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Sorry, but I'm busy.”는 제안을 수락하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 13
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:14",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "만날 시간을 3시로 제안할 때 알맞은 말은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "How about at 3?"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "See you at 3."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Let's go at 3."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "What time is it?"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:15",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "만날 시간을 3시로 영어로 제안해 보세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-fff1cdbc4fc698:q_0011",
+      "answer": {
+        "text": "How about at 3?"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“How about at 3?”는 3시에 만나는 것을 제안하는 표현이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:17",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s go swimming this Saturday.” B: “Sounds good.” B의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 17
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안을 수락한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제안을 거절한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시간을 묻는다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장소를 바꾼다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s play a board game.” B: “Okay.” B는 제안을 어떻게 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수락했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 활동을 제안했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시간을 물었다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:19",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s do homework.” B: “Sorry, but I’m busy.” B는 제안을 어떻게 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 19
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수락했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시간을 정했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "장소를 정했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s go shopping.” B: “Sounds good. How about at 2?” B가 제안한 약속 시간은 언제인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "4시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "5시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kevin says, “Let’s watch a musical tomorrow. ‘The Lion’ is very fun.” Kevin이 제안한 활동은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 21
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "watch a musical"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "play a board game"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go swimming"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "go shopping"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:22",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kevin says, “I have four free tickets. Come to Happy Park.” 어디로 오라고 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 22
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Happy Park"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Kevin's house"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the market"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the movie theater"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kevin says, “I have four free tickets.” Kevin에게는 무료 표가 네 장 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 23
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kevin says, “Let’s watch a musical tomorrow.” Cora answers, “Sounds good.” Cora는 Kevin의 제안을 어떻게 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 24
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수락했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거절했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시간을 바꾸었다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 활동을 제안했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Kevin says, “Let’s watch a musical tomorrow.” Mike answers, “I’m in!” Mike의 뜻으로 알맞은 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "함께하겠다고 수락한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "바빠서 거절한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "내일은 안 된다고 말한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "시간을 묻는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:26",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mina says, “Let’s play a board game at my house. How about at 3?” 제안한 활동과 시간은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 26
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보드게임, 3시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쇼핑, 3시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "보드게임, 4시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영, 2시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mina says, “I have cookies and milk for you. How about at 3?” Mina가 준비한 것은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 27
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "cookies and milk"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "pizza and juice"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "books and games"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "tickets and popcorn"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:28",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "Mina says, “Let’s play a board game at my house.” 만날 장소는 Mina의 집이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 28
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:29",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Let’s read comic books. How about at 3?” 제안한 활동과 시간은 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 29
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만화책 읽기, 3시"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쇼핑, 3시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화 보기, 2시"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영, 4시"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "“Let’s go swimming. Come to Happy Park.” 제안한 활동과 만날 장소는 무엇인가요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수영, Happy Park"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쇼핑, 시장"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "숙제, 집"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화 보기, 극장"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:31",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s go to the cheese market.” B: “Sounds good.” 두 사람은 어디에 가기로 했나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 31
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the cheese market"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "Happy Park"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the movies"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "the swimming pool"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-fff1cdbc4fc698:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "A: “Let’s go to the cheese market.” B: “Sounds good.” B는 시장에 가자는 제안을 거절했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-fff1cdbc4fc698:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,2465 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-bf084b9ddef8fa",
+  "revision": 1,
+  "title": "물질의 연소 (날아라펭귄)",
+  "metadata": {
+    "grade": 6,
+    "subject": "과학",
+    "status": "legacy",
+    "sourceSheet": "6-과학-물질의 연소 (날아라펭귄)"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-bf084b9ddef8fa:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 다른 물질을 섞으면 물질의 성질은 항상 변합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 다른 물질을 섞었을 때의 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 성질이 변하기도 하고 변하지 않기도 합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 성질은 항상 변합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 성질은 항상 변하지 않습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "새로운 물질은 절대로 생기지 않습니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 다른 물질을 섞었을 때 물질의 성질은 어떻게 될 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0026",
+      "answer": {
+        "text": "변하기도 하고 변하지 않기도 합니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탄산수소 나트륨과 식초를 섞으면 물질의 성질이 변합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탄산수소 나트륨과 식초를 섞었을 때 나타나는 결과는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 성질이 변합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 성질이 전혀 변하지 않습니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식초의 양만 줄어듭니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탄산수소 나트륨의 색깔만 변합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "탄산수소 나트륨과 식초를 섞으면 물질의 성질은 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0027",
+      "answer": {
+        "text": "변합니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물에 설탕을 섞으면 설탕의 단맛이 변하지 않습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물에 설탕을 섞었을 때 나타나는 변화로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설탕의 단맛이 변하지 않습니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설탕의 단맛이 사라집니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "설탕이 새로운 물질로 변합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물의 성질이 완전히 달라집니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물에 설탕을 섞었을 때 설탕의 단맛은 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0028",
+      "answer": {
+        "text": "변하지 않습니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우유에 식초를 섞으면 덩어리가 생깁니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우유에 식초를 섞었을 때 관찰되는 변화는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "덩어리가 생깁니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단맛이 변하지 않습니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "아무 변화가 없습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불꽃이 생깁니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우유에 식초를 섞었을 때 나타나는 변화를 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0029",
+      "answer": {
+        "text": "덩어리가 생깁니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "손난로 속 철 가루가 공기 중 산소와 섞이면 색깔이 변하고 열이 발생합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "손난로 속 철 가루가 공기 중 산소와 섞일 때 나타나는 변화는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "색깔이 변하고 열이 발생합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "단맛이 변합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "덩어리가 녹습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빛만 발생합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "철 가루가 산소와 섞일 때 나타나는 두 가지 변화를 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0030",
+      "answer": {
+        "text": "색깔이 변하고 열이 발생합니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초와 알코올이 탈 때 공통적으로 빛과 열이 발생합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초와 알코올이 탈 때 공통적으로 발생하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빛과 열"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물과 산소"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이산화 탄소와 소금"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소리와 물"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초와 알코올이 탈 때 발생하는 것을 두 가지 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0031",
+      "answer": {
+        "text": "빛과 열"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 열은 주변을 따뜻하게 하거나 음식을 조리하는 데 이용할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 열을 이용하는 예는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주변을 따뜻하게 하거나 음식을 조리합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어두운 곳을 밝힙니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 단맛을 측정합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공기의 양을 측정합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 열은 어디에 이용할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0032",
+      "answer": {
+        "text": "주변을 따뜻하게 하거나 음식을 조리하는 데 이용할 수 있습니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 빛은 어두운 곳을 밝히는 데 이용할 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 빛을 이용하는 예는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "어두운 곳을 밝힙니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주변을 따뜻하게 합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "음식을 조리합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "공기 중 산소를 제거합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 탈 때 발생하는 빛은 무엇에 이용할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0033",
+      "answer": {
+        "text": "어두운 곳을 밝히는 데 이용할 수 있습니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 연소할 때 산소가 필요하지 않습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 연소하려면 필요한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈 물질, 산소, 발화점 이상의 온도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물, 소금, 낮은 온도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빛, 물, 이산화 탄소"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈 물질만 있으면 됩니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 연소하기 위해 필요한 세 가지 조건을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0034",
+      "answer": {
+        "text": "탈 물질, 산소, 발화점 이상의 온도"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공기 중에 산소가 많을수록 물질의 연소가 활발하게 일어납니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공기 중 산소의 양과 연소의 관계로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소가 많을수록 연소가 활발합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소가 많을수록 연소가 약해집니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소의 양은 연소와 관계없습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소가 없을수록 연소가 활발합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "공기 중 산소가 많아지면 연소는 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0035",
+      "answer": {
+        "text": "더 활발하게 일어납니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 타기 시작하는 온도를 발화점이라고 합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 타기 시작하는 온도를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남중 고도"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "녹는점"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "끓는점"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "어떤 물질이 타기 시작하는 온도를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0036",
+      "answer": {
+        "text": "발화점"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발화점은 모든 물질에서 같습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0037",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발화점에 대한 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점은 물질에 따라 다릅니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점은 모든 물질에서 같습니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점은 산소의 양과 같습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점은 항상 0℃입니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "발화점은 물질에 따라 어떠합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0037",
+      "answer": {
+        "text": "다릅니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소에 필요한 조건 중 하나라도 없으면 연소는 일어나지 않습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소에 필요한 조건에 대한 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "필요한 조건 중 하나라도 없으면 연소가 일어나지 않습니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 가지 조건만 있으면 연소합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소만 있으면 연소합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온도와 관계없이 연소합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소에 필요한 조건 중 하나라도 없으면 어떻게 됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0038",
+      "answer": {
+        "text": "연소가 일어나지 않습니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "송풍기로 공기를 넣으면 불씨를 크게 만들 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "송풍기로 공기를 넣는 까닭은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질이 타는 데 필요한 산소를 공급하기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물질의 발화점을 낮추기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "불꽃을 식히기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이산화 탄소를 만들기 위해서입니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "송풍기로 공기를 넣으면 불씨가 커지는 까닭을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0039",
+      "answer": {
+        "text": "물질이 타는 데 필요한 산소가 공급되기 때문입니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불을 피울 때 부채질을 하는 것은 산소를 공급하기 위해서입니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불을 피울 때 부채질하는 것과 관련된 연소 조건은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소 공급"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "발화점 이하로 온도 낮추기"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈 물질 제거"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물 공급"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "불을 피울 때 부채질하는 까닭을 연소 조건과 관련하여 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0040",
+      "answer": {
+        "text": "산소를 공급하기 위해서입니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소는 물질이 산소와 만나 빛과 열을 내면서 타는 현상입니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 산소와 만나 빛과 열을 내면서 타는 현상을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "응결"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "용해"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "증발"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물질이 산소와 만나 빛과 열을 내면서 타는 현상을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0041",
+      "answer": {
+        "text": "연소"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "철판을 가열하면 성냥에 불을 직접 붙이지 않아도 성냥이 탈 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "성냥에 직접 불을 붙이지 않아도 성냥이 타는 실험에서 확인하려는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "온도가 발화점 이상이 되면 연소할 수 있습니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소가 없어도 연소합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탈 물질이 없어도 연소합니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 물질의 발화점은 같습니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "철판을 가열해 성냥이 타는 현상은 연소의 어떤 조건과 관련됩니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0042",
+      "answer": {
+        "text": "물질의 온도가 발화점 이상이 되는 것과 관련됩니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초가 연소하면 연소 전의 양초와 다른 물질이 생성됩니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초가 연소한 후 생성되는 물질은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물과 이산화 탄소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소와 질소"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소금과 설탕"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물과 산소"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초가 연소한 후 생성되는 두 물질을 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0043",
+      "answer": {
+        "text": "물과 이산화 탄소"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "푸른색 염화 코발트 종이는 물에 닿으면 붉은색으로 변합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "양초 연소 후 물의 생성을 확인할 때 사용하는 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "푸른색 염화 코발트 종이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "석회수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성냥"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "밀가루"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "푸른색 염화 코발트 종이의 색깔 변화로 확인할 수 있는 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0044",
+      "answer": {
+        "text": "물이 생성되었다는 것입니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "석회수는 이산화 탄소를 만나면 뿌옇게 흐려집니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "석회수가 뿌옇게 흐려지는 것은 무엇이 생성되었음을 나타냅니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이산화 탄소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산소"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "질소"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "석회수가 뿌옇게 흐려지는 것으로 무엇의 생성을 알 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0045",
+      "answer": {
+        "text": "이산화 탄소"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소 생성물 중 이산화 탄소의 양이 많아지면 생태계에 피해를 줄 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연소 생성물인 이산화 탄소가 많아지면 어떤 문제가 생길 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생태계에 피해를 줄 수 있습니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 생물이 더 건강해집니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연소가 완전히 멈춥니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태양이 사라집니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "이산화 탄소의 양이 많아지면 생태계에 어떤 영향을 줄 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0046",
+      "answer": {
+        "text": "생태계에 피해를 줄 수 있습니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자동차나 비행기를 탈 때, 화력 발전소에서 전기를 만들 때도 연소가 일어납니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 연소가 일어나는 예로 제시한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자동차·비행기 이용과 화력 발전소에서의 전기 생산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물에 설탕을 섞는 것"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "달의 모양이 변하는 것"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "얼음이 녹는 것"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 생활에서 연소가 일어나는 예를 두 가지 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0047",
+      "answer": {
+        "text": "자동차나 비행기를 탈 때, 화력 발전소에서 전기를 만들 때"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대기 중 이산화 탄소가 증가하면 기후변화에 영향을 주며 생물의 서식 환경에도 변화를 줄 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대기 중 이산화 탄소 증가의 영향으로 교과서에서 제시한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후변화와 생물의 서식 환경 변화에 영향을 줍니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생물의 서식 환경이 항상 좋아집니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기후변화와 아무 관계가 없습니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연소가 모두 사라집니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대기 중 이산화 탄소가 증가하면 어떤 두 가지 변화에 영향을 줄 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0048",
+      "answer": {
+        "text": "기후변화와 생물의 서식 환경 변화"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계의 피해를 줄이려면 이산화 탄소의 배출량을 줄이기 위한 노력이 필요합니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계 피해를 줄이기 위한 방법으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이산화 탄소의 배출량을 줄이기 위해 노력합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연소를 더 많이 합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자동차 이용을 늘립니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품 사용을 늘립니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "생태계 피해를 줄이기 위해 우리가 할 수 있는 노력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0049",
+      "answer": {
+        "text": "이산화 탄소의 배출량을 줄이기 위해 노력하는 것입니다."
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까운 거리는 걷거나 자전거를 이용하면 이산화 탄소를 줄이는 실천 방법이 될 수 있습니다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0050",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 제안한 이산화 탄소 줄이기 실천 방법은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가까운 거리는 걷거나 자전거를 이용합니다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가까운 거리도 자동차를 이용합니다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품 사용을 늘립니다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "실내 냉난방을 무조건 강하게 합니다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-bf084b9ddef8fa:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "가까운 거리를 이동할 때 이산화 탄소를 줄이기 위해 어떻게 할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-bf084b9ddef8fa:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-bf084b9ddef8fa:q_0050",
+      "answer": {
+        "text": "걷거나 자전거를 이용합니다."
+      }
+    }
+  ]
+}

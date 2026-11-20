@@ -1,0 +1,4915 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-1b9e08b79cc463",
+  "revision": 1,
+  "title": "일제 식민 통치와 우리 민족의 저항",
+  "metadata": {
+    "grade": 5,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "5-사회-일제 식민 통치와 우리 민족의 저항"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-1b9e08b79cc463:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 1905년 을사늑약으로 대한 제국의 외교권을 빼앗았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1905년 일제가 대한 제국의 외교권을 빼앗은 조약은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "을사늑약"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강화도 조약"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정미7조약"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한일 의정서"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1905년 일제가 대한 제국의 외교권을 빼앗은 조약은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0001",
+      "answer": {
+        "text": "을사늑약"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 설명은 사실과 다르다: 고종은 을사늑약의 부당함을 알리려고 헤이그에 특사를 보냈다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0002",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고종이 을사늑약의 부당함을 국제 사회에 알리려고 파견한 사람들을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "헤이그 특사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "수신사"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조사 시찰단"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고종이 을사늑약의 부당함을 국제 사회에 알리려고 파견한 사람들을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0002",
+      "answer": {
+        "text": "헤이그 특사"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 대한 제국의 군대를 강제로 해산하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 고종을 물러나게 한 뒤 강제로 해산한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국 군대"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 고종을 물러나게 한 뒤 강제로 해산한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0003",
+      "answer": {
+        "text": "대한 제국 군대"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "다음 설명은 사실과 다르다: 일제의 침략에 맞서 전국 곳곳에서 의병 운동이 일어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0004",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 침략에 맞서 전국 곳곳에서 일어난 무장 저항은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병 운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물산 장려 운동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문자 보급 운동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "애국 계몽 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 침략에 맞서 전국 곳곳에서 일어난 무장 저항은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0004",
+      "answer": {
+        "text": "의병 운동"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의병 운동에는 유학자, 농민, 여성, 어린이 등 다양한 계층이 참여하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "항일 의병 운동에는 어떤 사람들이 참여했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 계층"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "양반만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군인만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국인만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "항일 의병 운동에는 어떤 사람들이 참여했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0005",
+      "answer": {
+        "text": "다양한 계층"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "해산된 군인들이 의병에 참여하하지 않으면서 의병 운동은 더욱 조직적으로 전개되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0006",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의병 운동이 더욱 조직적으로 전개되는 데 영향을 준 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해산된 군인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본 경찰"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친일파"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본 상인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의병 운동이 더욱 조직적으로 전개되는 데 영향을 준 사람들은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0006",
+      "answer": {
+        "text": "해산된 군인"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연합 의병 부대는 1908년 서울 진공 작전을 시도하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연합 의병 부대가 한성의 일본군을 공격하려 한 작전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울 진공 작전"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉오동 전투"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청산리 대첩"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인천 상륙 작전"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "연합 의병 부대가 한성의 일본군을 공격하려 한 작전은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0007",
+      "answer": {
+        "text": "서울 진공 작전"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "살아남은 의병들은 진도와 제주도로 이동해 계속 싸웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0008",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "살아남은 의병들이 이동하여 독립 투쟁을 이어 간 지역은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만주와 연해주"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본과 미국"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "진도와 제주도"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울과 부산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "살아남은 의병들이 이동하여 독립 투쟁을 이어 간 지역은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0008",
+      "answer": {
+        "text": "만주와 연해주"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "애국 계몽 운동은 민족의 실력을 키워 나라를 지키려는 움직임이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민족의 실력을 키워 나라를 지키려 한 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "애국 계몽 운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항일 의병 운동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "3·1 운동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광주 학생 항일 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "민족의 실력을 키워 나라를 지키려 한 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0009",
+      "answer": {
+        "text": "애국 계몽 운동"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "안창호와 이완용 등은 학교를 세워 새로운 지식을 가르쳤다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0010",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교를 세워 교육하고 민족의 실력을 키우려 한 인물로 알맞은 것은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안창호와 이승훈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이봉창과 윤봉길"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍범도와 김좌진"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이준과 이위종"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학교를 세워 교육하고 민족의 실력을 키우려 한 인물로 알맞은 것은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0010",
+      "answer": {
+        "text": "안창호와 이승훈"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "황성신문과 대한매일신보는 일제의 침략을 비판하는 기사를 실었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 침략을 비판하는 기사를 실은 신문을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "황성신문과 대한매일신보"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립신문과 한성순보"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선일보와 동아일보"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "매일경제와 대한신문"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 침략을 비판하는 기사를 실은 신문을 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0011",
+      "answer": {
+        "text": "황성신문과 대한매일신보"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "안중근은 서울역에서 이토 히로부미를 사살했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0012",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하얼빈역에서 이토 히로부미를 사살한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안중근"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이승훈"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신돌석"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤봉길"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "하얼빈역에서 이토 히로부미를 사살한 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0012",
+      "answer": {
+        "text": "안중근"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한 제국은 1910년에 일제에 국권을 강제로 빼앗겼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한 제국이 일제에 국권을 강제로 빼앗긴 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1910년"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1905년"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1919년"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한 제국이 일제에 국권을 강제로 빼앗긴 해는 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0013",
+      "answer": {
+        "text": "1910년"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 식민 통치를 위해 한양 총독부를 설치했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0014",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국을 식민 통치하기 위해 설치한 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국을 식민 통치하기 위해 설치한 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0014",
+      "answer": {
+        "text": "조선 총독부"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 헌병에게 경찰 임무를 주어 한국인을 감시하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1910년대 일제가 한국인을 감시하고 독립운동을 탄압하는 데 이용한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "헌병 경찰"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광복군"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1910년대 일제가 한국인을 감시하고 독립운동을 탄압하는 데 이용한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0015",
+      "answer": {
+        "text": "헌병 경찰"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "헌병 경찰은 한국인에게 태형을 내릴 수 없었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0016",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 헌병 경찰이 한국인에게 내릴 수 있었던 형벌은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "태형"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거 시험"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군역"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유배만"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 헌병 경찰이 한국인에게 내릴 수 있었던 형벌은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0016",
+      "answer": {
+        "text": "태형"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1920년대 일제는 경찰 인원수를 늘렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1920년대 일제의 경찰 정책으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경찰 인원을 늘렸다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경찰을 모두 없앴다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립운동을 허용했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부를 폐지했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1920년대 일제의 경찰 정책으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0017",
+      "answer": {
+        "text": "경찰 인원을 늘렸다."
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 억울하게 땅을 빼앗긴 백성들을 구제하기 위해 토지 조사 사업을 벌였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0018",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 토지를 조사하고 많은 토지세를 거둔 사업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "토지 조사 사업"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산미 증식 계획"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물산 장려 운동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국채 보상 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 토지를 조사하고 많은 토지세를 거둔 사업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0018",
+      "answer": {
+        "text": "토지 조사 사업"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "주인이 확실하지 않은 땅은 조선 총독부의 소유가 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "토지 조사 사업에서 주인이 확실하지 않은 땅의 소유자가 된 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한민국 임시 정부"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "토지 조사 사업에서 주인이 확실하지 않은 땅의 소유자가 된 기구는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0019",
+      "answer": {
+        "text": "조선 총독부"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 한국의 쌀을 일본으로 보내려고 산미 증식 계획을 실시하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0020",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국의 쌀 생산량을 늘려 일본으로 보내려 한 정책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산미 증식 계획"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "토지 조사 사업"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "창씨개명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사 참배"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국의 쌀 생산량을 늘려 일본으로 보내려 한 정책은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0020",
+      "answer": {
+        "text": "산미 증식 계획"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산미 증식 계획 뒤 한국인의 생활은 더욱 어려워졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산미 증식 계획이 한국인의 생활에 미친 영향은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활이 더욱 어려워졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쌀이 크게 남아돌았다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활이 풍요로워졌다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금이 사라졌다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "산미 증식 계획이 한국인의 생활에 미친 영향은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0021",
+      "answer": {
+        "text": "생활이 더욱 어려워졌다."
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 철도를 한국 물자를 일본으로 가져가는 데 이용하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0022",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 철도망을 확충한 주요 목적과 관련 깊은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국의 경제 수탈"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국의 독립 지원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 농민의 복지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병의 이동 지원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 철도망을 확충한 주요 목적과 관련 깊은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0022",
+      "answer": {
+        "text": "한국의 경제 수탈"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1930년대 후반 일제는 한국인을 탄광, 공장, 전쟁터 등에 강제로 동원하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1930년대 후반 일제가 한국인을 탄광·공장·전쟁터 등에 끌고 간 것을 무엇이라고 볼 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강제 동원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자발적 이민"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 교류"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 확대"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1930년대 후반 일제가 한국인을 탄광·공장·전쟁터 등에 끌고 간 것을 무엇이라고 볼 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0023",
+      "answer": {
+        "text": "강제 동원"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본군 '위안부'로 끌려간 여성들은 성폭력과 인권 침해를 당하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0024",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 전쟁터에 강제로 동원되어 성폭력과 인권 침해를 당한 여성을 가리키는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본군 '위안부'"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "역관"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전기수"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제의 전쟁터에 강제로 동원되어 성폭력과 인권 침해를 당한 여성을 가리키는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0024",
+      "answer": {
+        "text": "일본군 '위안부'"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 한국인에게 신사에 강제로 절하도록 하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국인에게 신사에서 강제로 하게 한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사 참배"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과거 응시"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 선언"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "만세 시위"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국인에게 신사에서 강제로 하게 한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0025",
+      "answer": {
+        "text": "신사 참배"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 한국인에게 일본식 성과 이름을 사용하도록 강요하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0026",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국인에게 사용하도록 강요한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본식 성과 이름"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한글 이름만"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립군 이름"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국 지명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 한국인에게 사용하도록 강요한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0026",
+      "answer": {
+        "text": "일본식 성과 이름(창씨개명)"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제는 학교에서 우리 역사 교육을 금지하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 학교에서 금지한 교육은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리 역사 교육"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본어 교육"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "체육 교육"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산수 교육"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 학교에서 금지한 교육은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0027",
+      "answer": {
+        "text": "우리 역사 교육"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제 식민 통치 시기 조선에는 백화점과 극장 등이 들어서지 못했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0028",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제 식민 통치 시기 도시 중심에 새로 나타난 시설의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "백화점과 극장"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수대와 서원"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고인돌과 움집"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "향교와 사직단"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제 식민 통치 시기 도시 중심에 새로 나타난 시설의 예는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0028",
+      "answer": {
+        "text": "백화점과 극장"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 들여온 문물은 대부분 일본인과 조선인들을 위한 것이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0029",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 들여온 도시 문물의 혜택은 주로 누구를 위한 것이었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본인"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국 농민"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 한국인"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제가 들여온 도시 문물의 혜택은 주로 누구를 위한 것이었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0029",
+      "answer": {
+        "text": "일본인"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제1차 세계 대전 뒤 우리 민족은 독립에 대한 희망을 가지게 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제1차 세계 대전 뒤 우리 민족이 갖게 된 희망은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립에 대한 희망"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식민 통치 확대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본과의 합병 강화"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군주제 부활"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "제1차 세계 대전 뒤 우리 민족이 갖게 된 희망은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0030",
+      "answer": {
+        "text": "독립에 대한 희망"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동은 1919년 3월 1일 시작되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동이 시작된 날은 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1919년 3월 1일"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1905년 11월 17일"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1920년 6월 7일"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1945년 8월 15일"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동이 시작된 날은 언제입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0031",
+      "answer": {
+        "text": "1919년 3월 1일"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생과 시민들은 한강 공원에서 만세 시위를 벌였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0032",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생과 시민들이 독립 선언서를 낭독하고 만세 시위를 벌인 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "탑골 공원"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "남한산성"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경복궁"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "벽란도"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "학생과 시민들이 독립 선언서를 낭독하고 만세 시위를 벌인 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0032",
+      "answer": {
+        "text": "탑골 공원"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동은 서울에서 시작되어 전국으로 퍼졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서울에서 시작된 3·1 운동은 어떻게 전개되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전국으로 퍼졌다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울에서만 끝났다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "외국인만 참여했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "군인만 참여했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서울에서 시작된 3·1 운동은 어떻게 전개되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0033",
+      "answer": {
+        "text": "전국으로 퍼졌다."
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유관순은 고향인 부산에서 만세 시위를 주도했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0034",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천안에서 만세 시위를 주도한 독립운동가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유관순"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤봉길"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이봉창"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김좌진"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "천안에서 만세 시위를 주도한 독립운동가는 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0034",
+      "answer": {
+        "text": "유관순"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본군은 화성 제암리 등 여러 마을을 습격하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본군이 3·1 운동을 탄압하며 습격한 화성의 마을은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "제암리"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉오동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "청산리"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하얼빈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일본군이 3·1 운동을 탄압하며 습격한 화성의 마을은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0035",
+      "answer": {
+        "text": "제암리"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동은 안타깝게도 전세계에 전달되지는 못했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0036",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동의 의의로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 의지를 세계에 알렸다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "식민 통치를 강화했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일본의 영토를 넓혔다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 제국 군대를 해산했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "3·1 운동의 의의로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0036",
+      "answer": {
+        "text": "독립 의지를 세계에 알렸다."
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1919년 9월 중국 상하이에 대한민국 임시 정부가 수립되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 1919년 9월 수립된 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "중국 상하이"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "도쿄"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하얼빈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 1919년 9월 수립된 곳은 어디입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0037",
+      "answer": {
+        "text": "중국 상하이"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부는 국민에게 주권이 있는 사회주의 정치 체제를 갖추었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0038",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 갖춘 정치 체제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "민주주의"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신분제"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "절대 왕정"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "골품제"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 갖춘 정치 체제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0038",
+      "answer": {
+        "text": "민주주의"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부는 비밀 조직으로 독립운동 단체와 연락하고 자금을 모았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 국내외 독립운동 단체와 연락하고 자금을 모으기 위해 둔 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "비밀 조직"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "헌병 경찰"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선 총독부"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친일 단체"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 국내외 독립운동 단체와 연락하고 자금을 모으기 위해 둔 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0039",
+      "answer": {
+        "text": "비밀 조직"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부는 매일신문을 펴냈다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0040",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 독립운동 소식을 전하기 위해 펴낸 신문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립신문"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "황성신문"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한매일신보"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한성순보"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 독립운동 소식을 전하기 위해 펴낸 신문은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0040",
+      "answer": {
+        "text": "독립신문"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "물산 장려 운동은 우리나라에서 만든 물건을 사용해 경제적으로 자립하자는 운동이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라에서 만든 물건을 사용해 경제적 자립을 이루려 한 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물산 장려 운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산미 증식 계획"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "토지 조사 사업"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신사 참배"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라에서 만든 물건을 사용해 경제적 자립을 이루려 한 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0041",
+      "answer": {
+        "text": "물산 장려 운동"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1929년 광주 학생 항일 운동은 학생이 주도하고 시민들은 참여하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0042",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1929년 학생이 주도하고 시민이 참여한 큰 항일 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "광주 학생 항일 운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서울 진공 작전"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "위화도 회군"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "갑신정변"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1929년 학생이 주도하고 시민이 참여한 큰 항일 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0042",
+      "answer": {
+        "text": "광주 학생 항일 운동"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신채호와 박은식 등은 우리 역사의 독자성과 자주성을 강조하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 역사의 독자성과 자주성을 강조한 역사학자를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신채호와 박은식"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김구와 안창호"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍범도와 김좌진"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이봉창과 윤봉길"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리 역사의 독자성과 자주성을 강조한 역사학자를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0043",
+      "answer": {
+        "text": "신채호와 박은식"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한국어 학회는 한글 맞춤법 통일과 우리말 큰사전 편찬에 힘썼다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0044",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한글을 연구·보급하고 『우리말(조선말) 큰사전』 편찬에 힘쓴 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한인 애국단"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의열단"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한글을 연구·보급하고 『우리말(조선말) 큰사전』 편찬에 힘쓴 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0044",
+      "answer": {
+        "text": "조선어 학회"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "홍범도가 이끄는 독립군 부대는 봉오동 전투에서 일본군을 크게 무찔렀다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "봉오동 전투에서 독립군 부대를 이끈 대표 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "홍범도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김구"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안중근"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이승훈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "봉오동 전투에서 독립군 부대를 이끈 대표 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0045",
+      "answer": {
+        "text": "홍범도"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김좌진과 홍범도 중심의 독립군은 국내에서 일본군에 큰 승리를 거두었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0046",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "청산리 대첩을 이끈 대표적인 독립군 지도자를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김좌진과 홍범도"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이준과 이상설"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "김구와 윤봉길"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "안창호와 이승훈"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "청산리 대첩을 이끈 대표적인 독립군 지도자를 바르게 묶은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0046",
+      "answer": {
+        "text": "김좌진과 홍범도"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의열단은 일제 고위 관리를 처단하고 식민 통치 기구를 파괴하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제 고위 관리를 처단하고 식민 통치 기구를 파괴한 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의열단"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "독립 협회"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대한 자강회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일제 고위 관리를 처단하고 식민 통치 기구를 파괴한 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0047",
+      "answer": {
+        "text": "의열단"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김구는 한인 애국단을 조직하지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0048",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김구가 조직한 독립운동 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한인 애국단"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삼별초"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "조선어 학회"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "김구가 조직한 독립운동 단체는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0048",
+      "answer": {
+        "text": "한인 애국단"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "윤봉길은 상하이 훙커우 공원에서 의거를 일으켰다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상하이 훙커우 공원에서 의거를 일으킨 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "윤봉길"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이봉창"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이승훈"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신돌석"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "상하이 훙커우 공원에서 의거를 일으킨 인물은 누구입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0049",
+      "answer": {
+        "text": "윤봉길"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:149",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부는 충칭에 정착한 뒤 한국광복군을 만들지 않았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 149
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0050",
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:150",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 충칭에 정착한 뒤 만든 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 150
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0050",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한국광복군"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "별무반"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의병 연합 부대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "훈련도감"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-1b9e08b79cc463:151",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "대한민국 임시 정부가 충칭에 정착한 뒤 만든 군대는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-1b9e08b79cc463:q_0050",
+        "sourceBundleId": "q_0050",
+        "sourceRow": 151
+      },
+      "groupId": "legacy-1b9e08b79cc463:q_0050",
+      "answer": {
+        "text": "한국광복군"
+      }
+    }
+  ]
+}

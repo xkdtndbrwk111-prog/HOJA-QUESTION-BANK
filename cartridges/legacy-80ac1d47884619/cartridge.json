@@ -1,0 +1,4817 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-80ac1d47884619",
+  "revision": 1,
+  "title": "우리나라의 경제 성장",
+  "metadata": {
+    "grade": 6,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "6-사회-우리나라의 경제 성장"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-80ac1d47884619:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 경제가 성장하면서 물건과 서비스를 생산하는 능력이 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 2
+      },
+      "groupId": "legacy-80ac1d47884619:q_0001",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 우리나라에서 높아진 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 3
+      },
+      "groupId": "legacy-80ac1d47884619:q_0001",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "물건과 서비스를 생산하는 능력"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토의 면적"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계절의 수"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "강의 길이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 높아진 것은 물건과 무엇을 생산하는 능력입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0001",
+        "sourceBundleId": "q_0001",
+        "sourceRow": 4
+      },
+      "groupId": "legacy-80ac1d47884619:q_0001",
+      "answer": {
+        "text": "서비스"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:5",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 경제 성장으로 사람들의 평균 소득이 크게 늘었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 5
+      },
+      "groupId": "legacy-80ac1d47884619:q_0002",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:6",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 사람들의 생활 수준이 높아진 까닭 중 하나는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 6
+      },
+      "groupId": "legacy-80ac1d47884619:q_0002",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "평균 소득이 늘었기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토가 넓어졌기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계절이 늘었기 때문에"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인구가 모두 같아졌기 때문에"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 사람들의 평균 무엇이 크게 늘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0002",
+        "sourceBundleId": "q_0002",
+        "sourceRow": 7
+      },
+      "groupId": "legacy-80ac1d47884619:q_0002",
+      "answer": {
+        "text": "소득"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:8",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 우리나라 사람들의 생활 수준은 전반적으로 향상되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 8
+      },
+      "groupId": "legacy-80ac1d47884619:q_0003",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:9",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 나타난 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 9
+      },
+      "groupId": "legacy-80ac1d47884619:q_0003",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "생활 수준이 전반적으로 향상되었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 기회가 줄었다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외여행이 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명이 줄었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:10",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 사람들의 무엇이 전반적으로 향상되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0003",
+        "sourceBundleId": "q_0003",
+        "sourceRow": 10
+      },
+      "groupId": "legacy-80ac1d47884619:q_0003",
+      "answer": {
+        "text": "생활 수준"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:11",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국내 총생산은 일정 기간에 한 나라 안에서 생산된 물건과 서비스의 양을 돈으로 계산해 합한 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 11
+      },
+      "groupId": "legacy-80ac1d47884619:q_0004",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:12",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일정 기간에 한 나라 안에서 생산된 물건과 서비스의 양을 돈으로 계산해 합한 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 12
+      },
+      "groupId": "legacy-80ac1d47884619:q_0004",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국내 총생산"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈부 격차"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:13",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 나라 안에서 생산된 물건과 서비스의 양을 돈으로 계산해 합한 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0004",
+        "sourceBundleId": "q_0004",
+        "sourceRow": 13
+      },
+      "groupId": "legacy-80ac1d47884619:q_0004",
+      "answer": {
+        "text": "국내 총생산"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:14",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1인당 국민 총소득은 한 나라 국민이 벌어들인 소득을 그 나라의 인구로 나눈 것이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 14
+      },
+      "groupId": "legacy-80ac1d47884619:q_0005",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "한 나라 국민이 벌어들인 소득을 인구로 나눈 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 15
+      },
+      "groupId": "legacy-80ac1d47884619:q_0005",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1인당 국민 총소득"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국내 총생산"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "상대적 빈곤율"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:16",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국민의 소득을 인구로 나눈 값을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0005",
+        "sourceBundleId": "q_0005",
+        "sourceRow": 16
+      },
+      "groupId": "legacy-80ac1d47884619:q_0005",
+      "answer": {
+        "text": "1인당 국민 총소득"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:17",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 우리나라의 국내 총생산은 전반적으로 크게 증가하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 17
+      },
+      "groupId": "legacy-80ac1d47884619:q_0006",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 우리나라의 국내 총생산은 어떻게 변화했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 18
+      },
+      "groupId": "legacy-80ac1d47884619:q_0006",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전반적으로 크게 증가했다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계속 감소했다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "거의 변하지 않았다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "0이 되었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:19",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 국내 총생산은 전반적으로 어떻게 변했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0006",
+        "sourceBundleId": "q_0006",
+        "sourceRow": 19
+      },
+      "groupId": "legacy-80ac1d47884619:q_0006",
+      "answer": {
+        "text": "증가했다"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:20",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 우리나라의 1인당 국민 총소득은 전반적으로 증가하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 20
+      },
+      "groupId": "legacy-80ac1d47884619:q_0007",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:21",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 1인당 국민 총소득의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 21
+      },
+      "groupId": "legacy-80ac1d47884619:q_0007",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전반적으로 증가했다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "계속 감소했다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "변화가 없었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항상 같은 값이었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:22",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 그래프에서 1인당 국민 총소득은 전반적으로 어떻게 변했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0007",
+        "sourceBundleId": "q_0007",
+        "sourceRow": 22
+      },
+      "groupId": "legacy-80ac1d47884619:q_0007",
+      "answer": {
+        "text": "증가했다"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:23",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의료 기술의 발달과 보건 정책의 시행으로 사람들의 기대 수명이 늘어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 23
+      },
+      "groupId": "legacy-80ac1d47884619:q_0008",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:24",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 이후 건강과 관련해 나타난 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 24
+      },
+      "groupId": "legacy-80ac1d47884619:q_0008",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명이 늘어났다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명이 줄었다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "병원이 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "의료 기술이 후퇴했다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:25",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들의 평균 생존 연수인 무엇이 늘어났습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0008",
+        "sourceBundleId": "q_0008",
+        "sourceRow": 25
+      },
+      "groupId": "legacy-80ac1d47884619:q_0008",
+      "answer": {
+        "text": "기대 수명"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 교육을 받을 수 있는 기회가 확대되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 26
+      },
+      "groupId": "legacy-80ac1d47884619:q_0009",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:27",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 이후 교육 분야의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 27
+      },
+      "groupId": "legacy-80ac1d47884619:q_0009",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육을 받을 수 있는 기회가 확대되었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대학 진학이 금지되었다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "학교 수업이 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률이 0이 되었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:28",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 무엇을 받을 수 있는 기회가 확대되었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0009",
+        "sourceBundleId": "q_0009",
+        "sourceRow": 28
+      },
+      "groupId": "legacy-80ac1d47884619:q_0009",
+      "answer": {
+        "text": "교육"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "고등 교육 기관의 취학률은 1970년보다 2023년에 크게 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 29
+      },
+      "groupId": "legacy-80ac1d47884619:q_0010",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서 자료에서 고등 교육 기관 취학률은 어떻게 변했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 30
+      },
+      "groupId": "legacy-80ac1d47884619:q_0010",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "크게 높아졌다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "크게 낮아졌다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "변화가 없었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "0%가 되었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1970년보다 2023년에 고등 교육 기관 무엇이 크게 높아졌습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0010",
+        "sourceBundleId": "q_0010",
+        "sourceRow": 31
+      },
+      "groupId": "legacy-80ac1d47884619:q_0010",
+      "answer": {
+        "text": "취학률"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국민 소득이 높아지면서 다양한 여가 생활을 즐기는 사람들이 늘었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 32
+      },
+      "groupId": "legacy-80ac1d47884619:q_0011",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 나타난 여가 생활의 변화는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 33
+      },
+      "groupId": "legacy-80ac1d47884619:q_0011",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다양한 여가 활동을 즐기는 사람이 늘었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여가 활동이 모두 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "운동이 금지되었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 활동이 사라졌다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 다양한 무엇을 즐기는 사람들이 늘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0011",
+        "sourceBundleId": "q_0011",
+        "sourceRow": 34
+      },
+      "groupId": "legacy-80ac1d47884619:q_0011",
+      "answer": {
+        "text": "여가 활동"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:35",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 해외로 여행을 떠나는 사람들이 늘었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 35
+      },
+      "groupId": "legacy-80ac1d47884619:q_0012",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:36",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 이후 여행 모습의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 36
+      },
+      "groupId": "legacy-80ac1d47884619:q_0012",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외여행자가 늘었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외여행자가 모두 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국내 이동이 금지되었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여행이 불가능해졌다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 어디로 여행을 떠나는 사람들이 늘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0012",
+        "sourceBundleId": "q_0012",
+        "sourceRow": 37
+      },
+      "groupId": "legacy-80ac1d47884619:q_0012",
+      "answer": {
+        "text": "해외"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:38",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "의료, 교육, 여가 등의 변화로 국민들의 삶의 질이 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 38
+      },
+      "groupId": "legacy-80ac1d47884619:q_0013",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:39",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 의료·교육·여가가 발전하면서 높아진 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 39
+      },
+      "groupId": "legacy-80ac1d47884619:q_0013",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "삶의 질"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해수면"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산의 높이"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국토의 면적"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:40",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 국민들의 무엇이 높아졌습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0013",
+        "sourceBundleId": "q_0013",
+        "sourceRow": 40
+      },
+      "groupId": "legacy-80ac1d47884619:q_0013",
+      "answer": {
+        "text": "삶의 질"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:41",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문화 예술 관람률은 1990년보다 2023년에 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 41
+      },
+      "groupId": "legacy-80ac1d47884619:q_0014",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:42",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 이후 문화생활의 변화로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 42
+      },
+      "groupId": "legacy-80ac1d47884619:q_0014",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 예술 행사를 관람하는 사람이 늘었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 행사가 모두 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "박물관 이용이 금지되었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화관이 없어졌다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:43",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장으로 문화 예술 행사를 무엇하는 사람들이 늘었습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0014",
+        "sourceBundleId": "q_0014",
+        "sourceRow": 43
+      },
+      "groupId": "legacy-80ac1d47884619:q_0014",
+      "answer": {
+        "text": "관람"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:44",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 영화와 드라마 등의 콘텐츠는 세계적으로 인기를 얻고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 44
+      },
+      "groupId": "legacy-80ac1d47884619:q_0015",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계적으로 인기를 얻은 우리나라 문화 콘텐츠의 예로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 45
+      },
+      "groupId": "legacy-80ac1d47884619:q_0015",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "영화와 드라마"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빙하와 사막"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "댐과 제방"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산맥과 고원"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:46",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "세계적으로 인기를 얻은 우리나라 영상 콘텐츠의 예를 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0015",
+        "sourceBundleId": "q_0015",
+        "sourceRow": 46
+      },
+      "groupId": "legacy-80ac1d47884619:q_0015",
+      "answer": {
+        "text": "영화"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:47",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "케이팝은 우리나라의 대중가요를 가리킨다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 47
+      },
+      "groupId": "legacy-80ac1d47884619:q_0016",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:48",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 대중가요를 가리키는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 48
+      },
+      "groupId": "legacy-80ac1d47884619:q_0016",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "케이팝(K-pop)"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "ESG"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "타이가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:49",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 대중가요를 부르는 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0016",
+        "sourceBundleId": "q_0016",
+        "sourceRow": 49
+      },
+      "groupId": "legacy-80ac1d47884619:q_0016",
+      "answer": {
+        "text": "케이팝(K-pop)"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 작가의 노벨 문학상 수상으로 한국 문학 작품에 대한 외국인의 관심이 높아졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 50
+      },
+      "groupId": "legacy-80ac1d47884619:q_0017",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:51",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라 문학 작품에 대한 외국인의 관심이 높아진 계기로 제시된 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 51
+      },
+      "groupId": "legacy-80ac1d47884619:q_0017",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우리나라 작가의 노벨 문학상 수상"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국내 총생산 감소"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외여행 금지"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 분규 증가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:52",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에서 우리나라 작가가 수상했다고 제시한 상은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0017",
+        "sourceBundleId": "q_0017",
+        "sourceRow": 52
+      },
+      "groupId": "legacy-80ac1d47884619:q_0017",
+      "answer": {
+        "text": "노벨 문학상"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:53",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라는 1988년 서울 올림픽, 2002년 한일 월드컵, 2018년 평창 동계 올림픽을 개최하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 53
+      },
+      "groupId": "legacy-80ac1d47884619:q_0018",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:54",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "교과서에 제시된 우리나라의 국제 스포츠 행사로 알맞지 않은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 54
+      },
+      "groupId": "legacy-80ac1d47884619:q_0018",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1964년 도쿄 올림픽"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "1988년 서울 올림픽"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2002년 한일 월드컵"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "2018년 평창 동계 올림픽"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:55",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "2018년에 우리나라에서 열린 동계 국제 스포츠 행사는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0018",
+        "sourceBundleId": "q_0018",
+        "sourceRow": 55
+      },
+      "groupId": "legacy-80ac1d47884619:q_0018",
+      "answer": {
+        "text": "평창 동계 올림픽"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:56",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제가 빠르게 성장하는 과정에서는 여러 사회 문제가 발생할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 56
+      },
+      "groupId": "legacy-80ac1d47884619:q_0019",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:57",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "우리나라의 빠른 경제 성장에 대한 설명으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 57
+      },
+      "groupId": "legacy-80ac1d47884619:q_0019",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "성장 과정에서 여러 사회 문제가 발생했다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "좋은 일만 생겼다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동 문제가 완전히 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈부 격차가 항상 줄었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:58",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빠른 경제 성장 과정에서 여러 무엇이 발생했습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0019",
+        "sourceBundleId": "q_0019",
+        "sourceRow": 58
+      },
+      "groupId": "legacy-80ac1d47884619:q_0019",
+      "answer": {
+        "text": "문제"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:59",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빠른 경제 성장 과정에서 일부 노동자들은 열악한 환경에서 오랜 시간 낮은 임금을 받으며 일하였다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 59
+      },
+      "groupId": "legacy-80ac1d47884619:q_0020",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:60",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빠른 경제 성장 과정의 노동 문제로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 60
+      },
+      "groupId": "legacy-80ac1d47884619:q_0020",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오랜 시간 낮은 임금을 받으며 일했다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 근로자의 임금이 같았다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 근로 시간이 줄었다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동 갈등이 전혀 없었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:61",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일부 노동자들이 낮은 임금을 받으며 오랜 시간 일했던 열악한 무엇이 문제였습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0020",
+        "sourceBundleId": "q_0020",
+        "sourceRow": 61
+      },
+      "groupId": "legacy-80ac1d47884619:q_0020",
+      "answer": {
+        "text": "작업 환경"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:62",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열악한 노동 문제를 해결하고자 1980~1990년대에 전국적으로 노동 운동이 일어났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 62
+      },
+      "groupId": "legacy-80ac1d47884619:q_0021",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:63",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "열악한 노동 문제를 해결하고자 일어난 운동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 63
+      },
+      "groupId": "legacy-80ac1d47884619:q_0021",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동 운동"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리 운동"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화전 운동"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해양 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:64",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노동 문제를 해결하고자 일어난 운동을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0021",
+        "sourceBundleId": "q_0021",
+        "sourceRow": 64
+      },
+      "groupId": "legacy-80ac1d47884619:q_0021",
+      "answer": {
+        "text": "노동 운동"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:65",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1997년에 우리나라는 다른 나라에서 빌린 돈을 갚지 못하여 경제 위기를 겪었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 65
+      },
+      "groupId": "legacy-80ac1d47884619:q_0022",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:66",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1997년 우리나라가 겪은 일은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 66
+      },
+      "groupId": "legacy-80ac1d47884619:q_0022",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "경제 위기"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "올림픽 개최"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "산업 혁명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고산 기후"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:67",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1997년에 우리나라가 겪은 경제적 어려움을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0022",
+        "sourceBundleId": "q_0022",
+        "sourceRow": 67
+      },
+      "groupId": "legacy-80ac1d47884619:q_0022",
+      "answer": {
+        "text": "경제 위기"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:68",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1997년 경제 위기 때 많은 회사가 문을 닫고 사람들이 일자리를 잃었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 68
+      },
+      "groupId": "legacy-80ac1d47884619:q_0023",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:69",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "1997년 경제 위기의 결과로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 69
+      },
+      "groupId": "legacy-80ac1d47884619:q_0023",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "회사가 문을 닫고 사람들이 일자리를 잃었다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 사람의 소득이 같아졌다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈부 격차가 사라졌다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업 수가 무조건 늘었다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:70",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 위기 때 사람들이 잃은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0023",
+        "sourceBundleId": "q_0023",
+        "sourceRow": 70
+      },
+      "groupId": "legacy-80ac1d47884619:q_0023",
+      "answer": {
+        "text": "일자리"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:71",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차는 잘사는 사람과 그렇지 못한 사람의 경제적 차이를 뜻한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 71
+      },
+      "groupId": "legacy-80ac1d47884619:q_0024",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:72",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "잘사는 사람과 그렇지 못한 사람의 경제적 차이를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 72
+      },
+      "groupId": "legacy-80ac1d47884619:q_0024",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈부 격차"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국내 총생산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:73",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "사람들 사이의 경제적 차이를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0024",
+        "sourceBundleId": "q_0024",
+        "sourceRow": 73
+      },
+      "groupId": "legacy-80ac1d47884619:q_0024",
+      "answer": {
+        "text": "빈부 격차"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:74",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 갈등은 근로자와 기업 사이의 의견 차이로 발생하는 갈등이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 74
+      },
+      "groupId": "legacy-80ac1d47884619:q_0025",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:75",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 기업 사이의 의견 차이로 발생하는 갈등은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 75
+      },
+      "groupId": "legacy-80ac1d47884619:q_0025",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 갈등"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "빈부 격차"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과소비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:76",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 기업 사이의 의견 차이로 생기는 갈등을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0025",
+        "sourceBundleId": "q_0025",
+        "sourceRow": 76
+      },
+      "groupId": "legacy-80ac1d47884619:q_0025",
+      "answer": {
+        "text": "노사 갈등"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:77",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 분규는 근로자와 기업 사이의 갈등으로 정상적인 업무 활동이 중단되는 문제이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 77
+      },
+      "groupId": "legacy-80ac1d47884619:q_0026",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:78",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 갈등으로 정상적인 업무 활동이 중단되는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 78
+      },
+      "groupId": "legacy-80ac1d47884619:q_0026",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 분규"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "국민 총소득"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 표지"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:79",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 갈등으로 정상적인 업무 활동이 중단되는 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0026",
+        "sourceBundleId": "q_0026",
+        "sourceRow": 79
+      },
+      "groupId": "legacy-80ac1d47884619:q_0026",
+      "answer": {
+        "text": "노사 분규"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:80",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 기업이 근로자의 권리를 잘 보장하는지 점검하고 노사 갈등을 중재한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 80
+      },
+      "groupId": "legacy-80ac1d47884619:q_0027",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:81",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노동 문제를 해결하기 위한 정부의 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 81
+      },
+      "groupId": "legacy-80ac1d47884619:q_0027",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자 권리 보장 여부를 점검하고 갈등을 중재한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "임금을 모두 없앤다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 시간을 무제한으로 늘린다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 갈등을 방치한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:82",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 노사 갈등을 무엇하기도 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0027",
+        "sourceBundleId": "q_0027",
+        "sourceRow": 82
+      },
+      "groupId": "legacy-80ac1d47884619:q_0027",
+      "answer": {
+        "text": "중재"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:83",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 경영자는 서로 존중하며 대화와 타협으로 노사 갈등을 해결하려고 노력해야 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 83
+      },
+      "groupId": "legacy-80ac1d47884619:q_0028",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:84",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 갈등을 해결하기 위한 근로자와 경영자의 바람직한 태도는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 84
+      },
+      "groupId": "legacy-80ac1d47884619:q_0028",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "대화와 타협"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폭력과 강요"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "서로 무시하기"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "업무를 무조건 중단하기"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:85",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로자와 경영자는 대화와 무엇으로 갈등을 해결하려고 노력해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0028",
+        "sourceBundleId": "q_0028",
+        "sourceRow": 85
+      },
+      "groupId": "legacy-80ac1d47884619:q_0028",
+      "answer": {
+        "text": "타협"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:86",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민은 노동 문제에 관심을 가지고 근로자의 정당한 권리를 알리는 활동에 참여할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 86
+      },
+      "groupId": "legacy-80ac1d47884619:q_0029",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:87",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노동 문제 해결을 위한 시민의 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 87
+      },
+      "groupId": "legacy-80ac1d47884619:q_0029",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 정당한 권리를 알리는 활동에 참여한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동 문제를 무시한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로자의 권리를 줄인다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 갈등을 더 크게 만든다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:88",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민은 근로자의 정당한 무엇을 알리는 활동에 참여할 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0029",
+        "sourceBundleId": "q_0029",
+        "sourceRow": 88
+      },
+      "groupId": "legacy-80ac1d47884619:q_0029",
+      "answer": {
+        "text": "권리"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:89",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차가 커지면 교육 기회나 문화 경험의 불평등으로 이어질 가능성이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 89
+      },
+      "groupId": "legacy-80ac1d47884619:q_0030",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:90",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차가 심해질 때 나타날 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 90
+      },
+      "groupId": "legacy-80ac1d47884619:q_0030",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 기회와 문화 경험의 불평등"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명의 자동 증가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기의 완전한 감소"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 사람의 소득 동일화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:91",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차는 교육 기회나 무엇 경험의 불평등으로 이어질 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0030",
+        "sourceBundleId": "q_0030",
+        "sourceRow": 91
+      },
+      "groupId": "legacy-80ac1d47884619:q_0030",
+      "answer": {
+        "text": "문화"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:92",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 경제적으로 어려운 사람들을 위해 다양한 복지 정책과 제도를 마련하고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 92
+      },
+      "groupId": "legacy-80ac1d47884619:q_0031",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:93",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차를 줄이기 위한 정부의 노력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 93
+      },
+      "groupId": "legacy-80ac1d47884619:q_0031",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복지 정책과 제도를 마련한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저소득층 지원을 없앤다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세금을 모두 같게만 한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 기회를 줄인다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:94",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 어려운 사람들을 위해 다양한 무엇 정책을 마련합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0031",
+        "sourceBundleId": "q_0031",
+        "sourceRow": 94
+      },
+      "groupId": "legacy-80ac1d47884619:q_0031",
+      "answer": {
+        "text": "복지"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:95",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국회는 저소득층의 세금 부담을 줄이거나 복지 관련 법률을 제정해 불평등을 개선하려고 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 95
+      },
+      "groupId": "legacy-80ac1d47884619:q_0032",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:96",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차 해결을 위한 국회의 노력으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 96
+      },
+      "groupId": "legacy-80ac1d47884619:q_0032",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복지 관련 법률을 제정한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노사 분규를 일으킨다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과소비를 장려한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기업의 과대 포장을 늘린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:97",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "국회는 불평등을 개선하기 위해 복지 관련 무엇을 제정합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0032",
+        "sourceBundleId": "q_0032",
+        "sourceRow": 97
+      },
+      "groupId": "legacy-80ac1d47884619:q_0032",
+      "answer": {
+        "text": "법률"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:98",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민은 봉사 활동이나 기부를 통해 저소득층을 돕고 나눔을 실천할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 98
+      },
+      "groupId": "legacy-80ac1d47884619:q_0033",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:99",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빈부 격차 문제 해결을 위한 시민의 활동으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 99
+      },
+      "groupId": "legacy-80ac1d47884619:q_0033",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉사 활동과 기부"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과소비"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자원 낭비"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질 배출"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:100",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민이 저소득층을 돕기 위해 할 수 있는 나눔 활동의 예를 하나 쓰세요."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0033",
+        "sourceBundleId": "q_0033",
+        "sourceRow": 100
+      },
+      "groupId": "legacy-80ac1d47884619:q_0033",
+      "answer": {
+        "text": "기부"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:101",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 과정에서 필요한 것 이상으로 소비하고 자원을 낭비하는 문제가 나타났다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 101
+      },
+      "groupId": "legacy-80ac1d47884619:q_0034",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:102",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 과정에서 나타난 소비 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 102
+      },
+      "groupId": "legacy-80ac1d47884619:q_0034",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과소비와 자원 낭비"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 기회 확대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 관람 증가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:103",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "필요한 것 이상으로 소비하는 것을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0034",
+        "sourceBundleId": "q_0034",
+        "sourceRow": 103
+      },
+      "groupId": "legacy-80ac1d47884619:q_0034",
+      "answer": {
+        "text": "과소비"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:104",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "과소비와 자원 낭비로 쓰레기가 늘면서 환경 오염이 심해질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 104
+      },
+      "groupId": "legacy-80ac1d47884619:q_0035",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:105",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "쓰레기 배출이 늘면서 심해질 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 105
+      },
+      "groupId": "legacy-80ac1d47884619:q_0035",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 오염"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교육 확대"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기대 수명 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 교류"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:106",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "쓰레기가 늘면서 무엇 오염이 심해질 수 있습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0035",
+        "sourceBundleId": "q_0035",
+        "sourceRow": 106
+      },
+      "groupId": "legacy-80ac1d47884619:q_0035",
+      "answer": {
+        "text": "환경"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:107",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원을 낭비하면 에너지 자원이 부족해질 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 107
+      },
+      "groupId": "legacy-80ac1d47884619:q_0036",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:108",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비로 나타날 수 있는 문제는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 108
+      },
+      "groupId": "legacy-80ac1d47884619:q_0036",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지 자원 부족"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "해외여행 증가"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률 증가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문화 예술 관람 증가"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:109",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비로 부족해질 수 있는 것은 무엇 자원입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0036",
+        "sourceBundleId": "q_0036",
+        "sourceRow": 109
+      },
+      "groupId": "legacy-80ac1d47884619:q_0036",
+      "answer": {
+        "text": "에너지"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:110",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "패스트 패션은 최신 유행을 빠르게 반영해 옷을 대량 생산하고 소비하게 하는 패션이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 110
+      },
+      "groupId": "legacy-80ac1d47884619:q_0037",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:111",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유행을 빠르게 반영해 옷을 사고 쉽게 버리는 소비와 관련된 말은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 111
+      },
+      "groupId": "legacy-80ac1d47884619:q_0037",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "패스트 패션"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "케이팝"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "타이가"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사파리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:112",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "최신 유행이 빠르게 반영되는 패션을 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0037",
+        "sourceBundleId": "q_0037",
+        "sourceRow": 112
+      },
+      "groupId": "legacy-80ac1d47884619:q_0037",
+      "answer": {
+        "text": "패스트 패션"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:113",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 자원 낭비를 줄이기 위해 여러 법과 제도를 시행한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 113
+      },
+      "groupId": "legacy-80ac1d47884619:q_0038",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:114",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비 문제를 해결하기 위한 정부의 노력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 114
+      },
+      "groupId": "legacy-80ac1d47884619:q_0038",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "법과 제도를 시행한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과소비를 장려한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용을 금지한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "쓰레기 배출을 늘린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:115",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 자원 낭비를 줄이기 위해 법과 무엇을 시행합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0038",
+        "sourceBundleId": "q_0038",
+        "sourceRow": 115
+      },
+      "groupId": "legacy-80ac1d47884619:q_0038",
+      "answer": {
+        "text": "제도"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:116",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 친환경 상품을 생산하고 과대 포장을 줄이는 등 자원 절약에 힘쓴다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 116
+      },
+      "groupId": "legacy-80ac1d47884619:q_0039",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:117",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비를 줄이기 위한 기업의 노력은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 117
+      },
+      "groupId": "legacy-80ac1d47884619:q_0039",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친환경 상품을 생산하고 과대 포장을 줄인다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "포장을 더 크게 한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용을 막는다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "오염 물질을 더 배출한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:118",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "기업은 친환경 상품을 생산하고 무엇 포장을 줄이려고 노력합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0039",
+        "sourceBundleId": "q_0039",
+        "sourceRow": 118
+      },
+      "groupId": "legacy-80ac1d47884619:q_0039",
+      "answer": {
+        "text": "과대"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:119",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민은 필요한 만큼만 소비하고 자원을 절약하는 생활 습관을 실천할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 119
+      },
+      "groupId": "legacy-80ac1d47884619:q_0040",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:120",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비를 줄이기 위한 시민의 행동은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 120
+      },
+      "groupId": "legacy-80ac1d47884619:q_0040",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "필요한 만큼만 소비한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유행이 바뀔 때마다 모두 버린다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품만 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "과대 포장을 요구한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:121",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "시민은 필요한 만큼만 무엇해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0040",
+        "sourceBundleId": "q_0040",
+        "sourceRow": 121
+      },
+      "groupId": "legacy-80ac1d47884619:q_0040",
+      "answer": {
+        "text": "소비"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:122",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "정부는 친환경 상품을 쉽게 알아볼 수 있도록 공식 표시를 상품에 붙이는 제도를 실시한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 122
+      },
+      "groupId": "legacy-80ac1d47884619:q_0041",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:123",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친환경 상품 표시 제도의 목적으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 123
+      },
+      "groupId": "legacy-80ac1d47884619:q_0041",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자가 친환경 상품을 쉽게 알아보고 구매하도록 돕는다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친환경 상품을 숨긴다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용을 금지한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지 사용을 늘린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:124",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친환경 상품 표시 제도는 소비자가 친환경 상품을 쉽게 무엇하도록 돕습니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0041",
+        "sourceBundleId": "q_0041",
+        "sourceRow": 124
+      },
+      "groupId": "legacy-80ac1d47884619:q_0041",
+      "answer": {
+        "text": "알아보고 구매하도록"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:125",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "환경 표지는 물건을 만들고 사용하고 버리는 모든 과정에서 오염 물질을 덜 배출하는 상품에 붙이는 표시이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 125
+      },
+      "groupId": "legacy-80ac1d47884619:q_0042",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:126",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오염 물질을 덜 배출하는 상품에 붙이는 표시는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 126
+      },
+      "groupId": "legacy-80ac1d47884619:q_0042",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 표지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GR 마크"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지 절약 마크"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "취학률"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:127",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오염 물질을 덜 배출하는 상품에 붙이는 표시는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0042",
+        "sourceBundleId": "q_0042",
+        "sourceRow": 127
+      },
+      "groupId": "legacy-80ac1d47884619:q_0042",
+      "answer": {
+        "text": "환경 표지"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:128",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "GR 마크는 자원을 재활용하여 만든 물건 중 품질이 우수한 상품에 붙이는 표시이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 128
+      },
+      "groupId": "legacy-80ac1d47884619:q_0043",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:129",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "재활용한 자원으로 만든 우수한 품질의 상품에 붙이는 표시는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 129
+      },
+      "groupId": "legacy-80ac1d47884619:q_0043",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GR 마크"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 표지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지 절약 마크"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "케이팝"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:130",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "재활용 자원으로 만든 우수한 상품에 붙이는 표시는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0043",
+        "sourceBundleId": "q_0043",
+        "sourceRow": 130
+      },
+      "groupId": "legacy-80ac1d47884619:q_0043",
+      "answer": {
+        "text": "GR 마크"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:131",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에너지 절약 효과가 높은 상품에는 에너지 절약 마크가 붙는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 131
+      },
+      "groupId": "legacy-80ac1d47884619:q_0044",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:132",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에너지 절약 효과가 높은 상품에 붙이는 표시는 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 132
+      },
+      "groupId": "legacy-80ac1d47884619:q_0044",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "에너지 절약 마크"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "환경 표지"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "GR 마크"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노동 운동"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:133",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "에너지 절약 효과가 높은 상품에 붙이는 표시를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0044",
+        "sourceBundleId": "q_0044",
+        "sourceRow": 133
+      },
+      "groupId": "legacy-80ac1d47884619:q_0044",
+      "answer": {
+        "text": "에너지 절약 마크"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:134",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "빠른 경제 성장으로 생긴 문제는 정부, 기업, 시민 단체, 개인 등 여러 주체가 함께 노력할수록 해결에 도움이 된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 134
+      },
+      "groupId": "legacy-80ac1d47884619:q_0045",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:135",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 과정에서 생긴 문제를 해결하는 바람직한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 135
+      },
+      "groupId": "legacy-80ac1d47884619:q_0045",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "여러 주체가 함께 노력한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람에게만 맡긴다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "문제를 무시한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정부만 노력한다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:136",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문제를 더 쉽게 해결하려면 여러 무엇이 함께 노력해야 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0045",
+        "sourceBundleId": "q_0045",
+        "sourceRow": 136
+      },
+      "groupId": "legacy-80ac1d47884619:q_0045",
+      "answer": {
+        "text": "주체"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:137",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비를 줄이기 위해 일회용품 대신 텀블러와 같은 다회용기를 사용할 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 137
+      },
+      "groupId": "legacy-80ac1d47884619:q_0046",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:138",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "자원 낭비를 줄이는 개인의 실천으로 알맞은 것은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 138
+      },
+      "groupId": "legacy-80ac1d47884619:q_0046",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "텀블러 같은 다회용기를 사용한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "일회용품 사용을 늘린다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "모든 물건을 한 번만 쓴다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "재활용품을 버린다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:139",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "일회용품 대신 반복해서 사용할 수 있는 용기를 무엇이라고 합니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0046",
+        "sourceBundleId": "q_0046",
+        "sourceRow": 139
+      },
+      "groupId": "legacy-80ac1d47884619:q_0046",
+      "answer": {
+        "text": "다회용기"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:140",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "경제 성장 문제의 해결 방안을 제안할 때 객관적인 자료와 근거를 활용하는 것이 중요하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 140
+      },
+      "groupId": "legacy-80ac1d47884619:q_0047",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:141",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "문제 해결 방안을 제안할 때 바람직한 방법은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 141
+      },
+      "groupId": "legacy-80ac1d47884619:q_0047",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "객관적 자료와 근거를 활용한다"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근거 없이 주장한다"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "다른 의견을 무시한다"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자료를 확인하지 않는다"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:142",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "합리적인 해결 방안을 제안할 때 필요한 자료는 어떤 자료입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0047",
+        "sourceBundleId": "q_0047",
+        "sourceRow": 142
+      },
+      "groupId": "legacy-80ac1d47884619:q_0047",
+      "answer": {
+        "text": "객관적 자료"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:143",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근로 감독관은 근무 현장에서 노동법이 잘 지켜지는지 점검하고 감독한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 143
+      },
+      "groupId": "legacy-80ac1d47884619:q_0048",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:144",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "근무 현장에서 노동법 준수 여부를 점검하고 감독하는 직업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 144
+      },
+      "groupId": "legacy-80ac1d47884619:q_0048",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 감독관"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노무사"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광 안내원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "셰르파"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:145",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노동법이 잘 지켜지는지 점검하고 감독하는 직업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0048",
+        "sourceBundleId": "q_0048",
+        "sourceRow": 145
+      },
+      "groupId": "legacy-80ac1d47884619:q_0048",
+      "answer": {
+        "text": "근로 감독관"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:146",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노무사는 노동 분야의 전문 지식을 바탕으로 노사 갈등 해결을 돕고 노동 문제 상담과 교육 등을 한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 146
+      },
+      "groupId": "legacy-80ac1d47884619:q_0049",
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:147",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노동 문제 상담과 노사 갈등 중재 등을 하는 직업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 147
+      },
+      "groupId": "legacy-80ac1d47884619:q_0049",
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "노무사"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "근로 감독관"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "관광 안내원"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "소비자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-80ac1d47884619:148",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "노사 갈등에 합리적인 해결 방안을 제시하거나 중재하는 직업은 무엇입니까?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-80ac1d47884619:q_0049",
+        "sourceBundleId": "q_0049",
+        "sourceRow": 148
+      },
+      "groupId": "legacy-80ac1d47884619:q_0049",
+      "answer": {
+        "text": "노무사"
+      }
+    }
+  ]
+}

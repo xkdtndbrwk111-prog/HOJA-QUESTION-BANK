@@ -1,0 +1,23 @@
+{
+  "questionCount": 10,
+  "types": {
+    "MCQ": 8,
+    "OX": 1,
+    "SHORT": 1
+  },
+  "soloUnits": 9,
+  "teamUnits": 10,
+  "issues": [],
+  "minimum25": false,
+  "assets": [
+    "assets/brush.webp",
+    "assets/clinic.webp",
+    "assets/exercise.webp",
+    "assets/library.webp",
+    "assets/vegetables.webp",
+    "assets/wash.webp",
+    "assets/water.webp"
+  ],
+  "structuralGate": false,
+  "publication": "NOT_APPROVED"
+}

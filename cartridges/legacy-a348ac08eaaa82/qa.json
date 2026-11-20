@@ -1,0 +1,20 @@
+{
+  "questionCount": 36,
+  "types": {
+    "MCQ": 25,
+    "SHORT": 3,
+    "OX": 8
+  },
+  "soloUnits": 32,
+  "teamUnits": 32,
+  "issues": [
+    {
+      "questionId": "legacy-a348ac08eaaa82:15",
+      "code": "duplicate_choice"
+    }
+  ],
+  "minimum25": true,
+  "assets": [],
+  "structuralGate": false,
+  "publication": "NOT_APPROVED"
+}

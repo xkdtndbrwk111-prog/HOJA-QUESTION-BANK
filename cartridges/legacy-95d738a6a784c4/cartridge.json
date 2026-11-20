@@ -1,0 +1,1725 @@
+{
+  "schemaVersion": "qb1-draft.1",
+  "cartridgeId": "legacy-95d738a6a784c4",
+  "revision": 1,
+  "title": "통신수단의 변화로 달라진 생활 모습",
+  "metadata": {
+    "grade": 3,
+    "subject": "사회",
+    "status": "legacy",
+    "sourceSheet": "3학년-사회-통신수단의 변화로 달라진 생활 모습"
+  },
+  "reviewStatus": "pending",
+  "questions": [
+    {
+      "questionId": "legacy-95d738a6a784c4:2",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 사람들은 나라에 위급한 상황이 생기면 신호 연, 깃발, 북, 나발, 파발, 봉수 등을 이용해 정보를 주고받았다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-2",
+        "sourceBundleId": null,
+        "sourceRow": 2
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:3",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "서로 떨어진 사람끼리 소식이나 정보를 주고받는 데 이용하는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-3",
+        "sourceBundleId": null,
+        "sourceRow": 3
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "통신수단"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통수단"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세시 풍속"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교통로"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:4",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "암호를 적어 띄워 작전의 시작이나 변화를 알렸던 연을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-4",
+        "sourceBundleId": null,
+        "sourceRow": 4
+      },
+      "answer": {
+        "text": "신호 연"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:5",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 군대에서 부하에게 명령하거나 신호하는 데 사용한 악기는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-5",
+        "sourceBundleId": null,
+        "sourceRow": 5
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "등대"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "복조리"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:6",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "신호 연은 암호를 적은 연을 띄워 작전이 시작되거나 바뀐 것을 알리는 데 이용했다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-6",
+        "sourceBundleId": null,
+        "sourceRow": 6
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:7",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날에 깃발로 명령이나 소식을 전하던 통신수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-7",
+        "sourceBundleId": null,
+        "sourceRow": 7
+      },
+      "answer": {
+        "text": "신호 깃발"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:8",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "깃발을 이용해 명령이나 소식을 전하던 옛날 통신수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-8",
+        "sourceBundleId": null,
+        "sourceRow": 8
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파발"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신호 깃발"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:9",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "봉수는 낮에는 불, 밤에는 연기를 이용해 위급한 상황을 알렸다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-9",
+        "sourceBundleId": null,
+        "sourceRow": 9
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:10",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "북을 쳐 큰 소리를 내어 소식이나 작전을 알린 통신수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-10",
+        "sourceBundleId": null,
+        "sourceRow": 10
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "신호 연"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴대 전화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전자 우편"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "북"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:11",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "낮에는 연기, 밤에는 불로 위급한 상황을 알리던 통신수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-11",
+        "sourceBundleId": null,
+        "sourceRow": 11
+      },
+      "answer": {
+        "text": "봉수"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:12",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "파발은 나라의 중요한 소식을 적은 문서를 말을 타거나 걸어서 전달하는 통신수단이었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-12",
+        "sourceBundleId": null,
+        "sourceRow": 12
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:13",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "낮에는 연기, 밤에는 불을 피워 위급한 상황을 알린 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-13",
+        "sourceBundleId": null,
+        "sourceRow": 13
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나발"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "유선 전화"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:14",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "나라의 중요한 문서를 말을 타거나 걸어서 전하던 통신수단은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-14",
+        "sourceBundleId": null,
+        "sourceRow": 14
+      },
+      "answer": {
+        "text": "파발"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:15",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 중요한 문서를 말을 타거나 걸어가서 전달한 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-15",
+        "sourceBundleId": null,
+        "sourceRow": 15
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "기지국"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방송"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:16",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "옛날 통신수단은 오늘날처럼 한 번에 많은 정보를 빠르고 정확하게 전달하기 쉬웠다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-16",
+        "sourceBundleId": null,
+        "sourceRow": 16
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:17",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전화를 거는 사람과 받는 사람을 연결해 주던 직업은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-17",
+        "sourceBundleId": null,
+        "sourceRow": 17
+      },
+      "answer": {
+        "text": "교환원"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:18",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 통신수단으로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-18",
+        "sourceBundleId": null,
+        "sourceRow": 18
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴대 전화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "컴퓨터"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "텔레비전"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:19",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 사람들은 휴대 전화, 컴퓨터, 텔레비전 등 다양한 통신수단을 이용한다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-19",
+        "sourceBundleId": null,
+        "sourceRow": 19
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:20",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 통신수단의 특징으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-20",
+        "sourceBundleId": null,
+        "sourceRow": 20
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "정보를 한 사람에게만 보낼 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨가 좋을 때만 사용할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사진과 동영상은 보낼 수 없다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "많은 정보를 자세하고 빠르게 전달할 수 있다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:21",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "휴대 전화나 컴퓨터의 통신을 원활하게 해 주는 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-21",
+        "sourceBundleId": null,
+        "sourceRow": 21
+      },
+      "answer": {
+        "text": "기지국"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:22",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날에는 글, 사진, 동영상 등 다양한 정보를 한 번에 주고받을 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-22",
+        "sourceBundleId": null,
+        "sourceRow": 22
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:23",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "전자 우편의 장점으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-23",
+        "sourceBundleId": null,
+        "sourceRow": 23
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "자료를 한꺼번에 보낼 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "종이 문서만 보낼 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 사람과만 대화할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "날씨가 흐리면 사용할 수 없다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:24",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "폐회로 텔레비전과 인터넷을 활용해 사람들의 안전을 지키는 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-24",
+        "sourceBundleId": null,
+        "sourceRow": 24
+      },
+      "answer": {
+        "text": "스마트 시티 상황실"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:25",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "모바일 메신저를 이용해 할 수 있는 일은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-25",
+        "sourceBundleId": null,
+        "sourceRow": 25
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마를 운전한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "친구들과 실시간으로 대화한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수를 올린다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "철도를 놓는다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:26",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "오늘날 통신수단으로 여러 사람과 동시에 연락하거나 정보를 주고받을 수 없다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-26",
+        "sourceBundleId": null,
+        "sourceRow": 26
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:27",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "친구들과 여러 명이 동시에 글을 주고받는 통신 방법으로 교과서에 제시된 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-27",
+        "sourceBundleId": null,
+        "sourceRow": 27
+      },
+      "answer": {
+        "text": "단체 대화방"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:28",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단의 변화로 할 수 있게 된 일로 알맞지 않은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-28",
+        "sourceBundleId": null,
+        "sourceRow": 28
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "집에서 온라인 쇼핑을 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "은행 거래를 한다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "멀리 있는 사람과 연락할 수 없게 된다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화상 회의를 한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:29",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "휴대 전화와 인터넷의 발달로 언제 어디서나 정보를 쉽고 빠르게 주고받을 수 있게 되었다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-29",
+        "sourceBundleId": null,
+        "sourceRow": 29
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:30",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단의 발달로 새로 생긴 직업이나 시설과 관련 있는 것으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-30",
+        "sourceBundleId": null,
+        "sourceRow": 30
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마꾼"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "뱃사공"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "파발꾼만"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "휴대 전화 기지국 설치 기술자"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:31",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인터넷으로 집에서 물건을 사는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-31",
+        "sourceBundleId": null,
+        "sourceRow": 31
+      },
+      "answer": {
+        "text": "온라인 쇼핑"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:32",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단의 발달로 병원에 직접 가지 않고 진료를 받는 일은 불가능하다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-32",
+        "sourceBundleId": null,
+        "sourceRow": 32
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:33",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "여러 영상을 촬영해 텔레비전 방송 시간에 맞춰 내보내는 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-33",
+        "sourceBundleId": null,
+        "sourceRow": 33
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "방송국"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "버스 터미널"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "항구"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "요양 시설"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:34",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인터넷을 이용해 돈을 보내거나 받는 일을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-34",
+        "sourceBundleId": null,
+        "sourceRow": 34
+      },
+      "answer": {
+        "text": "은행 거래"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:35",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "인공위성을 만들어 다양한 정보를 수집하는 곳으로 교과서에 제시된 시설은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-35",
+        "sourceBundleId": null,
+        "sourceRow": 35
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주유소"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "우주 센터"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "교환소"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "나루터"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:36",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "무선 호출기는 휴대 전화가 발달하면서 이용하는 사람이 줄어 점차 사라지고 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-36",
+        "sourceBundleId": null,
+        "sourceRow": 36
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:37",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "먼 곳에 있는 사람과 화면으로 얼굴을 보며 함께 회의하는 것을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-37",
+        "sourceBundleId": null,
+        "sourceRow": 37
+      },
+      "answer": {
+        "text": "화상 회의"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:38",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스마트 시티 상황실에서 활용하는 기술로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-38",
+        "sourceBundleId": null,
+        "sourceRow": 38
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "가마와 달구지"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "봉수와 파발"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "폐회로 텔레비전과 인터넷"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "두레와 품앗이"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:39",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신 기술이 발달하면서 전화를 연결해 주던 교환원은 점차 사라졌다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-39",
+        "sourceBundleId": null,
+        "sourceRow": 39
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:40",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "초기의 전화기에 대한 설명으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-40",
+        "sourceBundleId": null,
+        "sourceRow": 40
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "주머니에 넣고 다녔다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "인터넷으로 영상 통화를 했다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "화면으로 문자를 주고받았다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "전화를 연결해 주는 교환원이 필요했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:41",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스마트폰과 키오스크 사용법을 배우는 곳으로 교과서에 소개된 곳은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-41",
+        "sourceBundleId": null,
+        "sourceRow": 41
+      },
+      "answer": {
+        "text": "디지털 배움터"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:42",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "디지털 배움터에서는 스마트폰이나 키오스크 이용 방법을 배우는 데 도움을 받을 수 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-42",
+        "sourceBundleId": null,
+        "sourceRow": 42
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:43",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "유선 전화의 특징으로 가장 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-43",
+        "sourceBundleId": null,
+        "sourceRow": 43
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "선을 연결해 정해진 장소에서 주로 사용했다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "하늘에 연을 띄웠다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "말을 타고 문서를 전했다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "등대의 빛을 이용했다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c1"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:44",
+      "type": "SHORT",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단을 사용할 때 지켜야 하는 바른 행동과 규칙을 무엇이라고 하나요?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-44",
+        "sourceBundleId": null,
+        "sourceRow": 44
+      },
+      "answer": {
+        "text": "통신 예절"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:45",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "휴대 전화의 특징으로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-45",
+        "sourceBundleId": null,
+        "sourceRow": 45
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "반드시 교환원이 연결해야 한다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "이동하면서도 연락할 수 있다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "한 장소에 고정되어 있다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "연기와 불로만 소식을 전한다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c2"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:46",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스마트폰을 지나치게 사용해도 몸과 마음의 건강에는 아무 영향을 주지 않는다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-46",
+        "sourceBundleId": null,
+        "sourceRow": 46
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:47",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "스마트폰을 지나치게 이용해 문제가 되는 상태는?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-47",
+        "sourceBundleId": null,
+        "sourceRow": 47
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "세계화"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "고령화"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "스마트폰 과의존"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "저출산"
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c3"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:48",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단을 이용할 때는 공공장소와 인터넷에서 지켜야 할 예절이 있다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-48",
+        "sourceBundleId": null,
+        "sourceRow": 48
+      },
+      "answer": {
+        "value": true
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:49",
+      "type": "MCQ",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단을 올바르게 이용하는 태도로 알맞은 것은?"
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-49",
+        "sourceBundleId": null,
+        "sourceRow": 49
+      },
+      "choices": [
+        {
+          "id": "c1",
+          "content": [
+            {
+              "kind": "text",
+              "text": "걸으면서 화면만 본다."
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "content": [
+            {
+              "kind": "text",
+              "text": "사용 규칙을 지키지 않는다."
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "content": [
+            {
+              "kind": "text",
+              "text": "필요하지 않아도 계속 사용한다."
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "content": [
+            {
+              "kind": "text",
+              "text": "때와 장소에 맞게 사용하고 통신 예절을 지킨다."
+            }
+          ]
+        }
+      ],
+      "answer": {
+        "choiceId": "c4"
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:50",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "걸어 다니면서 계속 휴대 전화를 보는 것은 안전한 사용 방법이다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-50",
+        "sourceBundleId": null,
+        "sourceRow": 50
+      },
+      "answer": {
+        "value": false
+      }
+    },
+    {
+      "questionId": "legacy-95d738a6a784c4:51",
+      "type": "OX",
+      "content": [
+        {
+          "kind": "text",
+          "text": "통신수단을 올바르게 이용하려면 꼭 필요한 시간에 사용하고 사용 규칙을 지키는 것이 도움이 된다."
+        }
+      ],
+      "provenance": {
+        "inputFormat": "skill-v1",
+        "originalGroupId": "legacy-95d738a6a784c4:row-51",
+        "sourceBundleId": null,
+        "sourceRow": 51
+      },
+      "answer": {
+        "value": true
+      }
+    }
+  ]
+}
