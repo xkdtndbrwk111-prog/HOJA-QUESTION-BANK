@@ -1,0 +1,383 @@
+{
+  "status": "REVIEW_ONLY",
+  "entries": [
+    {
+      "id": "legacy-4a04319a064c80",
+      "title": "6-영어-천재(함)-7단원 Can You Come to the Movie Festival",
+      "oldCount": 39,
+      "liveCount": 39,
+      "matchedByRow": 38,
+      "sourceGroupsEqualByRow": true,
+      "diffs": [
+        {
+          "row": 19,
+          "questionId": "legacy-4a04319a064c80:19",
+          "fields": {
+            "options": {
+              "old": [
+                "46294",
+                "46285",
+                "46316",
+                "46324"
+              ],
+              "live": [
+                "9월 29일",
+                "9월 20일",
+                "10월 21일",
+                "10월 29일"
+              ]
+            }
+          }
+        }
+      ],
+      "missing": [],
+      "extra": []
+    },
+    {
+      "id": "legacy-91c988cb269ed7",
+      "title": "5-영어-비상-8단원 What Time Do You Get Up",
+      "oldCount": 35,
+      "liveCount": 35,
+      "matchedByRow": 31,
+      "sourceGroupsEqualByRow": true,
+      "diffs": [
+        {
+          "row": 15,
+          "questionId": "legacy-91c988cb269ed7:15",
+          "fields": {
+            "options": {
+              "old": [
+                "07:30",
+                "07:00",
+                "08:30",
+                "05:00"
+              ],
+              "live": [
+                "7:30",
+                "7:00",
+                "8:30",
+                "5:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 23,
+          "questionId": "legacy-91c988cb269ed7:23",
+          "fields": {
+            "options": {
+              "old": [
+                "04:30",
+                "05:00",
+                "02:00",
+                "07:00"
+              ],
+              "live": [
+                "4:30",
+                "5:00",
+                "2:00",
+                "7:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 24,
+          "questionId": "legacy-91c988cb269ed7:24",
+          "fields": {
+            "options": {
+              "old": [
+                "5 in the morning",
+                "04:30",
+                "2 in the afternoon",
+                "7 in the morning"
+              ],
+              "live": [
+                "5 in the morning",
+                "4:30",
+                "2 in the afternoon",
+                "7 in the morning"
+              ]
+            }
+          }
+        },
+        {
+          "row": 26,
+          "questionId": "legacy-91c988cb269ed7:26",
+          "fields": {
+            "options": {
+              "old": [
+                "2 in the afternoon",
+                "5 in the morning",
+                "04:30",
+                "12:30"
+              ],
+              "live": [
+                "2 in the afternoon",
+                "5 in the morning",
+                "4:30",
+                "12:30"
+              ]
+            }
+          }
+        }
+      ],
+      "missing": [],
+      "extra": []
+    },
+    {
+      "id": "legacy-b0c419ba243afa",
+      "title": "5-영어-천재(함)-10단원 What Time Do You Get Up",
+      "oldCount": 33,
+      "liveCount": 33,
+      "matchedByRow": 22,
+      "sourceGroupsEqualByRow": true,
+      "diffs": [
+        {
+          "row": 18,
+          "questionId": "legacy-b0c419ba243afa:18",
+          "fields": {
+            "options": {
+              "old": [
+                "08:20",
+                "07:00",
+                "05:00",
+                "10:00"
+              ],
+              "live": [
+                "8:20",
+                "7:00",
+                "5:00",
+                "10:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 20,
+          "questionId": "legacy-b0c419ba243afa:20",
+          "fields": {
+            "options": {
+              "old": [
+                "05:00",
+                "10:00",
+                "08:20",
+                "07:00"
+              ],
+              "live": [
+                "5:00",
+                "10:00",
+                "8:20",
+                "7:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 23,
+          "questionId": "legacy-b0c419ba243afa:23",
+          "fields": {
+            "options": {
+              "old": [
+                "5 in the afternoon",
+                "7 in the morning",
+                "6 in the evening",
+                "08:30"
+              ],
+              "live": [
+                "5 in the afternoon",
+                "7 in the morning",
+                "6 in the evening",
+                "8:30"
+              ]
+            }
+          }
+        },
+        {
+          "row": 24,
+          "questionId": "legacy-b0c419ba243afa:24",
+          "fields": {
+            "options": {
+              "old": [
+                "6 in the evening",
+                "5 in the afternoon",
+                "7 in the morning",
+                "08:30"
+              ],
+              "live": [
+                "6 in the evening",
+                "5 in the afternoon",
+                "7 in the morning",
+                "8:30"
+              ]
+            }
+          }
+        },
+        {
+          "row": 25,
+          "questionId": "legacy-b0c419ba243afa:25",
+          "fields": {
+            "options": {
+              "old": [
+                "08:30",
+                "06:00",
+                "05:00",
+                "07:00"
+              ],
+              "live": [
+                "8:30",
+                "6:00",
+                "5:00",
+                "7:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 27,
+          "questionId": "legacy-b0c419ba243afa:27",
+          "fields": {
+            "options": {
+              "old": [
+                "07:30",
+                "07:00",
+                "08:10",
+                "09:00"
+              ],
+              "live": [
+                "7:30",
+                "7:00",
+                "8:10",
+                "9:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 28,
+          "questionId": "legacy-b0c419ba243afa:28",
+          "fields": {
+            "options": {
+              "old": [
+                "08:10",
+                "09:00",
+                "07:30",
+                "07:00"
+              ],
+              "live": [
+                "8:10",
+                "9:00",
+                "7:30",
+                "7:00"
+              ]
+            }
+          }
+        },
+        {
+          "row": 29,
+          "questionId": "legacy-b0c419ba243afa:29",
+          "fields": {
+            "options": {
+              "old": [
+                "08:30",
+                "07:30",
+                "12:00",
+                "04:20"
+              ],
+              "live": [
+                "8:30",
+                "7:30",
+                "12:00",
+                "4:20"
+              ]
+            }
+          }
+        },
+        {
+          "row": 31,
+          "questionId": "legacy-b0c419ba243afa:31",
+          "fields": {
+            "options": {
+              "old": [
+                "04:20",
+                "12:00",
+                "05:00",
+                "08:30"
+              ],
+              "live": [
+                "4:20",
+                "12:00",
+                "5:00",
+                "8:30"
+              ]
+            }
+          }
+        },
+        {
+          "row": 32,
+          "questionId": "legacy-b0c419ba243afa:32",
+          "fields": {
+            "options": {
+              "old": [
+                "05:00",
+                "04:20",
+                "07:30",
+                "08:30"
+              ],
+              "live": [
+                "5:00",
+                "4:20",
+                "7:30",
+                "8:30"
+              ]
+            }
+          }
+        },
+        {
+          "row": 33,
+          "questionId": "legacy-b0c419ba243afa:33",
+          "fields": {
+            "options": {
+              "old": [
+                "03:00",
+                "09:00",
+                "01:00",
+                "10:00"
+              ],
+              "live": [
+                "3:00",
+                "9:00",
+                "1:00",
+                "10:00"
+              ]
+            }
+          }
+        }
+      ],
+      "missing": [],
+      "extra": []
+    },
+    {
+      "id": "legacy-3e5b32190d12cd",
+      "title": "5-영어-YBM(김)-7단원-I Went on a Trip",
+      "oldCount": 42,
+      "liveCount": 42,
+      "matchedByRow": 42,
+      "sourceGroupsEqualByRow": true,
+      "diffs": [],
+      "missing": [],
+      "extra": []
+    },
+    {
+      "id": "legacy-52700fc5c42dd6",
+      "title": "5-영어-YBM(김)-8단원-What Does He Look Like",
+      "oldCount": 40,
+      "liveCount": 40,
+      "matchedByRow": 40,
+      "sourceGroupsEqualByRow": true,
+      "diffs": [],
+      "missing": [],
+      "extra": []
+    }
+  ]
+}
