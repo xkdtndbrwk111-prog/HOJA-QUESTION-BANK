@@ -1,0 +1,560 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>HOJA 문제 검토 렌더러 · v0.1.0-preview.1 · 샘플 5문항</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,'Noto Sans KR','Apple SD Gothic Neo',sans-serif;background:#08121c;color:#e8f5fa}
+*{box-sizing:border-box}body{margin:0;min-height:100vh}
+button,select,input{font:inherit}button,select{cursor:pointer}
+button:focus-visible,select:focus-visible{outline:3px solid #f7cc72;outline-offset:2px}
+button{background:#253c51;color:#e8f5fa;border:1px solid #415b70;border-radius:8px;padding:8px 12px}
+button:hover{background:#344f66}button.primary{background:#1e7475;border-color:#42a9a3}
+.layout{display:grid;grid-template-columns:315px minmax(0,1fr);min-height:100vh}
+aside{background:#101e2b;border-right:1px solid #2b4153;padding:20px 16px;overflow:auto;max-height:100vh}
+aside h1{font-size:21px;letter-spacing:-.025em;line-height:1.25;margin:0 0 6px}
+aside .sub{font-size:12px;color:#9cb4c7;line-height:1.6;margin-bottom:17px}
+.setting{margin-top:14px}.setting label{font-size:12px;font-weight:800;color:#b4c7d7;display:block;margin-bottom:7px}
+select,input[type="range"]{width:100%;background:#1c3042;color:#f6f1df;border:1px solid #3b5468;padding:9px 10px;border-radius:8px}
+.choice-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px}.choice-grid button{padding:8px 1px;min-width:0}.choice-grid button.on,.seg button.on{background:#295c69;border-color:#80d6c6;color:#fff}
+.seg{display:flex;gap:5px}.seg button{flex:1;min-width:0;padding:8px 5px}
+.help{border:1px solid #34495a;background:#162736;border-radius:10px;padding:11px 12px;font-size:12px;line-height:1.55;color:#b6c9da;margin-top:18px}
+.note{font-size:12px;color:#92aebf;line-height:1.6}.actions{display:flex;gap:8px;margin:12px 0}.actions>*{flex:1}
+.pill{padding:3px 6px;border-radius:5px;background:#233b4b;color:#cce6ea;font-size:11px}
+.stats{font-size:12px;color:#b0c5d5;background:#0d1a27;border-radius:9px;padding:12px;line-height:1.7;margin-top:14px;white-space:pre-wrap}
+main{min-width:0;display:flex;flex-direction:column;padding:14px 18px 24px;gap:10px}
+.topbar{display:flex;justify-content:space-between;gap:12px;align-items:center}
+.topbar strong{font-size:16px}.topbar span{font-size:12px;color:#a9bed0}
+.screen-wrap{flex:1;min-height:360px;background:#050c13;border:1px solid #283a48;border-radius:14px;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
+#screen{position:absolute;left:50%;top:50%;transform-origin:top left;background:#0a1c2b;color:#f5eedc;overflow:hidden}
+#hqTop{height:calc(58px * var(--u));display:flex;align-items:center;justify-content:space-between;padding:0 calc(20px * var(--u));background:#102a3b;border-bottom:calc(2px * var(--u)) solid #406373}
+.hqModeLabel{font-size:calc(20px * var(--u));font-weight:900;color:#f7e1a6}
+.hqStats{display:flex;gap:calc(22px * var(--u));font-weight:800;font-size:calc(15px * var(--u))}
+.hqStats em{font-size:calc(11px * var(--u));font-style:normal;color:#b9cdd8;margin-right:calc(6px * var(--u))}
+#hqStage{width:100%;height:calc(100% - 58px * var(--u));position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(#89cafa,#91d6e1 71%,#6fa97c 72%,#5f8b68)}
+#hqStage:before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 80% 20%,rgba(250,255,255,.6),transparent 27%);opacity:.5}
+#hqOverlay{position:absolute;inset:0;display:grid;place-items:center;z-index:20;background:rgba(4,8,14,.91);padding:calc(7px * var(--u))}
+#hqCard{width:100%;height:100%;min-height:0;display:flex;flex-direction:column;gap:calc(6px * var(--u));padding:calc(12px * var(--u)) calc(16px * var(--u));border:calc(3px * var(--u)) solid #f1e3b5;border-radius:calc(13px * var(--u));background:#121922;overflow:hidden}
+#hqType{font-size:calc(16px * var(--u));font-weight:850;color:#8de5a9;letter-spacing:.045em;flex:0 0 auto}
+#hqQuestionArea{flex:1 1 0;min-width:0;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:calc(10px * var(--u));overflow:hidden}
+#hqQuestion{font-size:calc(52px * var(--u));font-weight:900;line-height:1.12;letter-spacing:-.025em;text-align:center;white-space:pre-line;word-break:keep-all;overflow-wrap:anywhere;flex:0 0 auto;max-width:100%;}
+#hqQuestion.dialogue{white-space:pre-line}
+#hqMedia{max-width:100%;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden;flex:0 0 auto}
+#hqMedia[hidden]{display:none}
+#hqMedia img{display:block;width:100%;height:100%;object-fit:contain}
+#hqMedia.imageSquare{width:calc(235px * var(--u));height:calc(220px * var(--u));}
+#hqMedia.imageWide{width:min(calc(640px * var(--u)),92%);height:calc(250px * var(--u))}
+#hqMedia.imageCompare{width:min(calc(750px * var(--u)),96%);height:calc(226px * var(--u));gap:calc(15px * var(--u));}
+.compare-box{height:100%;width:50%;display:flex;flex-direction:column;align-items:stretch;gap:calc(4px * var(--u));padding:calc(8px * var(--u));border:calc(2px * var(--u)) solid #2d7083;background:#e9f0f8;border-radius:calc(8px * var(--u));overflow:hidden}
+.compare-box img{width:100%;height:calc(100% - 28px * var(--u));object-fit:contain;background:#fff6dd}
+.compare-label{font-size:calc(16px * var(--u));font-weight:900;color:#15486e;text-align:center;flex:0 0 auto}
+#hqChoices{flex:1.15 1 0;min-height:0;display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:repeat(3,minmax(0,1fr));gap:calc(8px * var(--u));overflow:hidden}
+.hqChoice{border:calc(2px * var(--u)) solid #617180;background:#24313d;color:white;border-radius:calc(9px * var(--u));min-height:0;min-width:0;padding:calc(4px * var(--u)) calc(20px * var(--u));display:grid;grid-template-columns:calc(60px * var(--u)) minmax(0,1fr);align-items:center;justify-items:center;gap:calc(8px * var(--u));font-size:calc(39px * var(--u));font-weight:850;line-height:1.12;overflow:hidden}
+.hqChoice.selected{border-color:#f1e3b5;background:#354450}.hqChoice.correct{border-color:#71db8d;background:#23482f}.hqChoice.wrong{border-color:#ff7c7c;background:#542828}
+.hqChoiceNumber{font-size:.8em;color:#ffe38b}.hqChoiceLabel{min-width:0;width:100%;font:inherit;text-align:center;word-break:keep-all;overflow-wrap:anywhere;line-height:1.1}
+#hqCard[data-kind="OX"] #hqChoices{grid-template-columns:1fr 1fr;grid-template-rows:minmax(0,1fr);flex:.85 1 0;gap:calc(18px * var(--u))}
+#hqCard[data-kind="OX"] .hqChoice{display:flex;justify-content:center;font-size:calc(115px * var(--u))}
+#hqCard[data-kind="OX"] .hqChoiceNumber{display:none}
+#hqCard[data-kind="SHORT"] #hqChoices{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:calc(14px * var(--u))}
+#hqCard[data-kind="SHORT"] .hqChoice{display:flex;justify-content:center;width:72%;max-height:calc(125px * var(--u));font-size:calc(34px * var(--u))}
+#hqFeedback{height:calc(23px * var(--u));flex:none;text-align:center;font-size:calc(15px * var(--u));line-height:1.2;color:#8de5a9}
+#hqHint{height:calc(19px * var(--u));flex:none;text-align:center;font-size:calc(12px * var(--u));line-height:1.1;color:#aebdca;overflow:hidden}
+#screen[data-layout="B"] #hqQuestionArea,#screen[data-layout="C"] #hqQuestionArea,#screen[data-layout="D"] #hqQuestionArea{flex:1.13 1 0}
+#screen[data-layout="B"] #hqChoices,#screen[data-layout="C"] #hqChoices,#screen[data-layout="D"] #hqChoices{flex:.98 1 0}
+#screen[data-layout="A"] #hqQuestionArea{flex:.95 1 0}
+#screen[data-layout="A"] #hqChoices{flex:1.28 1 0}
+#screen[data-layout="D"] #hqQuestionArea{flex:1.25 1 0}
+#screen[data-layout="D"] #hqChoices{flex:.92 1 0}
+#screen[data-layout="C"] #hqQuestionArea.has-picture{flex-direction:row;justify-content:space-evenly;align-items:center;gap:calc(22px * var(--u));flex:1.2 1 0}
+#screen[data-layout="C"] #hqQuestionArea.has-picture #hqStem{width:42%;max-width:42%;flex:0 0 42%}
+#screen[data-layout="C"] #hqMedia.imageWide{width:53%;height:96%;max-width:53%;flex:0 1 53%;}
+#screen[data-layout="C"] #hqChoices{flex:1.0 1 0}
+
+#screen[data-layout="A"] #hqMedia{display:none}
+#screen[data-mode="solo"] #hqHint{color:#e3e7af}
+.info-row{font-size:12px;color:#a8becd;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.legend{display:flex;flex-wrap:wrap;gap:12px}.legend span{white-space:nowrap}
+.bad{color:#ffc1a7}.good{color:#94dec6}.dim{color:#94aabb}
+@media(max-width:950px){.layout{grid-template-columns:1fr}aside{max-height:none;display:grid;grid-template-columns:repeat(2, minmax(0,1fr));gap:8px 14px;padding:12px}aside h1,aside>.sub,aside>.help,aside>.stats{grid-column:1/-1}aside h1{font-size:18px}.setting{margin:0}main{min-height:72vh}.screen-wrap{min-height:42vh}} 
+@media(max-width:590px){aside{grid-template-columns:1fr}main{padding:10px}.screen-wrap{min-height:38vh}.topbar{align-items:flex-start;flex-direction:column}}
+
+/* STEM + STIMULUS DESIGN v1 -- separate reading material, not a fifth question layout. */
+#hqStem{flex:0 0 auto;width:100%;min-width:0;display:flex;flex-direction:column;align-items:center;gap:calc(3px * var(--u))}
+#hqStemLabel{align-self:flex-start;font-size:calc(17px * var(--u));letter-spacing:.04em;line-height:1.05;font-weight:950;color:#89e7b2;}
+#hqStemLabel[hidden]{display:none}
+#hqQuestion{color:#f5eedc}
+#hqQuestionArea.has-stimulus{align-items:stretch;justify-content:center;gap:calc(8px * var(--u));}
+#hqQuestionArea.has-stimulus #hqStem{max-width:100%;}
+#hqQuestionArea.has-stimulus #hqQuestion{color:#9fe9bd;text-align:center;width:100%;line-height:1.1;}
+#hqQuestionArea.has-stimulus #hqStimulus{flex:1 1 auto;min-height:0;width:100%;max-width:100%;overflow:hidden;background:#20313d;border:calc(2px * var(--u)) solid #617484;border-left:calc(8px * var(--u)) solid #e7c36b;border-radius:calc(10px * var(--u));padding:calc(6px * var(--u)) calc(16px * var(--u));color:#f3f0e9;}
+#hqStimulus[hidden]{display:none!important}
+#hqStimulus.stimulus-table,#hqStimulus.stimulus-list{display:flex;flex-direction:column;justify-content:space-evenly;align-items:stretch;}
+.stim-row{display:grid;grid-template-columns:calc(66px * var(--u)) minmax(0,1fr);align-items:center;gap:calc(8px * var(--u));flex:1 1 0;min-height:0;border-bottom:calc(1px * var(--u)) solid #546877;padding:calc(2px * var(--u)) 0;}
+.stim-row:last-child{border-bottom:0}
+.stim-mark{display:flex;align-items:center;justify-content:center;background:#314a57;color:#ffe6a4;border:calc(1px * var(--u)) solid #7e97a5;border-radius:calc(7px * var(--u));font-weight:900;line-height:1.1;padding:calc(5px * var(--u));}
+.stim-bullet{font-size:1.2em;color:#f0cf86;text-align:center;font-weight:900}
+.stim-text{font-size:inherit;font-weight:650;line-height:1.22;word-break:keep-all;overflow-wrap:anywhere;min-width:0;}
+#hqStimulus.stimulus-quote{display:flex;align-items:center;justify-content:center;}
+.stim-quote-text{width:100%;text-align:center;font-size:inherit;font-weight:700;line-height:1.32;word-break:keep-all;overflow-wrap:anywhere}
+#hqStimulus.stimulus-dialogue{display:grid;grid-template-columns:1fr 1fr;gap:calc(12px * var(--u));padding:calc(12px * var(--u));}
+.stim-dialogue-row{min-width:0;min-height:0;display:flex;flex-direction:column;justify-content:center;gap:calc(10px * var(--u));background:#2c4554;border:calc(1px * var(--u)) solid #7695a6;border-radius:calc(8px * var(--u));padding:calc(10px * var(--u));text-align:center;}
+.stim-speaker{color:#ffdf92;font-size:.78em;font-weight:950;}
+.stim-dialogue-row .stim-text{font-size:inherit;font-weight:650;line-height:1.3;}
+#hqQuestionArea.has-stimulus + #hqChoices{flex:1.05 1 0}
+#screen[data-layout="A"] #hqQuestionArea.has-stimulus{flex:1.35 1 0}
+#screen[data-layout="A"] #hqQuestionArea.has-stimulus + #hqChoices{flex:1.0 1 0}
+#screen[data-layout="C"] #hqQuestionArea.has-stimulus:not(.has-picture){flex-direction:column;flex:1.35 1 0}
+#screen[data-layout="C"] #hqQuestionArea.has-stimulus:not(.has-picture) + #hqChoices{flex:1.0 1 0}
+
+
+/* HOJA A/C/D adaptive composition: the question remains separate from supporting text. */
+#hqCard[data-composition="split"]{
+  display:grid;grid-template-columns:minmax(0, 1.03fr) minmax(0, .97fr);
+  grid-template-rows:auto minmax(0,.34fr) minmax(0,1.66fr) auto auto;
+  column-gap:calc(20px * var(--u));row-gap:calc(8px * var(--u));
+}
+#hqCard[data-composition="split"] #hqType{grid-column:1/-1;grid-row:1;}
+#hqCard[data-composition="split"] #hqQuestionArea{display:contents;}
+#hqCard[data-composition="split"] #hqStem{
+ grid-column:1/-1;grid-row:2;min-height:0;width:100%;justify-content:center;align-items:center;
+ overflow:hidden;
+}
+#hqCard[data-composition="split"] #hqQuestion{max-width:100%;}
+#hqCard[data-composition="split"] #hqMedia{
+ grid-column:1;grid-row:3;align-self:stretch;justify-self:stretch;
+ width:100%!important;max-width:100%!important;height:100%!important;min-height:0;
+ background:#182a39;border:calc(2px * var(--u)) solid #344e60;border-radius:calc(10px * var(--u));
+}
+#hqCard[data-composition="split"] #hqMedia img{object-fit:contain;max-height:100%;}
+#hqCard[data-composition="split"] #hqChoices{
+ grid-column:2;grid-row:3;display:grid;grid-template-columns:minmax(0,1fr);
+ grid-template-rows:repeat(3,minmax(0,1fr));height:100%;min-height:0;flex:none;
+ gap:calc(10px * var(--u));
+}
+#hqCard[data-composition="split"] .hqChoice{grid-template-columns:calc(44px * var(--u)) minmax(0,1fr);padding:calc(4px * var(--u)) calc(10px * var(--u));gap:calc(5px * var(--u));}
+#hqCard[data-composition="split"] #hqFeedback{grid-column:1/-1;grid-row:4;}
+#hqCard[data-composition="split"] #hqHint{grid-column:1/-1;grid-row:5;}
+#hqCard[data-composition="split"] #hqStemLabel{display:none!important;}
+#screen[data-layout="C"] #hqCard[data-composition="stack"] #hqQuestionArea.has-picture #hqStem{width:42%;max-width:42%;flex:0 0 42%}
+#screen[data-layout="C"] #hqCard[data-composition="stack"] #hqMedia.imageWide{width:53%;height:96%;max-width:53%;flex:0 1 53%;}
+#screen[data-layout="C"] #hqCard[data-composition="stack"] #hqChoices{flex:1.05 1 0}
+#hqCard[data-composition="split"] #hqQuestionArea.has-picture{display:contents;}
+#hqCard[data-composition="split"] #hqStimulus[hidden]{display:none;}
+
+
+/* Reading-material variant within the existing A layout: short question above,
+   stimulus on the left, three answer choices on the right. No new question type. */
+#hqCard[data-composition="source-split"]{
+  display:grid;
+  grid-template-columns:minmax(0,1.10fr) minmax(0,.90fr);
+  grid-template-rows:auto minmax(0,.31fr) minmax(0,1.69fr) auto auto;
+  column-gap:calc(17px * var(--u));row-gap:calc(8px * var(--u));
+}
+#hqCard[data-composition="source-split"] #hqType{grid-column:1/-1;grid-row:1}
+#hqCard[data-composition="source-split"] #hqQuestionArea{display:contents}
+#hqCard[data-composition="source-split"] #hqStem{
+  grid-column:1/-1;grid-row:2;min-width:0;min-height:0;overflow:hidden;
+  display:flex;align-items:center;justify-content:center;gap:0;
+}
+#hqCard[data-composition="source-split"] #hqStemLabel{display:none!important}
+#hqCard[data-composition="source-split"] #hqQuestion{
+  width:100%;margin:0!important;text-align:center;max-width:100%;
+}
+#hqCard[data-composition="source-split"] #hqStimulus{
+  grid-column:1;grid-row:3;align-self:stretch;justify-self:stretch;
+  box-sizing:border-box;width:100%;height:100%;min-height:0;
+  padding:calc(10px * var(--u)) calc(14px * var(--u));
+  background:#20313d;border:calc(2px * var(--u)) solid #617484;
+  border-left:calc(8px * var(--u)) solid #e7c36b;
+  border-radius:calc(10px * var(--u));
+}
+#hqCard[data-composition="source-split"] #hqStimulus.stimulus-table,
+#hqCard[data-composition="source-split"] #hqStimulus.stimulus-list{display:flex;justify-content:space-evenly}
+#hqCard[data-composition="source-split"] .stim-row{
+  grid-template-columns:calc(52px * var(--u)) minmax(0,1fr);
+  gap:calc(8px * var(--u));
+}
+#hqCard[data-composition="source-split"] #hqChoices{
+  grid-column:2;grid-row:3;display:grid;min-height:0;height:100%;width:100%;
+  grid-template-columns:minmax(0,1fr);
+  grid-template-rows:repeat(3,minmax(0,1fr));
+  gap:calc(8px * var(--u));
+}
+#hqCard[data-composition="source-split"] .hqChoice{
+  grid-template-columns:calc(43px * var(--u)) minmax(0,1fr);
+  gap:calc(5px * var(--u));
+  padding:calc(4px * var(--u)) calc(9px * var(--u));
+}
+#hqCard[data-composition="source-split"] #hqMedia{display:none!important}
+#hqCard[data-composition="source-split"] #hqFeedback{grid-column:1/-1;grid-row:4}
+#hqCard[data-composition="source-split"] #hqHint{grid-column:1/-1;grid-row:5}
+
+/* Review candidate: preserve modern A/C/D composition, hide prior-unit experimental text fixtures. */
+#structureButtons,#textButtons{display:none!important}
+#sourceFixtureNote{display:none}
+#unitSelect{border-color:#6dbaa9;background:#193e48}
+#reviewOrigin{font-size:12px;color:#adced7;padding:9px 10px;line-height:1.6;background:#162e3b;border-radius:8px}
+#imageOverlay{position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;padding:4vh 4vw;cursor:zoom-out}
+#imageOverlay img{max-width:96vw;max-height:90vh;object-fit:contain}
+#imageOverlay.active{display:flex}
+aside .setting:has(#structureButtons), aside .setting:has(#textButtons){display:none!important}
+#hqMedia img{cursor:zoom-in}
+#teacherExplanation{margin-top:13px;border:1px solid #45677a;background:#142d3b;border-radius:9px;padding:12px;line-height:1.55;white-space:pre-wrap;font-size:13px;color:#d7e8ec}
+
+
+/* English teacher-approved v3 short-answer workflow ported to the social rev4 reviewer.
+   The question bank contents, A/C/D layouts, and images remain unchanged. */
+#hqCard[data-kind="SHORT"] #hqChoices {
+ display:flex!important;flex-direction:column!important;align-items:stretch!important;
+ justify-content:center!important;flex:1 1 0!important;min-height:calc(195px * var(--u));
+ max-height:none!important;gap:calc(12px * var(--u));overflow:visible;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-reveal-btn {
+ display:flex!important;width:100%!important;max-width:none!important;min-height:calc(84px * var(--u));
+ max-height:calc(116px * var(--u));justify-content:center;align-items:center;
+ background:#30465a;border-color:#d2b972;font-size:calc(41px * var(--u))!important;font-weight:900;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-answer {
+ width:100%;min-width:0;text-align:center;color:#ffe6a1;font-weight:950;
+ font-size:calc(68px * var(--u));line-height:1.18;padding:calc(8px * var(--u));
+ word-break:keep-all;overflow-wrap:anywhere;flex:0 0 auto;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-actions {
+ width:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+ gap:calc(18px * var(--u));flex:0 0 auto;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-judge {
+ width:100%;min-width:0;min-height:calc(95px * var(--u));max-height:none;
+ padding:calc(10px * var(--u));border-radius:calc(12px * var(--u));
+ border:calc(3px * var(--u)) solid;font-size:calc(37px * var(--u))!important;
+ font-weight:950;cursor:pointer;touch-action:manipulation;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-judge.correct {background:#20543b;border-color:#87db9f;color:#edffee}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-judge.incorrect {background:#633336;border-color:#e8918f;color:#fff0ed}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-judge:disabled {opacity:.52;cursor:default}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-verdict {
+ text-align:center;font-size:calc(24px * var(--u));font-weight:850;color:#afdcc8;flex:0 0 auto;
+}
+#hqCard[data-kind="SHORT"] #hqChoices .teacher-next {
+ align-self:center;min-height:calc(50px * var(--u));padding:calc(6px * var(--u)) calc(30px * var(--u));
+ border:calc(2px * var(--u)) solid #b9d8da;border-radius:calc(8px * var(--u));
+ background:#29495f;color:#fff5d3;font-size:calc(21px * var(--u))!important;
+ font-weight:850;cursor:pointer;touch-action:manipulation;
+}
+#hqCard[data-kind="SHORT"] #hqFeedback {display:none!important}
+/* Judged state has four controls; leave room for the bottom hint. */
+#hqCard[data-kind="SHORT"][data-mode-phase="judged"] #hqChoices {gap:calc(6px * var(--u))}
+#hqCard[data-kind="SHORT"][data-mode-phase="judged"] #hqChoices .teacher-answer {font-size:calc(60px * var(--u));padding:calc(3px * var(--u))}
+#hqCard[data-kind="SHORT"][data-mode-phase="judged"] #hqChoices .teacher-judge {min-height:calc(75px * var(--u))}
+#hqCard[data-kind="SHORT"][data-mode-phase="judged"] #hqChoices .teacher-next {min-height:calc(42px * var(--u))}
+
+
+</style></head><body>
+<div class="layout">
+<aside>
+<h1>HOJA · 문제 렌더러 검토실</h1>
+<div class="sub"><b>신규 화면 설계안</b>입니다. 실제 교사 검토에서 사용한 A/C/D 자동 배치 및 교사 수동 판정 기능 검증용입니다. 화면 기능 검증용 가상 5문항입니다. 주관식은 정답 공개 후 교사가 정답·오답을 판정합니다. 운영 게임은 변경하지 않습니다.</div>
+<div class="setting"><label>화면 규격 (가상 TV)</label><select id="resolution"><option value="1280x720">HD · 1280×720</option><option value="1920x1080" selected>FHD · 1920×1080</option><option value="2560x1440">QHD · 2560×1440</option><option value="3840x2160">4K · 3840×2160</option><option value="1366x768">1366×768</option></select></div>
+<div class="setting"><label>문항 규격 (3종)</label><div class="choice-grid" id="layoutButtons"><button data-layout="A" class="on">A · 글</button><button data-layout="C">C · 그림</button><button data-layout="D">D · 비교</button></div><div id="layoutDescription" class="note" style="margin-top:6px">A · 텍스트 중심</div></div>
+<div class="setting"><label>그림·지문과 보기 배치</label><div class="seg" id="compositionButtons"><button data-composition="auto" class="on">자동</button><button data-composition="split">좌우</button><button data-composition="stack">상하</button></div><p class="note" style="margin:5px 0">자동: 자료가 있는 문제는 왼쪽 자료·오른쪽 보기 배치를 우선 시험합니다. 긴 보기·자료로 가독성이 낮아지면 상하로 전환합니다.</p><div class="note" id="compositionReason" style="color:#b4dfce;margin-top:5px">판별 중…</div></div>
+<div class="setting"><label>출제 문항 필터 (화면 디자인은 동일)</label><div class="seg" id="modeButtons"><button data-mode="team" class="on">팀전</button><button data-mode="solo">싱글</button></div></div>
+<div class="setting"><label for="unitSelect">단원 선택</label>
+<select id="unitSelect"><option value="u3-1">샘플 A · 글·OX·주관식 (3)</option><option value="u3-2">샘플 B · 그림·주관식 (2)</option><option value="all">전체 샘플 (5)</option></select></div>
+<div class="setting" id="reviewOrigin">렌더러 v0.1.0-preview.1 · 기능 점검용 샘플<br>가상 문항만 들어 있습니다. 학생에게 출제하거나 실제 점수에 반영하지 않습니다.</div>
+<div class="setting"><label>문항 · 출제 유형</label><select id="questionSelect"></select></div>
+<div class="setting"><label>질문과 자료 표시</label><div class="seg" id="structureButtons"><button data-structure="on" class="on">구분 개선안</button><button data-structure="off">이전 방식 비교</button></div><p class="note" style="margin:5px 0">최신 후보의 질문·자료를 그대로 표시합니다.</p></div>
+<div class="setting"><label>문항 문구</label><div class="seg" id="textButtons"><button data-version="concise" class="on">현재 후보 원문</button><button data-version="original">현재 후보 원문</button></div></div>
+<div class="setting"><label>3지선다 보기 조합 (정답 유지)</label><select id="omitChoice"></select></div>
+<div class="actions"><button id="previous">← 이전</button><button id="next" class="primary">다음 →</button></div>
+<div class="setting"><label>정답·비교</label><div class="seg"><button id="answerReveal">정답 표시</button><button id="resetAnswer">선택 초기화</button></div></div>
+<div id="teacherExplanation" hidden></div><div class="help"><b>검토 방법</b> · 단원과 문항을 선택하고 원문을 확인하세요. 객관식은 보기 3개 조합을 바꿀 수 있고, 정답 표시 후 해설이 나옵니다. 삽화는 클릭하면 크게 볼 수 있습니다. 이 HTML은 검토 전용이며 GitHub 정본이나 운영 게임을 변경하지 않습니다.</div>
+<div class="stats" id="metrics">화면 측정 중…</div>
+</aside>
+<main>
+  <div class="topbar"><strong>A/C/D 신규 화면 미리보기 · 지문 좌우 배치 <span class="pill">독립 설계 · 운영 미반영</span></strong><span id="screenLabel">1920×1080 · 16:9</span></div>
+  <div class="screen-wrap" id="screenWrap"><div id="screen" data-layout="A" data-mode="team" style="width:1920px;height:1080px;--u:1.5">
+    <div id="hqTop"><div class="hqModeLabel">HOJA · 함께 놀기</div><div class="hqStats"><span><em>ROUND</em> 01</span><span><em>TEAM</em> 2팀</span><span><em>QUESTION</em> <b id="hudCounter">01/32</b></span></div></div>
+    <div id="hqStage"><div id="hqOverlay"><div id="hqCard" data-kind="MCQ"><div id="hqType">2팀 · QUESTION 10 · 객관식</div><div id="hqQuestionArea"><div id="hqStem"><div id="hqStemLabel" hidden>질문</div><div id="hqQuestion"></div></div><div id="hqStimulus" hidden></div><div id="hqMedia" hidden></div></div><div id="hqChoices"></div><div id="hqFeedback"></div><div id="hqHint">정답을 선택하세요.</div></div></div></div>
+  </div></div>
+  <div class="info-row"><div id="diagnostics" class="legend"></div><div>16:9 독립 신설계 퀴즈 카드 · 실제 화면 크기에 따른 텍스트 적합 시험</div></div>
+</main>
+</div>
+<script>
+const DATA_CONCISE=[{"id":"q01","localId":"q01","questionId":"sample:q01","unit":"u3-1","type":"MCQ","prompt":"다음 중 물이 얼면 변하는 상태는 무엇일까요?","image":null,"imageAlt":"","dialogue":null,"choices":[{"id":"c1","text":"기체"},{"id":"c2","text":"고체"},{"id":"c3","text":"액체"},{"id":"c4","text":"빛"}],"answer":{"choiceId":"c2"},"explanation":"물이 얼면 고체인 얼음이 됩니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q02","localId":"q02","questionId":"sample:q02","unit":"u3-1","type":"SHORT","prompt":"물이 얼어서 만들어진 물질의 이름은 무엇인가요?","image":null,"imageAlt":"","dialogue":null,"choices":[],"answer":{"text":"얼음"},"explanation":"물이 어는 온도에 도달하면 얼음이 됩니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q03","localId":"q03","questionId":"sample:q03","unit":"u3-1","type":"OX","prompt":"얼음은 물의 고체 상태입니다.","image":null,"imageAlt":"","dialogue":null,"choices":[],"answer":{"value":true},"explanation":"얼음은 물이 얼어 생긴 고체입니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q04","localId":"q01","questionId":"sample:q04","unit":"u3-2","type":"MCQ","prompt":"다음 그림에서 두 물체의 색이 어떻게 다른가요?","image":"demo-comparison.svg","imageAlt":"왼쪽 파란 원과 오른쪽 노란 원이 있는 가상 그림","dialogue":null,"choices":[{"id":"c1","text":"왼쪽은 파랑, 오른쪽은 노랑"},{"id":"c2","text":"둘 다 파랑"},{"id":"c3","text":"둘 다 노랑"},{"id":"c4","text":"왼쪽은 노랑, 오른쪽은 파랑"}],"answer":{"choiceId":"c1"},"explanation":"왼쪽은 파란 원이고 오른쪽은 노란 원입니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q05","localId":"q02","questionId":"sample:q05","unit":"u3-2","type":"SHORT","prompt":"다음 그림의 오른쪽 원은 무슨 색인가요?","image":"demo-comparison.svg","imageAlt":"왼쪽 파란 원과 오른쪽 노란 원이 있는 가상 그림","dialogue":null,"choices":[],"answer":{"text":"노란색"},"explanation":"오른쪽 원은 노란색입니다.","accepted":[],"source":"가상 예시","group":null}];
+const DATA_ORIGINAL=[{"id":"q01","localId":"q01","questionId":"sample:q01","unit":"u3-1","type":"MCQ","prompt":"다음 중 물이 얼면 변하는 상태는 무엇일까요?","image":null,"imageAlt":"","dialogue":null,"choices":[{"id":"c1","text":"기체"},{"id":"c2","text":"고체"},{"id":"c3","text":"액체"},{"id":"c4","text":"빛"}],"answer":{"choiceId":"c2"},"explanation":"물이 얼면 고체인 얼음이 됩니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q02","localId":"q02","questionId":"sample:q02","unit":"u3-1","type":"SHORT","prompt":"물이 얼어서 만들어진 물질의 이름은 무엇인가요?","image":null,"imageAlt":"","dialogue":null,"choices":[],"answer":{"text":"얼음"},"explanation":"물이 어는 온도에 도달하면 얼음이 됩니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q03","localId":"q03","questionId":"sample:q03","unit":"u3-1","type":"OX","prompt":"얼음은 물의 고체 상태입니다.","image":null,"imageAlt":"","dialogue":null,"choices":[],"answer":{"value":true},"explanation":"얼음은 물이 얼어 생긴 고체입니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q04","localId":"q01","questionId":"sample:q04","unit":"u3-2","type":"MCQ","prompt":"다음 그림에서 두 물체의 색이 어떻게 다른가요?","image":"demo-comparison.svg","imageAlt":"왼쪽 파란 원과 오른쪽 노란 원이 있는 가상 그림","dialogue":null,"choices":[{"id":"c1","text":"왼쪽은 파랑, 오른쪽은 노랑"},{"id":"c2","text":"둘 다 파랑"},{"id":"c3","text":"둘 다 노랑"},{"id":"c4","text":"왼쪽은 노랑, 오른쪽은 파랑"}],"answer":{"choiceId":"c1"},"explanation":"왼쪽은 파란 원이고 오른쪽은 노란 원입니다.","accepted":[],"source":"가상 예시","group":null},{"id":"q05","localId":"q02","questionId":"sample:q05","unit":"u3-2","type":"SHORT","prompt":"다음 그림의 오른쪽 원은 무슨 색인가요?","image":"demo-comparison.svg","imageAlt":"왼쪽 파란 원과 오른쪽 노란 원이 있는 가상 그림","dialogue":null,"choices":[],"answer":{"text":"노란색"},"explanation":"오른쪽 원은 노란색입니다.","accepted":[],"source":"가상 예시","group":null}];
+const IMAGES={"demo-comparison.svg":"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NjAiIGhlaWdodD0iNTQwIiB2aWV3Qm94PSIwIDAgOTYwIDU0MCI+PHJlY3Qgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI1NDAiIGZpbGw9IiNmM2Y3ZmEiLz48Y2lyY2xlIGN4PSIyNjAiIGN5PSIyNzAiIHI9IjE0MiIgZmlsbD0iIzMyNzNkYiIvPjxjaXJjbGUgY3g9IjY5MCIgY3k9IjI3MCIgcj0iMTQyIiBmaWxsPSIjZTViODJlIi8+PC9zdmc+"};
+const $=(id)=>document.getElementById(id);
+const state={layout:'A',composition:'auto',appliedComposition:'stack',mode:'team',res:'1920x1080',question:'q01',unit:'u3-1',version:'concise',structure:'off',removed:null,showAnswer:false,answerPick:null,choiceMaxLines:0,choiceLongest:'',compositionReason:''};
+const layoutInfo={A:'A · 텍스트 중심 (글씨 크기 우선)',C:'C · 이미지/보기 자동 배치 (1:1·4:3·16:9 모두 수용)',D:'D · 두 자료 비교 (좌우 분할)'};
+function allQ(){return state.version==='original'?DATA_ORIGINAL:DATA_CONCISE}
+function current(){return allQ().find(x=>x.id===state.question)||allQ()[0]}
+function hasImage(q){return !!q.image}
+function isAvailable(q){return (state.unit==='all'||q.unit===state.unit) && !(state.mode==='solo'&&q.type==='SHORT')}
+function typeLabel(t){return t==='MCQ'?'객관식':t==='OX'?'O / X':'주관식'}
+function defaultLayout(q){return q.image?'C':'A'}
+function fillQuestionOptions(){const qsel=$('questionSelect');qsel.innerHTML='';for(const q of allQ()){if(!isAvailable(q))continue;let o=document.createElement('option');o.value=q.id;o.textContent=(q.unit==='u3-1'?'샘플 A':'샘플 B')+' '+q.localId.toUpperCase()+' · '+typeLabel(q.type)+' · '+q.prompt.replace(/\s+/g,' ').slice(0,24);qsel.appendChild(o)}if(!allQ().some(q=>q.id===state.question&&isAvailable(q)))state.question=(allQ().find(isAvailable)||allQ()[0]).id;qsel.value=state.question}
+function syncOmit(q){const sel=$('omitChoice');sel.innerHTML='';if(q.type!=='MCQ'){sel.disabled=true;sel.add(new Option('해당 없음',''));return}sel.disabled=false;const wrong=q.choices.filter(x=>x.id!==q.answer.choiceId);wrong.forEach((w,i)=>{sel.add(new Option('오답 '+w.id.toUpperCase()+' 제외 · '+w.text.slice(0,23),w.id))});if(!wrong.some(x=>x.id===state.removed))state.removed=wrong[wrong.length-1].id;sel.value=state.removed}
+// Layout-only source segmentation. Never changes cartridge text, answer keys or UQ grouping.
+function create(tag, className, text){const el=document.createElement(tag);if(className)el.className=className;if(text!==undefined)el.textContent=text;return el}
+function paintQuestionAndStimulus(q){
+ const question=$('hqQuestion'),label=$('hqStemLabel'),panel=$('hqStimulus'),slot=$('hqQuestionArea');
+ panel.replaceChildren();panel.hidden=true;panel.className='';slot.classList.remove('has-stimulus','has-picture');
+ let stem=q.prompt;
+ const enabled=state.structure==='on';
+ if(enabled && ['q10','q20','q22','q26'].includes(q.id)){
+   const lines=q.prompt.split(/\n+/).map(x=>x.trim()).filter(Boolean).filter(x=>!/^\[학습용/.test(x));
+   stem=lines[0]||stem;
+   const more=lines.slice(1);
+   if(q.id==='q10'){
+     panel.className='stimulus-table';panel.setAttribute('aria-label','세 가지 연구 주장');
+     for(const line of more){const m=line.match(/^\(([가-힣])\)\s*(.*)$/);const row=create('div','stim-row');row.append(create('span','stim-mark',m?'('+m[1]+')':'•'),create('span','stim-text',m?m[2]:line));panel.append(row)}
+   }else if(q.id==='q20' || q.id==='q22'){
+     panel.className='stimulus-list';panel.setAttribute('aria-label',q.id==='q20'?'강화도 조약의 내용':'동학 농민군의 요구');
+     for(const line of more){const row=create('div','stim-row');row.append(create('span','stim-bullet','•'),create('span','stim-text',line.replace(/^•\s*/,'')));panel.append(row)}
+   }else if(q.id==='q26'){
+     panel.className='stimulus-quote';panel.setAttribute('aria-label','박성춘의 연설을 쉽게 풀어 쓴 글');
+     const body=more.join(' ').replace(/^[“\"]|[”\"]$/g,'');
+     panel.append(create('div','stim-quote-text',body));
+   }
+   panel.hidden=panel.children.length===0;
+ } else if(enabled && q.dialogue && q.dialogue.length){
+   panel.className='stimulus-dialogue';panel.setAttribute('aria-label','두 종교의 주장');
+   for(const d of q.dialogue){const row=create('div','stim-dialogue-row');row.append(create('div','stim-speaker',d.speaker),create('div','stim-text',d.text));panel.append(row)}
+   panel.hidden=false;
+ }else if(!enabled && q.dialogue){stem=q.prompt+'\n'+q.dialogue.map(x=>x.speaker+': '+x.text).join('\n')}
+ question.textContent=stem;question.classList.remove('dialogue');
+ label.hidden=panel.hidden;
+ if(!panel.hidden)slot.classList.add('has-stimulus');
+ $('hqCard').dataset.material=panel.hidden?'none':q.id;
+}
+function renderQuestion(){const q=current();fillQuestionOptions();syncOmit(q);state.answerPick=null;state.showAnswer=false;$('hqCard').dataset.kind=q.type;$('screen').dataset.layout=state.layout;$('screen').dataset.mode=state.mode;$('layoutDescription').textContent=layoutInfo[state.layout];$('hqType').textContent=(state.mode==='team'?'팀전':'싱글')+' · '+(q.unit==='u3-1'?'샘플 A':'샘플 B')+' / '+q.localId.toUpperCase()+' · '+typeLabel(q.type);$('hudCounter').textContent=(allQ().filter(isAvailable).findIndex(x=>x.id===q.id)+1)+'/'+allQ().filter(isAvailable).length;document.querySelector('.hqModeLabel').textContent='HOJA · '+(state.mode==='team'?'함께 놀기':'혼자 놀기');
+paintQuestionAndStimulus(q);
+const media=$('hqMedia');media.innerHTML='';media.hidden=true;media.className='';
+if(state.layout==='C'){
+  if(q.image){const im=new Image();im.src=IMAGES[q.image];im.alt=q.imageAlt||'문항 삽화';im.onload=()=>fitContent();media.append(im);media.className='imageWide';media.hidden=false}
+}
+if(state.layout==='D' && q.image){
+ const im=new Image();im.src=IMAGES[q.image];im.alt=q.imageAlt||'학습용 자료';im.onload=()=>fitContent();media.append(im);media.className='imageWide';media.hidden=false;
+}
+$('hqQuestionArea').classList.toggle('has-picture',!media.hidden);
+ $('hqCard').dataset.composition='stack';state.appliedComposition='stack';
+const choices=$('hqChoices');choices.innerHTML='';
+if(q.type==='MCQ'){let visible=q.choices.filter(x=>x.id!==state.removed);for(let i=0;i<visible.length;i++){let b=document.createElement('button');b.className='hqChoice';b.dataset.choice=visible[i].id;let n=document.createElement('span');n.className='hqChoiceNumber';n.textContent=(i+1)+'.';let label=document.createElement('span');label.className='hqChoiceLabel';label.textContent=visible[i].text;b.append(n,label);b.onclick=()=>selectAnswer(visible[i].id);choices.appendChild(b)}}
+else if(q.type==='OX'){for(const val of [true,false]){const b=document.createElement('button');b.className='hqChoice';b.dataset.choice=String(val);let label=document.createElement('span');label.className='hqChoiceLabel';label.textContent=val?'O':'X';b.append(label);b.onclick=()=>selectAnswer(String(val));choices.appendChild(b)}}
+else{let b=document.createElement('button');b.className='hqChoice';b.textContent='정답 확인';b.onclick=()=>{b.textContent='정답: '+q.answer.text;state.showAnswer=true;setFeedback(q)};choices.appendChild(b)}
+$('hqFeedback').textContent='';$('hqHint').textContent=q.type==='SHORT'?'학생이 말로 답하면 정답을 공개해 교사가 판단합니다.': '문항 검토 모드 · 정답과 해설을 확인하세요.';
+document.querySelectorAll('[data-layout]').forEach(b=>{if(b.tagName==='BUTTON')b.classList.toggle('on',b.dataset.layout===state.layout)});
+ document.querySelectorAll('button[data-composition]').forEach(b=>b.classList.toggle('on',b.dataset.composition===state.composition));
+document.querySelectorAll('[data-mode]').forEach(b=>{if(b.tagName==='BUTTON')b.classList.toggle('on',b.dataset.mode===state.mode)});
+document.querySelectorAll('[data-version]').forEach(b=>b.classList.toggle('on',b.dataset.version===state.version));
+document.querySelectorAll('[data-structure]').forEach(b=>b.classList.toggle('on',b.dataset.structure===state.structure));
+updateStage();}
+function setFeedback(q){const correct=q.type==='MCQ'?q.answer.choiceId:q.type==='OX'?String(q.answer.value):null;$('hqFeedback').textContent=state.showAnswer?'정답: '+(q.type==='MCQ'?q.choices.find(c=>c.id===correct)?.text:q.type==='OX'?(q.answer.value?'O':'X'):q.answer.text):'';document.querySelectorAll('.hqChoice').forEach(b=>{b.classList.toggle('correct',state.showAnswer&&b.dataset.choice===correct);b.classList.toggle('wrong',b.dataset.choice===state.answerPick&&b.dataset.choice!==correct)})}
+function selectAnswer(id){state.answerPick=id;state.showAnswer=true;setFeedback(current());document.querySelectorAll('.hqChoice').forEach(b=>b.classList.toggle('selected',b.dataset.choice===id))}
+function chooseQuestion(qid){state.question=qid;state.layout=defaultLayout(current());state.removed=null;renderQuestion()}
+function updateStage(){const wh=state.res.split('x').map(Number);const [w,h]=wh;const scr=$('screen');scr.style.width=w+'px';scr.style.height=h+'px';scr.style.setProperty('--u',String(h/720));$('screenLabel').textContent=w+'×'+h+' · '+(w/h).toFixed(3)+':1';fitScreen();}
+function fitScreen(){const [w,h]=state.res.split('x').map(Number);const host=$('screenWrap'),scr=$('screen');const scale=Math.min((host.clientWidth-14)/w,(host.clientHeight-14)/h);scr.style.transform=`scale(${scale}) translate(-50%,-50%)`;requestAnimationFrame(fitContent)}
+let queued=false;function fitContent(){if(queued)return;queued=true;requestAnimationFrame(()=>{queued=false;selectComposition();measureAndFit()})}
+/* Use the currently displayed 3 options (after omitting a wrong answer). The longest
+   choice is an input signal; real line-wrap and available height make the decision. */
+function selectComposition(){
+ const q=current(), card=$('hqCard'),media=$('hqMedia'),stimulus=$('hqStimulus'),buttons=[...$('hqChoices').querySelectorAll('.hqChoice')];
+ const labels=buttons.map(x=>x.querySelector('.hqChoiceLabel')).filter(Boolean);
+ const texts=labels.map(x=>x.textContent.trim());
+ const longest=texts.reduce((a,b)=>b.length>a.length?b:a,'');
+ state.choiceLongest=longest;
+ const u=Number(state.res.split('x')[1])/720;
+ const sourceApplicable=state.structure==='on' && !stimulus.hidden && state.layout==='A' && q.type==='MCQ' && labels.length===3;
+ const imageApplicable=state.layout==='C' && !media.hidden && q.type==='MCQ' && stimulus.hidden && labels.length===3;
+ if(!sourceApplicable&&!imageApplicable){
+  card.dataset.composition='stack';state.appliedComposition='stack';
+  state.compositionReason='기본 상하 배치 (해당 유형의 자료 구조 유지)';
+  $('compositionReason').textContent=state.compositionReason;return;
+ }
+ if(sourceApplicable){
+  // Measure text after applying the proposed two-column geometry. Do not approve
+  // a side-by-side composition solely because its character count is small.
+  card.dataset.composition='source-split';
+  const probeChoice=Math.round(29*u),probeStim=Math.round(27*u),probeQuestion=Math.round(36*u);
+  $('hqQuestion').style.fontSize=probeQuestion+'px';
+  stimulus.style.fontSize=probeStim+'px';
+  buttons.forEach(b=>b.style.fontSize=probeChoice+'px');
+  const rows=labels.map((el,i)=>{
+   const b=buttons[i],cs=getComputedStyle(el),line=parseFloat(cs.lineHeight)||probeChoice*1.1;
+   const bs=getComputedStyle(b),avail=b.clientHeight-(parseFloat(bs.paddingTop)||0)-(parseFloat(bs.paddingBottom)||0)-2*u;
+   return {lines:Math.max(1,Math.ceil((el.scrollHeight-1)/line)),fits:el.scrollHeight<=avail+2&&el.scrollWidth<=el.clientWidth+2};
+  });
+  const stimRows=[...stimulus.querySelectorAll('.stim-row,.stim-dialogue-row')];
+  const stimFits=stimulus.clientHeight>0 && stimulus.scrollHeight<=stimulus.clientHeight+2 && stimRows.every(row=>{
+    const item=row.querySelector('.stim-text')||row;
+    return item.scrollHeight<=row.clientHeight-6*u && item.scrollWidth<=item.clientWidth+2;
+  });
+  const stemFits=$('hqQuestion').scrollHeight<=$('hqStem').clientHeight+2;
+  const allFit=rows.every(x=>x.fits&&x.lines<=3) && stimFits && stemFits;
+  const choose=state.composition==='split'?'source-split':state.composition==='stack'?'stack':allFit?'source-split':'stack';
+  card.dataset.composition=choose;state.appliedComposition=choose;
+  const maxLines=Math.max(...rows.map(x=>x.lines));state.choiceMaxLines=maxLines;
+  state.compositionReason=state.composition==='auto'?
+    (allFit?`자료 왼쪽 / 보기 오른쪽 · 가장 긴 보기 ${longest.length}자, 최대 ${maxLines}줄`:`자료 또는 보기 공간 부족 → 상하 배치 (가장 긴 보기 ${longest.length}자)`):
+    `수동 ${choose==='source-split'?'지문 왼쪽 / 보기 오른쪽':'상하'} 배치`;
+  $('compositionReason').textContent=state.compositionReason;
+  return;
+ }
+ // Square photos can sit beside short answer choices. Panoramic maps/timelines
+ // remain full-width unless explicitly forced to split.
+ const wide=!!q.image;
+ card.dataset.composition='split';
+ const probeSize=Math.round(32*u),probeMinHeight=Math.round(24*u);
+ buttons.forEach(b=>b.style.fontSize=probeSize+'px');
+ const rows=labels.map((el,i)=>{
+  const b=buttons[i],cs=getComputedStyle(el),line=parseFloat(cs.lineHeight)||probeSize*1.1;
+  const bs=getComputedStyle(b),available=b.clientHeight-(parseFloat(bs.paddingTop)||0)-(parseFloat(bs.paddingBottom)||0)-2*u;
+  const lines=Math.max(1,Math.round(el.clientHeight/line));
+  return {lines,available,rendered:el.scrollHeight,scrollWidth:el.scrollWidth,width:el.clientWidth};
+ });
+ const worst=Math.max(...rows.map(x=>x.lines));state.choiceMaxLines=worst;
+ const fits=rows.every(x=>x.lines<=2 && x.rendered<=x.available+1 && x.scrollWidth<=x.width+1 && x.available>=probeMinHeight*1.1);
+ const chosen=state.composition==='split'?'split':state.composition==='stack'?'stack':(fits&&!wide?'split':'stack');
+ card.dataset.composition=chosen;state.appliedComposition=chosen;
+ const reason=state.composition==='auto'?(wide?'가로형 그림: 그림+발문 상단, 보기는 아래':fits?`가장 긴 보기 ${longest.length}자 · 최대 ${worst}줄 → 좌우 배치`:`가장 긴 보기 ${longest.length}자 · 최대 ${worst}줄 / 공간 제약 → 상하 배치`):`수동 ${chosen==='split'?'좌우':'상하'} 배치`;
+ state.compositionReason=reason;$('compositionReason').textContent=reason;
+}
+function measureAndFit(){const [w,h]=state.res.split('x').map(Number), u=h/720;const q=$('hqQuestion'),wholeSlot=$('hqQuestionArea'),media=$('hqMedia'),labels=[...$('hqChoices').querySelectorAll('.hqChoiceLabel')],buttons=[...$('hqChoices').querySelectorAll('.hqChoice')];
+ const composition=$('hqCard').dataset.composition;const isSplit=composition==='split'||composition==='source-split';const isSourceSplit=composition==='source-split';const slot=isSplit?$('hqStem'):wholeSlot;
+// Adapt font by actual DOM geometry, not an arbitrary character count.
+const stimulus=$('hqStimulus'),stem=$('hqStem');let qTop=Math.round(58*u),qMin=Math.round(21*u);let qs=qMin;
+const hasStimulus=!stimulus.hidden;
+const visibleHeight=isSplit?slot.clientHeight-4*u : state.layout==='C' && !hasStimulus ? slot.clientHeight-10*u : slot.clientHeight-(media.hidden?0:media.offsetHeight)-(media.hidden?0:10*u)-5*u;
+let stimOk=true,stimPx=0;
+const fitsStimulus=()=>{if(!hasStimulus)return true;const group=stimulus.querySelectorAll('.stim-text,.stim-quote-text,.stim-speaker,.stim-mark');
+  return stimulus.clientHeight>4 && stimulus.scrollHeight<=stimulus.clientHeight+2 && [...group].every(el=>{
+    const box=el.closest('.stim-row,.stim-dialogue-row')||stimulus;
+    const available=box.clientHeight-(parseFloat(getComputedStyle(box).paddingTop)||0)-(parseFloat(getComputedStyle(box).paddingBottom)||0);
+    return el.scrollHeight<=available+2 && el.scrollWidth<=el.clientWidth+2;
+  });
+};
+for(let size=qTop;size>=qMin;size-=Math.max(1,Math.round(u))){
+ q.style.fontSize=size+'px';
+ const stimSize=Math.min(38*u,Math.max(20*u,size*.62));stimulus.style.fontSize=stimSize+'px';
+ if(q.scrollWidth<=q.clientWidth+1 && (hasStimulus?(isSourceSplit ? (q.scrollHeight<=stem.clientHeight+1 && fitsStimulus()) : (stem.offsetHeight<=slot.clientHeight*.48 && fitsStimulus())):q.scrollHeight<=Math.max(1,visibleHeight)+1)){qs=size;break}
+}
+q.style.fontSize=qs+'px';
+stimPx=Math.round((parseFloat(stimulus.style.fontSize)||0)/u);stimOk=fitsStimulus();
+let cs=0, optionFits=true;
+if(current().type==='MCQ'){
+ const max=Math.round((isSplit?45:58)*u),min=Math.round((isSplit?29:23)*u);cs=min;
+ for(let size=max;size>=min;size-=Math.max(1,Math.round(u))){for(const b of buttons)b.style.fontSize=size+'px';let all=labels.every((x,i)=>{let b=buttons[i];let style=getComputedStyle(b);let available=b.clientHeight-(parseFloat(style.paddingTop)||0)-(parseFloat(style.paddingBottom)||0)-2*u;return x.scrollHeight<=available+1 && x.scrollWidth<=x.clientWidth+1});if(all){cs=size;break}}
+ buttons.forEach(b=>b.style.fontSize=cs+'px');optionFits=labels.every((x,i)=>{let b=buttons[i];let s=getComputedStyle(b);return x.scrollHeight<=b.clientHeight-(parseFloat(s.paddingTop)||0)-(parseFloat(s.paddingBottom)||0)+1});
+}else buttons.forEach(x=>x.style.fontSize=(current().type==='OX'?120:34)*u+'px');
+const imgEl=[...media.querySelectorAll('img')];const broken=imgEl.some(x=>!x.complete||x.naturalWidth===0);const mediaPx=media.hidden?0:Math.round(media.offsetHeight/u);const qPx=Math.round(qs/u),optPx=Math.round(cs/u);
+const questionFits=hasStimulus ? q.scrollWidth<=q.clientWidth+1 && (isSourceSplit?q.scrollHeight<=stem.clientHeight+1:stem.clientHeight<=slot.clientHeight*.50) && stimOk : q.scrollHeight<=visibleHeight+1;let good=questionFits&&optionFits&&!broken;
+$('metrics').textContent=`문항: ${current().id.toUpperCase()} · ${typeLabel(current().type)}\n레이아웃: ${state.layout} / ${state.res} · ${state.appliedComposition==='source-split'?'지문·보기 좌우':state.appliedComposition==='split'?'그림·보기 좌우':'상하'}\n가장 긴 보기: ${state.choiceLongest.length}자 · ${state.choiceMaxLines||'-'}줄 (32px 시도, 720p 환산)\n자동 판별: ${state.compositionReason}\n발문 크기: ${qPx}px (720p 환산)\n자료 크기: ${hasStimulus?stimPx+'px (720p 환산)':'해당 없음'}\n보기 크기: ${current().type==='MCQ'?optPx+'px (720p 환산)':'유형별 고정'}\n그림/자료 높이: ${mediaPx}px (720p 환산)\n발문/자료: ${questionFits?'맞음':'공간 부족'} / 보기: ${optionFits?'맞음':'공간 부족'}\n자료 로딩: ${broken?'확인 필요':'정상'}\n판정: ${good?'✅ 화면 내 표시 가능':'⚠️ 화면/문항 재검토 필요'}`;
+$('diagnostics').innerHTML=`<span class="${good?'good':'bad'}">${good?'● 표시 가능':'● 재검토 필요'}</span><span>발문 ${qPx}px</span>${hasStimulus?'<span>지문 '+stimPx+'px</span>':''}<span>보기 ${current().type==='MCQ'?optPx+'px':'유형별'}</span><span>자료 ${mediaPx}px</span>`;
+}
+function setLayout(layout){state.layout=layout;renderQuestion()}
+function setComposition(composition){state.composition=composition;renderQuestion()}
+function handleMode(m){state.mode=m;if(!isAvailable(current()))state.question=(allQ().find(isAvailable)||allQ()[0]).id;renderQuestion()}
+function navigate(dir){let available=allQ().filter(isAvailable);let idx=available.findIndex(x=>x.id===state.question);let next=available[(idx+dir+available.length)%available.length];state.question=next.id;state.layout=defaultLayout(next);state.removed=null;renderQuestion()}
+$('layoutButtons').addEventListener('click',e=>{const b=e.target.closest('button[data-layout]');if(b)setLayout(b.dataset.layout)});
+$('compositionButtons').addEventListener('click',e=>{const b=e.target.closest('button[data-composition]');if(b)setComposition(b.dataset.composition)});
+$('modeButtons').addEventListener('click',e=>{let b=e.target.closest('button[data-mode]');if(b)handleMode(b.dataset.mode)});
+$('textButtons').addEventListener('click',e=>{let b=e.target.closest('button[data-version]');if(b){state.version=b.dataset.version;renderQuestion()}});
+$('structureButtons').addEventListener('click',e=>{const b=e.target.closest('button[data-structure]');if(b){state.structure=b.dataset.structure;renderQuestion()}});
+$('resolution').addEventListener('change',e=>{state.res=e.target.value;updateStage()});
+$('questionSelect').addEventListener('change',e=>chooseQuestion(e.target.value));
+$('omitChoice').addEventListener('change',e=>{state.removed=e.target.value;renderQuestion()});
+$('previous').onclick=()=>navigate(-1);$('next').onclick=()=>navigate(1);
+$('answerReveal').onclick=()=>{state.showAnswer=true;setFeedback(current())};$('resetAnswer').onclick=()=>renderQuestion();
+window.addEventListener('resize',fitScreen);document.fonts?.ready?.then(fitScreen);
+window.addEventListener('keydown',e=>{if(e.target.tagName==='SELECT'||e.target.tagName==='INPUT')return;if(e.key==='ArrowRight'&&e.altKey)navigate(1);if(e.key==='ArrowLeft'&&e.altKey)navigate(-1)});
+fillQuestionOptions();renderQuestion();
+</script>
+<div id="imageOverlay" role="dialog" aria-label="자료 그림 확대" title="클릭하거나 Esc로 닫기"><img alt="학습자료 확대" /></div>
+<script>
+document.getElementById('unitSelect').addEventListener('change',function(){state.unit=this.value;state.question=(allQ().find(isAvailable)||allQ()[0]).id;state.layout=defaultLayout(current());state.removed=null;renderQuestion()});
+document.getElementById('hqMedia').addEventListener('click', e=>{const im=e.target.closest('img');if(!im)return;const overlay=document.getElementById('imageOverlay');overlay.querySelector('img').src=im.src;overlay.querySelector('img').alt=im.alt;overlay.classList.add('active')});
+document.getElementById('imageOverlay').addEventListener('click',e=>e.currentTarget.classList.remove('active'));
+document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('imageOverlay').classList.remove('active')});
+// Keep answers and historical context visible to teachers outside the game preview.
+const _renderSocialQuestion=renderQuestion;
+renderQuestion=function(){_renderSocialQuestion();document.getElementById('teacherExplanation').hidden=true;};
+const _feedbackSocial=setFeedback;
+setFeedback=function(q){_feedbackSocial(q);const box=document.getElementById('teacherExplanation');box.textContent='정답: '+(q.type==='MCQ'?(q.choices.find(x=>x.id===q.answer.choiceId)?.text||''):(q.type==='OX'?(q.answer.value?'O':'X'):q.answer.text))+'\n\n해설: '+(q.explanation||'없음')+'\n\n출처: '+(q.source||'원본 카트리지 근거 참조');box.hidden=!state.showAnswer;};
+// Force initial unit-scope selector state without mutating the candidate data.
+document.getElementById('unitSelect').value='u3-1';state.unit='u3-1';state.question='q01';state.layout=defaultLayout(current());renderQuestion();
+</script>
+<script>
+/* Short-answer review flow from the approved English v3 viewer:
+   question -> answer reveal -> one manual judgment -> next question.
+   This is a review-only simulation; no score changes are submitted. */
+const HOJA_SOCIAL_SHORT_OLD_RENDER = renderQuestion;
+function hojaSocialShortPanel() {
+ const q=current();
+ if (q.type!=='SHORT') return;
+ const choices=document.getElementById('hqChoices');
+ choices.replaceChildren();
+ document.getElementById('hqFeedback').textContent='';
+ const hint=document.getElementById('hqHint');
+ const card=document.getElementById('hqCard');
+ const make=(tag,cls,value)=>{
+   const element=document.createElement(tag);element.className=cls;element.textContent=value;return element;
+ };
+ if (!state.showAnswer) {
+   card.dataset.modePhase='question';
+   const btn=make('button','hqChoice teacher-reveal-btn','정답 확인');
+   btn.type='button';btn.onclick=()=>{
+     state.showAnswer=true;state.teacherJudgment=null;
+     hojaSocialShortPanel();setFeedback(current());fitContent();
+   };
+   choices.appendChild(btn);
+   hint.textContent='학생이 답한 뒤 교사가 정답을 확인합니다.';
+   return;
+ }
+ card.dataset.modePhase=state.teacherJudgment?'judged':'reveal';
+ const answer=make('div','teacher-answer','정답: '+(q.answer?.text||'(등록된 정답 없음)'));
+ answer.setAttribute('aria-live','polite');choices.appendChild(answer);
+ const actions=make('div','teacher-actions','');
+ const correct=make('button','teacher-judge correct','✓ 정답 처리');
+ const wrong=make('button','teacher-judge incorrect','✕ 오답 처리');
+ correct.type='button';wrong.type='button';
+ const judge=(value)=>{
+   if(state.teacherJudgment)return;
+   state.teacherJudgment=value;
+   hojaSocialShortPanel();fitContent();
+ };
+ correct.onclick=()=>judge('correct');wrong.onclick=()=>judge('wrong');
+ correct.disabled=wrong.disabled=!!state.teacherJudgment;
+ actions.append(correct,wrong);choices.append(actions);
+ if(state.teacherJudgment){
+   choices.append(make('div','teacher-verdict',state.teacherJudgment==='correct'?'✓ 교사 판정: 정답':'✕ 교사 판정: 오답'));
+   const next=make('button','teacher-next','다음 문제 →');next.type='button';
+   next.onclick=()=>document.getElementById('next').click();choices.append(next);
+   hint.textContent='검토용 판정입니다. 실제 게임 점수에는 반영되지 않습니다.';
+ }else{
+   hint.textContent='교사가 정답 또는 오답 처리를 선택하세요.';
+ }
+}
+renderQuestion=function(){
+ state.teacherJudgment=null;
+ HOJA_SOCIAL_SHORT_OLD_RENDER();
+ if(current().type==='SHORT')hojaSocialShortPanel();
+};
+const HOJA_SOCIAL_SHORT_OLD_FEEDBACK=setFeedback;
+setFeedback=function(q){
+ HOJA_SOCIAL_SHORT_OLD_FEEDBACK(q);
+ if(q.type==='SHORT'){
+   document.getElementById('hqFeedback').textContent='';
+   hojaSocialShortPanel();
+ }
+};
+const HOJA_SOCIAL_SHORT_OLD_REVEAL=document.getElementById('answerReveal').onclick;
+document.getElementById('answerReveal').onclick=()=>{
+ if(current().type!=='SHORT')return HOJA_SOCIAL_SHORT_OLD_REVEAL();
+ state.showAnswer=true;state.teacherJudgment=null;
+ setFeedback(current());fitContent();
+};
+// The existing reset, navigation, unit selection, and mode handlers all call renderQuestion.
+renderQuestion();
+</script>
+</body></html>
