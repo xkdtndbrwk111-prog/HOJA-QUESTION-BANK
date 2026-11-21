@@ -34,3 +34,8 @@ console.log(tag.layout.recommendedFamily); // dialogue_informational
 **검수 절차:** 제작 시 태그 생성 → 스키마 검사 → 의미상 잘못 분류된 그림/대화 교정 → 렌더러 후보 화면 비교 → 가독성·겹침·용적률 검사 → 교사 최종 승인. 자동 태깅만으로 승인 상태를 바꾸지 않는다.
 
 내용·정답은 원본 카트리지에, 의미 태그는 별도 annotations에 저장. 승인 ZIP을 직접 수정하지 않는다.
+
+## 제작 소스 보존
+
+- [build_hoja_tag_trial_original.py](build_hoja_tag_trial_original.py): 이번 YBM 태그 실험에 사용된 **원본 Python 분류·실험판 빌더 소스**. 과거 작업 환경의 절대 경로와 별도의 후보 ZIP을 전제로 하며, 해당 ZIP은 이 저장소에 포함되어 있지 않다.
+- [auto-classifier-v0.1.js](auto-classifier-v0.1.js): 이후 신규 문항에 사용하기 위한 일반화 참고 구현. 두 코드가 같은 결과를 내는지 검증했다고 간주하지 않는다.
