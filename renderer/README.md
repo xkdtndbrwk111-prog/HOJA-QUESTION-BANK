@@ -1,12 +1,12 @@
 # HOJA 문제 검토 렌더러 · 독립 보관 구역
 
-> **현재 기준:** `v0.1.0-preview.1` (2026-11-21) · **검토용** · 운영 게임 미배포
+> **현재 기준:** `v0.1.0-preview.2` (2026-11-21) · **검토용** · 운영 게임 미배포
 
 ## 현재 기준을 확인하는 법
 
 1. **무조건 이 폴더의 [`VERSION.json`](VERSION.json)을 먼저 읽는다.** `rendererVersion`과 `currentRelease`를 기준으로 한다.
-2. 실행 시 [`releases/v0.1.0-preview.1/review-renderer-demo.html`](releases/v0.1.0-preview.1/review-renderer-demo.html)을 열어 가상 5문항으로 기능을 확인한다.
-3. 실제 사회 5학년 3-1·3-2 **64문항 검토 화면은** [`fixtures/social-5-u3-1-u3-2-rev4-64q.html`](fixtures/social-5-u3-1-u3-2-rev4-64q.html)에 **보존본**으로 둔다. 보존본의 문항은 **교사 승인 전 후보**이며 운영 게임 배포 대상이 아니다.
+2. 실행 시 [`releases/v0.1.0-preview.2/review-renderer-demo.html`](releases/v0.1.0-preview.1/review-renderer-demo.html)을 열어 가상 5문항으로 기능을 확인한다.
+3. 실제 사회 5학년 3-1·3-2 **64문항 검토 화면은** [`fixtures/social-5-u3-1-u3-2-rev4-visual2-64q.html`](fixtures/social-5-u3-1-u3-2-rev4-64q.html)에 **보존본**으로 둔다. 보존본의 문항은 **교사 승인 전 후보**이며 운영 게임 배포 대상이 아니다.
 
 ## 역할 분리
 
@@ -32,3 +32,8 @@
 ## 변경 절차
 
 수정 시 기존 릴리스 HTML을 덮어쓰지 않는다. 새 `releases/vX/`에 파일 생성 → 샘플/실제 보존본 회귀 검사 → `CHANGELOG.md` 추가 → 마지막에 `VERSION.json`의 `currentRelease` 갱신. 이 과정을 끝내기 전에는 새 버전을 current라 부르지 않는다.
+
+### 시각 자료 개선 기록
+
+- `v0.1.0-preview.2`는 도표 내부의 큰 글자, 칸 안쪽 여백, 균일한 정렬을 추가하고 이미지 있는 문항에서 `layoutHint=split`을 허용한다. 학생 문항, 선택지, 정답은 변경하지 않는다.
+- 이전 `v0.1.0-preview.1` HTML과 기존 사회 `rev4-64q.html` 파일은 참고용으로 그대로 남긴다.
