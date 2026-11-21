@@ -23,5 +23,15 @@
   "teacherApprovedEngine": false,
   "releaseSha256": "7721daa9eeed1edc699a07014c4df2cd93d79d79f9e2fcb965234ab664728b60",
   "fixtureSha256": "dd8c66e873696493cb66caf826fda0f63d80934befffe6042a02d1300e55cfa0",
-  "notes": "Renderer engine preview.2 unchanged; reference fixture now reflects the teacher-approved 64-question review (U3-1 rev4, U3-2 rev5 q13 date-free), with readable 1600x900 diagrams. Production game not deployed."
+  "notes": "Renderer engine preview.2 unchanged; reference fixture now reflects the teacher-approved 64-question review (U3-1 rev4, U3-2 rev5 q13 date-free), with readable 1600x900 diagrams. Production game not deployed.",
+  "latestExperiment": {
+    "id": "ybm-kim-183-tagged-v0.5",
+    "date": "2026-11-22",
+    "status": "TEACHER_REVIEW_PENDING",
+    "entrypoint": "experiments/2026-11-22/ybm-183-tagged-v0.5.html",
+    "instructions": "WORKFLOW_HANDOFF.md",
+    "notes": "Tagged YBM candidate 183 questions; preserve approved cartridges. Dialogue panel vertical centering and auto-enlarged stimulus text. NOT CURRENT; NOT DEPLOYED."
+  },
+  "tagSchema": "tags/render-tags-v0.1.schema.json",
+  "tagClassifier": "tags/auto-classifier-v0.1.js"
 }
