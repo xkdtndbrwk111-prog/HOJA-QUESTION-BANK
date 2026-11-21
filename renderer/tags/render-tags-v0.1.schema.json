@@ -1,0 +1,247 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HOJA Render Tags v0.1 draft",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "questionId",
+    "questionType",
+    "images",
+    "texts",
+    "constraints",
+    "layout",
+    "confidence",
+    "needsHumanReview",
+    "evidence"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "0.1.0-draft"
+    },
+    "questionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "questionType": {
+      "enum": [
+        "MCQ",
+        "OX",
+        "SHORT"
+      ]
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "asset",
+          "position",
+          "kind",
+          "subtype",
+          "needsFineDetail",
+          "priority"
+        ],
+        "properties": {
+          "asset": {
+            "type": "string"
+          },
+          "position": {
+            "enum": [
+              "question",
+              "choice"
+            ]
+          },
+          "kind": {
+            "enum": [
+              "general",
+              "informational",
+              "chart",
+              "geometry"
+            ]
+          },
+          "subtype": {
+            "enum": [
+              "scene",
+              "object",
+              "map",
+              "wayfinding",
+              "location",
+              "graph",
+              "table",
+              "timeline",
+              "shape",
+              "scientific_diagram",
+              "other"
+            ]
+          },
+          "needsFineDetail": {
+            "type": "boolean"
+          },
+          "priority": {
+            "enum": [
+              "normal",
+              "high"
+            ]
+          }
+        }
+      }
+    },
+    "texts": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "question",
+          "instruction",
+          "dialogue",
+          "reading",
+          "example_sentence",
+          "list",
+          "choices"
+        ]
+      }
+    },
+    "constraints": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "speakerTurnsVertical",
+        "preserveOriginalText",
+        "minimumImageDetail",
+        "elementPriority"
+      ],
+      "properties": {
+        "speakerTurnsVertical": {
+          "type": "boolean"
+        },
+        "preserveOriginalText": {
+          "const": true
+        },
+        "minimumImageDetail": {
+          "enum": [
+            "normal",
+            "high"
+          ]
+        },
+        "elementPriority": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "question",
+            "reading",
+            "dialogue",
+            "image",
+            "choices"
+          ],
+          "properties": {
+            "question": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "reading": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "dialogue": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "image": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "choices": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "layout": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "recommendedFamily",
+        "rendererHint",
+        "selectionBasis"
+      ],
+      "properties": {
+        "recommendedFamily": {
+          "enum": [
+            "text_auto",
+            "text_stack",
+            "reading_stack",
+            "dialogue_stack",
+            "informational_split",
+            "dialogue_informational",
+            "picture_sentence",
+            "scene_auto",
+            "visual_choices"
+          ]
+        },
+        "rendererHint": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            null,
+            "stack",
+            "reading-stack",
+            "dialogue-stack",
+            "map",
+            "dialogue-image",
+            "picture-stimulus",
+            "split"
+          ]
+        },
+        "selectionBasis": {
+          "type": "string"
+        },
+        "teacherPreference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "needsHumanReview": {
+      "type": "boolean"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sourceDigest": {
+      "type": "string"
+    }
+  }
+}
