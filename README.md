@@ -28,3 +28,10 @@ python tools/migrate_snapshot.py <prior-json-bank> <skill-examples-dir> <output-
 
 ## 다음 단계
 QB2 저장소/버전 관리, 매핑 확정(라이브 공개 검증 포함), 실제 1.0 공통 로더/렌더러 및 테스트 경로 구축. 2.0 develop은 변경하지 않는다. 스킬 최종 개정은 1.0 게임 계약 통합 시험 뒤.
+
+## 교사 승인 콘텐츠 (2026-11-21)
+
+- [사회 5학년 2학기 공통 · 새로운 사회를 향한 움직임 · r2](approved/social/grade5/semester2/soc5-s2-u2-2-common/README.md): 33문항 / UQ 27, q07 실지도·q21 연표 최종 수정 반영. **콘텐츠 교사 승인, 게임 공개 배포 미실시**. q07 고지도 교과서 사진 재배포 권리 확인 필요.
+- 승인 ZIP·무결성·레이아웃은 위 폴더의 `manifest.json`과 `release/approval.json`(ZIP 내부)을 참조.
+
+> 이 섹션은 아래 기존 QB1 설계 초안과 구별되는 신규 교사 승인 콘텐츠 목록이며, QB1 스키마·운영 게임 배포 상태를 자동 변경하지 않습니다.
