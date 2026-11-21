@@ -5,8 +5,8 @@
 ## 현재 기준을 확인하는 법
 
 1. **무조건 이 폴더의 [`VERSION.json`](VERSION.json)을 먼저 읽는다.** `rendererVersion`과 `currentRelease`를 기준으로 한다.
-2. 실행 시 [`releases/v0.1.0-preview.2/review-renderer-demo.html`](releases/v0.1.0-preview.1/review-renderer-demo.html)을 열어 가상 5문항으로 기능을 확인한다.
-3. 실제 사회 5학년 3-1·3-2 **64문항 검토 화면은** [`fixtures/social-5-u3-1-u3-2-rev4-visual2-64q.html`](fixtures/social-5-u3-1-u3-2-rev4-64q.html)에 **보존본**으로 둔다. 보존본의 문항은 **교사 승인 전 후보**이며 운영 게임 배포 대상이 아니다.
+2. 실행 시 [`releases/v0.1.0-preview.2/review-renderer-demo.html`](releases/v0.1.0-preview.2/review-renderer-demo.html)을 열어 가상 5문항으로 기능을 확인한다.
+3. 실제 사회 5학년 3-1·3-2 **64문항 검토 화면은** [`fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html`](fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html)에 **보존본**으로 둔다. 보존본의 콘텐츠는 **2026-11-21 교사 승인**되었으나, 렌더러 자체와 운영 게임은 미배포 상태다. 정본 ZIP은 [`approved/README.md`](../approved/README.md)를 따른다.
 
 ## 역할 분리
 
