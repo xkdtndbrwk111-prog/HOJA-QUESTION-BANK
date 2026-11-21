@@ -1,0 +1,27 @@
+{
+  "id": "soc5-s2-u3-1-common",
+  "releaseId": "soc5-s2-u3-1-common-teacher-20261121-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-21",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 4,
+  "questions": 32,
+  "types": {
+    "MCQ": 22,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "archive": "HOJA_SOC5_S2_U3_1_COMMON_APPROVED_20261121_r1.zip",
+  "archiveBytes": 493801,
+  "archiveSha256": "5c5f62e04c5aecc05e18dc09689ccae5144f5ba5e545035218a051d59d60dce0",
+  "gitBlobSha": "0139ef23832e791d096dae7f9acafb69adacf0c3",
+  "sourceCandidate": "soc5-s2-u3-1-common-rev4-candidate-v0.3.0-rc9.1.zip",
+  "sourceCandidateSha256": "5b90d72ec29580e72873d06524a25f576e28d2ae687b34fa7a29727da3ef0bd2",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "reviewedPresentation": "presentation/HOJA_SOC5_U3_1_U3_2_APPROVED_64Q_20261121.html",
+  "reviewRendererVersion": "v0.1.0-preview.2",
+  "liveGameTest": "NOT_RUN",
+  "actualElectronicBoardTest": "NOT_RUN",
+  "publicMediaRights": "NOT_AUDITED"
+}
