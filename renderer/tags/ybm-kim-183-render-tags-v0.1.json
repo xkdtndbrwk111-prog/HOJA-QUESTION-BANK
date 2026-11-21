@@ -1,0 +1,7141 @@
+{
+  "g5u10:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q01",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_headache.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "adbb079547cbe57ff80161a3f224879468aba7ae71b7dc07461619a927071a76"
+  },
+  "g5u10:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q02",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_stomachache.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "d325dae3ee36e33313c5005b13f62145238119bd288a7cf56a1f14b73c6c9d10"
+  },
+  "g5u10:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q03",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_toothache.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "3ad251364d8bd390ce16bd70ced2c83aa01e53f3f5ec2f512404d6a13ee236ca"
+  },
+  "g5u10:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q04",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_headache.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_cut.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_stomachache.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_runny_nose.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "c2afa82d9c9aa5ccad6fdfc4e1e204e5fb7de96417ef321ec12c911c8827f20c"
+  },
+  "g5u10:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_cut.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_cold.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_toothache.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u10/assets/u10_runny_nose.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "e9c25eb22217ee01fa87a559cad201823fa04331146e94390140aca32d7eedf9"
+  },
+  "g5u10:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q06",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_cold.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "d6af19b99f724f9b7ab4dd34d642e827c8853fc0c3c717f44b12033428a7a902"
+  },
+  "g5u10:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q07",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "682c1e420c5f9230a7c2c638fe0a59e21c2cfb13ed8926c10383ac1cfd6be47e"
+  },
+  "g5u10:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q08",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "676546371b39b40eed5c3fd9aba6602689595e198b0aae964438d252bcfd201e"
+  },
+  "g5u10:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "645f65a16efe01c14707a525eaecbeccec014426b07eba6786a62e23f9cc4123"
+  },
+  "g5u10:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "1793c0cd1085495bf147c647fdfc16bdcf1816ef1bca0ef1f8e72180a1915622"
+  },
+  "g5u10:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "02a33162d2822ef3b658eac6e5a7cc379d3592f7b3888b7d6cea5bb36034422d"
+  },
+  "g5u10:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a322f57bf18d7ff63f969e2de9473c4dcb0fc7f9882487eb31c0d961a51fb5c2"
+  },
+  "g5u10:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "ac27785a45c034a424465854697074c1e14245fa2a1ce28a7ff7991aa3ab79a9"
+  },
+  "g5u10:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "cd3cf2e6baba04c4484a0d051ef278cb7863647b80c4e2dbfae60ed730fa0379"
+  },
+  "g5u10:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "9b9e2d2a9b4ab4fe37a9f3c03d588331a4368387dcddd2c10e3abd72dc395b0b"
+  },
+  "g5u10:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "f2f19d12428c4579f64441e738c9c620d94db36b844d2cf4b4fc7bba96d05dd5"
+  },
+  "g5u10:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "1e4644c8ead6c4f51c0625ed0fa97dc6707213c4dfb04aa25d4f02eea860b10a"
+  },
+  "g5u10:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "6393528043ff249016a0ab29d81eb6053a906a824e86cd7cbe51ee4e1b3d493b"
+  },
+  "g5u10:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q19",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "d480c8703c2682f13ac1ef0498ac1fb8598844bba3bb71c886e347ba694bbc92"
+  },
+  "g5u10:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "4302e451a433283132a1fa617352ae46fd7d5e7b027b2aa8745fcd5b1ec4670d"
+  },
+  "g5u10:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q21",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "21345af4906dae70a64d6b06668e4acbc91c78afa0c8b446f9164895ca743b5c"
+  },
+  "g5u10:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "c95d7458c0dccc404968f6da4e425bf77f6033e7a9ac192fe5f27f6f8f3eb7d6"
+  },
+  "g5u10:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q24",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "c68809fa69d06a1dada67df4e7b85085774e83d4450b7858a9249c7e7775a68c"
+  },
+  "g5u10:q26": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q26",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "cdcbb0162424e2f9f73f66e52b7b5f56e7d8991388e4f2e8913b48c4c14c26b9"
+  },
+  "g5u10:q27": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q27",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "8c768b0a65bde2bf773e644d8c110a2325fb47b0a73765ceb4c0f6f9635925f7"
+  },
+  "g5u10:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q29",
+    "questionType": "SHORT",
+    "images": [
+      {
+        "asset": "g5u10/assets/u10_headache.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "9b42ea20eb9c4ccc029dcc0a8338f5b5701097a3fa8a23a6dbb3dde9ad5f6e97"
+  },
+  "g5u10:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "0e1fcf47c01411f3c7290f71117fde32a97e006d575c4d4da42edc15431fff43"
+  },
+  "g5u10:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "22b9a36775040bec54f4cebc5099b8402057748f37a1b31ce257d4d779f9532a"
+  },
+  "g5u10:q32": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q32",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "0608bc2b4f24ba0d8a7c1e80d7096ac682cb2581848e43211ca42afa2d2f0250"
+  },
+  "g5u10:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u10:q33",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "3c765294214a29cc8a26d105f36e8225b46deda4b594b9f63db9d96c0023a2a4"
+  },
+  "g5u11:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q01",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "fb642bd6fc7913ae9fc90a83848bc03760b576857aabd16229fbca7d1e03a495"
+  },
+  "g5u11:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q02",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "fb128de8c3f926d494a8b4e40b6aa64b942e29f29082ea1686460a6af7a682b2"
+  },
+  "g5u11:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q03",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "f7f3b456443e94e2a40b03d60596dac9f57151c634762cc497f28f5f776353f1"
+  },
+  "g5u11:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q04",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a0a335371e21f478bdbaab84e4c3f9bb9c0ed685f339888343b4e9e612b4eb73"
+  },
+  "g5u11:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_town_a.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "b68b43872b8291453b05db1f56e994e9c1896e69f786a299256deab5e09ca3fc"
+  },
+  "g5u11:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q06",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_town_a.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "51a513e3e3516bd6495ccc4f62752ef05bb4555daa7988f851758bc5c1d36e90"
+  },
+  "g5u11:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q07",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_town_a.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "08080e0e84278a412b11c724b3f8a0cbe1fa3b128e5607ff1cadf25bb1af4818"
+  },
+  "g5u11:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q08",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_route_b.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "4079b9ee5424250de099a37d657ca243cb24361650e954325bebeea28d18be93"
+  },
+  "g5u11:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "756158966fced23d0a8f0dc00de8544c26ee7ce15934ff76e0040bab547e87f2"
+  },
+  "g5u11:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "135f1800c8d75d3503693a92cc4372342ea96d54a79adcd9b6152ecca43bf5fc"
+  },
+  "g5u11:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "열거형 자료/계획/사건의 순서"
+    ],
+    "sourceDigest": "5bb92760ce4399132f485262f6a7bbf3e4909a80dad2ba825ecf28cd8f0e0f8c"
+  },
+  "g5u11:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "4fbca396d3067ec358dcf418bc55b9d24707ee07ce21957100716435924697e4"
+  },
+  "g5u11:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a588d1091db57dc772f17e7aaa477ccb1aa6e04ce526eb71bc3fc9c3cb0e9f94"
+  },
+  "g5u11:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "14eb25d47427e3e72325bb315e13380d193210bf7483b74b29c8a5f60e559867"
+  },
+  "g5u11:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a77a0cc0e9f8c772a172f2e77e30cf443ca03ab799dc5242d85a59e36ad1d6d0"
+  },
+  "g5u11:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "7453fe37a4acfa7df761a24e6e3b94c436d30a7c420573bec5ef86c696ef3cbe"
+  },
+  "g5u11:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "080ed6c270768d5d6f191a4b157a939b0892fad88d10a0b41377192f6968c4de"
+  },
+  "g5u11:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "469471eb2a985ef095572919581d1d59fff981c12891764ddf7203dc996de653"
+  },
+  "g5u11:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q19",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_green_park.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "5610ac3d11876ee5aae1763279c8ac704b24fa9155220cb9425c68021a3f1b9b"
+  },
+  "g5u11:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "176f60446d946bd910e9b0454be973736fc4ecc5fd66e43c271735da561593ac"
+  },
+  "g5u11:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q21",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "3e26c64ff7c338f4dec5eb30abc8abf88ff06271d126589052df9c1e73f6e62a"
+  },
+  "g5u11:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "ecf03381a548ca0d38863b13943bd980edd49783895a0a0a706cd7fe93bf921a"
+  },
+  "g5u11:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q24",
+    "questionType": "OX",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_map_town_a.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "map",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "map",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "228e3a83ab5eafd13bab60e8e6861680ed2d47eed72c648cc4e02f23a9551430"
+  },
+  "g5u11:q25": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q25",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "d8dfd914ab2f48a920dd0a817e5f09f09f9972a7c57114c894bfb3b2f4ff3df0"
+  },
+  "g5u11:q27": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q27",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "05b7274d385ce941f6357fa6c4cb4a2be5f21b3be56fcb3d51bd2af8198ea16a"
+  },
+  "g5u11:q28": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q28",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "c9f13873901e38f0d21998fa60eae1380dde455bcc77a5581fbf63ee9bc0106c"
+  },
+  "g5u11:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q29",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "523cece87b655f8630d5d77c49558294a4b0ef6376857b94952cacb2149c3614"
+  },
+  "g5u11:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "6be965989d9f491570ec2d299f071e541b52e4a69cc7ff8e2a82689f4b78a83c"
+  },
+  "g5u11:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "08e818cc563981e38356f56c9eeddd12268963c3804d569fc41fd21c77d662c6"
+  },
+  "g5u11:q32": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q32",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "cc2aa96154e08f64c48fbd909fa4bfa630a6ca0c5c6e0262094692396cae68a0"
+  },
+  "g5u11:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q33",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_street_next_to.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "location",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "informational_split",
+      "rendererHint": "split",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "medium",
+    "needsHumanReview": true,
+    "evidence": [
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "cc1eeaee539f82c3a975fb0b6d2bd212dd45e889cd6370a68b372aa3d94aa97a"
+  },
+  "g5u11:q34": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q34",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u11/assets/u11_street_directions.webp",
+        "position": "question",
+        "kind": "informational",
+        "subtype": "wayfinding",
+        "needsFineDetail": true,
+        "priority": "high"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "high",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "high",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_informational",
+      "rendererHint": "dialogue-image",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "medium",
+    "needsHumanReview": true,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "지도·길찾기·위치 등 세밀 판독이 필요한 자료"
+    ],
+    "sourceDigest": "a70cb9621b98f288cadcfac0968d9c3880bc7c2cb8eea385148bd92c20f78259"
+  },
+  "g5u11:q35": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u11:q35",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "e7cf28547306807217b8b638bbcd6bffcda2dd794fb5aac18daeb70e24d20397"
+  },
+  "g5u12:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q01",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_go_skiing.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "05c40ca279a3902bc6006305d15c1ad1d307c14abb0a87b5f5eca25ebfc494b0"
+  },
+  "g5u12:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q02",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_visit_cousins.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "e47106df1573d013cdb4b486198aac6d3cc6685e1cbbdea7e4f8e84a36437a94"
+  },
+  "g5u12:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q03",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_space_camp_v2.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "dd077061f12f197d3cf1f334047b1482e3669549f2ab3def9cc54b6173d9d8b1"
+  },
+  "g5u12:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q04",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_go_skiing.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_study_math.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_learn_spanish.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_read_history.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "027cbb6107922fa698e3e71b4ba9df6ef9646d6bcb9ee0ec6cc81a2ef866cae5"
+  },
+  "g5u12:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_study_math.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_visit_cousins.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_space_camp_v2.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g5u12/assets/u12_go_skiing.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "c22b84fc8ca04a2520162302ea96f9dc97b3260eba575d318dfbbefba9168444"
+  },
+  "g5u12:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q06",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_learn_spanish.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "3d94715297f9162213895114d2fff9fef46d4704c1b725429b72fa13e7a510a3"
+  },
+  "g5u12:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q07",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "7e60c2e706fa7d870cb6f0f7f8db42653171761e40ad8fd7bdff3e77bdf732e7"
+  },
+  "g5u12:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q08",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a1da7cc60015315eee8cbc57cb6fb38499e05976d51ef921e3bb1a5f9bff9145"
+  },
+  "g5u12:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "열거형 자료/계획/사건의 순서"
+    ],
+    "sourceDigest": "ccac27535e65fa8381fd5973cdcfb23d40508fbea02621226cf6f5e4bb1527ba"
+  },
+  "g5u12:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "bfba6f8a038a638a57318e1cd3d9e13b96c6620dbe2ae1f4aae23e731a42e9ef"
+  },
+  "g5u12:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "628f37729ce0e87b8692c73ee9fb57784f87423872c85f06ae45031b1514956d"
+  },
+  "g5u12:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "e0ad5209bea7220bc4587cd9695a5476af661c68817a350dddfd008a8f8d7aa2"
+  },
+  "g5u12:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "be9eaa0c70979e79f9eab4d3ff08beeecae6e3cd86e3b213fab85ea02dc92cd5"
+  },
+  "g5u12:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "cf501347ee50ec7064ca0c4fa678bff9fb7164a2148b097e3f292d2b925aa828"
+  },
+  "g5u12:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "41fcb068b376ae5ae49bca0be3d3767a6de04e17205a8b02eade47d1cd72c71f"
+  },
+  "g5u12:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "0e2d2d2b1bce89496b9c5132a5540bfb4816ffc623bf0fce901c4407ed2cf400"
+  },
+  "g5u12:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "4dffa1cc8a58d5beaa823c57b23e0b11fcabe9890a25d03423ed7673848001f1"
+  },
+  "g5u12:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "c6a44c464a67f8e8cd901de18a95ea0d65070348ddd9339860606c6464234eee"
+  },
+  "g5u12:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q19",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "reading",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "열거형 자료/계획/사건의 순서",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "5670bc69001b2e69381649a8fc79c45cfde9b8fb88d533903c51839184345b87"
+  },
+  "g5u12:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "열거형 자료/계획/사건의 순서",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "669ab58a8889ca673a57ce9b3f374488d5824470a788af5eacb9fad76112f98c"
+  },
+  "g5u12:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q21",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": "reading-stack"
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "과거 교사 화면 검토에서 확인한 상하형 선호를 보존"
+    ],
+    "sourceDigest": "5ac0993f3071f7889ac9fed0ae7012b0057b39e0d22365f41b0d2b2a27f5fe3d"
+  },
+  "g5u12:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "35d7eb29b9657d2380a078d3140a449cc5fd067ddbe8168881d4ea059625b4fc"
+  },
+  "g5u12:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q24",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "01da3f996537775833589c3c1c77495e79f79971c348eafed9d3704c25bba582"
+  },
+  "g5u12:q26": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q26",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "5a8392cf1b461e4b9a3748b1ddcc3521308458d7752c9148f5a661ba8691a362"
+  },
+  "g5u12:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q29",
+    "questionType": "SHORT",
+    "images": [
+      {
+        "asset": "g5u12/assets/u12_go_skiing.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "picture_sentence",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화"
+    ],
+    "sourceDigest": "ae2bffc89ecfae90f17b85eef9b99060974c77820bd491d53755dcad263fb229"
+  },
+  "g5u12:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "1d8c53fed418cd5b8d49ed1e2a347c96944123007d570617c7a42c714617e9b1"
+  },
+  "g5u12:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "0a5dec19b4a0e4843c5be6fa186cbee4e1e37d4273e4edada161dc2653373b3e"
+  },
+  "g5u12:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q33",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "5db8854c4fe349d3dda1b6b42a0d8c122125ef7ee0a9dc7fb944a45858cb4618"
+  },
+  "g5u12:q34": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g5u12:q34",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "0d05ef48599526c56e65863d96a8ecefe0eb91bb9468542ec5ef89442993045d"
+  },
+  "g6u10:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q01",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_spring.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "8cf49428694f4b7ac3590f9ecbef8f99ee0ae6d35d6ebec90ebd20fa8fde653e"
+  },
+  "g6u10:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q02",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_summer.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "85f3af88922961acf75516aa593565c88a214f5f97e7b8def58150617f1a40be"
+  },
+  "g6u10:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q03",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_autumn.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "8c7334763891b88cbbd153c123ac70f76e8256be7fb89332d1d0ee505cdda90f"
+  },
+  "g6u10:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q04",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_spring.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_summer.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_autumn.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_winter.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "5c9629c4a6e530c4179e9ba31c95f12b9a201c5017d06b1b27e4f01c1cd76032"
+  },
+  "g6u10:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_spring.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_autumn.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_winter.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u10/assets/u10_summer.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "78f0ac1185596edac34e18559777628f242e37d22bf499a071c9f8767d94daf5"
+  },
+  "g6u10:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q06",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "64ee54e4c4884769604a6f36ce9234deb9673c7ba2afb0272bba9f64fa730092"
+  },
+  "g6u10:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q07",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "8308ddf650ca0bfea9f858160183f89d8cc2ad960dd605aba7e6d635a63071d1"
+  },
+  "g6u10:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q08",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "d7acdb9160df00e196d18065d65999a21bbc48192a0d26ba8b87151ee312bf20"
+  },
+  "g6u10:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "8c617d4a63ac4b56087c43fa6d09db26142e14792bc1a59a7b26767f228f866b"
+  },
+  "g6u10:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "151c5be157383e2609cc41769609c2bcdbbf6517412d442ac259b27c50e8a7cf"
+  },
+  "g6u10:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "f37bcaf0a2e9151a740c5f8274d5244165324cda84416910ce081b4ebbe72a23"
+  },
+  "g6u10:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "520db281d5d9e5c6f1d6f934e1f9a64557c65844fb07427b93ff0049aa6f1f65"
+  },
+  "g6u10:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "5cc97424b4d5ae015b746fc28a0feeaca3e7715b2cfd29b56c05514cf7e8aa50"
+  },
+  "g6u10:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "f8ef65a3705c09a4ccfac6cf1b15ad36bbdf1c300994d565e1277a894b66b20e"
+  },
+  "g6u10:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "medium",
+    "needsHumanReview": true,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료",
+      "지문 내부에서 화자 표기를 탐지함 — 화면용 발화 분리 권장"
+    ],
+    "sourceDigest": "232e14d949cd691e6447e6112982a6022063cbad01fcc2ac551fb16d68e0c06f"
+  },
+  "g6u10:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "130df8a1dfe68a330540d9fffd134d7ba9501627bf2c91f6941244263cae26c2"
+  },
+  "g6u10:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "medium",
+    "needsHumanReview": true,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료",
+      "지문 내부에서 화자 표기를 탐지함 — 화면용 발화 분리 권장"
+    ],
+    "sourceDigest": "34a72c11b793d107ea012f317db2a8752dd826a3b7e6a96dc813ce20ba921874"
+  },
+  "g6u10:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "열거형 자료/계획/사건의 순서"
+    ],
+    "sourceDigest": "5b8e4b1d32dacb30cb1a092159e5142bd29dc446cd2e7bddcd8229c110319f26"
+  },
+  "g6u10:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q19",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "4af64dadc9e699cfbffa6094b232323f4e5c5ab6cddb4ee29f38223be56f8985"
+  },
+  "g6u10:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "5c18423ec3f562c31f67b6dd12770d48f2f1ec383172606626bc083844d07cbd"
+  },
+  "g6u10:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q21",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_winter.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "picture_sentence",
+      "rendererHint": "picture-stimulus",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화"
+    ],
+    "sourceDigest": "01d818e71ee78f6b7984449e3ebdb55db1ca3bf4ba24a7e41dac4ab82dc53951"
+  },
+  "g6u10:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "0504f0aaa6b18bc6f5382cf8a7f760495e5a63dc63d99c947d0fcd085f0d7804"
+  },
+  "g6u10:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q24",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "cc6eac90722dac0976e19a4451f1298722f3d0ce1f10d7ae86f7ac24f7424261"
+  },
+  "g6u10:q26": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q26",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "66b2f4c4b424caf9a1f3393c2b9ab64cd4cba833b8bdeb6733848d6ebb523ae0"
+  },
+  "g6u10:q27": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q27",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "98d9c2f1bf8312db2193cf333922d4f137bcc601e8af5ffccc76052aba5ebadb"
+  },
+  "g6u10:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q29",
+    "questionType": "SHORT",
+    "images": [
+      {
+        "asset": "g6u10/assets/u10_spring.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "b47fc4d22b478abd7d43908e4a0ecea0a99f1e8bc64a3f5af37013a89f5d8267"
+  },
+  "g6u10:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "6d5b36a6fb327f4eecff6ae6fb01708a2a9afeb2cf3b26997c1a2db0c6d833bb"
+  },
+  "g6u10:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "3a608c5fe2f721477ee2e9ccb013297d7f6cd7e0960ecf057449c4cc8136ef4e"
+  },
+  "g6u10:q32": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q32",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "4f23e4fa0531bae92729f57d9c5a27fea57c89fd647a7e2d0c78cdcae59f546a"
+  },
+  "g6u10:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u10:q33",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "fc27a53c7288a36f53ba29fba41b366ec79951ee57d251d5ff95fe00f8027767"
+  },
+  "g6u11:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q01",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_interesting.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "bc269db5520ddbef6d89feee7e79794f1e79ffd34c85d9a113d2016ca5231ab1"
+  },
+  "g6u11:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q02",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_boring.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "798ec99164702419e63474bce12db66c00d325c011c5aa1dc339e2f752b28e1d"
+  },
+  "g6u11:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q03",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_bright.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "18bd73984c9caefa6446a64ee3edb9a4b21f65e97929b7fe1edfdca8d5364cbb"
+  },
+  "g6u11:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q04",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_bright.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_safe.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_interesting.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_dark.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "8a5d8533295e5df3cbc1f5d3e3fc994ff20ba33e1979d9635212f8bac17522c2"
+  },
+  "g6u11:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_dangerous.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_safe.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_bright.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u11/assets/u11_boring.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "2009c84007979ee14b87682b57de87148947548006a4bee682a4cae61545392b"
+  },
+  "g6u11:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q06",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_safe.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "93225d1ead1aef5f11bb1adfa3e0ee571840e7a7f15377e085f2f2b1ac6d4462"
+  },
+  "g6u11:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q07",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "bf37f30384476e6cb7f1b17368dfa001945cd8e49e4d48114cef6ff9f55ab2b2"
+  },
+  "g6u11:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q08",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "b337fc1e97b7b0a5ee265ba2182f4f58da940cba89aab665a6bdf6b093135d5a"
+  },
+  "g6u11:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "f7b173a9f76fcbd63526c1598ff90b6698b0f04751518211b109f2e59584796b"
+  },
+  "g6u11:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "99511d2c67b314ebd70dbef5370574a371c6ab0d5d39b1682f36cb6371e01e4e"
+  },
+  "g6u11:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "158145767055ff2e9fbffe3e2c36095920ef38d249f314b29b811045f7b964de"
+  },
+  "g6u11:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "3e5a22888c766cff71c788b6583e46ceb9ea37780e287537c2df5b6a0876d975"
+  },
+  "g6u11:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "42ea2a3cb44ee41fdac6cff0efbeb194a2351efabef638c52619ccf516c6eba5"
+  },
+  "g6u11:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "7998f4515cc2777667c2fc7fd4221a309540687ff24eb545ac60747f2545594a"
+  },
+  "g6u11:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "da64bc5b4806600b46643bec8983ddd6c7e337f0bf8c286c2a50318640960305"
+  },
+  "g6u11:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "904a12cbe5e4cf76c63d593995c61ceba62ea48c50a0791b680eb83ea6278888"
+  },
+  "g6u11:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "e96606f525a039420ec7075548cca55bd9f406f8c790b09b40ab4a44bfd43db5"
+  },
+  "g6u11:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "reading",
+      "list",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료",
+      "열거형 자료/계획/사건의 순서"
+    ],
+    "sourceDigest": "b2d250203096827de8f361aa9da27c048b785dd668b0a4616f76748bbe763938"
+  },
+  "g6u11:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q19",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "5ab67d179b4932bdeb8ec3b64cf2173ae2ea4536d5ae369bd979f685158f094f"
+  },
+  "g6u11:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "490411977081d239d5010f2d13631b337722901c5bf69039f4183062580f2efc"
+  },
+  "g6u11:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q21",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_bright.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "picture_sentence",
+      "rendererHint": "picture-stimulus",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화"
+    ],
+    "sourceDigest": "e011c231426dfcb341add6b4455ec52ad3db31f11395295630544043c763306c"
+  },
+  "g6u11:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "4e026dd7308b6259d0b7e9b14d597468fa3957e0c04b101d8db1f33419e54fb4"
+  },
+  "g6u11:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q24",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "b6fe562ceeca5c76d879125bf0eb785ad0067e411198854a61a3e84cbbe92fb2"
+  },
+  "g6u11:q27": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q27",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "40e6d33f99c6955d8fd72a5a27dbf3571cf95657f689c63b9cc6c82d3c6f282d"
+  },
+  "g6u11:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q29",
+    "questionType": "SHORT",
+    "images": [
+      {
+        "asset": "g6u11/assets/u11_interesting.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "scene",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "picture_sentence",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화"
+    ],
+    "sourceDigest": "5e52e26cacd733d9420856ae20e1d3f07969183358e29c3ed10217f9e1f79b48"
+  },
+  "g6u11:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "5868d5240107fec3652e85e257cc20859a87e9830f206f7dcb57bca64f3a5c67"
+  },
+  "g6u11:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "12fe1b04e562af3d066d96332227180e73fde301369a77e5ba975ad994b70cd9"
+  },
+  "g6u11:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q33",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "fa0be8c54343db8708a32200576d92ea8d206be305dc0fdad92b1479576fff7e"
+  },
+  "g6u11:q34": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u11:q34",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "d62f41381da9667c1ebad74b4d0b1fa5a2dc943b60108af4ae0bd64e2f5d20bf"
+  },
+  "g6u12:q01": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q01",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_jige.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "0a437ccd98b03645561097d210901043cc306225013d1cb6cdeb66090c6d7f2a"
+  },
+  "g6u12:q02": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q02",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_gat.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "3ab7a21e85a9b3fb04e2ae2798a0dad4668739c2ff334c0139bb90a7ebff5881"
+  },
+  "g6u12:q03": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q03",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_hanok.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "scene_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "일반 그림의 좌우·상하 위치는 글 길이와 실제 화면 측정으로 결정"
+    ],
+    "sourceDigest": "7e06aa04728c1a6514d9bbbd48c1053ccc1e3b79d9dfcdd93450cd38ca887c78"
+  },
+  "g6u12:q04": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q04",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_jige.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_gat.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_hanok.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_pansori.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "54a3fedd8bb1d801ce4f62a29d802fb9c55ad7cffeda01bc8b77ee174a694674"
+  },
+  "g6u12:q05": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q05",
+    "questionType": "MCQ",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_gat.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_hanok.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_jige.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      },
+      {
+        "asset": "g6u12/assets/u12_pansori.webp",
+        "position": "choice",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "visual_choices",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화",
+      "선택지 자체가 그림으로 구성됨"
+    ],
+    "sourceDigest": "c68f783f0633651cc3e09d8da58057b382d86b08132752ccb4a8ea3b2db54d2a"
+  },
+  "g6u12:q06": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q06",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "32cba1942eb5865d7f06ce2b8f2dae9499c32bdfeb2fb103fbd03ae78ea1f108"
+  },
+  "g6u12:q07": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q07",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "59fca9fe5115f82c9f8f2a0a3349d9bc0dbbff7a5aca224dd546e7a0978cb88f"
+  },
+  "g6u12:q08": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q08",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "aa5e6fb1d8a12830795dbfddd2550271a19e66a784a840df2883d73eb2299a84"
+  },
+  "g6u12:q09": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q09",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별"
+    ],
+    "sourceDigest": "f38e69808bd468ff7657c4c102d5c9f8098526601d7f6d89d9b91b45a6316d65"
+  },
+  "g6u12:q10": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q10",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "0285420c68fe733f59019e2de3b8e37e8f9a20c42a2f9da0c2b7e77f9549e707"
+  },
+  "g6u12:q11": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q11",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "231762173f58b27482cd0f4c71accf3b9575b6847eb68c6d00e99381f87e98ee"
+  },
+  "g6u12:q12": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q12",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "8fba844dc85ed3aabd608faf7e877c62815ad86cfe5328cf3490b5069d1cb3c1"
+  },
+  "g6u12:q13": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q13",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "a824d9fe30031570935c1ae7dfbf7d1cf251447368fd77753f0fc774336f0b1c"
+  },
+  "g6u12:q14": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q14",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "3e60e1696d2920ab23d62d21f0e1b1013a9a33d6e8f0161ed688f5bb591f97ac"
+  },
+  "g6u12:q15": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q15",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "cbd768c48b653b0dec38846c796deb6411ee2d222b0f5303cda849be8234ab28"
+  },
+  "g6u12:q16": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q16",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "a605eb35279dd7129b8818c253cc96d30347dbe5125362457273c2a0bfabb460"
+  },
+  "g6u12:q17": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q17",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "a573e23434d233acd2937ad952ee4ae3d4d478d4b27587fe6271d95309ac8087"
+  },
+  "g6u12:q18": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q18",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "1b8bf88835505fb0867776fae150ff8d5fc3032ec50fcb0866697136feb5f1d7"
+  },
+  "g6u12:q19": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q19",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "85e475d229269e8363e0e0a5bc7e1eb2b968b6f7121ac11e9986654014cfcf29"
+  },
+  "g6u12:q20": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q20",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "f714a3b1fe7e247bcb3306c5c6fede99d620e6e964001db3efa08518a94b88c6"
+  },
+  "g6u12:q21": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q21",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "dialogue",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": true,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "high",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "dialogue_stack",
+      "rendererHint": "dialogue-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "medium",
+    "needsHumanReview": true,
+    "evidence": [
+      "화자별 발화 순서가 있는 대화문으로 판별",
+      "내용 이해를 위한 읽기 자료",
+      "지문 내부에서 화자 표기를 탐지함 — 화면용 발화 분리 권장"
+    ],
+    "sourceDigest": "5c242e1a8ad58f377bf62bace56d7c152e69208adaf9b2f6717c88b70e41b320"
+  },
+  "g6u12:q22": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q22",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "98c7ddaa7239ac23807e4bfb5267461da00699bf46d9f47639eec885cab0777a"
+  },
+  "g6u12:q24": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q24",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "d138ed593c66f78c49dbe15319b5c174f4e4aff1ccf0a1f56c68e8c5573aa5cf"
+  },
+  "g6u12:q27": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q27",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "331b0282f33149eaad6236211828db75daa1c3bccba2125e5b7b34f8f851fa6a"
+  },
+  "g6u12:q29": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q29",
+    "questionType": "SHORT",
+    "images": [
+      {
+        "asset": "g6u12/assets/u12_jige.webp",
+        "position": "question",
+        "kind": "general",
+        "subtype": "object",
+        "needsFineDetail": false,
+        "priority": "normal"
+      }
+    ],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "medium",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "picture_sentence",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "장면이나 물체 인식에 사용하는 일반 삽화"
+    ],
+    "sourceDigest": "881a682843bf1d7d151a78a21faeab6355f50037781257331992933e3ef70f51"
+  },
+  "g6u12:q30": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q30",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "8f727470898519380601b765ffc93b7c5bd9f5b1f721eeb681a5a84c312fac82"
+  },
+  "g6u12:q31": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q31",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "1e8f084794a2bb76fd4b0e6f5e277361b4c2a4787f6be3840a463ba07cda8e8f"
+  },
+  "g6u12:q32": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q32",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "f0c6961f2aac1ad88bde6175ed972852f8d3b2d6d32acb488d86360119d465b0"
+  },
+  "g6u12:q33": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q33",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "6d3054cbd14c18160ee88983f649b4b0c07159139c86158852bc7db33dca34dc"
+  },
+  "g6u12:q34": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q34",
+    "questionType": "OX",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_auto",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "4bd9ca42f52298659d15540f323363b2df925146fc49df9f4695388e76bfb7c0"
+  },
+  "g6u12:q35": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q35",
+    "questionType": "MCQ",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "reading",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "high",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "reading_stack",
+      "rendererHint": "reading-stack",
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "내용 이해를 위한 읽기 자료"
+    ],
+    "sourceDigest": "f4a5a61fc77d75d0e0cffc97dab6748f6a7a74ed3c5fabe8972b41bb901061f5"
+  },
+  "g6u12:q36": {
+    "schemaVersion": "0.1.0-draft",
+    "questionId": "g6u12:q36",
+    "questionType": "SHORT",
+    "images": [],
+    "texts": [
+      "question",
+      "instruction",
+      "example_sentence",
+      "choices"
+    ],
+    "constraints": {
+      "speakerTurnsVertical": false,
+      "preserveOriginalText": true,
+      "minimumImageDetail": "normal",
+      "elementPriority": {
+        "question": "medium",
+        "reading": "low",
+        "dialogue": "low",
+        "image": "low",
+        "choices": "medium"
+      }
+    },
+    "layout": {
+      "recommendedFamily": "text_stack",
+      "rendererHint": null,
+      "selectionBasis": "태그 의미 + 필수 제약 → 기존 A/C/D 내부 배치 힌트; 최종 배치와 용적률은 화면 실측 전까지 미확정",
+      "teacherPreference": null
+    },
+    "confidence": "high",
+    "needsHumanReview": false,
+    "evidence": [
+      "질문 및 선택지 중심, 별도의 자료 없음"
+    ],
+    "sourceDigest": "b4471092efc819c31d6dfa9f76d2c3f2364bffac1bce69d16b3bbf4b236e1d7f"
+  }
+}
