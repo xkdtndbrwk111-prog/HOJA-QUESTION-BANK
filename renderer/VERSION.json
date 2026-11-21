@@ -1,0 +1,26 @@
+{
+  "name": "HOJA Review Renderer",
+  "rendererVersion": "v0.1.0-preview.1",
+  "releaseDate": "2026-11-21",
+  "status": "PREVIEW",
+  "deployment": "NOT_DEPLOYED",
+  "currentRelease": "releases/v0.1.0-preview.1/review-renderer-demo.html",
+  "referenceFixture": "fixtures/social-5-u3-1-u3-2-rev4-64q.html",
+  "sourceFixture": "HOJA_사회5학년_3-1_3-2_최신주관식_64문항_rev4.html",
+  "capabilities": [
+    "A/C/D presentation",
+    "image preview zoom",
+    "choice auto arrangement",
+    "3-out-of-4 MCQ preview",
+    "OX",
+    "SHORT answer reveal",
+    "teacher correct/incorrect manual judgment",
+    "manual judgment duplicate guard",
+    "HD FHD QHD 4K simulated preview"
+  ],
+  "datasetVersionIndependent": true,
+  "gameScoreIntegration": false,
+  "teacherApprovedEngine": false,
+  "releaseSha256": "133145440e3446f8b32d68351e478e0f91900ca004e7ba6de089911735a69b4e",
+  "fixtureSha256": "7a08f5ecd78fafcbebaa1c75223341a7706e3b5a1e9e915132ac8639e1152826"
+}
