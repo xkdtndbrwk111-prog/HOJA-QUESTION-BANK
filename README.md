@@ -31,6 +31,8 @@ QB2 저장소/버전 관리, 매핑 확정(라이브 공개 검증 포함), 실�
 
 ## 교사 승인 콘텐츠 (2026-11-21)
 
+- [영어 5·6학년 천재(함순애) 10·11·12단원 · 201문항 정본 r1](approved/english/cheonjae-ham/grade5-6-u10-12/README.md): 질문·자료·그림·대화·교사 수동 판정 화면을 통합 HTML로 승인. **게임 배포 미실시**, 5학년 10단원 q21 미디어 교체는 HTML 오버레이로 관리.
+
 - [사회 5학년 2학기 공통 · 새로운 사회를 향한 움직임 · r2](approved/social/grade5/semester2/soc5-s2-u2-2-common/README.md): 33문항 / UQ 27, q07 실지도·q21 연표 최종 수정 반영. **콘텐츠 교사 승인, 게임 공개 배포 미실시**. q07 고지도 교과서 사진 재배포 권리 확인 필요.
 - 승인 ZIP·무결성·레이아웃은 위 폴더의 `manifest.json`과 `release/approval.json`(ZIP 내부)을 참조.
 
