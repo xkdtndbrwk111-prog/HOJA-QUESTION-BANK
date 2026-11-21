@@ -5,8 +5,8 @@
   "status": "PREVIEW",
   "deployment": "NOT_DEPLOYED",
   "currentRelease": "releases/v0.1.0-preview.2/review-renderer-demo.html",
-  "referenceFixture": "fixtures/social-5-u3-1-u3-2-rev4-visual2-64q.html",
-  "sourceFixture": "HOJA_사회5학년_64문항_도표가독성개선_rev4_1.html",
+  "referenceFixture": "fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html",
+  "sourceFixture": "HOJA_사회5학년_64문항_연표보기수정_rev4_2.html",
   "capabilities": [
     "A/C/D presentation",
     "image preview zoom",
@@ -22,6 +22,6 @@
   "gameScoreIntegration": false,
   "teacherApprovedEngine": false,
   "releaseSha256": "7721daa9eeed1edc699a07014c4df2cd93d79d79f9e2fcb965234ab664728b60",
-  "fixtureSha256": "ede1ca625c9716752d5207ea4d14690421b4d640e5e863dcc0b257a76b20773f",
-  "notes": "diagram label alignment, cell padding and 1600x900 image typography; optional layoutHint split; original social question and answer content unchanged"
+  "fixtureSha256": "dd8c66e873696493cb66caf826fda0f63d80934befffe6042a02d1300e55cfa0",
+  "notes": "Renderer engine preview.2 unchanged; reference fixture now reflects the teacher-approved 64-question review (U3-1 rev4, U3-2 rev5 q13 date-free), with readable 1600x900 diagrams. Production game not deployed."
 }
