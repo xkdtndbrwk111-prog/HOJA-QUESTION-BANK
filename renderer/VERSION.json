@@ -1,12 +1,12 @@
 {
   "name": "HOJA Review Renderer",
-  "rendererVersion": "v0.1.0-preview.1",
+  "rendererVersion": "v0.1.0-preview.2",
   "releaseDate": "2026-11-21",
   "status": "PREVIEW",
   "deployment": "NOT_DEPLOYED",
-  "currentRelease": "releases/v0.1.0-preview.1/review-renderer-demo.html",
-  "referenceFixture": "fixtures/social-5-u3-1-u3-2-rev4-64q.html",
-  "sourceFixture": "HOJA_사회5학년_3-1_3-2_최신주관식_64문항_rev4.html",
+  "currentRelease": "releases/v0.1.0-preview.2/review-renderer-demo.html",
+  "referenceFixture": "fixtures/social-5-u3-1-u3-2-rev4-visual2-64q.html",
+  "sourceFixture": "HOJA_사회5학년_64문항_도표가독성개선_rev4_1.html",
   "capabilities": [
     "A/C/D presentation",
     "image preview zoom",
@@ -21,6 +21,7 @@
   "datasetVersionIndependent": true,
   "gameScoreIntegration": false,
   "teacherApprovedEngine": false,
-  "releaseSha256": "133145440e3446f8b32d68351e478e0f91900ca004e7ba6de089911735a69b4e",
-  "fixtureSha256": "7a08f5ecd78fafcbebaa1c75223341a7706e3b5a1e9e915132ac8639e1152826"
+  "releaseSha256": "7721daa9eeed1edc699a07014c4df2cd93d79d79f9e2fcb965234ab664728b60",
+  "fixtureSha256": "ede1ca625c9716752d5207ea4d14690421b4d640e5e863dcc0b257a76b20773f",
+  "notes": "diagram label alignment, cell padding and 1600x900 image typography; optional layoutHint split; original social question and answer content unchanged"
 }
