@@ -17,5 +17,10 @@
   "archive": "HOJA_SOC5_S2_U2_2_COMMON_APPROVED_20261121_r2.zip",
   "bytes": 922257,
   "sha256": "b575868cf5b2e2281d3cea9c6f08b1e002b224c049ac1f57c3c0965d1921e821",
-  "lastChange": "q21 teacher-approved options (no listed diagram events in choices)"
+  "lastChange": "q21 teacher-approved options (no listed diagram events in choices)",
+  "q07TeacherVisualReview": {
+    "status": "APPROVED",
+    "date": "2026-11-21",
+    "note": "교사가 지도 자료를 직접 확인하고 내용 및 화면 사용을 승인함. 공개 온라인 재배포 권리 검증은 별도 항목."
+  }
 }
