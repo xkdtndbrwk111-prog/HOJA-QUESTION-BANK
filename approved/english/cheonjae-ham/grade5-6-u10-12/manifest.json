@@ -1,0 +1,34 @@
+{
+  "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-21",
+  "gameDeployment": "NOT_DEPLOYED",
+  "revision": "r1",
+  "units": [
+    "eng5-ham-u10",
+    "eng5-ham-u11",
+    "eng5-ham-u12",
+    "eng6-ham-u10",
+    "eng6-ham-u11",
+    "eng6-ham-u12"
+  ],
+  "totalQuestions": 201,
+  "types": {
+    "MCQ": 138,
+    "OX": 32,
+    "SHORT": 31
+  },
+  "soloExcludes": [
+    "SHORT"
+  ],
+  "teamAllows": [
+    "MCQ",
+    "OX",
+    "SHORT"
+  ],
+  "archive": "HOJA_영어5_6학년_10_11_12단원_교사승인정본_20261121_r1.zip",
+  "archiveBytes": 1629959,
+  "archiveSha256": "dc1cad5e5cbf76b2d83d370fb29e2872cc109784543234bbf648ddca13dffdac",
+  "gitBlobSha": "512c456dbee02460958c037d62d48ad7d1ea7742",
+  "note": "The final HTML presentation v3 includes the q21 school/clock override; source cartridge ZIP files are preserved unchanged and are NOT by themselves ready for game deployment."
+}
