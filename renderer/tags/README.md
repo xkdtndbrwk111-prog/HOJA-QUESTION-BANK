@@ -47,3 +47,11 @@ console.log(tag.layout.recommendedFamily); // dialogue_informational
 ## 승인 YBM 및 후속 태그
 - 승인 태그: approved/english/ybm-kim/grade5-6-u10-12/r1/tags.approved.json (183개, 핵심 그림 5개 우선순위 보정).
 - 새로운 미태그 문항은 문제의 질과 정답·교육적 오류를 먼저 확인한 후, 그림 중요도 및 배치를 검수합니다.
+
+
+## 2026-11-22 · 수학 문항 태그 실험과 스키마 주의
+- `auto-classifier-v0.2.js`도 저장소에 존재하며 `VERSION.json`의 `tagClassifier`가 해당 파일을 가리킨다. v0.1은 이전 참고 구현으로 보존한다.
+- 수학 187문항은 태그 규격이 생기기 전에 제작되었으므로, **내용·정답 검수 → 문항별 의미 태그 → 기존 A/C/D 렌더러 → 실측 브라우저 시험 → 교사 승인** 절차가 필요하다.
+- [수학 187문항 태그 실험 JSON](../experiments/2026-11-22/math-187-meaning-render-tags-review.3.json) 및 [태그 연결 HTML](../experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.3.html)은 구형 렌더러 연동 **실험안**이며 정본 아님. 원본 승인 데이터를 바꾸지 않는다.
+- 현재 `render-tags-v0.1.schema.json`은 수학 전용 `mathSemantics`, `preferredLayout` 및 수학 전용 enum을 허용하지 않는다. **실험 JSON은 현재 공통 스키마를 통과한다고 주장할 수 없다.** 형식 통일·스키마 버전업/정규화·자동 분류기 검증이 후속 필수 작업이다.
+- `rendererHint`는 최종 좌표 지정이 아니라 보조 힌트다. 전개도·숫자선·막대그래프·회전판·입체도형 비교처럼 도형 내부 글자가 정답 판정에 필요한 자료에는 가독성 우선순위를 부여하고 실제 브라우저 실측으로 레이아웃을 최종 판단한다.
