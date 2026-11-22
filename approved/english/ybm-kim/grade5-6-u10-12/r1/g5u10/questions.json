@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "g5u10:q01",
+    "localId": "q01",
+    "questionId": "eng5-ybm-kim-u10:q01",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "그림 속 어린이의 증상을 나타내는 영어 단어로 알맞은 것은 무엇인가요?",
+    "image": "g5u10/assets/u10_headache.webp",
+    "imageAlt": "두 손으로 이마를 감싸 쥐고 괴로워하는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "headache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "stomachache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "toothache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "runny nose",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "머리가 아픈 증상(두통)은 영어로 headache입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng5-ybm-kim-u10:g01"
+  },
+  {
+    "id": "g5u10:q02",
+    "localId": "q02",
+    "questionId": "eng5-ybm-kim-u10:q02",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "그림 속 어린이의 증상을 나타내는 영어 표현으로 알맞은 것은 무엇인가요?",
+    "image": "g5u10/assets/u10_stomachache.webp",
+    "imageAlt": "두 손으로 배를 감싸 쥐고 찡그린 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I have a headache.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I have a stomachache.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I have a runny nose.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I have a toothache.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "배가 아픈 증상(복통)은 stomachache이므로 I have a stomachache.가 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q03",
+    "localId": "q03",
+    "questionId": "eng5-ybm-kim-u10:q03",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "그림 속 어린이가 겪고 있는 증상으로 알맞은 영어 단어는 무엇인가요?",
+    "image": "g5u10/assets/u10_toothache.webp",
+    "imageAlt": "한쪽 볼을 손으로 감싸고 입을 벌린 채 아파하는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "headache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "cold",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "toothache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "cut",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "이가 아파 볼을 감싸 쥔 증상(치통)은 영어로 toothache입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q04",
+    "localId": "q04",
+    "questionId": "eng5-ybm-kim-u10:q04",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 문장이 나타내는 증상에 알맞은 그림을 고르세요.\nI have a runny nose.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "",
+        "image": "g5u10/assets/u10_headache.webp",
+        "imageAlt": "이마를 감싸 쥔 어린이"
+      },
+      {
+        "id": "c2",
+        "text": "",
+        "image": "g5u10/assets/u10_cut.webp",
+        "imageAlt": "손가락에 반창고를 붙인 어린이"
+      },
+      {
+        "id": "c3",
+        "text": "",
+        "image": "g5u10/assets/u10_stomachache.webp",
+        "imageAlt": "배를 감싸 쥔 어린이"
+      },
+      {
+        "id": "c4",
+        "text": "",
+        "image": "g5u10/assets/u10_runny_nose.webp",
+        "imageAlt": "휴지로 코를 풀고 있는 어린이"
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "runny nose는 '콧물'을 뜻하므로 휴지로 코를 풀고 있는 그림이 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q05",
+    "localId": "q05",
+    "questionId": "eng5-ybm-kim-u10:q05",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 문장이 나타내는 증상에 알맞은 그림을 고르세요.\nI have a cut.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "",
+        "image": "g5u10/assets/u10_cut.webp",
+        "imageAlt": "손가락에 반창고를 붙인 어린이"
+      },
+      {
+        "id": "c2",
+        "text": "",
+        "image": "g5u10/assets/u10_cold.webp",
+        "imageAlt": "목도리를 두르고 체온계를 든 어린이"
+      },
+      {
+        "id": "c3",
+        "text": "",
+        "image": "g5u10/assets/u10_toothache.webp",
+        "imageAlt": "볼을 감싸 쥔 어린이"
+      },
+      {
+        "id": "c4",
+        "text": "",
+        "image": "g5u10/assets/u10_runny_nose.webp",
+        "imageAlt": "휴지로 코를 푸는 어린이"
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "cut은 '베인 상처'를 뜻하므로 손가락에 반창고를 붙인 그림이 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q06",
+    "localId": "q06",
+    "questionId": "eng5-ybm-kim-u10:q06",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "그림 속 어린이가 자신의 증상을 말할 때 알맞은 문장은 무엇인가요?",
+    "image": "g5u10/assets/u10_cold.webp",
+    "imageAlt": "목도리를 두르고 오한을 느끼며 체온계를 들고 있는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I have a cut.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I have a cold.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I have a toothache.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I have a stomachache.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "오한과 열이 나는 감기 증상은 cold이므로 I have a cold.가 알맞습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q07",
+    "localId": "q07",
+    "questionId": "eng5-ybm-kim-u10:q07",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "몸이 아파 보이는 친구에게 '무슨 일이니? 어디가 아프니?'라고 물을 때 알맞은 영어 표현은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Where is the library?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "How old are you?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "What's wrong?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "What time is it?",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "아픈 곳이나 무슨 일이 있는지 물을 때는 What's wrong?이라고 말합니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q08",
+    "localId": "q08",
+    "questionId": "eng5-ybm-kim-u10:q08",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 문장의 빈칸에 들어갈 알맞은 단어는 무엇인가요?\nI (    ) a headache.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "am",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "go",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "do",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "have",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "두통·복통·감기 등 증상이 있다고 말할 때는 'I have a + 증상.' 형식으로 have를 씁니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q09",
+    "localId": "q09",
+    "questionId": "eng5-ybm-kim-u10:q09",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 대화의 빈칸에 들어갈 알맞은 응답은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "AI Doctor",
+        "text": "Do you have a runny nose, too?"
+      },
+      {
+        "speaker": "Minji",
+        "text": "(    ) I have a runny nose."
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Yes, I do.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "No, I don't.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Yes, I am.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "No, I can't.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "Do you have ~?로 물었고 뒤에 I have a runny nose.라고 긍정했으므로 Yes, I do.가 알맞습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q10",
+    "localId": "q10",
+    "questionId": "eng5-ybm-kim-u10:q10",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 대화의 빈칸에 들어갈 알맞은 공감 표현은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "B",
+        "text": "I have a headache."
+      },
+      {
+        "speaker": "A",
+        "text": "(    ) Get some sleep."
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I can't wait.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "That's too bad.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Have a good day.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "You're welcome.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "친구가 아프다고 말했을 때 '저런, 안됐구나.'라고 공감하는 표현은 That's too bad.입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q11",
+    "localId": "q11",
+    "questionId": "eng5-ybm-kim-u10:q11",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "아픈 친구에게 '잠을 좀 자.'라고 조언할 때 알맞은 영어 표현은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Drink some warm water.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "Go and see a doctor.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Get some sleep.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "Open your mouth.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "'잠을 좀 자.'라는 조언은 영어로 Get some sleep.입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng5-ybm-kim-u10:g02"
+  },
+  {
+    "id": "g5u10:q12",
+    "localId": "q12",
+    "questionId": "eng5-ybm-kim-u10:q12",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "'따뜻한 물을 좀 마셔.'라는 뜻이 되도록 빈칸에 알맞은 말을 고르세요.\nDrink some (    ) water.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "cold",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "sweet",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "clean",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "warm",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "'따뜻한'은 영어로 warm이므로 Drink some warm water.가 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q13",
+    "localId": "q13",
+    "questionId": "eng5-ybm-kim-u10:q13",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "몸이 아픈 친구에게 '가서 의사 선생님을 만나 봐.'라고 조언할 때 빈칸에 알맞은 단어는 무엇인가요?\nGo and see a (    ).",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "doctor",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "teacher",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "friend",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "cook",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "아픈 친구에게 진찰을 권하는 조언은 Go and see a doctor.입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q14",
+    "localId": "q14",
+    "questionId": "eng5-ybm-kim-u10:q14",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 대화에서 유나가 준에게 해 줄 조언으로 가장 알맞은 것은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "Yuna",
+        "text": "What's wrong, Jun?"
+      },
+      {
+        "speaker": "Jun",
+        "text": "I have a stomachache. I ate spaghetti, a pizza, and a steak."
+      },
+      {
+        "speaker": "Yuna",
+        "text": "(    )"
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Open your mouth, please.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "Don't eat too much.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Look after the bird.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "Go to the zoo.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "스파게티, 피자, 스테이크를 한꺼번에 많이 먹어 배가 아픈 상황이므로 '너무 많이 먹지 마.'라는 뜻의 Don't eat too much.가 알맞습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q15",
+    "localId": "q15",
+    "questionId": "eng5-ybm-kim-u10:q15",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 중 교과서 Sounds에서 배운 'th' 소리가 들어 있는 단어는 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "sad",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "cut",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "three",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "cold",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "p.149 Sounds의 'Mr. Smith is sad. He has three bad teeth.'에서 Smith, three, teeth에 th 철자와 소리가 들어 있습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q16",
+    "localId": "q16",
+    "questionId": "eng5-ybm-kim-u10:q16",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "'치통'을 뜻하는 영어 단어의 철자가 바르게 쓰인 것은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "tothache",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "toothake",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "toothach",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "toothache",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "'치통'은 치아(tooth)와 통증(ache)이 합쳐진 toothache로 씁니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q17",
+    "localId": "q17",
+    "questionId": "eng5-ybm-kim-u10:q17",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 단어를 바르게 배열하여 '나는 감기에 걸렸어.'라는 문장을 완성한 것은 무엇인가요?\n( a / cold / have / I )",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I have a cold.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I a have cold.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Have I a cold.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I cold have a.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "주어(I) + 동사(have) + 관사(a) + 증상(cold) 순서로 배열하면 I have a cold.가 됩니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q18",
+    "localId": "q18",
+    "questionId": "eng5-ybm-kim-u10:q18",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 글을 읽고 John Dolittle에 대한 설명으로 알맞은 것을 고르세요.\nJohn Dolittle is an animal doctor. He loves animals and looks after them very well. He can understand them.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "그는 동물을 무서워해서 돌보지 못한다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "그는 동물 의사이며 동물을 잘 돌보고 이해할 수 있다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "그는 동물원에서 사육사로 일하며 요리한다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "그는 동물들의 말을 전혀 이해할 수 없다.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "본문에 John Dolittle은 animal doctor이며 동물을 사랑하고 잘 돌보며(looks after them very well) 이해할 수 있다(can understand them)고 나와 있습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q19",
+    "localId": "q19",
+    "questionId": "eng5-ybm-kim-u10:q19",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 Dr. Dolittle 이야기를 읽고, 새의 증상과 닥터 두리틀의 조언이 바르게 짝지어진 것을 고르세요.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "Dr. Dolittle",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "Bird",
+        "text": "I have a cut."
+      },
+      {
+        "speaker": "Dr. Dolittle",
+        "text": "I can help you. Now, you're okay. Get some sleep."
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "증상: 감기 / 조언: 따뜻한 물 마시기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "증상: 치통 / 조언: 딱딱한 음식 먹지 않기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "증상: 베인 상처 / 조언: 잠을 좀 자기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "증상: 두통 / 조언: 병원에 가기",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "새는 I have a cut.(베인 상처)이라고 말했고, 닥터 두리틀은 치료 후 Get some sleep.(잠을 좀 자.)라고 조언했습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q20",
+    "localId": "q20",
+    "questionId": "eng5-ybm-kim-u10:q20",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 이야기를 읽고, 닥터 두리틀이 호랑이에게 해 준 조언으로 알맞은 것을 고르세요.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "Dr. Dolittle",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "Tiger",
+        "text": "Dr. Dolittle, I have a toothache."
+      },
+      {
+        "speaker": "Dr. Dolittle",
+        "text": "Open your mouth, please. Don't eat hard food."
+      },
+      {
+        "speaker": "Tiger",
+        "text": "Thank you."
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "잠을 푹 자거라.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "따뜻한 물을 마시거라.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "동물원 밖으로 나가거라.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "딱딱한 음식을 먹지 마라.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "닥터 두리틀은 치통이 있는 호랑이에게 Don't eat hard food.(딱딱한 음식을 먹지 마.)라고 조언했습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q21",
+    "localId": "q21",
+    "questionId": "eng5-ybm-kim-u10:q21",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "다음 대화를 읽고 내용과 일치하지 않는 것을 고르세요.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "Yuna",
+        "text": "What's wrong, Jun?"
+      },
+      {
+        "speaker": "Jun",
+        "text": "I have a stomachache."
+      },
+      {
+        "speaker": "Yuna",
+        "text": "What did you eat?"
+      },
+      {
+        "speaker": "Jun",
+        "text": "I ate spaghetti, a pizza, and a steak."
+      },
+      {
+        "speaker": "Yuna",
+        "text": "Don't eat too much."
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "유나는 준에게 잠을 좀 자라고 조언했다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "준은 배가 아픈 증상을 겪고 있다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "준은 스파게티, 피자, 스테이크를 먹었다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "유나는 준에게 너무 많이 먹지 말라고 했다.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "유나는 준에게 Don't eat too much.(너무 많이 먹지 마.)라고 조언했으므로 잠을 자라고 조언했다는 1번은 일치하지 않습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q22",
+    "localId": "q22",
+    "questionId": "eng5-ybm-kim-u10:q22",
+    "unit": "g5u10",
+    "type": "MCQ",
+    "prompt": "교과서 '여러 나라의 민간 감기 치료법'에 소개된 나라와 치료법이 바르게 연결된 것은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "핀란드 — 벌꿀 넣은 레몬차",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "오스트레일리아 — 벌꿀 레몬차",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "오스트레일리아 — 양파우유",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "핀란드 — 차가운 레몬주스",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "p.155 문화 자료에 따르면 핀란드에서는 양파우유를, 오스트레일리아에서는 벌꿀 넣은 뜨거운 레몬차를 민간 감기 치료법으로 소개합니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q24",
+    "localId": "q24",
+    "questionId": "eng5-ybm-kim-u10:q24",
+    "unit": "g5u10",
+    "type": "OX",
+    "prompt": "That's too bad.는 친구가 좋은 일을 해냈을 때 칭찬하면서 하는 말이다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": false
+    },
+    "explanation": "That's too bad.는 친구가 아프거나 안타까운 일을 겪었을 때 '저런, 안됐구나.'라고 공감하는 표현이므로 거짓입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q26",
+    "localId": "q26",
+    "questionId": "eng5-ybm-kim-u10:q26",
+    "unit": "g5u10",
+    "type": "OX",
+    "prompt": "이야기 'Dr. Dolittle'에서 닥터 두리틀은 가족과 함께 학교(school)에 갔다가 우는 호랑이를 만났다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": false
+    },
+    "explanation": "본문(p.151)에서 닥터 두리틀은 가족과 함께 동물원(the zoo)에 갔다가 우는 호랑이를 만났으므로 거짓입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q27",
+    "localId": "q27",
+    "questionId": "eng5-ybm-kim-u10:q27",
+    "unit": "g5u10",
+    "type": "OX",
+    "prompt": "이야기 'Dr. Dolittle'에서 John Dolittle은 동물들을 사랑하고 그들의 말을 이해할 수 있다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": true
+    },
+    "explanation": "본문(p.150)에 He loves animals and looks after them very well. He can understand them.이라고 나와 있으므로 참입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q29",
+    "localId": "q29",
+    "questionId": "eng5-ybm-kim-u10:q29",
+    "unit": "g5u10",
+    "type": "SHORT",
+    "prompt": "그림 속 어린이의 증상을 나타내는 영어 단어를 쓰세요.",
+    "image": "g5u10/assets/u10_headache.webp",
+    "imageAlt": "두 손으로 이마를 감싸 쥐고 괴로워하는 어린이",
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "headache"
+    },
+    "explanation": "머리가 아픈 증상(두통)은 영어로 headache입니다.",
+    "accepted": [
+      "a headache"
+    ],
+    "source": "교과서 기반 후보",
+    "group": "eng5-ybm-kim-u10:g01"
+  },
+  {
+    "id": "g5u10:q30",
+    "localId": "q30",
+    "questionId": "eng5-ybm-kim-u10:q30",
+    "unit": "g5u10",
+    "type": "SHORT",
+    "prompt": "'잠을 좀 자.'라는 뜻이 되도록 빈칸에 들어갈 영어 단어를 쓰세요.\nGet some (    ).",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "sleep"
+    },
+    "explanation": "'잠을 좀 자.'는 Get some sleep.이므로 빈칸에는 sleep이 들어갑니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng5-ybm-kim-u10:g02"
+  },
+  {
+    "id": "g5u10:q31",
+    "localId": "q31",
+    "questionId": "eng5-ybm-kim-u10:q31",
+    "unit": "g5u10",
+    "type": "SHORT",
+    "prompt": "'무슨 일이니? 어디가 아프니?'라는 뜻이 되도록 빈칸에 들어갈 영어 단어를 쓰세요.\nWhat's (    )?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "wrong"
+    },
+    "explanation": "아픈 곳이나 무슨 일이 있는지 물을 때는 What's wrong?이라고 씁니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q32",
+    "localId": "q32",
+    "questionId": "eng5-ybm-kim-u10:q32",
+    "unit": "g5u10",
+    "type": "SHORT",
+    "prompt": "'나는 감기에 걸렸어.'라는 뜻이 되도록 빈칸에 들어갈 영어 단어를 쓰세요.\nI have a (    ).",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "cold"
+    },
+    "explanation": "'감기'는 영어로 cold이므로 I have a cold.가 됩니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g5u10:q33",
+    "localId": "q33",
+    "questionId": "eng5-ybm-kim-u10:q33",
+    "unit": "g5u10",
+    "type": "OX",
+    "prompt": "'Are you okay?'는 상대방이 괜찮은지 물을 때 쓰는 표현이다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": true
+    },
+    "explanation": "Are you okay?는 몸이 안 좋아 보이는 상대방에게 '괜찮니?'라고 묻는 표현이므로 참입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  }
+]

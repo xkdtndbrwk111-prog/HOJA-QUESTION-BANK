@@ -1,0 +1,39 @@
+{
+  "reviewVersion": "v0.2.0-review.1",
+  "questions": 183,
+  "images": 31,
+  "sourceContentUnchanged": true,
+  "baseRegression": {
+    "HDwarningCount": 24,
+    "FHDwarningCount": 63,
+    "newWarnings": 0,
+    "jsErrors": 0
+  },
+  "reviewUi": {
+    "statusLabels": [
+      "pass",
+      "issue",
+      "pending"
+    ],
+    "perQuestionNotes": true,
+    "exportImportJson": true
+  },
+  "testedShortQ29": [
+    "g5u10:q29",
+    "g5u12:q29",
+    "g6u10:q29",
+    "g6u11:q29",
+    "g6u12:q29"
+  ],
+  "testResolutions": [
+    "1280x720",
+    "1920x1080"
+  ],
+  "shortNextButtonOverlap": false,
+  "shortNextButtonClicked": true,
+  "scopeLimitations": [
+    "Full 4K sweep not conducted",
+    "Old warning flags remain",
+    "Game not deployed"
+  ]
+}

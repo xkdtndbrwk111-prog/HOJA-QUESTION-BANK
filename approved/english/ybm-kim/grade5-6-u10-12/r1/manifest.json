@@ -1,0 +1,37 @@
+{
+  "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
+  "approvalDate": "2026-11-22",
+  "teacherApproval": "APPROVED",
+  "gameDeployment": "NOT_DEPLOYED",
+  "subject": "english",
+  "publisher": "YBM",
+  "author": "김혜리",
+  "totalQuestions": 183,
+  "unitCounts": {
+    "g5u10": 30,
+    "g5u11": 33,
+    "g5u12": 29,
+    "g6u10": 30,
+    "g6u11": 29,
+    "g6u12": 32
+  },
+  "types": {
+    "MCQ": 135,
+    "OX": 24,
+    "SHORT": 24
+  },
+  "mediaAssets": 31,
+  "rawQuestionsSHA256": "08390378524f638739c031d3adfcc1bf50c72e188c6601760272c7e9e4e66d9b",
+  "rawImagesTableSHA256": "58d477bc02595d1e6965769fc1fd66583a239db25328ddbb2ae17650385504ce",
+  "sourceCandidate": "renderer/experiments/2026-11-22/ybm-183-tagged-v0.6.html",
+  "approvedPresentation": "review-approved-183.html",
+  "approvedData": "questions.approved.json",
+  "approvedTags": "tags.approved.json",
+  "approvedImages": "images.approved.json",
+  "schemaNote": "Annotation schema is experimental; teacher-approved content separate.",
+  "limitations": [
+    "Existing HD24/FHD63 warning flags",
+    "No complete 4K sweep",
+    "Not connected to operating game"
+  ]
+}

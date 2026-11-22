@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "g6u10:q01",
+    "localId": "q01",
+    "questionId": "eng6-ybm-kim-u10:q01",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "그림 속 계절과 가장 잘 어울리는 문장을 고르세요.",
+    "image": "g6u10/assets/u10_spring.webp",
+    "imageAlt": "분홍빛 벚꽃과 알록달록한 꽃들이 핀 공원을 걷는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I like spring because I can see the beautiful flowers.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I like summer because I can swim in the sea.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I like autumn because I can see the colorful leaves.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like winter because I can play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "벚꽃과 아름다운 꽃이 핀 봄 풍경이므로 I like spring because I can see the beautiful flowers.가 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng6-ybm-kim-u10:g01"
+  },
+  {
+    "id": "g6u10:q02",
+    "localId": "q02",
+    "questionId": "eng6-ybm-kim-u10:q02",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "그림 속 계절과 활동을 바르게 설명한 문장은 무엇인가요?",
+    "image": "g6u10/assets/u10_summer.webp",
+    "imageAlt": "물안경을 쓰고 맑은 파란 바다에서 즐겁게 수영하는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I like spring because I can see the beautiful flowers.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I like summer because I can swim in the sea.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I like winter because I can go skiing.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like autumn because I can go camping.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "여름 바다에서 수영하는 그림이므로 I like summer because I can swim in the sea.가 알맞습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q03",
+    "localId": "q03",
+    "questionId": "eng6-ybm-kim-u10:q03",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "그림 속 계절과 가장 잘 어울리는 문장은 무엇인가요?",
+    "image": "g6u10/assets/u10_autumn.webp",
+    "imageAlt": "빨갛고 노란 단풍잎이 떨어지는 나무 아래에서 미소 짓는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I like winter because I can play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I like summer because I can swim in the sea.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I like autumn because I can see the colorful leaves.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like spring because the weather is warm.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "알록달록한 단풍잎을 보는 가을 풍경이므로 I like autumn because I can see the colorful leaves.가 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q04",
+    "localId": "q04",
+    "questionId": "eng6-ybm-kim-u10:q04",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 문장에 알맞은 계절 그림을 고르세요.\nI like winter because I can play in the snow.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "",
+        "image": "g6u10/assets/u10_spring.webp",
+        "imageAlt": "벚꽃이 핀 공원을 걷는 어린이"
+      },
+      {
+        "id": "c2",
+        "text": "",
+        "image": "g6u10/assets/u10_summer.webp",
+        "imageAlt": "바다에서 수영하는 어린이"
+      },
+      {
+        "id": "c3",
+        "text": "",
+        "image": "g6u10/assets/u10_autumn.webp",
+        "imageAlt": "단풍잎을 바라보는 어린이"
+      },
+      {
+        "id": "c4",
+        "text": "",
+        "image": "g6u10/assets/u10_winter.webp",
+        "imageAlt": "눈 내리는 날 눈사람을 만드는 어린이"
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "winter는 겨울, play in the snow는 '눈 속에서 놀다'이므로 눈사람을 만드는 그림이 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q05",
+    "localId": "q05",
+    "questionId": "eng6-ybm-kim-u10:q05",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 문장에 알맞은 그림을 고르세요.\nI like spring because I can see the beautiful flowers.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "",
+        "image": "g6u10/assets/u10_spring.webp",
+        "imageAlt": "벚꽃과 여러 꽃이 핀 공원을 걷는 어린이"
+      },
+      {
+        "id": "c2",
+        "text": "",
+        "image": "g6u10/assets/u10_autumn.webp",
+        "imageAlt": "단풍잎이 떨어지는 공원의 어린이"
+      },
+      {
+        "id": "c3",
+        "text": "",
+        "image": "g6u10/assets/u10_winter.webp",
+        "imageAlt": "눈사람을 만드는 어린이"
+      },
+      {
+        "id": "c4",
+        "text": "",
+        "image": "g6u10/assets/u10_summer.webp",
+        "imageAlt": "바다에서 수영하는 어린이"
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "spring은 봄, see the beautiful flowers는 '아름다운 꽃을 보다'이므로 봄꽃이 핀 공원 그림이 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q06",
+    "localId": "q06",
+    "questionId": "eng6-ybm-kim-u10:q06",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "친구에게 '너는 어떤 계절을 좋아하니?'라고 물을 때 알맞은 영어 표현은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "What do you think?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "What season do you like?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Where is the library?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "What will you do?",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "좋아하는 계절을 물을 때는 What season do you like?라고 말합니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q07",
+    "localId": "q07",
+    "questionId": "eng6-ybm-kim-u10:q07",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "좋아하는 계절과 그 이유를 연결할 때 빈칸에 들어갈 알맞은 단어는 무엇인가요?\nI like winter (    ) I can play in the snow.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "and",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "but",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "because",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "about",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "'~이기 때문에'라는 이유를 연결할 때는 접속사 because를 씁니다(p.152 Build Language).",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng6-ybm-kim-u10:g02"
+  },
+  {
+    "id": "g6u10:q08",
+    "localId": "q08",
+    "questionId": "eng6-ybm-kim-u10:q08",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "'나는 캠핑을 갈 수 있어서 가을을 좋아해.'라는 뜻이 되도록 빈칸에 알맞은 말을 고르세요.\nI like autumn because I can (    ).",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "swim in the sea",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "play in the snow",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "go skiing",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "go camping",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "'캠핑을 가다'는 go camping이므로 I like autumn because I can go camping.이 정답입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q09",
+    "localId": "q09",
+    "questionId": "eng6-ybm-kim-u10:q09",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 중 계절과 날씨 이유를 자연스럽게 연결한 문장은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I like spring because the weather is warm and sunny.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I like winter because I like hot weather.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I like summer because I can play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like autumn because the flowers are blooming in snow.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "p.152 Build Language에 제시된 대로 봄(spring)을 좋아하는 이유로 '날씨가 따뜻하고 화창해서(the weather is warm and sunny)'가 가장 자연스럽습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q10",
+    "localId": "q10",
+    "questionId": "eng6-ybm-kim-u10:q10",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 감사 표현은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text": "I like autumn because I can go camping."
+      },
+      {
+        "speaker": "B",
+        "text": "You're good at camping."
+      },
+      {
+        "speaker": "A",
+        "text": "(    )"
+      }
+    ],
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I have no idea about it.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "Thanks for saying that.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "What season do you like?",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I don't think it is fun.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "친구가 '캠핑을 잘하는구나.'라고 칭찬해 주었을 때 '그렇게 말해 줘서 고마워.'라고 답하는 표현은 Thanks for saying that.입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q11",
+    "localId": "q11",
+    "questionId": "eng6-ybm-kim-u10:q11",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "'나를 도와줘서 고마워.'라는 뜻이 되도록 빈칸에 들어갈 알맞은 형태를 고르세요.\nThanks for (    ) me.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "help",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "helps",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "helping",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "helped",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "전치사 for 뒤에는 동사에 -ing를 붙여 쓰므로 '도와줘서 고마워.'는 Thanks for helping me.가 됩니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q12",
+    "localId": "q12",
+    "questionId": "eng6-ybm-kim-u10:q12",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 중 교과서 Sounds에서 배운 '-ing' 소리로 끝나지 않는 단어는 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "spring",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "morning",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "everything",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "season",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "p.149 Sounds 'I like spring because the birds sing in the morning. Everything sounds great.'에서 spring, sing, morning, everything은 모두 -ing로 끝나지만 season은 아닙니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q13",
+    "localId": "q13",
+    "questionId": "eng6-ybm-kim-u10:q13",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "'가을'을 뜻하는 영어 단어의 철자가 바르게 쓰인 것은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "autumn",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "autum",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "autmn",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "atumn",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "'가을'은 끝에 묵음 n이 들어간 a-u-t-u-m-n(autumn)으로 씁니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q14",
+    "localId": "q14",
+    "questionId": "eng6-ybm-kim-u10:q14",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "주어진 어구를 바르게 배열하여 문장을 완성한 것은 무엇인가요?\nI like winter ( can / I / because / play in the snow ).",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "I like winter I because can play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "I like winter because I can play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "I like winter because can I play in the snow.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like winter play in the snow because I can.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "이유 접속사 because 뒤에 주어(I) + 조동사(can) + 동사구(play in the snow) 순서로 배열합니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q15",
+    "localId": "q15",
+    "questionId": "eng6-ybm-kim-u10:q15",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 이야기를 읽고, 기억을 잃기 전에 Kai가 좋아했던 계절과 이유를 고르세요.\nGerda: What season do you like, Kai?\nKai: I like summer because I can swim in the sea.\nGerda: Great! Let's go swimming this summer.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "봄 — 아름다운 꽃을 볼 수 있어서",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "가을 — 단풍잎을 볼 수 있어서",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "여름 — 바다에서 수영할 수 있어서",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "겨울 — 눈을 볼 수 있어서",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "기억을 잃기 전 Kai는 I like summer because I can swim in the sea.(바다에서 수영할 수 있어서 여름을 좋아해.)라고 말했습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q16",
+    "localId": "q16",
+    "questionId": "eng6-ybm-kim-u10:q16",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 글을 읽고 Snow Queen이 Kai에게 한 일로 알맞은 것을 고르세요.\nSnow Queen was not happy with their smile. She took away Kai's memory. Snow Queen took Kai to Snow Land.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Kai와 Gerda에게 여름 바다 여행을 선물했다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "Kai에게 아름다운 봄꽃을 보여 주었다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Kai와 Gerda를 집까지 안전하게 데려다주었다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "Kai의 기억을 빼앗고 그를 Snow Land로 데려갔다.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "본문에 She took away Kai's memory.(기억을 빼앗았다.)와 Snow Queen took Kai to Snow Land.(Snow Land로 데려갔다.)라고 나와 있습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q17",
+    "localId": "q17",
+    "questionId": "eng6-ybm-kim-u10:q17",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 글을 읽고, 기억이 돌아온 Kai가 Gerda에게 한 말로 알맞은 것을 고르세요.\nGerda started to cry and Kai's memory came back.\nKai: \"(    ), Gerda.\"\nKai and Gerda went back home and lived happily.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "Thanks for saving me",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "What season do you like",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "Would you like to see Snow Land",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "I like winter because I can see the snow",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "본문(p.151)에서 기억이 돌아온 Kai는 자신을 구해 준 Gerda에게 Thanks for saving me, Gerda.(나를 구해 줘서 고마워.)라고 말했습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q18",
+    "localId": "q18",
+    "questionId": "eng6-ybm-kim-u10:q18",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "이야기 'Snow Queen'의 사건을 일어난 순서대로 바르게 나열한 것은 무엇인가요?\n(가) Gerda가 울자 Kai의 기억이 돌아왔다.\n(나) Kai가 바다에서 수영할 수 있어 여름이 좋다고 말했다.\n(다) 기억을 잃은 Kai가 눈을 볼 수 있어 겨울이 좋다고 말했다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "(가) → (나) → (다)",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "(나) → (다) → (가)",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "(다) → (나) → (가)",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "(나) → (가) → (다)",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "(나) 원래 여름을 좋아하던 Kai가 기억을 빼앗겨 (다) 겨울이 좋다고 말했고, 이후 Snow Land에서 (가) Gerda가 울자 기억이 돌아왔습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q19",
+    "localId": "q19",
+    "questionId": "eng6-ybm-kim-u10:q19",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 계절 시를 읽고 내용과 일치하지 않는 것을 고르세요.\nSpring, spring. Spring is here.\nI like spring because I can see the beautiful flowers.\nThe flowers are pink and yellow. The weather is nice and warm.\nSpring is my favorite season.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "글쓴이가 가장 좋아하는 계절은 봄이다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "꽃들의 색깔은 분홍색과 노란색이다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "봄의 날씨는 매우 춥고 눈이 내린다.",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "아름다운 꽃을 볼 수 있어서 봄을 좋아한다.",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c3"
+    },
+    "explanation": "시에는 The weather is nice and warm.(날씨가 좋고 따뜻하다.)이라고 되어 있으므로 춥고 눈이 내린다는 3번은 일치하지 않습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q20",
+    "localId": "q20",
+    "questionId": "eng6-ybm-kim-u10:q20",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 글을 읽고 글의 내용에 나오지 않는 것은 무엇인가요?\nSummer is my favorite season. I like summer because I can swim in the sea. I like to play at the beach.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "여름을 가장 좋아하기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "바다에서 수영하기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "해변에서 놀기",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "눈밭에서 스키 타기",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c4"
+    },
+    "explanation": "글에는 여름을 가장 좋아하며 바다 수영(swim in the sea)과 해변 놀이(play at the beach)를 좋아한다고 나와 있고, 스키 타기는 언급되지 않았습니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q21",
+    "localId": "q21",
+    "questionId": "eng6-ybm-kim-u10:q21",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "다음 그림과 일치하도록 밑줄 친 'go skiing'을 바르게 고친 어구는 무엇인가요?\nI like winter because I can 'go skiing'.",
+    "image": "g6u10/assets/u10_winter.webp",
+    "imageAlt": "눈 내리는 날 눈사람을 만들고 있는 어린이",
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "play in the snow",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "swim in the sea",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "see the colorful leaves",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "see the beautiful flowers",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c1"
+    },
+    "explanation": "그림은 스키 타기가 아니라 눈 속에서 눈사람을 만들며 노는 모습이므로 play in the snow로 고쳐야 합니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q22",
+    "localId": "q22",
+    "questionId": "eng6-ybm-kim-u10:q22",
+    "unit": "g6u10",
+    "type": "MCQ",
+    "prompt": "교과서 '여러 나라의 계절 축제'에 소개된 나라와 축제 이름이 바르게 연결된 것은 무엇인가요?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [
+      {
+        "id": "c1",
+        "text": "네덜란드 — 퀘벡 윈터 카니발",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c2",
+        "text": "태국 — 로이끄라통",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c3",
+        "text": "캐나다 — 쾨켄호프 꽃 축제",
+        "image": null,
+        "imageAlt": ""
+      },
+      {
+        "id": "c4",
+        "text": "태국 — 퀘벡 윈터 카니발",
+        "image": null,
+        "imageAlt": ""
+      }
+    ],
+    "answer": {
+      "choiceId": "c2"
+    },
+    "explanation": "p.155 문화 자료에 따르면 네덜란드는 쾨켄호프 꽃 축제, 태국은 로이끄라통, 캐나다는 퀘벡 윈터 카니발입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q24",
+    "localId": "q24",
+    "questionId": "eng6-ybm-kim-u10:q24",
+    "unit": "g6u10",
+    "type": "OX",
+    "prompt": "Thanks for helping me.는 친구의 도움을 정중하게 거절할 때 쓰는 표현이다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": false
+    },
+    "explanation": "Thanks for helping me.는 '나를 도와줘서 고마워.'라는 감사 표현이므로 거짓입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q26",
+    "localId": "q26",
+    "questionId": "eng6-ybm-kim-u10:q26",
+    "unit": "g6u10",
+    "type": "OX",
+    "prompt": "이야기 'Snow Queen'에서 눈의 여왕은 Gerda와 Kai의 환한 미소를 보고 매우 기뻐했다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": false
+    },
+    "explanation": "본문(p.150)에 Snow Queen was not happy with their smile.이라고 나와 있으므로 거짓입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q27",
+    "localId": "q27",
+    "questionId": "eng6-ybm-kim-u10:q27",
+    "unit": "g6u10",
+    "type": "OX",
+    "prompt": "교과서 문화 자료에 소개된 캐나다의 '퀘벡 윈터 카니발'은 겨울에 열리는 계절 축제이다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": true
+    },
+    "explanation": "p.155에 눈 덮인 풍경과 함께 캐나다 퀘벡 윈터 카니발이 소개되어 있으므로 참입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q29",
+    "localId": "q29",
+    "questionId": "eng6-ybm-kim-u10:q29",
+    "unit": "g6u10",
+    "type": "SHORT",
+    "prompt": "그림이 나타내는 계절을 영어로 쓰세요.",
+    "image": "g6u10/assets/u10_spring.webp",
+    "imageAlt": "분홍빛 벚꽃과 알록달록한 꽃들이 핀 공원을 걷는 어린이",
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "spring"
+    },
+    "explanation": "꽃이 피는 계절 '봄'은 영어로 spring입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng6-ybm-kim-u10:g01"
+  },
+  {
+    "id": "g6u10:q30",
+    "localId": "q30",
+    "questionId": "eng6-ybm-kim-u10:q30",
+    "unit": "g6u10",
+    "type": "SHORT",
+    "prompt": "'~이기 때문에'라는 뜻으로 빈칸에 들어갈 영어 단어를 쓰세요.\nI like winter (    ) I can play in the snow.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "because"
+    },
+    "explanation": "이유를 연결하는 접속사는 because입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": "eng6-ybm-kim-u10:g02"
+  },
+  {
+    "id": "g6u10:q31",
+    "localId": "q31",
+    "questionId": "eng6-ybm-kim-u10:q31",
+    "unit": "g6u10",
+    "type": "SHORT",
+    "prompt": "'계절'을 뜻하는 영어 단어를 쓰세요.\nWhat (    ) do you like?",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "season"
+    },
+    "explanation": "'계절'은 영어로 season입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q32",
+    "localId": "q32",
+    "questionId": "eng6-ybm-kim-u10:q32",
+    "unit": "g6u10",
+    "type": "SHORT",
+    "prompt": "'가을'을 뜻하는 영어 단어를 쓰세요. (a로 시작하는 단어)",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "text": "autumn"
+    },
+    "explanation": "p.143·155에서 배운 a로 시작하는 '가을' 영단어는 autumn입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  },
+  {
+    "id": "g6u10:q33",
+    "localId": "q33",
+    "questionId": "eng6-ybm-kim-u10:q33",
+    "unit": "g6u10",
+    "type": "OX",
+    "prompt": "다음 글을 읽고 내용과 맞으면 O, 틀리면 X를 고르세요.\nGerda arrived at Snow Land and met Kai again.\nGerda는 Snow Land에서 Kai를 다시 만났다.",
+    "image": null,
+    "imageAlt": null,
+    "dialogue": null,
+    "choices": [],
+    "answer": {
+      "value": true
+    },
+    "explanation": "Gerda arrived at Snow Land and met Kai again.는 Gerda가 Snow Land에서 Kai를 다시 만났다는 뜻이므로 O입니다.",
+    "accepted": [],
+    "source": "교과서 기반 후보",
+    "group": null
+  }
+]
