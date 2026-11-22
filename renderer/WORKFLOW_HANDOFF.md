@@ -7,10 +7,10 @@
 
 | 구분 | 기준 | 상태 |
 |---|---|---|
-| 공통 검토 렌더러 current | [VERSION.json](VERSION.json) 의 \`currentRelease\` = \`v0.1.0-preview.2\` | 변경 없음, 검토용 |
+| 공통 검토 렌더러 current | [VERSION.json](VERSION.json)의 `currentRelease` = `releases/v0.2.0-review.1/review-renderer-183.html` | REVIEW_CURRENT, 운영 게임 미배포; 종전 preview.2는 이전 버전 |
 | **최신 YBM 실험 화면** | [v0.6 HTML](experiments/2026-11-22/ybm-183-tagged-v0.6.html) | 영어 5·6학년 YBM 183문항 **2026-11-22 정본 r1 승인** |
 | 의미 태그 | [183문항 태그 v0.2 JSON](tags/ybm-kim-183-render-tags-v0.2.json) | 초안 v0.1, 별도 annotation |
-| 신규 문항 자동 태그 | [auto-classifier-v0.1.js](tags/auto-classifier-v0.1.js) | 참고 구현, 교사 검수 필요 |
+| 신규 문항 자동 태그 | [auto-classifier-v0.2.js](tags/auto-classifier-v0.2.js) (v0.1 보존) | 참고 구현, 교사 검수 필요 |
 | 태그 제작 실험 원본 | [build_hoja_tag_trial_original.py](tags/build_hoja_tag_trial_original.py) | 입력 ZIP·오프라인 경로 필요 |
 | 기존 승인 콘텐츠 | [../approved/README.md](../approved/README.md) | 별도 저장, 현재 실험과 분리 |
 | 운영 게임 | 별도 프로젝트 | **미배포, 영향 없음** |
@@ -103,3 +103,32 @@ python -m http.server 8000
 - GitHub 재조회·자바스크립트 구문·문항/이미지/정답 참조 검사는 통과. **통합판의 실제 브라우저 시각 회귀와 전체 해상도 검사는 미수행**.
 - 저장소 비공개: GitHub 로그인 후 HTML 원본을 다운로드해 로컬 브라우저로 실행. 외부 htmlpreview에서는 비공개 저장소 접근 불가.
 - 교사 승인을 받기 전까지 `renderer/VERSION.json` current, `approved/`, 운영 게임 배포 상태 변경 금지.
+
+
+## 2026-11-22 · 대화 기록과 실제 저장소 대조 보정 (문서 동기화)
+
+### 사실 기준: CURRENT / 실험 / 대화 속 과거 산출물을 구별
+- **현재 기준은 항상 `renderer/VERSION.json` 실조회 결과**다. 2026-11-22 조회값: `rendererVersion=v0.2.0-review.1`, `currentRelease=releases/v0.2.0-review.1/review-renderer-183.html`, `deployment=NOT_DEPLOYED`. 본문 상단의 'preview.2 유지'라는 과거 메모는 역사 기록으로만 해석한다.
+- GitHub에 실제로 보관된 영어 실험판은 `ybm-183-tagged-v0.5.html`, `ybm-183-tagged-v0.6.html`이다. 이전 대화에서 '통합검토 v6/v7'이라는 **별도 파일명**으로 언급한 수정판과 버전 번호를 혼동하지 않는다. 그 v6/v7 HTML은 이번 GitHub 실조회에서 확인되지 않았으므로 GitHub 보존·배포 완료라고 주장하지 않는다.
+- **과거 대화의 배치 요구(코드·HTML 반영 여부는 별도 검증):** g5u11:q34 대화+그림 좌우 병행, g5u11:q12 질문→빈칸 문장→보기 상하, 다중 발화 15문항 대화 내부 위→아래, g5u12:q16~q21 질문→독해 지문→보기 상하, g6u10:q21 및 g6u11:q21 중요 그림 확대, g6u11:q10 발화 세로 고정, g5u12:q10 문항 번호 표시 오류 방지(문항 ID 숫자와 전체 서수 구분). 대화+그림일 때에도 대화 **내부의 개별 발화는 반드시 세로**이며 그림·대화 패널 간 좌우 배치는 가능하다.
+- 이전 대화에서 보고된 v6/v7의 HD/FHD/4K 시험 통과는 **이번 저장소 검증으로 재현하지 않았으므로 역사적 보고**다. 오늘 확인한 경고 수 HD 24/FHD 63도 과거 YBM 검수 결과이며 새 수학 실험판의 테스트 결과가 아니다.
+
+### 렌더러 불변 원칙
+1. 독립 규격 수학 HTML(`HOJA_MATH_187_REVIEW_RENDERER_2026-11-22(1).html`)은 **기존 렌더러 정본이 아니다**. 기존 구조와 다른 좌측 문제·그림/우측 보기 고정형이라 교체·승격 금지.
+2. 렌더러 상위 가족은 현재 UI의 **A(글) / C(그림) / D(비교)**. 기존 CSS의 B 관련 정의나 `stack`, `split`, `map-split`, `picture-stimulus`, `dialogue-stack` 등은 기존 내부 배치/호환 흔적이다. 이를 임의 새 표준이나 고정형 화면으로 대체하지 않는다.
+3. 새 문항은 반드시 **원본 교육 내용 검수 → 의미 태깅 → 기존 A/C/D 배치/자동 실측 → 실제 브라우저 다중 해상도 회귀 → 교사 승인** 순서. 그림 유무만으로 일괄 A/C 판정하면 실패.
+4. 원본 4개 객관식 보기는 보존, 게임 검토는 3개만 표시; OX는 단원별 정답 균형을 유지. 문제·정답·그림을 태그만 추가하려고 임의 수정 금지.
+5. 태그 스키마/분류기/HTML/사용법/회귀 결과/인수인계 문서는 **수정한 작업 턴에 함께 갱신**. 코드만 올라가고 문서 누락되면 완료로 보고하지 않는다.
+
+### 수학 187문항 현재 실험 상태 · 교사 승인 전
+- 6단원 187문항(MCQ127, OX36, SHORT24), 삽화 고유 파일 36개; 동일 삽화가 여러 문항에서 재사용됨. 수학은 출판사별로 나누지 않는다.
+- 최초 통합판 `math-187-integrated-review-v0.2.0-review.2.html`: 기존 레이아웃 코드는 있으나 **수학 187개 태그의 rendererHint가 전부 null**이었으므로 의미 기반 배치가 충분하지 않음. **최종 검수판으로 사용 금지**.
+- 후속 **태그 분석 실험**: [수학 187 태그 JSON](experiments/2026-11-22/math-187-meaning-render-tags-review.3.json) / [기존 렌더러 연결 검토 HTML](experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.3.html) / [검토 메모](experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW3.md). 문항·선택지 길이·분수 토큰·이미지 유형에 따라 A/C/D와 `rendererHint` 초안을 따로 기록. **브라우저 전수 시각 검증 미완료, 출시·교사 승인·운영 적용 아님.**
+- **중요한 스키마 미해결:** review.3 수학 태그에는 `preferredLayout`, `mathSemantics`, 수학 전용 `recommendedFamily`와 `texts` 및 `subtype`이 포함돼 있는데, 현재 `renderer/tags/render-tags-v0.1.schema.json`의 허용 필드/enum과 **호환되지 않는다**. 형식·자동 분류기 일치까지 수정하고 실제 검사 통과 전에는 이를 '스키마 검증된 정본 태그'라 부르지 않는다.
+- 수학의 `[[frac:분자/분모]]` 토큰을 분수로 표시하는 호환 어댑터는 review.3 실험 HTML에만 존재한다. 원본 카트리지와 영어 문항 렌더링을 침범하지 않는지 별도 브라우저 검증 필요.
+
+### 다음 대화에서 반드시 할 일
+1. `VERSION.json`, 본 문서, `tags/README.md`, 태그 스키마, 실제 실험 HTML 경로를 **GitHub에서 다시 읽기**.
+2. 수학 태그 187개를 공통 스키마 규약에 맞춰 조정하거나 호환되는 새 스키마를 별도로 도입하고, 자동 분류기를 교차 검증하기.
+3. 187문항 전체의 A/C/D 자동 분류·3지선다·정오판정·수식·이미지·HD/FHD/4:3/모바일 등 실제 브라우저 캡처 및 잘림 회귀; 실패 문항을 번호로 기록.
+4. 교사 승인 전까지 current, approved 및 운영 게임을 변경하지 않기.
