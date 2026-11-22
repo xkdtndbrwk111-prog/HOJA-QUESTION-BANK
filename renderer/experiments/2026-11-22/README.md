@@ -61,3 +61,9 @@ YBM 183문항은 2026-11-22 approved/english/ybm-kim/grade5-6-u10-12/r1/에 교�
 - [실험 분석·한계·재검수 안내](MATH_187_LEGACY_TAGGING_REVIEW3.md)
 - 현재 **수학 태그 초안은 v0.1 공통 JSON Schema 미호환**, 브라우저 전수 검수 미실시, 교사 승인 전. 이전 독립형 수학 좌우 고정 화면은 HOJA 표준 렌더러가 아니며 승인/배포하면 안 됨.
 - 영어 v6/v7 개별 배치 수정은 과거 대화에 보고되었지만 이 폴더에서 해당 이름의 HTML은 확인되지 않음. 요구 사항만 [인수인계 문서](../../WORKFLOW_HANDOFF.md)에 남겼으며 GitHub에 완제품이 있다고 간주하지 않음.
+
+## 2026-11-22 · 수학 review.4 — 공통 v0.2 태그 규격 확인, 기존 A/C/D 유지
+- [수학 187문항 실험 HTML (review.4)](math-187-legacy-tagged-review-v0.2.0-review.4.html)
+- [수학 의미 태그 187개 (review.4)](math-187-meaning-render-tags-review.4.json), [스키마 v0.2](../../tags/render-tags-v0.2.schema.json), [QA 기록](MATH_187_LEGACY_TAGGING_REVIEW4.md).
+- 187/187 태그 공통 확장 스키마 정적 검사 통과. 67 그림 참조/36 고유 WebP 검증, MCQ 정답 참조·OX/SHORT 타입 검증. **실제 브라우저 전수 화면 검증은 미완료**.
+- 구형 A/C/D 배치 엔진 및 영어 승인 콘텐츠 불변. 원본 수학 문항·답·삽화 불변, 분수 접근성 레이블 수정. 교사 승인·운영 배포 금지.
