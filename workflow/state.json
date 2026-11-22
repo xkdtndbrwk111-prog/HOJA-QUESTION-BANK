@@ -155,25 +155,27 @@
     {
       "id": "social-grade6-64",
       "name": "사회 6학년 2학기 3-1·3-2 64문항 독립 검수",
-      "status": "HOLD_FIXES_PENDING",
+      "status": "REV2_CANDIDATE_PATCHED_SOURCE_RECHECK_PENDING",
       "teacherApproval": "PENDING",
-      "gitHubArtifact": "AUDIT_ONLY_NO_APPROVED_ZIPS",
+      "gitHubArtifact": "CHECKLIST_ONLY_REV2_ZIPS_NOT_UPLOADED",
       "gameDeployment": "NOT_DEPLOYED",
-      "entry": "docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md",
+      "entry": "docs/SOC6_64_REV2_PATCH_CHECKLIST_20261122.md",
       "evidence": [
         "docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md",
-        "docs/SOC6_64_ITEM_AUDIT_20261122.csv"
+        "docs/SOC6_64_ITEM_AUDIT_20261122.csv",
+        "docs/SOC6_64_REV2_PATCH_CHECKLIST_20261122.md"
       ],
       "facts": [
-        "제작 후보 rev1 2개 단원/64문항; 자체 PASS와 독립 승인 구분",
-        "정적 CRC/SHA/3지선다 132조합 기록/이미지 5개 9회 참조 PASS",
-        "독립 내용 검수: 수정필수5, 개선권고7, 잠정통과52",
-        "교과서 원문 직접 재대조·렌더러·전자칠판·실게임 QA 미실시"
+        "rev2 후보 2개(3-1 32, 3-2 32), 총64문항 — 24 수정·40 원본동일",
+        "GPT 직접 수정: 필수5, 권고7, 학생용 도표 발문9, 단답 표기5(중복포함)",
+        "정답64/그림5/객관식 원본4보기/3지선다132조합 무변경 구조 PASS",
+        "RC3/RC5/RC6 내부 해시·버전 재계산, 수정 문항 교과서 재확인 HOLD",
+        "rev2 ZIP은 대화 파일로 제공, GitHub에는 검사 문서만 업로드; 승인 정본과 실제 게임은 변경 안 함"
       ],
       "next": [
-        "3-1 Q11, 3-2 Q03/Q05/Q10/Q29 최소 수정 후 rev2 후보 생성",
-        "권고7·도표 발문9·주관식 별칭 답안 검토",
-        "교과서3종 독립 비교 및 기존 HOJA 렌더러/게임 확인 후 교사 승인 여부 결정"
+        "수정본 ZIP 2개와 교과서 3종 PDF를 대조해 교육적 source HOLD 해제",
+        "기존 렌더러 HD/FHD/4:3/모바일 및 게임 acceptedAnswers 테스트",
+        "교사 최종 검수 승인 시에만 GitHub approved 정본 등록/게임 배포"
       ]
     }
   ],
