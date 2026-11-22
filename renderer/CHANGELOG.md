@@ -66,3 +66,9 @@
 - 범용 카트리지 입력 어댑터/렌더러 모듈 추출
 - 정식 운영 게임 연동, 화면별 실제 교실 기기 테스트
 - 실제 영어·사회 모든 정본 조합에 대한 독립 회귀
+
+## 수학 review.4 (실험) — 2026-11-22
+- review.3의 기존 A/C/D 렌더러/자동 실측 엔진을 재사용. 187개 수학 태그의 확장 공통 스키마 `tags/render-tags-v0.2.schema.json` 신설, 수학 태그 review.4로 정적 검증(오류 0).
+- 분수 표시의 접근성 읽기 순서만 바로잡음(분모분의 분자). 문항·정답·이미지/기존 엔진·영어 데이터 변경 없음.
+- 6단원 187문항, 삽화 36개, 이미지 참조 67회와 참조 일치. 교사 시각 검수 및 해상도 회귀 **미실시**.
+- [실험 HTML](experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html) · [태그](experiments/2026-11-22/math-187-meaning-render-tags-review.4.json) · [검사 기록](experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md). `VERSION.json` current 및 `approved/`·운영 게임 불변.
