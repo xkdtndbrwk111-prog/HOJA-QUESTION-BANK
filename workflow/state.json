@@ -120,6 +120,7 @@
         "수학 review.4는 별도 후보이고 current 승격·운영 게임 배포가 아님"
       ],
       "next": [
+        "교사 요청 UX 미완료: 코멘트 자동저장, 좌측 주요 메뉴 순서 이동 (이전·다음 → 단원 선택 → 코멘트 → JSON → 나머지)",
         "문항 내용과 화면 엔진의 책임·승인·버전을 분리",
         "수학 실제 브라우저 회귀 후에만 렌더러 개선·승격 여부 결정"
       ]
@@ -134,5 +135,32 @@
     ],
     "lastRecorded": "2026-11-22",
     "notes": "실행 가능한 작업 완료 시 GitHub 원격 커밋; 자동 백그라운드 저장 아님"
+  },
+  "capacityAudit": {
+    "status": "MEASURED_WITH_ACTUAL_SOURCE_PACKAGES",
+    "date": "2026-11-22",
+    "report": "docs/QUESTION_BANK_RUNTIME_PAYLOAD_SIZE_20261122.md",
+    "counts": {
+      "units": 23,
+      "questions": 732,
+      "mediaFiles": 140,
+      "approvedQuestions": 545,
+      "unapprovedMathQuestions": 187
+    },
+    "bytes": {
+      "json": 515195,
+      "media": 2359414,
+      "looseFiles": 2874609,
+      "zipDeflate9": 2459799,
+      "approvedOnlyLoose": 2330848,
+      "approvedOnlyZipDeflate9": 2019957
+    },
+    "scope": "question data + needed final media only; no renderer/QA/HTML/duplicate previews"
+  },
+  "rendererUiRequest": {
+    "status": "PENDING_NOT_IMPLEMENTED",
+    "userRequest": "autosave QA comment on typing and when navigating; order sidebar previous/next, unit select, comment, JSON export, then all other controls",
+    "target": "renderer/experiments/2026-11-22/math-187-review4-math-only.html",
+    "next": "Keep A/C/D unchanged; implement autosave without corrupting prior JSON; ensure all navigation handlers and export flush; validate browser and checkpoint"
   }
 }
