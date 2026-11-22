@@ -25,7 +25,8 @@
         "renderer/experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md",
         "renderer/experiments/2026-11-22/math-187-meaning-render-tags-review.4.json",
         "renderer/tags/render-tags-v0.2.schema.json",
-        "renderer/VERSION.json"
+        "renderer/VERSION.json",
+        "renderer/experiments/2026-11-22/MATH_187_VIEWER_HANDOFF.md"
       ],
       "facts": [
         "6단원/187문항(객관식127·OX36·주관식24)",
@@ -34,10 +35,19 @@
         "브라우저 HD·FHD·4:3·모바일 187문항 전수 화면 검수는 미실시"
       ],
       "next": [
+        "교사용 수학 전용 HTML을 열어 시각 검수: renderer/experiments/2026-11-22/math-187-review4-math-only.html",
         "review.4를 기존 v0.2.0-review.1 A/C/D 엔진과 비교; 렌더러 독자 규격으로 교체 금지",
         "68개 우선 재검토 및 전체 187개 실제 화면·수식·전개도·보기·주관식 흐름을 문항 ID로 QA 기록",
         "버그 수정은 별도 실험판에 기록하고 증거와 회귀 결과를 남긴 후 교사 승인 요청"
-      ]
+      ],
+      "preview": {
+        "githubPath": "renderer/experiments/2026-11-22/math-187-review4-math-only.html",
+        "chatgptPage": "https://chatgpt.com/space/page_d0ff5f4f867c8191b6049f714f5886c1",
+        "sourceGitBlob": "a81dc04aff2aebe70f3c38b975b6507e9169b530",
+        "uploadedPreviewSha256": "6fa4559caa0c6dfc65d677c663fe90534cd15041e28cfd86374cc34fb23b3277",
+        "staticCheck": "PASS",
+        "browserVisualQA": "NOT_RUN"
+      }
     },
     {
       "id": "science-64",

@@ -26,3 +26,9 @@ python3 tools/verify_handoff.py
 ```
 
 내용을 수정했다면 `workflow/state.json`과 이 문서를 **동일 커밋**으로 갱신한다. 이 문서는 백그라운드 자동 저장이 아니다. 정확한 실행 절차: [CHAT_RESUME_PROTOCOL](docs/CHAT_RESUME_PROTOCOL.md).
+
+
+## 2026-11-22 · 수학 전용 검토 화면 제공
+- [수학만 보이는 기존 review.4 렌더러 HTML](renderer/experiments/2026-11-22/math-187-review4-math-only.html) · [ChatGPT 열람 페이지](https://chatgpt.com/space/page_d0ff5f4f867c8191b6049f714f5886c1).
+- 영어 데이터만 제외, 수학 187문항·36개 WebP와 A/C/D·검수 UI 보존. **실제 브라우저 전수 시각 QA는 아직 미실시**.
+- [검토판 생성·검증 경위](renderer/experiments/2026-11-22/MATH_187_VIEWER_HANDOFF.md). 새로운 정본/운영 게임 배포 아님.
