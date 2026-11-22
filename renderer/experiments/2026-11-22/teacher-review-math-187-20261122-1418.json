@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "hoja-qa-v1",
+  "sourceRelease": "math-grade5-6-s2-u4-6-chatfix1-20261122",
+  "exportedAt": "2026-11-22T05:18:49.134Z",
+  "records": {
+    "m5u5:q01": {
+      "status": "pending",
+      "note": "c형으로",
+      "updatedAt": "2026-11-22T05:12:59.954Z"
+    },
+    "m5u5:q10": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:13:42.314Z"
+    },
+    "m5u5:q13": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:13:51.536Z"
+    },
+    "m5u6:q09": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:14:47.114Z"
+    },
+    "m5u6:q10": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:14:53.216Z"
+    },
+    "m5u6:q13": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:14:59.061Z"
+    },
+    "m5u6:q14": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:15:06.003Z"
+    },
+    "m5u6:q17": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:15:25.756Z"
+    },
+    "m5u6:q19": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:15:31.553Z"
+    },
+    "m6u4:q09": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:15:57.007Z"
+    },
+    "m6u4:q17": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:16:15.590Z"
+    },
+    "m6u6:q01": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:17:30.457Z"
+    },
+    "m6u6:q02": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:17:36.441Z"
+    },
+    "m6u6:q04": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:17:40.990Z"
+    },
+    "m6u6:q08": {
+      "status": "pending",
+      "note": "이 문제도 보기에서 기호 줄바꿈 잘 안됨.",
+      "updatedAt": "2026-11-22T05:18:11.710Z"
+    },
+    "m6u6:q12": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:18:23.071Z"
+    },
+    "m6u6:q13": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:18:26.799Z"
+    },
+    "m6u6:q14": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:18:29.220Z"
+    },
+    "m6u6:q15": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:18:32.236Z"
+    },
+    "m6u6:q20": {
+      "status": "pending",
+      "note": "c",
+      "updatedAt": "2026-11-22T05:18:37.170Z"
+    }
+  }
+}

@@ -78,3 +78,10 @@ python3 tools/verify_handoff.py
 - 교사 화면: 5학년 4단원 Q06 보기의 분자·분모가 노란색으로 표시됨. 원인: 공통 `.hoja-fraction { color:#f5c96f }`가 보기까지 적용된 것.
 - [수학 렌더러 reviewfix1-ui.2](renderer/experiments/2026-11-22/math-187-reviewfix1-ui.2.html): `#hqChoices` 내부 `.hoja-fraction`, `.hoja-inline-math`만 `color:inherit` 처리. 문제 발문의 핵심 식 강조는 유지. 정답/그림/기존 검수 JSON은 불변.
 - **실제 브라우저 자동 실행은 환경 접근 제한으로 미통과**. 정적 HTML 스타일 검사 완료, 교사 최종 확인 필요. UI2는 별도 실험판이고 current 정본 승격·게임 배포 아님.
+
+
+## 2026-11-22 · 교사 검수 JSON 20건 반영 · 수학 UI3
+- 원본 [교사 검수 기록 20건](renderer/experiments/2026-11-22/teacher-review-math-187-20261122-1418.json): **C형 요청 19개**, **6학년 6단원 Q08 기호·명칭 줄바꿈 1건**. 원본 코멘트 상태는 전부 `pending`.
+- [UI3 HTML](renderer/experiments/2026-11-22/math-187-reviewfix1-ui.3.html) · [ChatGPT 검토 페이지](https://chatgpt.com/space/page_5b35706854dc819192878d63c6999ecc) · [검증·차이 보고](docs/MATH_187_REVIEWFIX1_UI3_HANDOFF_20261122.md). 교사 요청 19건은 기본 레이아웃 D→C로 조정(A120/C67/D0), 모든 삽화 및 원본 문항 내용 불변.
+- Q08 보기는 기호+명칭 한 묶음으로 처리. Chromium HD/FHD 자동·좌우·상하 6조합에서 구성요소/보기 overflow 0, 19/19 C형·그림 확인, 코멘트 JSON 20건 불러오기→수정→내보내기 PASS, JS 오류 0.
+- **남은 작업:** 교사의 UI3 실사용 확인, 187문항 해상도별 전수 시각 QA 및 교사 정본 승인. 수학 정본 ZIP/운영 게임은 변경하지 않음.
