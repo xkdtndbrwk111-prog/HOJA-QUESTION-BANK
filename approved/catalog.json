@@ -7,10 +7,10 @@
     "description": "영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다."
   },
   "summary": {
-    "approvedUnits": 21,
-    "approvedQuestions": 668,
+    "approvedUnits": 23,
+    "approvedQuestions": 732,
     "english": 384,
-    "social": 97,
+    "social": 161,
     "math": 187
   },
   "englishByPublisher": {
@@ -31,12 +31,14 @@
   },
   "subjects": {
     "social": {
-      "units": 3,
-      "questions": 97,
+      "units": 5,
+      "questions": 161,
       "paths": [
         "social/grade5/semester2/soc5-s2-u2-2-common/",
         "social/grade5/semester2/soc5-s2-u3-1-common/",
-        "social/grade5/semester2/soc5-s2-u3-2-common/"
+        "social/grade5/semester2/soc5-s2-u3-2-common/",
+        "social/grade6/semester2/soc6-s2-u3-1-common/",
+        "social/grade6/semester2/soc6-s2-u3-2-common/"
       ]
     },
     "math": {

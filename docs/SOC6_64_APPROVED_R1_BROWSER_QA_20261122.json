@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-22",
+  "status": "PASS",
+  "mode": "Chromium review HTML simulated resolutions",
+  "questions": 64,
+  "states": 192,
+  "byResolution": {
+    "1280x720": 64,
+    "1920x1080": 64,
+    "1024x768": 64
+  },
+  "teacherFixedCLeftRight": 11,
+  "teacherFixPassByResolution": {
+    "1280x720": 11,
+    "1920x1080": 11,
+    "1024x768": 11
+  },
+  "teacherNoteFilter": 6,
+  "images": 15,
+  "missingImages": [],
+  "overflowFailures": [],
+  "wrong3ChoiceAnswers": [],
+  "javascriptErrors": [],
+  "shortAnswerReveal": "PASS",
+  "actualWindowsBoard": "NOT_RUN",
+  "actualGame": "NOT_DEPLOYED",
+  "sourcePdfIndependent": "NOT_RUN"
+}

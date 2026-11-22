@@ -1,0 +1,31 @@
+{
+  "id": "soc6-s2-u3-2-common",
+  "releaseId": "soc6-s2-u3-2-common-teacher-20261122-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-22",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 3,
+  "effectiveRevision": 4,
+  "questions": 32,
+  "types": {
+    "MCQ": 22,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "assets": 9,
+  "archive": "HOJA_SOC6_S2_U3_2_COMMON_APPROVED_20261122_r1.zip",
+  "archiveBytes": 1159185,
+  "archiveSha256": "ebb2c76f9b2475028460f5169c0bdc112fd99625ea679109175cb9d6188cbdb5",
+  "gitBlobSha": "00d541f71ad87b4a3b54db0933069f1d2e9c2a53",
+  "sourceCandidate": "soc6-s2-u3-2-common-rev3-candidate-v0.3.0-rc9.1.zip",
+  "sourceCandidateSha256": "4fa96eed8c074c72834ff08cfeafd3ac11e1182c070acd9340df8c3e7ed7d5a8",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "effectiveVersion": "effective/version.json",
+  "approvedLayout": "presentation/layout-preferences.json",
+  "reviewedPresentation": "approved/social/grade6/semester2/HOJA_SOC6_64_APPROVED_REVIEW_R1_20261122.html",
+  "reviewedPresentationSha256": "437a90747b045ac55422350ebf51cf7c4653297453c8875fdcec753c7e799b08",
+  "liveGameTest": "NOT_RUN",
+  "actualElectronicBoardTest": "NOT_RUN",
+  "publicMediaRights": "NOT_AUDITED"
+}

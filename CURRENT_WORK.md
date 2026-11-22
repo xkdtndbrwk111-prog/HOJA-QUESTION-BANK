@@ -1,15 +1,18 @@
 # HOJA 문제은행 — 현재 작업 체크포인트
 
-> **새 대화 시작점**: 먼저 [AGENTS.md](AGENTS.md)와 [workflow/state.json](workflow/state.json), [복구 절차](docs/CHAT_RESUME_PROTOCOL.md)를 읽고 GitHub main의 최신 커밋을 확인한다. 아래는 **2026-11-22 확인 시점**이고 실제 원격 파일이 우선이다.
+> **2026-11-22 최신 상태:** 아래 과거 상세 이력보다 본 표와 [approved/catalog.json](approved/catalog.json), [workflow/state.json](workflow/state.json)을 우선합니다.
 
-**활성 작업:** 수학 187문항 시각 검수 준비 · **정식 승인이 아닌 실험 단계**
+**가장 최근 완료: 사회 6학년 2단원 64문항 교사 승인 정본 r1. 게임 미배포.**
 
-| 영역 | 교사 승인 | GitHub 등록 | 화면/QA | 운영 게임 |
-|---|---|---|---|---|
-| 영어·사회 15단원 481문항 | 완료 | 정본 등록 확인 | 별도 검토·미해결 경고 있음 | 미배포 |
-| 과학 2단원 64문항 | 2026-11-21 승인 | **ZIP 바이너리 미등록** | 최종 승인 화면 확보 | 미배포 |
-| 수학 6단원 187문항 | **미승인** | review.4 실험판 등록 | 태그 정적 검사 기록, **브라우저 전수 QA 미실시** | 미배포 |
-| 렌더러 엔진 | 별도 승격 필요 | VERSION current 확인 | `v0.2.0-review.1` | 미배포 |
+| 영역 | 승인·등록 | 게임 |
+|---|---|---|
+| 영어 12단원 384문항 | 승인·GitHub 정본 완료 | 미배포 |
+| 사회 5학년 3단원 97문항 | 승인·GitHub 정본 완료 | 미배포 |
+| 사회 6학년 2단원 64문항 | **r1 승인·GitHub ZIP2+HTML 등록** | 미배포 |
+| 수학 6단원 187문항 | r1 승인·GitHub 정본 완료 | 미배포 |
+| 과학 2단원 64문항 | 교사 승인 / **GitHub ZIP 미등록** | 미배포 |
+
+**GitHub 정본 합계: 23단원 732문항. 과학 미등록분을 포함한 교사 승인: 25단원 796문항.**
 
 ## 다음 작업 — 수학 187
 - **시작 파일:** [수학 review.4 HTML](renderer/experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html) · [태그](renderer/experiments/2026-11-22/math-187-meaning-render-tags-review.4.json) · [검사 보고](renderer/experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md)
@@ -122,3 +125,10 @@ python3 tools/verify_handoff.py
 - [독립 검수 체크포인트](docs/SOC6_64_REV3_REVIEW_CHECKPOINT_20261122.md). Gemini 보고서가 주장한 `RENDERER_HANDOFF.json`은 ZIP 내 미존재. 자료 의존도가 낮은 6개 문항 추가 개선 권고.
 - **주의:** rev3 ZIP·대화용 HTML 바이너리는 아직 GitHub 미등록. 기존 교사 승인 21단원/668문항 및 렌더러 current 변경 없음. 교과서 원문/파일영속 저장/전자칠판/실게임 미검증.
 
+
+
+## 2026-11-22 최신 — 사회6 64문항 r1 GitHub 등록
+- 승인 정본 ZIP2 (원본 rev3, effective rev4) + 기존 HOJA A/C/D 기반 최종 HTML: [사회6 승인 목록](approved/social/grade6/semester2/README.md).
+- 발문2 수정, 교사 C 좌우 최종11(신규6+기존5), 그림15, 정답/보기/그룹 보존.
+- Chromium HD/FHD/4:3 **192화면** PASS; JS 오류0. 과학64 원격 미등록, 실제 게임 미배포.
+- [최종 체크리스트](docs/SOC6_64_APPROVED_R1_CHECKLIST_20261122.md).

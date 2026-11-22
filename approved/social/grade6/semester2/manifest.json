@@ -1,0 +1,37 @@
+{
+  "releaseId": "SOC6_S2_U3_1_U3_2_TEACHER_20261122_R1",
+  "teacherApproval": "APPROVED",
+  "gameDeployment": "NOT_DEPLOYED",
+  "units": 2,
+  "questions": 64,
+  "images": 15,
+  "reviewedPresentation": "HOJA_SOC6_64_APPROVED_REVIEW_R1_20261122.html",
+  "reviewedPresentationSha256": "437a90747b045ac55422350ebf51cf7c4653297453c8875fdcec753c7e799b08",
+  "qa": {
+    "resolutions": [
+      "1280x720",
+      "1920x1080",
+      "1024x768"
+    ],
+    "states": 192,
+    "javascriptErrors": 0,
+    "visibleOverflowFindings": 0,
+    "teacherFixedCLeftRight": 11
+  },
+  "unitArchives": [
+    {
+      "id": "soc6-s2-u3-1-common",
+      "archive": "soc6-s2-u3-1-common/HOJA_SOC6_S2_U3_1_COMMON_APPROVED_20261122_r1.zip",
+      "sha256": "1d3e3db0cd2006adbc61eeecf6c73c129e277c20261494e95501870fd6448955",
+      "bytes": 482771,
+      "blob": "6aea7cf60724b5959344186ff2905e7a0bf0bbc2"
+    },
+    {
+      "id": "soc6-s2-u3-2-common",
+      "archive": "soc6-s2-u3-2-common/HOJA_SOC6_S2_U3_2_COMMON_APPROVED_20261122_r1.zip",
+      "sha256": "ebb2c76f9b2475028460f5169c0bdc112fd99625ea679109175cb9d6188cbdb5",
+      "bytes": 1159185,
+      "blob": "00d541f71ad87b4a3b54db0933069f1d2e9c2a53"
+    }
+  ]
+}
