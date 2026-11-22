@@ -1,12 +1,12 @@
 {
   "name": "HOJA Review Renderer",
-  "rendererVersion": "v0.1.0-preview.2",
-  "releaseDate": "2026-11-21",
-  "status": "PREVIEW",
+  "rendererVersion": "v0.2.0-review.1",
+  "releaseDate": "2026-11-22",
+  "status": "REVIEW_CURRENT",
   "deployment": "NOT_DEPLOYED",
-  "currentRelease": "releases/v0.1.0-preview.2/review-renderer-demo.html",
-  "referenceFixture": "fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html",
-  "sourceFixture": "HOJA_사회5학년_64문항_연표보기수정_rev4_2.html",
+  "currentRelease": "releases/v0.2.0-review.1/review-renderer-183.html",
+  "referenceFixture": "approved/english/ybm-kim/grade5-6-u10-12/r1/review-approved-183.html",
+  "sourceFixture": "renderer/experiments/2026-11-22/ybm-183-tagged-v0.6.html",
   "capabilities": [
     "A/C/D presentation",
     "image preview zoom",
@@ -16,24 +16,28 @@
     "SHORT answer reveal",
     "teacher correct/incorrect manual judgment",
     "manual judgment duplicate guard",
-    "HD FHD QHD 4K simulated preview"
+    "HD FHD QHD 4K simulated preview",
+    "semantic image priority",
+    "per-question QA status, notes, JSON export/import"
   ],
   "datasetVersionIndependent": true,
   "gameScoreIntegration": false,
   "teacherApprovedEngine": false,
-  "releaseSha256": "7721daa9eeed1edc699a07014c4df2cd93d79d79f9e2fcb965234ab664728b60",
+  "releaseSha256": null,
   "fixtureSha256": "dd8c66e873696493cb66caf826fda0f63d80934befffe6042a02d1300e55cfa0",
-  "notes": "Renderer engine preview.2 unchanged; reference fixture now reflects the teacher-approved 64-question review (U3-1 rev4, U3-2 rev5 q13 date-free), with readable 1600x900 diagrams. Production game not deployed.",
+  "notes": "YBM 183 teacher-approved questions in standalone review renderer with QA notes; no generic cartridge loader or game deployment",
   "latestExperiment": {
     "id": "ybm-kim-183-tagged-v0.6",
     "date": "2026-11-22",
-    "status": "TEACHER_REVIEW_PENDING",
+    "status": "APPROVED_AS_CONTENT_R1",
     "entrypoint": "experiments/2026-11-22/ybm-183-tagged-v0.6.html",
     "instructions": "WORKFLOW_HANDOFF.md",
     "previousExperiment": "experiments/2026-11-22/ybm-183-tagged-v0.5.html",
-    "notes": "Five answer-critical SHORT image layouts enlarged. 183Q HD/FHD regression: new warnings 0, old warnings HD24/FHD63 still unresolved. Original questions and images unchanged. NOT CURRENT; NOT DEPLOYED."
+    "notes": "Five answer-critical SHORT image layouts enlarged. 183Q HD/FHD regression: new warnings 0, old warnings HD24/FHD63 still unresolved. Original questions and images unchanged. NOT CURRENT; NOT DEPLOYED.",
+    "approvedContent": "approved/english/ybm-kim/grade5-6-u10-12/r1/manifest.json"
   },
   "tagSchema": "tags/render-tags-v0.1.schema.json",
-  "tagClassifier": "tags/auto-classifier-v0.1.js",
-  "latestTagAnnotations": "tags/ybm-kim-183-render-tags-v0.2.json"
+  "tagClassifier": "tags/auto-classifier-v0.2.js",
+  "latestTagAnnotations": "tags/ybm-kim-183-render-tags-v0.2.json",
+  "previousRelease": "releases/v0.1.0-preview.2/review-renderer-demo.html"
 }

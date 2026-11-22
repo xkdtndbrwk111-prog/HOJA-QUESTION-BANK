@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "approved-catalog-v1",
+  "updatedAt": "2026-11-22",
+  "policy": {
+    "english": "publisher-and-author",
+    "otherSubjects": "subject-only",
+    "description": "영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다."
+  },
+  "summary": {
+    "approvedUnits": 15,
+    "approvedQuestions": 481,
+    "english": 384,
+    "social": 97
+  },
+  "englishByPublisher": {
+    "cheonjae-ham": {
+      "publisher": "천재교과서",
+      "author": "함순애",
+      "path": "english/cheonjae-ham/grade5-6-u10-12/",
+      "units": 6,
+      "questions": 201
+    },
+    "ybm-kim": {
+      "publisher": "YBM",
+      "author": "김혜리",
+      "path": "english/ybm-kim/grade5-6-u10-12/r1/",
+      "units": 6,
+      "questions": 183
+    }
+  },
+  "subjects": {
+    "social": {
+      "units": 3,
+      "questions": 97,
+      "paths": [
+        "social/grade5/semester2/soc5-s2-u2-2-common/",
+        "social/grade5/semester2/soc5-s2-u3-1-common/",
+        "social/grade5/semester2/soc5-s2-u3-2-common/"
+      ]
+    }
+  },
+  "gameDeployment": "NOT_DEPLOYED"
+}

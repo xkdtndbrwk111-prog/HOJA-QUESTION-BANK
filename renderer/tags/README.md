@@ -43,3 +43,7 @@ console.log(tag.layout.recommendedFamily); // dialogue_informational
 
 ## v0.6 우선순위 보정
 원문·정답·이미지의 SHA는 변경하지 않으며, SHORT+핵심 그림 5개 문항에 한해 `image.priority=high`, `constraints.elementPriority.image=high` 태그만 적용합니다. 그림의 `kind=general`과 `needsFineDetail=false`는 그대로입니다. 렌더러는 해당 태그와 주관식·C 유형을 확인하여 기존 내부 배치 중 하나를 선택합니다.
+
+## 승인 YBM 및 후속 태그
+- 승인 태그: approved/english/ybm-kim/grade5-6-u10-12/r1/tags.approved.json (183개, 핵심 그림 5개 우선순위 보정).
+- 새로운 미태그 문항은 문제의 질과 정답·교육적 오류를 먼저 확인한 후, 그림 중요도 및 배치를 검수합니다.

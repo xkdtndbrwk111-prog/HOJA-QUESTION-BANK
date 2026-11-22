@@ -8,7 +8,7 @@
 | 구분 | 기준 | 상태 |
 |---|---|---|
 | 공통 검토 렌더러 current | [VERSION.json](VERSION.json) 의 \`currentRelease\` = \`v0.1.0-preview.2\` | 변경 없음, 검토용 |
-| **최신 YBM 실험 화면** | [v0.6 HTML](experiments/2026-11-22/ybm-183-tagged-v0.6.html) | 영어 5·6학년 YBM 183문항 **승인 전 후보** |
+| **최신 YBM 실험 화면** | [v0.6 HTML](experiments/2026-11-22/ybm-183-tagged-v0.6.html) | 영어 5·6학년 YBM 183문항 **2026-11-22 정본 r1 승인** |
 | 의미 태그 | [183문항 태그 v0.2 JSON](tags/ybm-kim-183-render-tags-v0.2.json) | 초안 v0.1, 별도 annotation |
 | 신규 문항 자동 태그 | [auto-classifier-v0.1.js](tags/auto-classifier-v0.1.js) | 참고 구현, 교사 검수 필요 |
 | 태그 제작 실험 원본 | [build_hoja_tag_trial_original.py](tags/build_hoja_tag_trial_original.py) | 입력 ZIP·오프라인 경로 필요 |
@@ -66,7 +66,7 @@ git clone https://github.com/xkdtndbrwk111-prog/HOJA-QUESTION-BANK.git
 cd HOJA-QUESTION-BANK
 python -m http.server 8000
 # 브라우저에서
-# http://localhost:8000/renderer/experiments/2026-11-22/ybm-183-tagged-v0.6.html
+# http://localhost:8000/renderer/releases/v0.2.0-review.1/review-renderer-183.html
 \`\`\`
 
 - 이미 완성된 전체 HTML은 [최신 실험 보존본](experiments/2026-11-22/ybm-183-tagged-v0.6.html)에 있다. 승인 원본 ZIP을 가져와 재생성할 필요는 없다.
@@ -85,3 +85,10 @@ python -m http.server 8000
 5. 다음 담당자에게 **마지막 파일 경로, 완료 상태, 미해결 문제, 다음 작업**을 명시한다. '배포 완료'와 '오프라인 검토판 보관'을 구별한다.
 
 **중요:** 이 체크리스트는 작업 시 지켜야 하는 관리 규칙이다. GitHub에서 다른 사람이 변경한 것을 ChatGPT가 대화와 무관하게 24시간 자동 추적/갱신하는 기능이 설정된 것은 아니다.
+
+## 최신 완료 상태 (2026-11-22)
+- 승인 YBM 정본: approved/english/ybm-kim/grade5-6-u10-12/r1/ (183문항, WebP 원본 31개를 data URI 이미지 테이블로 저장).
+- 검수 current: renderer/releases/v0.2.0-review.1/review-renderer-183.html. 기존 preview.2 및 v0.5·v0.6 파일은 그대로 보존.
+- 검수 기능: 정상/재검토/미검토, 문항별 메모, 브라우저 저장, JSON 입출력. 5개 그림 주관식 HD/FHD 정오 판정·다음 문항 버튼 겹침 수정.
+- 기존 자동 경고 HD 24/FHD 63, 4K 전수 검수, 범용 카트리지 API, 실제 게임 배포는 미완료.
+- 등록 원칙: 영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다.

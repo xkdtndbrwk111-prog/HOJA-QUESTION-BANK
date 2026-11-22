@@ -1,11 +1,11 @@
 # HOJA 문제 검토 렌더러 · 독립 보관 구역
 
-> **현재 기준:** `v0.1.0-preview.2` (2026-11-21) · **검토용** · 운영 게임 미배포
+> **현재 기준:** `v0.2.0-review.1` (2026-11-22) · **검토용** · 운영 게임 미배포
 
 ## 현재 기준을 확인하는 법
 
 1. **무조건 이 폴더의 [`VERSION.json`](VERSION.json)을 먼저 읽는다.** `rendererVersion`과 `currentRelease`를 기준으로 한다.
-2. 실행 시 [`releases/v0.1.0-preview.2/review-renderer-demo.html`](releases/v0.1.0-preview.2/review-renderer-demo.html)을 열어 가상 5문항으로 기능을 확인한다.
+2. 실행 시 [`releases/v0.2.0-review.1/review-renderer-183.html`](releases/v0.1.0-preview.2/review-renderer-demo.html)을 열어 승인된 YBM 183문항과 검수도구를 확인한다.
 3. 실제 사회 5학년 3-1·3-2 **64문항 검토 화면은** [`fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html`](fixtures/social-5-u3-1-rev4-u3-2-rev5-q13-datefree-64q.html)에 **보존본**으로 둔다. 보존본의 콘텐츠는 **2026-11-21 교사 승인**되었으나, 렌더러 자체와 운영 게임은 미배포 상태다. 정본 ZIP은 [`approved/README.md`](../approved/README.md)를 따른다.
 
 ## 역할 분리
@@ -45,4 +45,7 @@
 - [experiments/2026-11-22/README.md](experiments/2026-11-22/README.md): YBM 5·6학년 183문항 태그 렌더링 실험 v0.5, 지문 글자 확대·대화 묶음 세로 중앙 정렬 및 검사 결과.
 - [tags/README.md](tags/README.md): 그림/텍스트 의미 태그, 초기 183문항 주석, 자동 분류 참고 스크립트, JSON Schema.
 
-이 실험판을 현재 기준 `currentRelease`로 취급하지 않는다. 변경 코드를 올릴 때에는 **보존용 HTML + 태그/스키마(변경 시) + CHANGELOG + 인수인계 문서 + 검사 결과**를 함께 갱신한다.
+v0.6 실험 HTML은 보존본이고, 승인 검수판 v0.2.0-review.1이 current입니다. 변경 코드를 올릴 때에는 **보존용 HTML + 태그/스키마(변경 시) + CHANGELOG + 인수인계 문서 + 검사 결과**를 함께 갱신한다.
+
+### v0.2.0-review.1
+YBM 183문항·31개 원본 그림 내장. 문항별 상태·메모 및 검수 JSON 가져오기/내보내기 지원. 주관식 정오 판정 뒤 다음 버튼의 겹침 개선. 단, 범용 카트리지 동적 로더/API 및 운영 게임 연결은 아직 구현하지 않았습니다.
