@@ -53,3 +53,11 @@ YBM 183문항은 2026-11-22 approved/english/ybm-kim/grade5-6-u10-12/r1/에 교�
 - GitHub 재조회·자바스크립트 구문·문항/이미지/정답 참조 검사는 통과. **통합판의 실제 브라우저 시각 회귀와 전체 해상도 검사는 미수행**.
 - 저장소 비공개: GitHub 로그인 후 HTML 원본을 다운로드해 로컬 브라우저로 실행. 외부 htmlpreview에서는 비공개 저장소 접근 불가.
 - 교사 승인을 받기 전까지 `renderer/VERSION.json` current, `approved/`, 운영 게임 배포 상태 변경 금지.
+
+
+## 2026-11-22 · 수학 의미 태깅 및 기존 엔진 보존 실험 review.3
+- [수학 187문항 의미·배치 태그 초안](math-187-meaning-render-tags-review.3.json)
+- [수학+영어 검수 HTML (기존 A/C/D 배치 보존 실험)](math-187-legacy-tagged-review-v0.2.0-review.3.html)
+- [실험 분석·한계·재검수 안내](MATH_187_LEGACY_TAGGING_REVIEW3.md)
+- 현재 **수학 태그 초안은 v0.1 공통 JSON Schema 미호환**, 브라우저 전수 검수 미실시, 교사 승인 전. 이전 독립형 수학 좌우 고정 화면은 HOJA 표준 렌더러가 아니며 승인/배포하면 안 됨.
+- 영어 v6/v7 개별 배치 수정은 과거 대화에 보고되었지만 이 폴더에서 해당 이름의 HTML은 확인되지 않음. 요구 사항만 [인수인계 문서](../../WORKFLOW_HANDOFF.md)에 남겼으며 GitHub에 완제품이 있다고 간주하지 않음.
