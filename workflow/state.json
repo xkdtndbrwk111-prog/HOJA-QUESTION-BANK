@@ -28,7 +28,8 @@
         "renderer/VERSION.json",
         "renderer/experiments/2026-11-22/MATH_187_VIEWER_HANDOFF.md",
         "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md",
-        "docs/MATH_187_REV2_AUDIT_20261122.md"
+        "docs/MATH_187_REV2_AUDIT_20261122.md",
+        "docs/MATH_187_REVIEWFIX1_HANDOFF_20261122.md"
       ],
       "facts": [
         "6단원/187문항(객관식127·OX36·주관식24)",
@@ -38,6 +39,7 @@
         "교사 검수 메모 11건 확인: 발문 간결화, 그림 불필요 설명 삭제 및 도형 확대, 변 치수 직접 표기"
       ],
       "next": [
+        "새 HTML 검토 페이지에서 직접 수학 187문항을 육안 확인; 복수 정답·평균·구 중심·캔 배치 4건은 reviewfix1에서 교정. 기존 그림 36개 유지.",
         "수학 rev2 새 그림 36개는 대부분 유지하되 문항 오류 4건 먼저 확인: math6-s2-u5:q08 중복 정답(차단), m5u6:q08, m6u6:q11, m6u6:q19 표현·조건 재검토.",
         "6개 수학 rev2 ZIP Library 발견, 아직 내용 검증 전. 원본 chatfix1 대비 발문·그림·정답 보존 검증.",
         "Gemini에게 문항 텍스트·삽화 개선 지시서 전달(렌더러 설명 제외); 신규 후보 ZIP 6개와 변경/검수 보고서 접수 대기",
@@ -55,7 +57,7 @@
         "browserVisualQA": "NOT_RUN"
       },
       "geminiRevision": {
-        "status": "REV2_CONTENT_QA_FOUND_ONE_BLOCKING_AND_THREE_FOLLOWUP",
+        "status": "SELF_CORRECTED_REVIEWFIX1_TEACHER_REVIEW_PENDING",
         "instructionPath": "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md",
         "scope": "QUESTION_TEXT_AND_ASSETS_ONLY",
         "reviewMemoCount": 11,
@@ -85,7 +87,9 @@
           "changedPrompts": 131,
           "changedImages": 36,
           "changedAnswers": 0
-        }
+        },
+        "reviewfix1Html": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.1.html",
+        "reviewfix1Page": "https://chatgpt.com/space/page_ee435eceba948191a0390e71aabd2b58"
       }
     },
     {
@@ -130,6 +134,7 @@
         "수학 review.4는 별도 후보이고 current 승격·운영 게임 배포가 아님"
       ],
       "next": [
+        "수학 전용 실험 검수실 reviewfix1-ui.1 자동 저장/좌측 상단 순서 개선 구현 완료; 교사 실사용 피드백 및 해상도별 QA 필요.",
         "교사 요청 UX 미완료: 코멘트 자동저장, 좌측 주요 메뉴 순서 이동 (이전·다음 → 단원 선택 → 코멘트 → JSON → 나머지)",
         "문항 내용과 화면 엔진의 책임·승인·버전을 분리",
         "수학 실제 브라우저 회귀 후에만 렌더러 개선·승격 여부 결정"
@@ -176,10 +181,13 @@
     }
   },
   "rendererUiRequest": {
-    "status": "PENDING_NOT_IMPLEMENTED",
+    "status": "IMPLEMENTED_IN_MATH_EXPERIMENT_REVIEWFIX1_UI1",
     "userRequest": "autosave QA comment on typing and when navigating; order sidebar previous/next, unit select, comment, JSON export, then all other controls",
-    "target": "renderer/experiments/2026-11-22/math-187-review4-math-only.html",
-    "next": "Keep A/C/D unchanged; implement autosave without corrupting prior JSON; ensure all navigation handlers and export flush; validate browser and checkpoint"
+    "target": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.1.html",
+    "next": "Keep A/C/D unchanged; implement autosave without corrupting prior JSON; ensure all navigation handlers and export flush; validate browser and checkpoint",
+    "page": "https://chatgpt.com/space/page_ee435eceba948191a0390e71aabd2b58",
+    "qa": "CHROMIUM_187_DOM_SMOKE_AND_NOTE_PERSISTENCE_PASS",
+    "caveat": "All-resolution visual layout QA pending; browser localStorage mocked in test environment, real browser relies on origin storage."
   },
   "mathRevisionIntake": {
     "status": "INSPECTED_REV2_QA_CORRECTION_REQUIRED",
@@ -274,6 +282,21 @@
       "mathLooseBytes": 476492,
       "all732ZipBytes": 2401672,
       "versusChatfix1ZipSavings": 58127
+    },
+    "reviewfix1": {
+      "status": "PREVIEW_AND_PATCH_ZIP_CREATED_CONTENT_NOT_YET_TEACHER_APPROVED",
+      "candidateZip": "HOJA_MATH_187_REVIEWFIX1_20261122.zip",
+      "candidateZipSha256": "102d859ed6352db96eab23b131c2a81b3f49e13dbbf5718683e1d7ba394938ae",
+      "candidateZipBytes": 522170,
+      "candidateZipGithub": "NOT_REGISTERED",
+      "edits": 4,
+      "untouchedQuestions": 183,
+      "untouchedImages": 36,
+      "reviewerPath": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.1.html",
+      "reviewerPage": "https://chatgpt.com/space/page_ee435eceba948191a0390e71aabd2b58",
+      "reviewerSha256": "7f7f8a60bf1906c9a2b7ef4dbf16fbf886288d091dba408155d50a519940cddd",
+      "qa": "CHROMIUM_187_DOM_SMOKE_AND_AUTOSAVE_IMPORT_EXPORT_PASS",
+      "visualAllRes": "NOT_DONE"
     }
   }
 }
