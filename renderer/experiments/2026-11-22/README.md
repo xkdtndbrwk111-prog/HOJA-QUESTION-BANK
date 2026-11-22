@@ -42,3 +42,14 @@ Q08 FHD 지문 글자 약 53→101px, Q09 위·아래 여백 차이 약 81→0px
 
 ## 정본 승인 이관
 YBM 183문항은 2026-11-22 approved/english/ybm-kim/grade5-6-u10-12/r1/에 교사 승인 정본으로 등록했습니다. v0.5/v0.6은 실험 보존본입니다. 현재 검수 도구는 renderer/releases/v0.2.0-review.1/review-renderer-183.html입니다.
+
+## 2026-11-22 · 수학 187문항 공통 렌더러 연결 실험 (승인·배포 아님)
+
+- 기존 `renderer/releases/v0.2.0-review.1/review-renderer-183.html`의 A/C/D 레이아웃·교사 판정·검수 기록 UI를 재사용해 **수학 187문항 + 영어 183문항** 통합 실험판을 별도 저장함.
+- 통합 실험 HTML: [`math-187-integrated-review-v0.2.0-review.2.html`](math-187-integrated-review-v0.2.0-review.2.html).
+- 구현/검사/미완료: [`MATH_187_UNIFIED_REVIEW_HANDOFF.md`](MATH_187_UNIFIED_REVIEW_HANDOFF.md).
+- 수학 5·6학년 2학기 4~6단원 187문항, 삽화 36개, 문항 태그 187개를 인라인 포함. 영어 183문항 원본 보존.
+- 과목별 검수 localStorage와 JSON sourceRelease를 분리. 수학 OX 각 단원 O 3/X 3 유지.
+- GitHub 재조회·자바스크립트 구문·문항/이미지/정답 참조 검사는 통과. **통합판의 실제 브라우저 시각 회귀와 전체 해상도 검사는 미수행**.
+- 저장소 비공개: GitHub 로그인 후 HTML 원본을 다운로드해 로컬 브라우저로 실행. 외부 htmlpreview에서는 비공개 저장소 접근 불가.
+- 교사 승인을 받기 전까지 `renderer/VERSION.json` current, `approved/`, 운영 게임 배포 상태 변경 금지.
