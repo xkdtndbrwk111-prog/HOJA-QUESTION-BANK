@@ -116,3 +116,9 @@ python3 tools/verify_handoff.py
 - **남음:** macOS/Windows 파일 URL localStorage 재실행 테스트, QHD/4:3/모바일/전자칠판, 교과서 3종 직접 대조, 게임 로더 연동, 교사 승인.
 - [렌더링 체크리스트](docs/SOC6_64_REV2_RENDER_CHECKLIST_20261122.md). approved 등록 내용은 기존 21단원/668문항으로 그대로 유지.
 
+## 2026-11-22 · 사회6 64문항 rev3 제출물 검수 및 렌더링
+- Gemini rev3 후보 ZIP 2개 실제 분석: 총64문항, 삽화15(기존5+신규10), 본문 변경 문항19, 문항 ID/정답/선택지/그룹 보존.
+- 기존 HOJA A/C/D를 재활용한 HTML 검수판 생성. **A45/C19**, 교사 지정 5개 C 좌우 실제 확인, HD+FHD 총128화면 JS오류0/자동 영역 경고0. 내부 메타데이터 `자료: ...`는 화면에서만 비표시(원본 ZIP 변경 없음).
+- [독립 검수 체크포인트](docs/SOC6_64_REV3_REVIEW_CHECKPOINT_20261122.md). Gemini 보고서가 주장한 `RENDERER_HANDOFF.json`은 ZIP 내 미존재. 자료 의존도가 낮은 6개 문항 추가 개선 권고.
+- **주의:** rev3 ZIP·대화용 HTML 바이너리는 아직 GitHub 미등록. 기존 교사 승인 21단원/668문항 및 렌더러 current 변경 없음. 교과서 원문/파일영속 저장/전자칠판/실게임 미검증.
+
