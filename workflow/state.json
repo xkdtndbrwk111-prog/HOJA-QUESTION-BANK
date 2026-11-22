@@ -37,6 +37,7 @@
         "교사 검수 메모 11건 확인: 발문 간결화, 그림 불필요 설명 삭제 및 도형 확대, 변 치수 직접 표기"
       ],
       "next": [
+        "6개 수학 rev2 ZIP Library 발견, 아직 내용 검증 전. 원본 chatfix1 대비 발문·그림·정답 보존 검증.",
         "Gemini에게 문항 텍스트·삽화 개선 지시서 전달(렌더러 설명 제외); 신규 후보 ZIP 6개와 변경/검수 보고서 접수 대기",
         "교사용 수학 전용 HTML을 열어 시각 검수: renderer/experiments/2026-11-22/math-187-review4-math-only.html",
         "review.4를 기존 v0.2.0-review.1 A/C/D 엔진과 비교; 렌더러 독자 규격으로 교체 금지",
@@ -52,7 +53,7 @@
         "browserVisualQA": "NOT_RUN"
       },
       "geminiRevision": {
-        "status": "BRIEF_READY_AWAITING_NEW_CANDIDATES",
+        "status": "REV2_FILES_LOCATED_PENDING_VALIDATION",
         "instructionPath": "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md",
         "scope": "QUESTION_TEXT_AND_ASSETS_ONLY",
         "reviewMemoCount": 11,
@@ -73,7 +74,7 @@
           "m5u5:q05",
           "m5u5:q30"
         ],
-        "candidateReceived": false,
+        "candidateReceived": true,
         "outputExpected": "6 candidate ZIPs, 187Q change table, image before/after comparison, independent QA",
         "doNotExplainRendererToGemini": true
       }
@@ -162,5 +163,42 @@
     "userRequest": "autosave QA comment on typing and when navigating; order sidebar previous/next, unit select, comment, JSON export, then all other controls",
     "target": "renderer/experiments/2026-11-22/math-187-review4-math-only.html",
     "next": "Keep A/C/D unchanged; implement autosave without corrupting prior JSON; ensure all navigation handlers and export flush; validate browser and checkpoint"
+  },
+  "mathRevisionIntake": {
+    "status": "LOCATED_LIBRARY_FILES_NOT_YET_VALIDATED",
+    "date": "2026-11-22",
+    "files": [
+      {
+        "name": "math5-s2-u4-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_0000000076b48206b35273f543440c09",
+        "bytes": 66642
+      },
+      {
+        "name": "math5-s2-u5-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_0000000092f8820698a79e37139cd49b",
+        "bytes": 80438
+      },
+      {
+        "name": "math5-s2-u6-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_0000000048688211b8938b7c6cc830cb",
+        "bytes": 114076
+      },
+      {
+        "name": "math6-s2-u4-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_000000004570821198b06a489a16ca1d",
+        "bytes": 69373
+      },
+      {
+        "name": "math6-s2-u5-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_0000000081e88206a4e86a6fe11b7328",
+        "bytes": 106160
+      },
+      {
+        "name": "math6-s2-u6-rev2-candidate-v0.3.0-rc9.1.zip",
+        "id": "file_0000000023948206852407fd00556c3d",
+        "bytes": 90246
+      }
+    ],
+    "task": "After checkpoint, compare six Gemini rev2 candidates against 187-question chatfix1 source; inspect text, figures, QA and preservation. Teacher says figures markedly improved. Do not approve before check."
   }
 }
