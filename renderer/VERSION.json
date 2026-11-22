@@ -25,13 +25,15 @@
   "fixtureSha256": "dd8c66e873696493cb66caf826fda0f63d80934befffe6042a02d1300e55cfa0",
   "notes": "Renderer engine preview.2 unchanged; reference fixture now reflects the teacher-approved 64-question review (U3-1 rev4, U3-2 rev5 q13 date-free), with readable 1600x900 diagrams. Production game not deployed.",
   "latestExperiment": {
-    "id": "ybm-kim-183-tagged-v0.5",
+    "id": "ybm-kim-183-tagged-v0.6",
     "date": "2026-11-22",
     "status": "TEACHER_REVIEW_PENDING",
-    "entrypoint": "experiments/2026-11-22/ybm-183-tagged-v0.5.html",
+    "entrypoint": "experiments/2026-11-22/ybm-183-tagged-v0.6.html",
     "instructions": "WORKFLOW_HANDOFF.md",
-    "notes": "Tagged YBM candidate 183 questions; preserve approved cartridges. Dialogue panel vertical centering and auto-enlarged stimulus text. NOT CURRENT; NOT DEPLOYED."
+    "previousExperiment": "experiments/2026-11-22/ybm-183-tagged-v0.5.html",
+    "notes": "Five answer-critical SHORT image layouts enlarged. 183Q HD/FHD regression: new warnings 0, old warnings HD24/FHD63 still unresolved. Original questions and images unchanged. NOT CURRENT; NOT DEPLOYED."
   },
   "tagSchema": "tags/render-tags-v0.1.schema.json",
-  "tagClassifier": "tags/auto-classifier-v0.1.js"
+  "tagClassifier": "tags/auto-classifier-v0.1.js",
+  "latestTagAnnotations": "tags/ybm-kim-183-render-tags-v0.2.json"
 }

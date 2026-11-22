@@ -2,7 +2,8 @@
 
 **2026-11-22 기준.** 콘텐츠 **자동 태깅 후보**와 렌더링 보조용 코드. 승인 정본·운영 게임과 분리.
 
-- [183문항 태그 JSON](ybm-kim-183-render-tags-v0.1.json): YBM(김혜리) 영어 5·6학년 10~12단원 183문항에 의미 기반으로 부여한 태그. 키는 문항의 내부 ID(`g5u10:q09` 등).
+- [183문항 태그 JSON v0.2](ybm-kim-183-render-tags-v0.2.json): 핵심 그림이 필요한 주관식 5개 우선순위 보정. 이전 [v0.1 JSON](ybm-kim-183-render-tags-v0.1.json)도 보존.
+- [183문항 태그 JSON v0.1 보존본](ybm-kim-183-render-tags-v0.1.json): YBM(김혜리) 영어 5·6학년 10~12단원 183문항에 의미 기반으로 부여한 태그. 키는 문항의 내부 ID(`g5u10:q09` 등).
 - [JSON Schema](render-tags-v0.1.schema.json): 개별 문항 태그 객체의 구조 검사.
 - [auto-classifier-v0.1.js](auto-classifier-v0.1.js): **신규 문항용 재사용 가능한 분류 참고 구현**. 기존 183문항의 태그와 일치한다고 보장하지 않으며, 시각 자료의 의미는 교사 검토가 필요하다.
 - [YBM 실험 렌더러](../experiments/2026-11-22/ybm-183-tagged-v0.5.html): 183문항 태그 데이터가 HTML 안에 내장된 **오프라인 검토판**. 이 파일은 standalone이며 운영 게임이 아니다.
@@ -39,3 +40,6 @@ console.log(tag.layout.recommendedFamily); // dialogue_informational
 
 - [build_hoja_tag_trial_original.py](build_hoja_tag_trial_original.py): 이번 YBM 태그 실험에 사용된 **원본 Python 분류·실험판 빌더 소스**. 과거 작업 환경의 절대 경로와 별도의 후보 ZIP을 전제로 하며, 해당 ZIP은 이 저장소에 포함되어 있지 않다.
 - [auto-classifier-v0.1.js](auto-classifier-v0.1.js): 이후 신규 문항에 사용하기 위한 일반화 참고 구현. 두 코드가 같은 결과를 내는지 검증했다고 간주하지 않는다.
+
+## v0.6 우선순위 보정
+원문·정답·이미지의 SHA는 변경하지 않으며, SHORT+핵심 그림 5개 문항에 한해 `image.priority=high`, `constraints.elementPriority.image=high` 태그만 적용합니다. 그림의 `kind=general`과 `needsFineDetail=false`는 그대로입니다. 렌더러는 해당 태그와 주관식·C 유형을 확인하여 기존 내부 배치 중 하나를 선택합니다.

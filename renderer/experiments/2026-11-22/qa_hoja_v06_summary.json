@@ -1,0 +1,81 @@
+{
+  "experiment": "ybm-kim-183-tagged-v0.6",
+  "runDate": "2026-11-22",
+  "scope": {
+    "questions": 183,
+    "resolutions": [
+      "1280x720",
+      "1920x1080"
+    ],
+    "versions": [
+      "v0.5",
+      "v0.6"
+    ]
+  },
+  "dataIntegrity": "DATA_CONCISE, DATA_ORIGINAL and IMAGES exact string equal",
+  "baselineWarnings": {
+    "HD": 24,
+    "FHD": 63
+  },
+  "candidateWarnings": {
+    "HD": 24,
+    "FHD": 63
+  },
+  "newWarningIds": [],
+  "jsErrors": 0,
+  "changedComposition": {
+    "g5u10:q29": [
+      "stack",
+      "split"
+    ],
+    "g5u12:q29": [
+      "stack",
+      "picture-stimulus"
+    ],
+    "g6u10:q29": [
+      "stack",
+      "split"
+    ],
+    "g6u11:q29": [
+      "stack",
+      "picture-stimulus"
+    ],
+    "g6u12:q29": [
+      "stack",
+      "picture-stimulus"
+    ]
+  },
+  "unchangedCompositions": 178,
+  "pictureHeight720p": {
+    "g5u12:q29": [
+      137,
+      273
+    ],
+    "g6u11:q29": [
+      173,
+      273
+    ],
+    "g6u12:q29": [
+      137,
+      273
+    ]
+  },
+  "shortFlow": "Question -> reveal 'skiing' -> once-only teacher judgement -> next question PASS",
+  "spotChecks": {
+    "resolutions": [
+      "2560x1440",
+      "3840x2160"
+    ],
+    "ids": [
+      "g5u10:q29",
+      "g5u12:q29",
+      "g6u10:q29",
+      "g6u11:q29",
+      "g6u12:q29",
+      "g5u10:q09",
+      "g5u11:q34"
+    ],
+    "knownWarning": "g5u11:q34 still flagged for review"
+  },
+  "limitations": "Automated warnings HD24/FHD63 not visually adjudicated; no full 4K sweep, no game deployment."
+}

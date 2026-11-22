@@ -8,8 +8,8 @@
 | 구분 | 기준 | 상태 |
 |---|---|---|
 | 공통 검토 렌더러 current | [VERSION.json](VERSION.json) 의 \`currentRelease\` = \`v0.1.0-preview.2\` | 변경 없음, 검토용 |
-| **최신 YBM 실험 화면** | [v0.5 HTML](experiments/2026-11-22/ybm-183-tagged-v0.5.html) | 영어 5·6학년 YBM 183문항 **승인 전 후보** |
-| 의미 태그 | [183문항 태그 JSON](tags/ybm-kim-183-render-tags-v0.1.json) | 초안 v0.1, 별도 annotation |
+| **최신 YBM 실험 화면** | [v0.6 HTML](experiments/2026-11-22/ybm-183-tagged-v0.6.html) | 영어 5·6학년 YBM 183문항 **승인 전 후보** |
+| 의미 태그 | [183문항 태그 v0.2 JSON](tags/ybm-kim-183-render-tags-v0.2.json) | 초안 v0.1, 별도 annotation |
 | 신규 문항 자동 태그 | [auto-classifier-v0.1.js](tags/auto-classifier-v0.1.js) | 참고 구현, 교사 검수 필요 |
 | 태그 제작 실험 원본 | [build_hoja_tag_trial_original.py](tags/build_hoja_tag_trial_original.py) | 입력 ZIP·오프라인 경로 필요 |
 | 기존 승인 콘텐츠 | [../approved/README.md](../approved/README.md) | 별도 저장, 현재 실험과 분리 |
@@ -19,7 +19,7 @@
 
 ## 2. 한 번에 화면 열기
 
-1. GitHub에서 [실험 HTML](experiments/2026-11-22/ybm-183-tagged-v0.5.html)을 열고 **Download raw file**로 저장한다. 또는 저장소를 clone한 후 HTML을 브라우저에서 연다.
+1. GitHub에서 [실험 HTML](experiments/2026-11-22/ybm-183-tagged-v0.6.html)을 열고 **Download raw file**로 저장한다. 또는 저장소를 clone한 후 HTML을 브라우저에서 연다.
 2. 오른쪽 검토 화면, 왼쪽 단원/문항/해상도 메뉴를 사용한다. \`5학년 10~12단원\` 92문항, \`6학년 10~12단원\` 91문항.
 3. A/C/D 유형·좌우/상하/자동 배치를 비교한다. 새 문제로 이동하면 자동 배치로 복귀한다.
 4. 태그 패널의 필터(대화·읽기·정보 그림 등)로 문항을 빠르게 점검한다.
@@ -39,6 +39,17 @@ HTML 안에는 문항·삽화·렌더링 태그가 함께 들어 있어 **인터
 
 태그 표준은 [tags/README.md](tags/README.md), 실험별 변경 내역은 [experiments/2026-11-22/README.md](experiments/2026-11-22/README.md) 참조.
 
+## 3A. v0.6 교정 · 핵심 그림 주관식 5문항
+
+## v0.6 변경 사항 · 핵심 그림 주관식 자동 공간 배분
+- v0.5 오프라인 검토판을 보존하고 새 HTML `ybm-183-tagged-v0.6.html`을 추가. 승인 콘텐츠/운영 게임에는 영향 없음.
+- `g5u10:q29`, `g5u12:q29`, `g6u10:q29`, `g6u11:q29`, `g6u12:q29` 총 **5개 SHORT+그림**에서 별도 태그의 `image.priority=high`를 사용해 기존 내부 배치로 자동 전환. 문장 포함은 `picture-stimulus`, 그림만 있는 문항은 `split`. 수동 상하 선택 시 예외.
+- 그 외 **178문항의 자동 배치 선택은 v0.5와 동일**. DATA_CONCISE/DATA_ORIGINAL/IMAGES 원본 문자열 그대로.
+- 회귀: **183문항×HD·FHD** 비교. v0.5→v0.6 경고 수 HD 24→24, FHD 63→63. 신규 경고 0, JS 오류 0. 신규 변경된 문항 5개. 기존 경고는 해결되지 않음.
+- Q29(5학년 12단원) 그림 패널 표시 높이: 720p 환산 **137→273px**. 주관식 답 공개·정오판정 1회 제한·다음 문항 전환 통과.
+- QHD/4K는 대표 7문항 표본 검사만 실시. 변경된 5문항 정상, g5u11:q34는 기존 '재검토 필요' 판정 유지. **전체 4K 전수 통과라고 주장하지 않음**.
+- 태그 보존: 기존 `ybm-kim-183-render-tags-v0.1.json` 유지, 5개 우선순위만 보정한 `v0.2.json` 추가. 전체 스키마는 여전히 `0.1.0-draft`.
+
 ## 4. 확인된 검사 및 문제
 
 - YBM **183문항 × HD(1280×720)·FHD(1920×1080)**를 v0.4와 v0.5에서 동일하게 자동 점검.
@@ -55,10 +66,10 @@ git clone https://github.com/xkdtndbrwk111-prog/HOJA-QUESTION-BANK.git
 cd HOJA-QUESTION-BANK
 python -m http.server 8000
 # 브라우저에서
-# http://localhost:8000/renderer/experiments/2026-11-22/ybm-183-tagged-v0.5.html
+# http://localhost:8000/renderer/experiments/2026-11-22/ybm-183-tagged-v0.6.html
 \`\`\`
 
-- 이미 완성된 전체 HTML은 [실험 보존본](experiments/2026-11-22/ybm-183-tagged-v0.5.html)에 있다. 승인 원본 ZIP을 가져와 재생성할 필요는 없다.
+- 이미 완성된 전체 HTML은 [최신 실험 보존본](experiments/2026-11-22/ybm-183-tagged-v0.6.html)에 있다. 승인 원본 ZIP을 가져와 재생성할 필요는 없다.
 - 생성·수정 경위를 더 살펴보려면 [v0.4→v0.5 패치](experiments/2026-11-22/patch_hoja_stimulus_v05.py)와 [전체 회귀 검사 소스](experiments/2026-11-22/qa_hoja_v05_full.py)를 참조한다. 두 파일에 있는 \`/mnt/data\` 경로는 **이전 실험 환경 전용**이므로 로컬 경로에 맞춰 수정해야 한다.
 - 태그를 새 문항에 붙이려면 [참고 자동 분류기](tags/auto-classifier-v0.1.js)를 사용할 수 있다. 최초 183문항 배치 태그를 만들던 [Python 원본 소스](tags/build_hoja_tag_trial_original.py)는 별도 후보 ZIP 및 이미지가 필요하다. **그 입력 자료들은 현재 저장소의 일부가 아니다.** 따라서 소스만으로 초기 태깅 전체를 즉시 재생성할 수 있다고 말하면 안 된다.
 - 교과서·교사 승인이 필요한 콘텐츠와 미디어는 라이선스/재배포 가능 여부 확인 후 공개 처리한다.
