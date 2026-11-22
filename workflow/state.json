@@ -2,7 +2,7 @@
   "schemaVersion": "hoja-resume-v1",
   "lastUpdated": "2026-11-22",
   "branch": "main",
-  "activeWorkstream": "math-187",
+  "activeWorkstream": "social-grade6-64",
   "registeredApproved": {
     "units": 21,
     "questions": 668
@@ -150,6 +150,30 @@
         "교사 요청 UX 미완료: 코멘트 자동저장, 좌측 주요 메뉴 순서 이동 (이전·다음 → 단원 선택 → 코멘트 → JSON → 나머지)",
         "문항 내용과 화면 엔진의 책임·승인·버전을 분리",
         "수학 실제 브라우저 회귀 후에만 렌더러 개선·승격 여부 결정"
+      ]
+    },
+    {
+      "id": "social-grade6-64",
+      "name": "사회 6학년 2학기 3-1·3-2 64문항 독립 검수",
+      "status": "HOLD_FIXES_PENDING",
+      "teacherApproval": "PENDING",
+      "gitHubArtifact": "AUDIT_ONLY_NO_APPROVED_ZIPS",
+      "gameDeployment": "NOT_DEPLOYED",
+      "entry": "docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md",
+      "evidence": [
+        "docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md",
+        "docs/SOC6_64_ITEM_AUDIT_20261122.csv"
+      ],
+      "facts": [
+        "제작 후보 rev1 2개 단원/64문항; 자체 PASS와 독립 승인 구분",
+        "정적 CRC/SHA/3지선다 132조합 기록/이미지 5개 9회 참조 PASS",
+        "독립 내용 검수: 수정필수5, 개선권고7, 잠정통과52",
+        "교과서 원문 직접 재대조·렌더러·전자칠판·실게임 QA 미실시"
+      ],
+      "next": [
+        "3-1 Q11, 3-2 Q03/Q05/Q10/Q29 최소 수정 후 rev2 후보 생성",
+        "권고7·도표 발문9·주관식 별칭 답안 검토",
+        "교과서3종 독립 비교 및 기존 HOJA 렌더러/게임 확인 후 교사 승인 여부 결정"
       ]
     }
   ],

@@ -1,0 +1,65 @@
+cartridgeId,unit,questionId,type,status,reasonOrAction,teacherApproval,gameQA
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q01,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q02,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q03,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q04,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q05,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q06,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q07,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q08,MCQ,IMPROVE,산업화 이전/오늘날의 원인을 이분법으로 단정. c4를 인문환경 영향도 커졌다는 표현으로 완화,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q09,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q10,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q11,MCQ,MUST_FIX,"""최근 아시아와 아프리카가 빠르게 증가""는 성장 속도의 지역 차이를 간과. 시기와 지역 차이를 명시",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q12,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q13,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q14,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q15,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q16,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q17,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q18,MCQ,IMPROVE,"남자 왼쪽·여자 오른쪽은 흔한 도식 관행이므로 ""일반적인 인구 피라미드""로 한정",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q19,MCQ,IMPROVE,"선택지 c3의 ""중장년""은 교과 설명의 청장년층과 용어 불일치. ""청장년·노년층""으로 일치 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q20,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q21,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q22,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q23,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q24,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q25,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q26,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q27,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q28,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q29,SHORT,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q30,SHORT,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q31,SHORT,IMPROVE,"59.1%의 조사 기준 연도가 문항에 없어 시간에 따른 수치 변화를 반영하지 못함. ""2023년 기준"" 표시",PENDING,NOT_RUN
+soc6-s2-u3-1-common,3-1,soc6-s2-u3-1-common:q32,SHORT,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q01,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q02,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q03,MCQ,MUST_FIX,"물·식량과 석탄·석유의 공급 한계를 모두 ""지구에 매장된 자원""이라고 설명. 비재생 지하자원과 물·식량 공급 문제 구분",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q04,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q05,MCQ,MUST_FIX,"열대 우림 훼손의 피해를 ""산소 공급이 줄어든다""로 강조하여 오개념 위험. 탄소 흡수·생물 다양성·기후 영향 중심으로 교체",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q06,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q07,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q08,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q09,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q10,MCQ,MUST_FIX,자연재해에 따른 모든 국외 이동을 국제법상 난민과 혼동. 전쟁·박해 중심으로 한정 또는 인도적 이주 개념 분리,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q11,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q12,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q13,MCQ,PRELIM_PASS,"문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임 | 발문 ""검증 도표""를 학생용 ""자료""로 변경 권장",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q14,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q15,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q16,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q17,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q18,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q19,MCQ,IMPROVE,파리 협정의 목적은 모든 기온 상승을 완전히 막는 것보다 상승 폭을 제한하는 것. c3 문구 정밀화,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q20,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q21,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q22,MCQ,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q23,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q24,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q25,OX,IMPROVE,해수면 상승을 설명할 때 떠 있는 바다 얼음과 육지 빙하를 구별. 육지 빙하 융해·해수 열팽창으로 설명,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q26,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q27,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q28,OX,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q29,SHORT,MUST_FIX,Q10과 동일한 난민 정의 문제. 자연재해만으로 국경을 넘은 사람과 법적 난민을 일괄 동일시하지 않게 발문 수정,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q30,SHORT,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q31,SHORT,IMPROVE,"주관식 허용 답안 ""국제 연합""만 저장. 실제 게임에서 유엔/UN/국제연합 및 띄어쓰기 변형을 허용할지 검토",PENDING,NOT_RUN
+soc6-s2-u3-2-common,3-2,soc6-s2-u3-2-common:q32,SHORT,PRELIM_PASS,문항·보기·해설의 명백한 모순은 발견되지 않음. 교과서 원문 대조와 실기기 시험 전임,PENDING,NOT_RUN

@@ -93,3 +93,10 @@ python3 tools/verify_handoff.py
 - 수학 ZIP 6개 GitHub approved/math에 바이너리 등록, 각 단원 manifest와 해시 보존.
 - 최종 HTML: approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html; 승인 체크리스트: docs/MATH_187_APPROVAL_CHECKLIST_20261122.md.
 - GitHub 등록 집계 21단원 668문항, 교사 승인(과학 미등록 64 포함) 23단원 732문항. 게임 미배포, 과학 원격 누락 후속.
+
+## 2026-11-22 · 사회 6학년 2학기 3-1·3-2 독립 내용 검수
+- 입력: `soc6-s2-u3-1-common-candidate-v0.3.0-rc9.1.zip`, `soc6-s2-u3-2-common-candidate-v0.3.0-rc9.1.zip` (양쪽 revision 1, 교사 승인 대기).
+- 2단원 64문항(객관식44/OX12/주관식8), 이미지5, 3지선다 제외 조합132건 기록·파일 해시/참조 정적 PASS.
+- **독립 검수 결론 HOLD:** 수정 필수5(3-1 Q11; 3-2 Q03/Q05/Q10/Q29), 개선 권고7, 잠정 통과52. 교과서 3종 원문 독립 재확인과 렌더러/실게임 QA는 미실시.
+- 체크리스트: [SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md](docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md), 64개 문항별 상태: [CSV](docs/SOC6_64_ITEM_AUDIT_20261122.csv).
+- **승인 색인 불변:** 기존 등록 21단원 668문항; 사회 6학년 64문항은 교사 승인/정본 등록/운영 배포 모두 미실시. 다음 단계는 교과서 원문 대조→rev2 최소 수정→재검수→교사 승인.
