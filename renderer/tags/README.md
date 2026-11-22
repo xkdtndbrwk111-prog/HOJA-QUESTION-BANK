@@ -55,3 +55,8 @@ console.log(tag.layout.recommendedFamily); // dialogue_informational
 - [수학 187문항 태그 실험 JSON](../experiments/2026-11-22/math-187-meaning-render-tags-review.3.json) 및 [태그 연결 HTML](../experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.3.html)은 구형 렌더러 연동 **실험안**이며 정본 아님. 원본 승인 데이터를 바꾸지 않는다.
 - 현재 `render-tags-v0.1.schema.json`은 수학 전용 `mathSemantics`, `preferredLayout` 및 수학 전용 enum을 허용하지 않는다. **실험 JSON은 현재 공통 스키마를 통과한다고 주장할 수 없다.** 형식 통일·스키마 버전업/정규화·자동 분류기 검증이 후속 필수 작업이다.
 - `rendererHint`는 최종 좌표 지정이 아니라 보조 힌트다. 전개도·숫자선·막대그래프·회전판·입체도형 비교처럼 도형 내부 글자가 정답 판정에 필요한 자료에는 가독성 우선순위를 부여하고 실제 브라우저 실측으로 레이아웃을 최종 판단한다.
+
+## 2026-11-22 · 공통 태그 스키마 v0.2 (수학 review.4)
+- [후방 호환 공통 JSON Schema v0.2](render-tags-v0.2.schema.json)는 v0.1 영어 태그 구조를 유지하면서 수학의 `preferredLayout=A/C/D`, `mathSemantics`, 전개도·수직선·회전판 등 세부 그림 태그를 허용한다. 기존 v0.1 스키마는 삭제하지 않는다.
+- [수학 187문항 v0.2 태그](../experiments/2026-11-22/math-187-meaning-render-tags-review.4.json)는 187/187개 속성/필수필드/enum 정적 검사 통과. 자동분류기 `auto-classifier-v0.2.js`와 **동등성 검증은 하지 않았으며**, 교사 재확인 권고 68문항이 남아 있다.
+- [기존 A/C/D 렌더러 연결 review.4](../experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html) 및 [QA 보고서](../experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md). 실제 브라우저 시각 전수 검사는 미실시, 교사 승인·운영 배포 아님.
