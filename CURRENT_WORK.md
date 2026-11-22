@@ -109,3 +109,10 @@ python3 tools/verify_handoff.py
 - [rev2 체크리스트](docs/SOC6_64_REV2_PATCH_CHECKLIST_20261122.md). **이 커밋은 문서+상태만 보존:** 후보 ZIP 바이너리는 GitHub 미업로드, 대화 첨부로만 제공. 수학 등 기존 교사 승인 색인 21단원/668문항 불변.
 - 후속: 비상·아이스크림·김정인 교과서 PDF 원문 대조 → HOJA 기존 A/C/D 렌더러·게임 QA → 교사 승인 판단.
 
+## 2026-11-22 · 사회6 64문항 rev2 기존 HOJA A/C/D 검수판
+- 입력: 사회 6학년 3-1·3-2 rev2 ZIP(총64: MCQ44/OX12/SHORT8; 이미지5종/9회 참조, 수정24). 정본 승인/배포 전.
+- **실제 Chromium 렌더 검수판:** [social6-64-rev2-hoja-review-ui1.html](renderer/experiments/2026-11-22/social6-64-rev2-hoja-review-ui1.html) — 기존 HOJA 수학 UI3 A/C/D 렌더러 코드 재사용, 현재 VERSION.json 미변경.
+- HD 64 + FHD 64 = **128 화면 상태**의 발문/보기/이미지 범위 자동 검사 경고 0, JS 오류 0. 수정24 필터·단원 이동·주관식 공개/정오 판정 구조 확인.
+- **남음:** macOS/Windows 파일 URL localStorage 재실행 테스트, QHD/4:3/모바일/전자칠판, 교과서 3종 직접 대조, 게임 로더 연동, 교사 승인.
+- [렌더링 체크리스트](docs/SOC6_64_REV2_RENDER_CHECKLIST_20261122.md). approved 등록 내용은 기존 21단원/668문항으로 그대로 유지.
+

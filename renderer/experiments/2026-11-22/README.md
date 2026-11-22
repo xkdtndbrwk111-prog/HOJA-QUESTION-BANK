@@ -67,3 +67,9 @@ YBM 183문항은 2026-11-22 approved/english/ybm-kim/grade5-6-u10-12/r1/에 교�
 - [수학 의미 태그 187개 (review.4)](math-187-meaning-render-tags-review.4.json), [스키마 v0.2](../../tags/render-tags-v0.2.schema.json), [QA 기록](MATH_187_LEGACY_TAGGING_REVIEW4.md).
 - 187/187 태그 공통 확장 스키마 정적 검사 통과. 67 그림 참조/36 고유 WebP 검증, MCQ 정답 참조·OX/SHORT 타입 검증. **실제 브라우저 전수 화면 검증은 미완료**.
 - 구형 A/C/D 배치 엔진 및 영어 승인 콘텐츠 불변. 원본 수학 문항·답·삽화 불변, 분수 접근성 레이블 수정. 교사 승인·운영 배포 금지.
+
+## 2026-11-22 · 사회6 64문항 rev2 기존 HOJA A/C/D 검수판
+- [사회6 64문항 rev2 렌더 HTML](social6-64-rev2-hoja-review-ui1.html): 기존 HOJA UI3 A/C/D 렌더러 코드를 재사용한 별도 검수 실험판. 문항 64, 이미지 5종, A55/C9 추천, 수동 D 선택 가능.
+- 화면 검수 HD 64/FHD 64, 누락 이미지/선택지 정답 누락/영역 바깥 글리프 경고 0·JS 0. 교사 승인 전 후보.
+- [검수 체크리스트](../../../docs/SOC6_64_REV2_RENDER_CHECKLIST_20261122.md).
+

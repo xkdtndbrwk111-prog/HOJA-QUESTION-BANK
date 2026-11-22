@@ -72,3 +72,10 @@
 - 분수 표시의 접근성 읽기 순서만 바로잡음(분모분의 분자). 문항·정답·이미지/기존 엔진·영어 데이터 변경 없음.
 - 6단원 187문항, 삽화 36개, 이미지 참조 67회와 참조 일치. 교사 시각 검수 및 해상도 회귀 **미실시**.
 - [실험 HTML](experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html) · [태그](experiments/2026-11-22/math-187-meaning-render-tags-review.4.json) · [검사 기록](experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md). `VERSION.json` current 및 `approved/`·운영 게임 불변.
+
+## 2026-11-22 · 사회6 64문항 rev2 기존 HOJA A/C/D 검수판
+- 64문항 rev2 독립 검수판 `renderer/experiments/2026-11-22/social6-64-rev2-hoja-review-ui1.html` 추가. 기존 렌더러(math-reviewfix1-ui.3) A/C/D 코드·교사 검수 UI를 그대로 사용하고 사회 데이터만 교체. VERSION.json current 변경 없음.
+- Chromium HD/FHD 128문항 상태 검사에서 이미지 참조·객관식 3지선다·발문/보기 경계 0건 경고 및 JS 오류 0. 사용자 확인용 출력.
+- 검수 범위 제한: localStorage 실제 파일 재실행 테스트, QHD/4:3/모바일·Windows 전자칠판, 원문 교과서 3종 비교, 운영 게임 검증 미실시.
+- [체크리스트](../docs/SOC6_64_REV2_RENDER_CHECKLIST_20261122.md). 교사 승인/정본 등록/게임 배포 아님.
+

@@ -140,3 +140,10 @@ python -m http.server 8000
 - 정적 검증: 수학 187/187 태그 v0.2 스키마 적합(검사 오류 0), A120/C48/D19, MCQ127/OX36/SHORT24, 그림 참조 67/고유36/누락0, 교사 점검 권고 68.
 - **브라우저 HD/FHD/4:3/모바일 전수 시각 검증은 아직 미실시**. 새로운 버전이 교사 승인되었거나 게임 배포되었다고 주장하지 않는다.
 - 앞으로는 review.4를 수학 시각 검수 시작점으로 사용. `renderer/VERSION.json`의 current는 여전히 `v0.2.0-review.1`, `approved/` 및 운영 게임 불변.
+
+## 2026-11-22 · 사회6 64문항 rev2 기존 HOJA A/C/D 검수판
+- 64문항 rev2 독립 검수판 `renderer/experiments/2026-11-22/social6-64-rev2-hoja-review-ui1.html` 추가. 기존 렌더러(math-reviewfix1-ui.3) A/C/D 코드·교사 검수 UI를 그대로 사용하고 사회 데이터만 교체. VERSION.json current 변경 없음.
+- Chromium HD/FHD 128문항 상태 검사에서 이미지 참조·객관식 3지선다·발문/보기 경계 0건 경고 및 JS 오류 0. 사용자 확인용 출력.
+- 검수 범위 제한: localStorage 실제 파일 재실행 테스트, QHD/4:3/모바일·Windows 전자칠판, 원문 교과서 3종 비교, 운영 게임 검증 미실시.
+- [체크리스트](../docs/SOC6_64_REV2_RENDER_CHECKLIST_20261122.md). 교사 승인/정본 등록/게임 배포 아님.
+
