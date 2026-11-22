@@ -298,5 +298,15 @@
       "qa": "CHROMIUM_187_DOM_SMOKE_AND_AUTOSAVE_IMPORT_EXPORT_PASS",
       "visualAllRes": "NOT_DONE"
     }
+  },
+  "rendererVisualFix": {
+    "status": "PATCHED_STATIC_ONLY",
+    "date": "2026-11-22",
+    "source": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.1.html",
+    "newPath": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.2.html",
+    "reason": "Earlier global .hoja-fraction and .hoja-inline-math amber highlight affected fractions in options",
+    "change": "Inside #hqChoices color inherit only; preserve stem math amber and all 187Q data and renderer behavior",
+    "browserRegression": "NOT_RUN_ENVIRONMENT_BLOCK",
+    "contentApproval": "UNCHANGED"
   }
 }

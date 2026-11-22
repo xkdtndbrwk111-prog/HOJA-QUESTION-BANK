@@ -72,3 +72,9 @@ python3 tools/verify_handoff.py
 - 기존 A/C/D 핵심 엔진 재사용, review.4 배치 분포 **A120/C48/D19**, 수학 187/그림 36. 왼쪽 상단 **이전·다음 → 단원 → 코멘트 → JSON 출력 → 나머지**, 메모 **입력 즉시 자동 저장**. JSON 출력/기존 메모 11건 불러오기 검증.
 - Chromium에서 **187문항 DOM 순회, 표시 이미지 유효, JS 오류 0, 메모 자동저장/JSON 테스트 PASS**. 실제 HD/FHD/4:3/모바일 전수 육안 QA는 미실시. 렌더러 `VERSION.json` 및 게임 배포 미변경.
 - 후보 ZIP 6개 묶음 `HOJA_MATH_187_REVIEWFIX1_20261122.zip` 생성(522,170 bytes, SHA `102d859ed6352db96eab23b131c2a81b3f49e13dbbf5718683e1d7ba394938ae`), **GitHub 바이너리 업로드는 아직 미완료**. 사용자 대화 산출물 다운로드와 위 경위 기록을 보존. 승인 정본으로 표시 금지.
+
+
+## 2026-11-22 · 수학 보기 분수 노란색 스타일 수정
+- 교사 화면: 5학년 4단원 Q06 보기의 분자·분모가 노란색으로 표시됨. 원인: 공통 `.hoja-fraction { color:#f5c96f }`가 보기까지 적용된 것.
+- [수학 렌더러 reviewfix1-ui.2](renderer/experiments/2026-11-22/math-187-reviewfix1-ui.2.html): `#hqChoices` 내부 `.hoja-fraction`, `.hoja-inline-math`만 `color:inherit` 처리. 문제 발문의 핵심 식 강조는 유지. 정답/그림/기존 검수 JSON은 불변.
+- **실제 브라우저 자동 실행은 환경 접근 제한으로 미통과**. 정적 HTML 스타일 검사 완료, 교사 최종 확인 필요. UI2는 별도 실험판이고 current 정본 승격·게임 배포 아님.
