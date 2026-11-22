@@ -132,3 +132,11 @@ python -m http.server 8000
 2. 수학 태그 187개를 공통 스키마 규약에 맞춰 조정하거나 호환되는 새 스키마를 별도로 도입하고, 자동 분류기를 교차 검증하기.
 3. 187문항 전체의 A/C/D 자동 분류·3지선다·정오판정·수식·이미지·HD/FHD/4:3/모바일 등 실제 브라우저 캡처 및 잘림 회귀; 실패 문항을 번호로 기록.
 4. 교사 승인 전까지 current, approved 및 운영 게임을 변경하지 않기.
+
+## 2026-11-22 · 수학 review.4 실제 반영 (review.3보다 이후)
+- 새 후보: [수학 187문항 HTML review.4](experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html) · [태그 JSON review.4](experiments/2026-11-22/math-187-meaning-render-tags-review.4.json) · [검사기록](experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md).
+- 공통 스키마 [v0.2](tags/render-tags-v0.2.schema.json) 추가: 영어 v0.1 구조 후방 호환, 수학 `mathSemantics`, `preferredLayout`, 세부 타입 허용. **review.3이 v0.1 스키마에 맞지 않는 문제를 새 버전에서 해결**했으며 review.3 원본은 역사적 실험으로 보존.
+- HTML은 기존 A/C/D·자동 배치·교사 판정 UI를 유지. 원본 수학·영어 문항·정답·삽화 불변. 분수 `aria-label`의 분모/분자 순서를 수정.
+- 정적 검증: 수학 187/187 태그 v0.2 스키마 적합(검사 오류 0), A120/C48/D19, MCQ127/OX36/SHORT24, 그림 참조 67/고유36/누락0, 교사 점검 권고 68.
+- **브라우저 HD/FHD/4:3/모바일 전수 시각 검증은 아직 미실시**. 새로운 버전이 교사 승인되었거나 게임 배포되었다고 주장하지 않는다.
+- 앞으로는 review.4를 수학 시각 검수 시작점으로 사용. `renderer/VERSION.json`의 current는 여전히 `v0.2.0-review.1`, `approved/` 및 운영 게임 불변.
