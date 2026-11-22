@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "hoja-resume-v1",
+  "lastUpdated": "2026-11-22",
+  "branch": "main",
+  "activeWorkstream": "math-187",
+  "registeredApproved": {
+    "units": 15,
+    "questions": 481
+  },
+  "teacherApprovedIncludingUnregistered": {
+    "units": 17,
+    "questions": 545
+  },
+  "rendererCurrent": "v0.2.0-review.1",
+  "workstreams": [
+    {
+      "id": "math-187",
+      "name": "수학 187문항 검수",
+      "status": "VISUAL_QA_PENDING",
+      "teacherApproval": "PENDING",
+      "gitHubArtifact": "EXPERIMENT_ONLY",
+      "gameDeployment": "NOT_DEPLOYED",
+      "entry": "renderer/experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html",
+      "evidence": [
+        "renderer/experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md",
+        "renderer/experiments/2026-11-22/math-187-meaning-render-tags-review.4.json",
+        "renderer/tags/render-tags-v0.2.schema.json",
+        "renderer/VERSION.json"
+      ],
+      "facts": [
+        "6단원/187문항(객관식127·OX36·주관식24)",
+        "의미 태그 187개 A120/C48/D19, 교사 재검토 권고 68개",
+        "고유 그림 36개/참조 67회, 기존 정적 검사는 통과 기록",
+        "브라우저 HD·FHD·4:3·모바일 187문항 전수 화면 검수는 미실시"
+      ],
+      "next": [
+        "review.4를 기존 v0.2.0-review.1 A/C/D 엔진과 비교; 렌더러 독자 규격으로 교체 금지",
+        "68개 우선 재검토 및 전체 187개 실제 화면·수식·전개도·보기·주관식 흐름을 문항 ID로 QA 기록",
+        "버그 수정은 별도 실험판에 기록하고 증거와 회귀 결과를 남긴 후 교사 승인 요청"
+      ]
+    },
+    {
+      "id": "science-64",
+      "name": "과학 5-2 열과 우리 생활·자원과 에너지 64문항",
+      "status": "GITHUB_BINARY_UPLOAD_PENDING",
+      "teacherApproval": "APPROVED_2026-11-21",
+      "gitHubArtifact": "NOT_REGISTERED",
+      "gameDeployment": "NOT_DEPLOYED",
+      "entry": "docs/SCIENCE_APPROVED_R1_RECOVERY_20261122.md",
+      "evidence": [
+        "docs/SCIENCE_APPROVED_R1_RECOVERY_20261122.md",
+        "approved/catalog.json"
+      ],
+      "facts": [
+        "2026-11-21 승인 r1 ZIP 두 개의 원본 파일·SHA-256을 2026-11-22 재확인",
+        "각 32문항, rev3, 승인 ZIP 내부 해시·CRC 검사 통과 기록",
+        "과학은 교사 승인이 끝났지만 approved/science/ 정본 ZIP 원격 등록은 아직 증명되지 않음"
+      ],
+      "next": [
+        "원본 승인 ZIP 2개를 바이트 변경 없이 approved/science/에 업로드",
+        "GitHub에서 실제 파일과 SHA를 확인한 뒤 README/manifest 및 approved/catalog.json을 17단원/545문항으로 갱신",
+        "운영 게임 배포는 별도 작업"
+      ]
+    },
+    {
+      "id": "renderer",
+      "name": "HOJA 공통 검토 렌더러",
+      "status": "REVIEW_CURRENT",
+      "teacherApproval": "ENGINE_NOT_APPROVED",
+      "gitHubArtifact": "RENDERER_CURRENT",
+      "gameDeployment": "NOT_DEPLOYED",
+      "entry": "renderer/VERSION.json",
+      "evidence": [
+        "renderer/WORKFLOW_HANDOFF.md",
+        "renderer/VERSION.json",
+        "renderer/tags/README.md"
+      ],
+      "facts": [
+        "공통 검토 렌더러 VERSION.json current는 v0.2.0-review.1",
+        "A/C/D 기존 상위 레이아웃, split/stack 등 내부 자동 배치; 교사 판정·검수 기록 지원",
+        "수학 review.4는 별도 후보이고 current 승격·운영 게임 배포가 아님"
+      ],
+      "next": [
+        "문항 내용과 화면 엔진의 책임·승인·버전을 분리",
+        "수학 실제 브라우저 회귀 후에만 렌더러 개선·승격 여부 결정"
+      ]
+    }
+  ]
+}
