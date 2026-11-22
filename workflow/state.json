@@ -26,15 +26,18 @@
         "renderer/experiments/2026-11-22/math-187-meaning-render-tags-review.4.json",
         "renderer/tags/render-tags-v0.2.schema.json",
         "renderer/VERSION.json",
-        "renderer/experiments/2026-11-22/MATH_187_VIEWER_HANDOFF.md"
+        "renderer/experiments/2026-11-22/MATH_187_VIEWER_HANDOFF.md",
+        "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md"
       ],
       "facts": [
         "6단원/187문항(객관식127·OX36·주관식24)",
         "의미 태그 187개 A120/C48/D19, 교사 재검토 권고 68개",
         "고유 그림 36개/참조 67회, 기존 정적 검사는 통과 기록",
-        "브라우저 HD·FHD·4:3·모바일 187문항 전수 화면 검수는 미실시"
+        "브라우저 HD·FHD·4:3·모바일 187문항 전수 화면 검수는 미실시",
+        "교사 검수 메모 11건 확인: 발문 간결화, 그림 불필요 설명 삭제 및 도형 확대, 변 치수 직접 표기"
       ],
       "next": [
+        "Gemini에게 문항 텍스트·삽화 개선 지시서 전달(렌더러 설명 제외); 신규 후보 ZIP 6개와 변경/검수 보고서 접수 대기",
         "교사용 수학 전용 HTML을 열어 시각 검수: renderer/experiments/2026-11-22/math-187-review4-math-only.html",
         "review.4를 기존 v0.2.0-review.1 A/C/D 엔진과 비교; 렌더러 독자 규격으로 교체 금지",
         "68개 우선 재검토 및 전체 187개 실제 화면·수식·전개도·보기·주관식 흐름을 문항 ID로 QA 기록",
@@ -47,6 +50,32 @@
         "uploadedPreviewSha256": "6fa4559caa0c6dfc65d677c663fe90534cd15041e28cfd86374cc34fb23b3277",
         "staticCheck": "PASS",
         "browserVisualQA": "NOT_RUN"
+      },
+      "geminiRevision": {
+        "status": "BRIEF_READY_AWAITING_NEW_CANDIDATES",
+        "instructionPath": "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md",
+        "scope": "QUESTION_TEXT_AND_ASSETS_ONLY",
+        "reviewMemoCount": 11,
+        "fullScope": {
+          "questions": 187,
+          "uniqueImages": 36
+        },
+        "reviewedIssues": [
+          "m5u4:q01",
+          "m5u4:q02",
+          "m5u4:q06",
+          "m5u4:q09",
+          "m5u4:q10",
+          "m5u4:q13",
+          "m5u4:q17",
+          "m5u4:q21",
+          "m5u5:q01",
+          "m5u5:q05",
+          "m5u5:q30"
+        ],
+        "candidateReceived": false,
+        "outputExpected": "6 candidate ZIPs, 187Q change table, image before/after comparison, independent QA",
+        "doNotExplainRendererToGemini": true
       }
     },
     {
@@ -95,5 +124,15 @@
         "수학 실제 브라우저 회귀 후에만 렌더러 개선·승격 여부 결정"
       ]
     }
-  ]
+  ],
+  "checkpointPolicy": {
+    "atEveryTaskCompletion": true,
+    "atConversationWrapUp": true,
+    "writeTogether": [
+      "CURRENT_WORK.md",
+      "workflow/state.json"
+    ],
+    "lastRecorded": "2026-11-22",
+    "notes": "실행 가능한 작업 완료 시 GitHub 원격 커밋; 자동 백그라운드 저장 아님"
+  }
 }
