@@ -7,10 +7,11 @@
     "description": "영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다."
   },
   "summary": {
-    "approvedUnits": 15,
-    "approvedQuestions": 481,
+    "approvedUnits": 21,
+    "approvedQuestions": 668,
     "english": 384,
-    "social": 97
+    "social": 97,
+    "math": 187
   },
   "englishByPublisher": {
     "cheonjae-ham": {
@@ -37,6 +38,20 @@
         "social/grade5/semester2/soc5-s2-u3-1-common/",
         "social/grade5/semester2/soc5-s2-u3-2-common/"
       ]
+    },
+    "math": {
+      "units": 6,
+      "questions": 187,
+      "paths": [
+        "math/grade5/semester2/math5-s2-u4/",
+        "math/grade5/semester2/math5-s2-u5/",
+        "math/grade5/semester2/math5-s2-u6/",
+        "math/grade6/semester2/math6-s2-u4/",
+        "math/grade6/semester2/math6-s2-u5/",
+        "math/grade6/semester2/math6-s2-u6/"
+      ],
+      "manifest": "math/manifest.json",
+      "gameDeployment": "NOT_DEPLOYED"
     }
   },
   "gameDeployment": "NOT_DEPLOYED"

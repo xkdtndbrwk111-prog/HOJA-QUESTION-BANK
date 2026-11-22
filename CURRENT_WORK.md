@@ -85,3 +85,11 @@ python3 tools/verify_handoff.py
 - [UI3 HTML](renderer/experiments/2026-11-22/math-187-reviewfix1-ui.3.html) · [ChatGPT 검토 페이지](https://chatgpt.com/space/page_5b35706854dc819192878d63c6999ecc) · [검증·차이 보고](docs/MATH_187_REVIEWFIX1_UI3_HANDOFF_20261122.md). 교사 요청 19건은 기본 레이아웃 D→C로 조정(A120/C67/D0), 모든 삽화 및 원본 문항 내용 불변.
 - Q08 보기는 기호+명칭 한 묶음으로 처리. Chromium HD/FHD 자동·좌우·상하 6조합에서 구성요소/보기 overflow 0, 19/19 C형·그림 확인, 코멘트 JSON 20건 불러오기→수정→내보내기 PASS, JS 오류 0.
 - **남은 작업:** 교사의 UI3 실사용 확인, 187문항 해상도별 전수 시각 QA 및 교사 정본 승인. 수학 정본 ZIP/운영 게임은 변경하지 않음.
+
+
+## 2026-11-22 · 수학 정본 r1 승인 완료
+- 6단원 187문항, WebP36, A120/C67. 기존 정답·그룹·4보기 보존.
+- 마지막 교사 검수 6-6 Q08/Q12/Q14/Q18 보기 줄바꿈 수정, HD·FHD 374 화면 상태 검사 PASS.
+- 수학 ZIP 6개 GitHub approved/math에 바이너리 등록, 각 단원 manifest와 해시 보존.
+- 최종 HTML: approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html; 승인 체크리스트: docs/MATH_187_APPROVAL_CHECKLIST_20261122.md.
+- GitHub 등록 집계 21단원 668문항, 교사 승인(과학 미등록 64 포함) 23단원 732문항. 게임 미배포, 과학 원격 누락 후속.

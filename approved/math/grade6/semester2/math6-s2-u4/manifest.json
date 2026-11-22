@@ -1,0 +1,25 @@
+{
+  "id": "math6-s2-u4",
+  "releaseId": "math6-s2-u4-teacher-20261122-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-22",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 2,
+  "questions": 32,
+  "types": {
+    "MCQ": 22,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "assets": 5,
+  "archive": "HOJA_MATH6_S2_U4_APPROVED_20261122_r1.zip",
+  "archiveBytes": 119040,
+  "archiveSha256": "b9d3a7bf9b720df14c5092f9fb7ce84f2157d9d79b1d5dbf9ed908a76c22489e",
+  "gitBlobSha": "e31acf18987df29afec5fad9a4a7a3971f292de2",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "approvedRenderTags": "presentation/render-tags.approved.json",
+  "displayPreferences": "presentation/layout-preferences.json",
+  "reviewedPresentation": "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html",
+  "reviewedPresentationSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5"
+}

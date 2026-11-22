@@ -1,0 +1,25 @@
+{
+  "id": "math5-s2-u5",
+  "releaseId": "math5-s2-u5-teacher-20261122-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-22",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 2,
+  "questions": 33,
+  "types": {
+    "MCQ": 23,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "assets": 7,
+  "archive": "HOJA_MATH5_S2_U5_APPROVED_20261122_r1.zip",
+  "archiveBytes": 140767,
+  "archiveSha256": "aadc71d4c18aefe6d78d07845d02b93b62510e54a0028096ee8a12db8d664d43",
+  "gitBlobSha": "1e0da425f608ac9835b39b44a7bb4fc29c40da9c",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "approvedRenderTags": "presentation/render-tags.approved.json",
+  "displayPreferences": "presentation/layout-preferences.json",
+  "reviewedPresentation": "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html",
+  "reviewedPresentationSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5"
+}

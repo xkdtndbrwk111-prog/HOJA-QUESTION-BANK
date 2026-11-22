@@ -4,23 +4,23 @@
   "branch": "main",
   "activeWorkstream": "math-187",
   "registeredApproved": {
-    "units": 15,
-    "questions": 481
+    "units": 21,
+    "questions": 668
   },
   "teacherApprovedIncludingUnregistered": {
-    "units": 17,
-    "questions": 545
+    "units": 23,
+    "questions": 732
   },
   "rendererCurrent": "v0.2.0-review.1",
   "workstreams": [
     {
       "id": "math-187",
       "name": "수학 187문항 검수",
-      "status": "VISUAL_QA_PENDING",
-      "teacherApproval": "PENDING",
-      "gitHubArtifact": "EXPERIMENT_ONLY",
+      "status": "APPROVED_GITHUB_REGISTERED",
+      "teacherApproval": "APPROVED_2026-11-22",
+      "gitHubArtifact": "APPROVED_ZIPS_REGISTERED",
       "gameDeployment": "NOT_DEPLOYED",
-      "entry": "renderer/experiments/2026-11-22/math-187-legacy-tagged-review-v0.2.0-review.4.html",
+      "entry": "approved/math/manifest.json",
       "evidence": [
         "renderer/experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md",
         "renderer/experiments/2026-11-22/math-187-meaning-render-tags-review.4.json",
@@ -31,7 +31,10 @@
         "docs/MATH_187_REV2_AUDIT_20261122.md",
         "docs/MATH_187_REVIEWFIX1_HANDOFF_20261122.md",
         "docs/MATH_187_REVIEWFIX1_UI3_HANDOFF_20261122.md",
-        "renderer/experiments/2026-11-22/teacher-review-math-187-20261122-1418.json"
+        "renderer/experiments/2026-11-22/teacher-review-math-187-20261122-1418.json",
+        "approved/math/manifest.json",
+        "docs/MATH_187_APPROVAL_CHECKLIST_20261122.md",
+        "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html"
       ],
       "facts": [
         "6단원/187문항(객관식127·OX36·주관식24)",
@@ -41,15 +44,9 @@
         "교사 검수 메모 11건 확인: 발문 간결화, 그림 불필요 설명 삭제 및 도형 확대, 변 치수 직접 표기"
       ],
       "next": [
-        "검수 UI3의 19개 C형 교사 선호와 m6u6:q08 기호 그룹화를 교사 화면에서 최종 확인; 새로운 JSON 메모는 기존 호환 형식으로 이어받기",
-        "새 HTML 검토 페이지에서 직접 수학 187문항을 육안 확인; 복수 정답·평균·구 중심·캔 배치 4건은 reviewfix1에서 교정. 기존 그림 36개 유지.",
-        "수학 rev2 새 그림 36개는 대부분 유지하되 문항 오류 4건 먼저 확인: math6-s2-u5:q08 중복 정답(차단), m5u6:q08, m6u6:q11, m6u6:q19 표현·조건 재검토.",
-        "6개 수학 rev2 ZIP Library 발견, 아직 내용 검증 전. 원본 chatfix1 대비 발문·그림·정답 보존 검증.",
-        "Gemini에게 문항 텍스트·삽화 개선 지시서 전달(렌더러 설명 제외); 신규 후보 ZIP 6개와 변경/검수 보고서 접수 대기",
-        "교사용 수학 전용 HTML을 열어 시각 검수: renderer/experiments/2026-11-22/math-187-review4-math-only.html",
-        "review.4를 기존 v0.2.0-review.1 A/C/D 엔진과 비교; 렌더러 독자 규격으로 교체 금지",
-        "68개 우선 재검토 및 전체 187개 실제 화면·수식·전개도·보기·주관식 흐름을 문항 ID로 QA 기록",
-        "버그 수정은 별도 실험판에 기록하고 증거와 회귀 결과를 남긴 후 교사 승인 요청"
+        "다음 별도 업무: 실제 HOJA 게임 로더에 정본 연결 (현재 NOT_DEPLOYED)",
+        "학교 전자칠판 실기기와 QHD/4:3/모바일 추가 시각 검사는 미실시",
+        "과학 64문항 승인 ZIP 등록은 별도 복구 대상"
       ],
       "preview": {
         "githubPath": "renderer/experiments/2026-11-22/math-187-review4-math-only.html",
@@ -58,20 +55,20 @@
         "uploadedPreviewSha256": "6fa4559caa0c6dfc65d677c663fe90534cd15041e28cfd86374cc34fb23b3277",
         "staticCheck": "PASS",
         "browserVisualQA": "NOT_RUN",
-        "latestGithubPath": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.3.html",
+        "latestGithubPath": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.4.html",
         "latestChatgptPage": "https://chatgpt.com/space/page_5b35706854dc819192878d63c6999ecc",
-        "latestBuild": "reviewfix1-ui.3",
-        "sourceSha256": "440ff086673f3dfac2b6c85721ba3dace4bcb2608cd6ff94dbc961431c7d3b33",
+        "latestBuild": "reviewfix1-ui.4",
+        "sourceSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5",
         "teacherUiRequests": {
-          "cLayouts": 19,
-          "q08Wrap": 1
+          "C": 19,
+          "choiceWrap": 4
         },
         "visualSmoke": "CHROMIUM_TARGETED_PASS",
         "fullVisualReview": "NOT_RUN",
-        "approved": false
+        "approved": true
       },
       "geminiRevision": {
-        "status": "SELF_CORRECTED_REVIEWFIX1_TEACHER_REVIEW_PENDING",
+        "status": "APPROVED_R1",
         "instructionPath": "docs/MATH_187_GEMINI_TEXT_IMAGE_BRIEF_20261122.md",
         "scope": "QUESTION_TEXT_AND_ASSETS_ONLY",
         "reviewMemoCount": 11,
@@ -103,7 +100,8 @@
           "changedAnswers": 0
         },
         "reviewfix1Html": "renderer/experiments/2026-11-22/math-187-reviewfix1-ui.1.html",
-        "reviewfix1Page": "https://chatgpt.com/space/page_ee435eceba948191a0390e71aabd2b58"
+        "reviewfix1Page": "https://chatgpt.com/space/page_ee435eceba948191a0390e71aabd2b58",
+        "finalApprovalChecklist": "docs/MATH_187_APPROVAL_CHECKLIST_20261122.md"
       }
     },
     {
@@ -173,8 +171,9 @@
       "units": 23,
       "questions": 732,
       "mediaFiles": 140,
-      "approvedQuestions": 545,
-      "unapprovedMathQuestions": 187
+      "approvedQuestions": 732,
+      "unapprovedMathQuestions": 0,
+      "approvedMathQuestions": 187
     },
     "bytes": {
       "json": 515195,
@@ -184,7 +183,7 @@
       "approvedOnlyLoose": 2330848,
       "approvedOnlyZipDeflate9": 2019957
     },
-    "scope": "question data + needed final media only; no renderer/QA/HTML/duplicate previews",
+    "scope": "question data + needed final media only; no renderer/QA/HTML/duplicate previews; reported payload bytes are historical candidate snapshot",
     "latestMathRevision": {
       "source": "Gemini rev2",
       "all732ZipBytes": 2401672,
@@ -355,6 +354,33 @@
     "reportPath": "docs/MATH_187_REVIEWFIX1_UI3_HANDOFF_20261122.md",
     "checks": "19/19 C layouts+images, 6 HD/FHD Q08 composition combinations, QA 20 import/export roundtrip, no JS error",
     "renderDataChanged": false,
+    "gameDeployment": "NOT_DEPLOYED"
+  },
+  "mathFinalApproval": {
+    "status": "TEACHER_APPROVED_GITHUB_REGISTERED",
+    "date": "2026-11-22",
+    "manifest": "approved/math/manifest.json",
+    "checklist": "docs/MATH_187_APPROVAL_CHECKLIST_20261122.md",
+    "reviewer": "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html",
+    "reviewerSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5",
+    "units": 6,
+    "questions": 187,
+    "types": {
+      "MCQ": 127,
+      "OX": 36,
+      "SHORT": 24
+    },
+    "images": 36,
+    "teacherC": 19,
+    "choiceWrapIDs": [
+      "m6u6:q08",
+      "m6u6:q12",
+      "m6u6:q14",
+      "m6u6:q18"
+    ],
+    "zipRegisteredCount": 6,
+    "browserQA": "HD_FHD_374_QUESTION_STATES_PASS",
+    "actualDevice": "NOT_RUN",
     "gameDeployment": "NOT_DEPLOYED"
   }
 }
