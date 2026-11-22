@@ -1,0 +1,351 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HOJA Render Tags v0.2 draft — English v0.1 compatible + math annotations",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "questionId",
+    "questionType",
+    "images",
+    "texts",
+    "constraints",
+    "layout",
+    "confidence",
+    "needsHumanReview",
+    "evidence"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "enum": [
+        "0.1.0-draft",
+        "0.2.0-draft"
+      ]
+    },
+    "questionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "questionType": {
+      "enum": [
+        "MCQ",
+        "OX",
+        "SHORT"
+      ]
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "asset",
+          "position",
+          "kind",
+          "subtype",
+          "needsFineDetail",
+          "priority"
+        ],
+        "properties": {
+          "asset": {
+            "type": "string"
+          },
+          "position": {
+            "enum": [
+              "question",
+              "choice"
+            ]
+          },
+          "kind": {
+            "enum": [
+              "general",
+              "informational",
+              "chart",
+              "geometry"
+            ]
+          },
+          "subtype": {
+            "enum": [
+              "area-bounds",
+              "area-model-grid",
+              "area-rearrangement",
+              "bar-chart",
+              "comparison-chart",
+              "composite-area-or-length",
+              "equalizing-bars",
+              "graph",
+              "labeled-net",
+              "labeled-solid",
+              "location",
+              "map",
+              "measurement-diagram",
+              "measurement-scene",
+              "multiple-solids",
+              "net-selection",
+              "number-line",
+              "object",
+              "other",
+              "packing-measurement",
+              "perimeter-bounds",
+              "place-value-flow",
+              "probability-groups",
+              "probability-spinners",
+              "proportional-bar",
+              "ratio-shapes",
+              "scene",
+              "scientific_diagram",
+              "shape",
+              "solid-rotation",
+              "table",
+              "timeline",
+              "wayfinding"
+            ]
+          },
+          "needsFineDetail": {
+            "type": "boolean"
+          },
+          "priority": {
+            "enum": [
+              "normal",
+              "high"
+            ]
+          }
+        }
+      }
+    },
+    "texts": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "choices",
+          "dialogue",
+          "example_sentence",
+          "instruction",
+          "list",
+          "math_expression",
+          "question",
+          "reading",
+          "short_answer",
+          "statement"
+        ]
+      }
+    },
+    "constraints": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "speakerTurnsVertical",
+        "preserveOriginalText",
+        "minimumImageDetail",
+        "elementPriority"
+      ],
+      "properties": {
+        "speakerTurnsVertical": {
+          "type": "boolean"
+        },
+        "preserveOriginalText": {
+          "const": true
+        },
+        "minimumImageDetail": {
+          "enum": [
+            "high",
+            "none",
+            "normal"
+          ]
+        },
+        "elementPriority": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "question",
+            "reading",
+            "dialogue",
+            "image",
+            "choices"
+          ],
+          "properties": {
+            "question": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "reading": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "dialogue": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "image": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            },
+            "choices": {
+              "enum": [
+                "low",
+                "medium",
+                "high"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "layout": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "recommendedFamily",
+        "rendererHint",
+        "selectionBasis"
+      ],
+      "properties": {
+        "recommendedFamily": {
+          "enum": [
+            "dialogue_informational",
+            "dialogue_stack",
+            "informational_split",
+            "math_chart_or_graph",
+            "math_formula_notation",
+            "math_geometry_reference",
+            "math_informational_reference",
+            "math_multifigure_comparison",
+            "math_short_answer",
+            "math_statement_ox",
+            "math_stimulus_text",
+            "math_text",
+            "picture_sentence",
+            "reading_stack",
+            "scene_auto",
+            "text_auto",
+            "text_stack",
+            "visual_choices"
+          ]
+        },
+        "rendererHint": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            null,
+            "stack",
+            "reading-stack",
+            "dialogue-stack",
+            "map",
+            "dialogue-image",
+            "picture-stimulus",
+            "split"
+          ]
+        },
+        "selectionBasis": {
+          "type": "string"
+        },
+        "teacherPreference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "preferredLayout": {
+          "description": "Only A/C/D. Suggested top-level presentation family; renderer can still be changed manually.",
+          "enum": [
+            "A",
+            "C",
+            "D"
+          ]
+        }
+      }
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "needsHumanReview": {
+      "type": "boolean"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sourceDigest": {
+      "type": "string"
+    },
+    "mathSemantics": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "questionStructure",
+        "imageArrangement",
+        "mathNotation",
+        "fractionInline",
+        "questionHasSupportText",
+        "maximumChoiceCharacters",
+        "highDetailDiagram",
+        "sourceQuestionId"
+      ],
+      "properties": {
+        "questionStructure": {
+          "type": "string",
+          "minLength": 1
+        },
+        "imageArrangement": {
+          "enum": [
+            "single",
+            "compare",
+            "none"
+          ]
+        },
+        "mathNotation": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "area-or-volume-unit",
+              "fraction",
+              "marked-variable",
+              "operation",
+              "ratio"
+            ]
+          }
+        },
+        "fractionInline": {
+          "type": "boolean"
+        },
+        "questionHasSupportText": {
+          "type": "boolean"
+        },
+        "maximumChoiceCharacters": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "highDetailDiagram": {
+          "type": "boolean"
+        },
+        "sourceQuestionId": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  },
+  "description": "Per-question presentation annotations only. v0.2 adds math semantic metadata while retaining the original A/C/D engine. Not an approval of question content or visual QA."
+}
