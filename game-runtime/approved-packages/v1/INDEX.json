@@ -1,0 +1,144 @@
+{
+ "schemaVersion": "hoja-game-runtime-packages-v1",
+ "sourceCommit": "9573f91d2845a9667e2540df051f499d937dd94a",
+ "packages": [
+  {
+   "cartridgeId": "eng5-ybm-kim-u10",
+   "path": "game-runtime/approved-packages/v1/eng5-ybm-kim-u10.json",
+   "bytes": 162571,
+   "sha256": "76df21166db3cc8b5eed203822004509c9015e4c5658e2a165d2ad17041bf298"
+  },
+  {
+   "cartridgeId": "eng5-ybm-kim-u11",
+   "path": "game-runtime/approved-packages/v1/eng5-ybm-kim-u11.json",
+   "bytes": 328343,
+   "sha256": "ca0a29546a117d4151cc68069fc0b14923a96180ccf55f100a0a854b0a288365"
+  },
+  {
+   "cartridgeId": "eng5-ybm-kim-u12",
+   "path": "game-runtime/approved-packages/v1/eng5-ybm-kim-u12.json",
+   "bytes": 241630,
+   "sha256": "7569707bc16d2298b5f5444c006559711ea4ca6e702f75d8ff0481e36f3f4858"
+  },
+  {
+   "cartridgeId": "eng5-ham-u10",
+   "path": "game-runtime/approved-packages/v1/eng5-ham-u10.json",
+   "bytes": 375782,
+   "sha256": "18e03f4f1940417285e13558878b918a9530aafa0a9bd93b2ee0fc5d2663437a"
+  },
+  {
+   "cartridgeId": "eng5-ham-u11",
+   "path": "game-runtime/approved-packages/v1/eng5-ham-u11.json",
+   "bytes": 220738,
+   "sha256": "4462f9b6a9752d6c6681fc6d3d3c4ad5ff0d452cd93257a2b8ef62f169ae64b0"
+  },
+  {
+   "cartridgeId": "eng5-ham-u12",
+   "path": "game-runtime/approved-packages/v1/eng5-ham-u12.json",
+   "bytes": 217302,
+   "sha256": "0890f19c417cd22ecb09d4bc436cf65c80f00dbfd16ca2705113d147da77a2fc"
+  },
+  {
+   "cartridgeId": "eng6-ybm-kim-u10",
+   "path": "game-runtime/approved-packages/v1/eng6-ybm-kim-u10.json",
+   "bytes": 183720,
+   "sha256": "cf69c88247999cb83843efa4c62abfd34036bddcefb2458bd881f4ca7d85e205"
+  },
+  {
+   "cartridgeId": "eng6-ybm-kim-u11",
+   "path": "game-runtime/approved-packages/v1/eng6-ybm-kim-u11.json",
+   "bytes": 190234,
+   "sha256": "08c80b1672148b7557f6f18098a9be257bdb56926c26471e773d10e041622dfa"
+  },
+  {
+   "cartridgeId": "eng6-ybm-kim-u12",
+   "path": "game-runtime/approved-packages/v1/eng6-ybm-kim-u12.json",
+   "bytes": 167171,
+   "sha256": "4eccc8761a562d94bd0d95100aa0216714b95289486a79c6205299ead7f568f4"
+  },
+  {
+   "cartridgeId": "eng6-ham-u10",
+   "path": "game-runtime/approved-packages/v1/eng6-ham-u10.json",
+   "bytes": 164940,
+   "sha256": "49710daba9d0f0a4cb6d692d2b46e59516f3a7bbfdde086274165602d46f52ab"
+  },
+  {
+   "cartridgeId": "eng6-ham-u11",
+   "path": "game-runtime/approved-packages/v1/eng6-ham-u11.json",
+   "bytes": 157889,
+   "sha256": "d6645aff50910447a42f303719ee660db4ba06115d4b2c62ab3e1f4be99f6c65"
+  },
+  {
+   "cartridgeId": "eng6-ham-u12",
+   "path": "game-runtime/approved-packages/v1/eng6-ham-u12.json",
+   "bytes": 166712,
+   "sha256": "ad91eb357c823120649e5443d16d09baf5cfc35714b95929620a3bd8763d59d4"
+  },
+  {
+   "cartridgeId": "math5-s2-u4",
+   "path": "game-runtime/approved-packages/v1/math5-s2-u4.json",
+   "bytes": 128127,
+   "sha256": "2c6f99217ba352458638ebea1b2b2b2d5354f38704ee5cefdadd357fa7f4cea5"
+  },
+  {
+   "cartridgeId": "math5-s2-u5",
+   "path": "game-runtime/approved-packages/v1/math5-s2-u5.json",
+   "bytes": 158774,
+   "sha256": "31dfba3027efbe589f59d74392fbf72c16f2459561781a6f3edd38c0eca967b0"
+  },
+  {
+   "cartridgeId": "math5-s2-u6",
+   "path": "game-runtime/approved-packages/v1/math5-s2-u6.json",
+   "bytes": 195334,
+   "sha256": "4316c12b3c5c949673c98674aa5e328933c3d92a40ba0a2d0735a221c5d97a8d"
+  },
+  {
+   "cartridgeId": "math6-s2-u4",
+   "path": "game-runtime/approved-packages/v1/math6-s2-u4.json",
+   "bytes": 134951,
+   "sha256": "867e0813da9d45a07c7b95026241f582add3e90ace98135317783253053039fb"
+  },
+  {
+   "cartridgeId": "math6-s2-u5",
+   "path": "game-runtime/approved-packages/v1/math6-s2-u5.json",
+   "bytes": 188192,
+   "sha256": "5edcb3c021387bc0a330c4de5f55986060edc6431e9981317533e8ecc161a580"
+  },
+  {
+   "cartridgeId": "math6-s2-u6",
+   "path": "game-runtime/approved-packages/v1/math6-s2-u6.json",
+   "bytes": 167205,
+   "sha256": "dd2dd8f663e51943155a192fd75915be2488c748692b9fc2368c6b23f2d20d3f"
+  },
+  {
+   "cartridgeId": "soc5-s2-u2-2-common",
+   "path": "game-runtime/approved-packages/v1/soc5-s2-u2-2-common.json",
+   "bytes": 536229,
+   "sha256": "ef70481d731343ad2aad1fb16ac299c1eb9468005f497e6454ad35d451934371"
+  },
+  {
+   "cartridgeId": "soc5-s2-u3-1-common",
+   "path": "game-runtime/approved-packages/v1/soc5-s2-u3-1-common.json",
+   "bytes": 245747,
+   "sha256": "efdec6db754a4c14a7af4ef7e23bc451931eb50f4d5a4cae91f36307749daef9"
+  },
+  {
+   "cartridgeId": "soc5-s2-u3-2-common",
+   "path": "game-runtime/approved-packages/v1/soc5-s2-u3-2-common.json",
+   "bytes": 236767,
+   "sha256": "b036450c94927d3724d4db04627cc9ea20b12a80fee22f19ce941b861ce0a2bd"
+  },
+  {
+   "cartridgeId": "soc6-s2-u3-1-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u3-1-common.json",
+   "bytes": 388375,
+   "sha256": "5d7ed3e6629a0a26ae76efe2ce656cc2543648d8c00d700af9b68852cd16d2d8"
+  },
+  {
+   "cartridgeId": "soc6-s2-u3-2-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u3-2-common.json",
+   "bytes": 842675,
+   "sha256": "3eb3a72902bcbfc5d1faf424e4a27729b8ed205f35f2bbd0222c69cfe0aeb1ee"
+  }
+ ]
+}
