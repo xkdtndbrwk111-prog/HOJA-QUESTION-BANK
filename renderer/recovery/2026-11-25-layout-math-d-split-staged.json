@@ -1,0 +1,216 @@
+{
+  "schemaVersion": "hoja-layout-math-d-bulk-split-staging-v1",
+  "status": "STAGED_NOT_DEPLOYED",
+  "date": "2026-11-25",
+  "source": "교사 지시: 수학 d형도 전부 좌우로 변경해",
+  "base": "renderer/recovery/2026-11-25-layout-bulk-split-staged.json",
+  "counts": {
+    "total": 207,
+    "split": 183,
+    "stack": 2,
+    "imageChoicesFixed": 22,
+    "changedMathD": 19
+  },
+  "patches": [
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q01",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q10",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q13",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q09",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q10",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q13",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q14",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q17",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q19",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q09",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q17",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q01",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q02",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q04",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q12",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q13",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q14",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q15",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q20",
+      "choice": "split",
+      "rendererHint": "split",
+      "arrangement": "split",
+      "composition": "split",
+      "teacherLayoutLock": true,
+      "layoutFamily": "D"
+    }
+  ],
+  "verification": {
+    "baselineUnchangedOther188": true,
+    "allD21DefaultAndStackAndRestore": "PASS",
+    "geometryAndImage": "PASS",
+    "javascriptErrors": 0
+  },
+  "notes": [
+    "Keep D family; change composition only. D remains selectable. Preserve question/answer/media and existing other-subject layouts.",
+    "Apply over prior staged baseline. Production packages and GAS unchanged."
+  ]
+}
