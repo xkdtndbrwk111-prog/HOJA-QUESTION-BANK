@@ -1,0 +1,1479 @@
+{
+  "schemaVersion": "hoja-layout-bulk-split-staging-v1",
+  "date": "2026-11-25",
+  "status": "TEACHER_BULK_DIRECTIVE_STAGED_AWAITING_VISUAL_REVIEW",
+  "source": "2026-11-25 teacher bulk direction; all split-selectable questions switch to split, fixed image-choice and D-comparison unchanged; all 207 included in review HTML",
+  "priorRecovery": "renderer/recovery/2026-11-25-layout-recovery-staged.json",
+  "total": 207,
+  "splitTotal": 164,
+  "fixedTotal": 43,
+  "counts": {
+    "split": 147,
+    "dialogue-image": 6,
+    "picture-stimulus": 11,
+    "image-options": 22,
+    "D-comparison": 21
+  },
+  "records": [
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q22",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q24",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q37",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q32",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q35",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q36",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q07",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q21",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q07",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q16",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q17",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q15",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q18",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q06",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q07",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q08",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q21",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q31",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q32",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q15",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q06",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q07",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "questionId": "eng6-ham-u10:q06",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q07",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q16",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q17",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "questionId": "eng6-ham-u11:q06",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q34",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q19",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q06",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q04",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "questionId": "eng5-ybm-kim-u10:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q08",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q24",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q33",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q34",
+      "choice": "split",
+      "composition": "dialogue-image",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q05",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "questionId": "eng5-ybm-kim-u11:q07",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q29",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q04",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "questionId": "eng5-ybm-kim-u12:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q21",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q04",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "questionId": "eng6-ybm-kim-u10:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q21",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q29",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q04",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "questionId": "eng6-ybm-kim-u11:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q29",
+      "choice": "split",
+      "composition": "picture-stimulus",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q04",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "questionId": "eng6-ybm-kim-u12:q05",
+      "choice": "keep-fixed",
+      "composition": "image-options",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q09",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q13",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q17",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q28",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u4",
+      "questionId": "math5-s2-u4:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q05",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q07",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q09",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q16",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q17",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q21",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q23",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q30",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q31",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q01",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q10",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u5",
+      "questionId": "math5-s2-u5:q13",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q27",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q28",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q09",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q10",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q13",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q14",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q17",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math5-s2-u6",
+      "questionId": "math5-s2-u6:q19",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q10",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q16",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q30",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q09",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u4",
+      "questionId": "math6-s2-u4:q17",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q08",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q09",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q14",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q15",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q16",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q17",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q28",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u5",
+      "questionId": "math6-s2-u5:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q08",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q09",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q27",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q28",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q30",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q01",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q02",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q04",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q12",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q13",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q14",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q15",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "math6-s2-u6",
+      "questionId": "math6-s2-u6:q20",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q03",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q04",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q05",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q13",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q15",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q19",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-1-common",
+      "questionId": "soc6-s2-u3-1-common:q20",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q05",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q06",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q08",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q09",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q12",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q13",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q14",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q15",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q18",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q21",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc6-s2-u3-2-common",
+      "questionId": "soc6-s2-u3-2-common:q22",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-1-common",
+      "questionId": "soc5-s2-u3-1-common:q15",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-1-common",
+      "questionId": "soc5-s2-u3-1-common:q30",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-2-common",
+      "questionId": "soc5-s2-u3-2-common:q13",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-2-common",
+      "questionId": "soc5-s2-u3-2-common:q22",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q01",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q02",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q14",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q21",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q29",
+      "choice": "split",
+      "composition": "split",
+      "teacherLayoutLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q07",
+      "choice": "keep-fixed",
+      "composition": "D-comparison",
+      "teacherLayoutLock": true
+    }
+  ],
+  "verification": {
+    "renderer": "207/207 at 1920x1080",
+    "imageLoad": "207/207",
+    "compositionMismatch": 0,
+    "keyboardParentAndIframe": "PASS"
+  },
+  "notes": [
+    "Staged baseline, not a production deployment.",
+    "Preserve question text, image data, answer keys and choice IDs.",
+    "Final exceptions from the teacher review JSON override baseline records; production renderer must honor explicit lock before automatic composition, including OX and SHORT. Rebuild and re-pin runtime package index after final visual review."
+  ]
+}
