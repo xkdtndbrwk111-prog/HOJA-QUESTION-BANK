@@ -1,0 +1,240 @@
+{
+  "schemaVersion": "hoja-layout-recovery-staging-v1",
+  "date": "2026-11-25",
+  "status": "STAGED_NOT_DEPLOYED",
+  "source": "Teacher-approved archives dated 2026-11-21/22; game-runtime v1 23 units, 732 questions",
+  "counts": {
+    "imageQuestions": 207,
+    "existingExplicit": 23,
+    "recovered": 14,
+    "pendingTeacherReview": 170,
+    "stagedPatchEntries": 16
+  },
+  "patches": [
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q21",
+      "rendererId": "eng5-ham-u10:q21",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "stack"
+      },
+      "evidence": "Approved presentation V3 D/stack, approved media-overlay.json",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q24",
+      "rendererId": "eng5-ham-u10:q24",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "dialogue-image"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q32",
+      "rendererId": "eng5-ham-u10:q32",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "picture-stimulus"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q35",
+      "rendererId": "eng5-ham-u10:q35",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "picture-stimulus"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q36",
+      "rendererId": "eng5-ham-u10:q36",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "picture-stimulus"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "questionId": "eng5-ham-u10:q37",
+      "rendererId": "eng5-ham-u10:q37",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "dialogue-image"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q15",
+      "rendererId": "eng5-ham-u11:q15",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "dialogue-image"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "questionId": "eng5-ham-u11:q18",
+      "rendererId": "eng5-ham-u11:q18",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "picture-stimulus"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "questionId": "eng5-ham-u12:q15",
+      "rendererId": "eng5-ham-u12:q15",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "dialogue-image"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "questionId": "eng6-ham-u12:q19",
+      "rendererId": "eng6-ham-u12:q19",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "dialogue-image"
+      },
+      "evidence": "Approved presentation V3 fixed combo composition, confirmed in Chromium",
+      "teacherManualLock": false
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-1-common",
+      "questionId": "soc5-s2-u3-1-common:q15",
+      "rendererId": "q15",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "split"
+      },
+      "evidence": "Approved 64-question HTML DATA_CONCISE layoutHint=split; runtime tag null",
+      "teacherManualLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-1-common",
+      "questionId": "soc5-s2-u3-1-common:q30",
+      "rendererId": "q30",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "split"
+      },
+      "evidence": "Approved 64-question HTML DATA_CONCISE layoutHint=split; runtime tag null",
+      "teacherManualLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-2-common",
+      "questionId": "soc5-s2-u3-2-common:q13",
+      "rendererId": "q45",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "split"
+      },
+      "evidence": "Approved 64-question HTML DATA_CONCISE layoutHint=split; runtime tag null",
+      "teacherManualLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u3-2-common",
+      "questionId": "soc5-s2-u3-2-common:q22",
+      "rendererId": "q54",
+      "before": {
+        "rendererHint": null
+      },
+      "after": {
+        "rendererHint": "split"
+      },
+      "evidence": "Approved 64-question HTML DATA_CONCISE layoutHint=split; runtime tag null",
+      "teacherManualLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q07",
+      "rendererId": "soc5-s2-u2-2-common:q07",
+      "before": {
+        "rendererHint": null,
+        "arrangement": "image-comparison-above/choices-below"
+      },
+      "after": {
+        "rendererHint": "stack",
+        "arrangement": "image-comparison-above/choices-below"
+      },
+      "evidence": "Approved display/presentation.json preferredArrangement; bridge existing direction to rendererHint",
+      "teacherManualLock": true
+    },
+    {
+      "cartridgeId": "soc5-s2-u2-2-common",
+      "questionId": "soc5-s2-u2-2-common:q21",
+      "rendererId": "soc5-s2-u2-2-common:q21",
+      "before": {
+        "rendererHint": null,
+        "arrangement": "image-above-choices-below"
+      },
+      "after": {
+        "rendererHint": "stack",
+        "arrangement": "image-above-choices-below"
+      },
+      "evidence": "Approved display/presentation.json preferredArrangement; bridge existing direction to rendererHint",
+      "teacherManualLock": true
+    }
+  ],
+  "verification": {
+    "approvedRendererImages": "207/207 displayed",
+    "recoveredComposition": "14/14",
+    "reviewSplitStack": "258/258",
+    "javascriptErrors": 0
+  },
+  "notes": [
+    "Do not alter source questions, choices, images, or answer keys.",
+    "Only four social5 items have directly stored split hints. Ten Ham items are recovered original approved renderer behavior, not individually locked teacher selections.",
+    "Keep the existing 2 social5 arrangement fields. The extra stack bridge entries are not new recovered questions.",
+    "Await teacher's review JSON, then rebuild and validate package/index checksums and the renderer lock path before deployment.",
+    "This record does not change production packages or GAS."
+  ]
+}
