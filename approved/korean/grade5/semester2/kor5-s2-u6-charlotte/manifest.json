@@ -1,0 +1,36 @@
+{
+  "id": "kor5-s2-u6-charlotte",
+  "releaseId": "kor5-s2-u6-charlotte-teacher-20261126-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-26",
+  "gameDeployment": "NOT_DEPLOYED",
+  "publicMediaRights": "HOLD_TEXTBOOK_ILLUSTRATION_RIGHTS_UNVERIFIED",
+  "sourceCheck": "PENDING_INDEPENDENT_TEXTBOOK_RECHECK",
+  "questions": 25,
+  "types": {
+    "MCQ": 21,
+    "OX": 4,
+    "SHORT": 0
+  },
+  "UQ": {
+    "solo": 25,
+    "team": 25
+  },
+  "archive": "kor5-s2-u6-charlotte-teacher-approved-20261126-r1.zip",
+  "bytes": 252134,
+  "sha256": "c668270d66c4c6d37074a0bcc00e3ede7b88f8abf7bf0857fc8cec22d71e76d4",
+  "effectiveCartridge": "effective/cartridge.json",
+  "reviewedPresentation": "presentation/renderer-data.html",
+  "reviewedPresentationSha256": "5c6d696725dcd79e52b2dd9d38d5125ad1196a500167dd4a770807da637b7589",
+  "layouts": {
+    "A": 18,
+    "C": 7,
+    "split": 7
+  },
+  "imageAssets": 5,
+  "notes": [
+    "교사 승인 rev3 데이터 보존; 샬럿 q01만 이미지와 태그 수정",
+    "정식 소스 ZIP은 검수 HTML의 런타임 데이터에서 재구성",
+    "원화 공개 재배포 권리 미확인; 운영 배포 보류"
+  ]
+}

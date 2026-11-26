@@ -1,15 +1,15 @@
 {
   "schemaVersion": "hoja-resume-v1",
-  "lastUpdated": "2026-11-22",
+  "lastUpdated": "2026-11-26",
   "branch": "main",
-  "activeWorkstream": "social-grade6-64",
+  "activeWorkstream": "korean-grade5-four-stories",
   "registeredApproved": {
-    "units": 23,
-    "questions": 732
+    "units": 27,
+    "questions": 835
   },
   "teacherApprovedIncludingUnregistered": {
-    "units": 25,
-    "questions": 796
+    "units": 29,
+    "questions": 899
   },
   "rendererCurrent": "v0.2.0-review.1",
   "workstreams": [
@@ -181,6 +181,24 @@
         "운영 HOJA 게임 로더에 approved effective 64문항 연동과 실게임 QA",
         "실제 전자칠판/모바일/4K 및 원문 교과서 3종 독립 대조",
         "과학 승인 64문항 GitHub 등록 누락 별도 복구"
+      ]
+    },
+    {
+      "id": "korean-grade5-four-stories",
+      "name": "국어 5학년 2학기 작품별 카트리지",
+      "status": "APPROVED_GITHUB_REGISTERED",
+      "teacherApproval": "APPROVED_2026-11-26",
+      "gameDeployment": "NOT_DEPLOYED",
+      "entry": "approved/catalog.json",
+      "facts": [
+        "엄마에게 28 + 신규 세 작품 각 25 = 103문항",
+        "샬럿 q01 그림 제거, A형 전환; 다른 74문항 불변",
+        "실제 게임용 JSON 로컬 검증 SHA 일치",
+        "공개 원화 사용 권리 미확인; 나비·샬럿 교과서 원문 독립 재검증 미완료"
+      ],
+      "next": [
+        "권리 확인",
+        "운영 GAS 카탈로그 갱신 및 접속 검증"
       ]
     }
   ],

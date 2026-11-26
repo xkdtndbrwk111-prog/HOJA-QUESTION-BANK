@@ -1,0 +1,36 @@
+{
+  "id": "kor5-s2-u6-nabi",
+  "releaseId": "kor5-s2-u6-nabi-teacher-20261126-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-26",
+  "gameDeployment": "NOT_DEPLOYED",
+  "publicMediaRights": "HOLD_TEXTBOOK_ILLUSTRATION_RIGHTS_UNVERIFIED",
+  "sourceCheck": "PENDING_INDEPENDENT_TEXTBOOK_RECHECK",
+  "questions": 25,
+  "types": {
+    "MCQ": 21,
+    "OX": 4,
+    "SHORT": 0
+  },
+  "UQ": {
+    "solo": 25,
+    "team": 25
+  },
+  "archive": "kor5-s2-u6-nabi-teacher-approved-20261126-r1.zip",
+  "bytes": 276228,
+  "sha256": "26e042ab7dccac766dce2ccd2f135079c0fe4f70ea1021f2008377ef2d696d08",
+  "effectiveCartridge": "effective/cartridge.json",
+  "reviewedPresentation": "presentation/renderer-data.html",
+  "reviewedPresentationSha256": "2195b483e85cf40e485462f2a45d87552f71f18246ab5d5d2e51dff5f47176f3",
+  "layouts": {
+    "A": 19,
+    "C": 6,
+    "split": 6
+  },
+  "imageAssets": 4,
+  "notes": [
+    "교사 승인 rev3 데이터 보존; 샬럿 q01만 이미지와 태그 수정",
+    "정식 소스 ZIP은 검수 HTML의 런타임 데이터에서 재구성",
+    "원화 공개 재배포 권리 미확인; 운영 배포 보류"
+  ]
+}
