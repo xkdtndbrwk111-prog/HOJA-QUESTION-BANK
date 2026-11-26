@@ -2,8 +2,6 @@ name: HOJA active catalog publication gate
 on:
   pull_request:
     branches: [main]
-    paths:
-      - 'game-runtime/active/v1/**'
 permissions:
   contents: read
 jobs:
@@ -23,5 +21,8 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
           set -euo pipefail
+          if git diff --quiet "$BASE" "$HEAD_SHA" -- game-runtime/active/v1/; then
+            echo "No active catalog publication changes"; exit 0
+          fi
           git show "$BASE:tools/verify_active_catalog_publication.py" > "$RUNNER_TEMP/verify_active_catalog.py"
           python3 "$RUNNER_TEMP/verify_active_catalog.py" "$BASE" "$HEAD_SHA"
