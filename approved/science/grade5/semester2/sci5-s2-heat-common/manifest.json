@@ -1,0 +1,31 @@
+{
+  "id": "sci5-s2-heat-common",
+  "releaseId": "sci5-s2-heat-common-teacher-20261121-r1",
+  "subject": "science",
+  "grade": 5,
+  "semester": 2,
+  "unitTitle": "열과 우리 생활",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-21",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 3,
+  "questions": 32,
+  "types": {
+    "MCQ": 22,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "mediaAssets": 5,
+  "archive": "HOJA_SCI5_S2_HEAT_COMMON_APPROVED_20261121_r1.zip",
+  "archiveBytes": 586647,
+  "archiveSha256": "a503459e875d4565e888ce40878d279e9b3513c76e95711ff6f806a610186947",
+  "sourceCandidate": "sci5-s2-heat-common-rev3-candidate-v0.3.0-rc9.1.zip",
+  "sourceCandidateSha256": "0d0e6f6031df6ad3b7f18e552532b7d08534f7dc1a26dd4e56577f4c7908749f",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "reviewedPresentation": "presentation/HOJA_SCI5_S2_HEAT_U4_APPROVED_64Q_20261121.html",
+  "reviewRendererVersion": "v0.1.0-preview.2 science approved presentation",
+  "liveGameTest": "NOT_RUN",
+  "actualElectronicBoardTest": "NOT_RUN",
+  "notes": "Content approved; game not deployed. Outer approval evidence is release/approval.json, while effective/cartridge.json preserves source reviewStatus pending."
+}

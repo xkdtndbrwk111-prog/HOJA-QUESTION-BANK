@@ -1,6 +1,6 @@
 {
  "schemaVersion": "hoja-game-runtime-packages-v1",
- "sourceCommit": "0edea5cb537aba8df1f9dcbc279e3c2854895248",
+ "sourceCommit": "43df08f9a1edebb0ff4ed8c7c651cba005bb2f3c",
  "packages": [
   {
    "cartridgeId": "eng5-ybm-kim-u10",
@@ -75,6 +75,30 @@
    "sha256": "ad91eb357c823120649e5443d16d09baf5cfc35714b95929620a3bd8763d59d4"
   },
   {
+   "cartridgeId": "kor5-s2-u5-sara",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u5-sara.json",
+   "bytes": 192944,
+   "sha256": "a5bc724e473fda508f790db09c9c529ad5e70bdba2863b437fca5ffa223d977a"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-charlotte",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-charlotte.json",
+   "bytes": 152139,
+   "sha256": "feadec0a615c1f40e675d8f0bd131e14acb5bdc546709a55c2abfed24cb38746"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-mom",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-mom.json",
+   "bytes": 233313,
+   "sha256": "f31c9f079ff20b75db40899aeef0423a9dcbe144080c3ca90bad1875ddf77cea"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-nabi",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-nabi.json",
+   "bytes": 168028,
+   "sha256": "414ae305980af8732cce5c9c319e839dd27f249f3a74115fcce7894c155ade07"
+  },
+  {
    "cartridgeId": "math5-s2-u4",
    "path": "game-runtime/approved-packages/v1/math5-s2-u4.json",
    "bytes": 128127,
@@ -111,6 +135,18 @@
    "sha256": "dd2dd8f663e51943155a192fd75915be2488c748692b9fc2368c6b23f2d20d3f"
   },
   {
+   "cartridgeId": "sci5-s2-heat-common",
+   "path": "game-runtime/approved-packages/v1/sci5-s2-heat-common.json",
+   "bytes": 252965,
+   "sha256": "085a7d26a4f3b486b82cf74ad455651bbe1f0969cd65aa6719ddec4f8a042f78"
+  },
+  {
+   "cartridgeId": "sci5-s2-u4-common",
+   "path": "game-runtime/approved-packages/v1/sci5-s2-u4-common.json",
+   "bytes": 307021,
+   "sha256": "21bb7b74f657890d6df8ea3d3e22ea2f9cd6aeda05ab88c6974518dedb060c5a"
+  },
+  {
    "cartridgeId": "soc5-s2-u2-2-common",
    "path": "game-runtime/approved-packages/v1/soc5-s2-u2-2-common.json",
    "bytes": 536229,
@@ -139,30 +175,6 @@
    "path": "game-runtime/approved-packages/v1/soc6-s2-u3-2-common.json",
    "bytes": 842675,
    "sha256": "3eb3a72902bcbfc5d1faf424e4a27729b8ed205f35f2bbd0222c69cfe0aeb1ee"
-  },
-  {
-   "cartridgeId": "kor5-s2-u6-mom",
-   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-mom.json",
-   "bytes": 233313,
-   "sha256": "f31c9f079ff20b75db40899aeef0423a9dcbe144080c3ca90bad1875ddf77cea"
-  },
-  {
-   "cartridgeId": "kor5-s2-u5-sara",
-   "path": "game-runtime/approved-packages/v1/kor5-s2-u5-sara.json",
-   "bytes": 192944,
-   "sha256": "a5bc724e473fda508f790db09c9c529ad5e70bdba2863b437fca5ffa223d977a"
-  },
-  {
-   "cartridgeId": "kor5-s2-u6-nabi",
-   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-nabi.json",
-   "bytes": 168028,
-   "sha256": "973e4c369fb5d3c9f585681405877997e1ed8eea0f9f86e3345babc3ca492180"
-  },
-  {
-   "cartridgeId": "kor5-s2-u6-charlotte",
-   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-charlotte.json",
-   "bytes": 152139,
-   "sha256": "7b8c1b64824697dbf220cdf31189eceed588450907d2328ef84f4005ed865724"
   }
  ]
 }
