@@ -1,0 +1,31 @@
+{
+  "id": "sci5-s2-u4-common",
+  "releaseId": "sci5-s2-u4-common-teacher-20261121-r1",
+  "subject": "science",
+  "grade": 5,
+  "semester": 2,
+  "unitTitle": "자원과 에너지",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-21",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 3,
+  "questions": 32,
+  "types": {
+    "MCQ": 22,
+    "OX": 6,
+    "SHORT": 4
+  },
+  "mediaAssets": 5,
+  "archive": "HOJA_SCI5_S2_U4_COMMON_APPROVED_20261121_r1.zip",
+  "archiveBytes": 665332,
+  "archiveSha256": "7b711e6d2d29e77152b49958b9bfe22690e1b297a45edd3828cb56270b8b7fae",
+  "sourceCandidate": "sci5-s2-u4-common-rev3-candidate-v0.3.0-rc9.1.zip",
+  "sourceCandidateSha256": "e6142ff7904dbf9de01ba8a8979ee4ff4e7e40cc6c5afd6eb35c5a3e36587a0c",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "reviewedPresentation": "presentation/HOJA_SCI5_S2_HEAT_U4_APPROVED_64Q_20261121.html",
+  "reviewRendererVersion": "v0.1.0-preview.2 science approved presentation",
+  "liveGameTest": "NOT_RUN",
+  "actualElectronicBoardTest": "NOT_RUN",
+  "notes": "Content approved; game not deployed. Outer approval evidence is release/approval.json, while effective/cartridge.json preserves source reviewStatus pending."
+}

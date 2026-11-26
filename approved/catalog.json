@@ -7,12 +7,13 @@
     "description": "영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다."
   },
   "summary": {
-    "approvedUnits": 27,
-    "approvedQuestions": 835,
+    "approvedUnits": 29,
+    "approvedQuestions": 899,
     "english": 384,
     "social": 161,
     "math": 187,
-    "korean": 103
+    "korean": 103,
+    "science": 64
   },
   "englishByPublisher": {
     "cheonjae-ham": {
@@ -64,6 +65,15 @@
         "korean/grade5/semester2/kor5-s2-u5-sara/",
         "korean/grade5/semester2/kor5-s2-u6-nabi/",
         "korean/grade5/semester2/kor5-s2-u6-charlotte/"
+      ],
+      "gameDeployment": "NOT_DEPLOYED"
+    },
+    "science": {
+      "units": 2,
+      "questions": 64,
+      "paths": [
+        "science/grade5/semester2/sci5-s2-heat-common/",
+        "science/grade5/semester2/sci5-s2-u4-common/"
       ],
       "gameDeployment": "NOT_DEPLOYED"
     }
