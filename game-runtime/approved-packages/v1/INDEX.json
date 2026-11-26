@@ -1,6 +1,6 @@
 {
  "schemaVersion": "hoja-game-runtime-packages-v1",
- "sourceCommit": "ea614cb6330584d8ee694b1c05e2abae5b175039",
+ "sourceCommit": "0edea5cb537aba8df1f9dcbc279e3c2854895248",
  "packages": [
   {
    "cartridgeId": "eng5-ybm-kim-u10",
@@ -145,6 +145,24 @@
    "path": "game-runtime/approved-packages/v1/kor5-s2-u6-mom.json",
    "bytes": 233313,
    "sha256": "f31c9f079ff20b75db40899aeef0423a9dcbe144080c3ca90bad1875ddf77cea"
+  },
+  {
+   "cartridgeId": "kor5-s2-u5-sara",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u5-sara.json",
+   "bytes": 192944,
+   "sha256": "a5bc724e473fda508f790db09c9c529ad5e70bdba2863b437fca5ffa223d977a"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-nabi",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-nabi.json",
+   "bytes": 168028,
+   "sha256": "973e4c369fb5d3c9f585681405877997e1ed8eea0f9f86e3345babc3ca492180"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-charlotte",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-charlotte.json",
+   "bytes": 152139,
+   "sha256": "7b8c1b64824697dbf220cdf31189eceed588450907d2328ef84f4005ed865724"
   }
  ]
 }
