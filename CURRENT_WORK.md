@@ -1,5 +1,14 @@
 # HOJA 문제은행 — 현재 작업 체크포인트
 
+> **2026-11-27 운영 배포 완료:** 승인 정본 29단원·899문항을 HOJA 1.5 기존 학생 주소에 GAS 버전 423으로 배포. SMQ PR #12와 문제은행 PR #6이 보호된 main에 병합되었고, 공개 카탈로그 포인터의 커밋 `45536a083912b14189115a34212e661f02b05664`·다이제스트 `0e7620516e65df4090ad782ad3e851cd716daf3ef07d826ee887ce72f40d4212`를 운영 GAS가 수락했다. 단독·팀전 점수·QR 학생 참여·운영 이벤트 기록을 실제 접속으로 확인했다. 아래 2026-11-26 이하 기록은 **과거 이력**이며 배포 상태로 사용하지 않는다.
+
+- **마지막 정상 파일:** [approved/catalog.json](approved/catalog.json), 공개 발행 포인터 `game-runtime/active/v1/current.json`, 이 문서, [workflow/state.json](workflow/state.json). 운영 배포 근거는 [SMQ Issue #11](https://github.com/xkdtndbrwk111-prog/SMQ-Project-A/issues/11).
+- **보존·롤백:** 학생 배포 ID는 유지하고 버전 422→423으로 교체. 기존 통계 시트·기록·일일 집계 트리거 보존. 이상 발생 시 같은 배포 ID를 버전 422로 되돌리고 배포 전 HEAD 스냅샷을 복원한다.
+- **미완료:** 확인되지 않은 국어·과학 원문/삽화 권리는 교사 콘텐츠 승인과 별개의 HOLD이며 확인 완료로 기록하지 않는다. 공개 `?view=stats`의 V4 화면은 `NOT_CONFIGURED`(기존 격리 기능). 2026-11-25 과거 일일 집계 실패와 차기 예약 실행은 별도 확인 대상이다.
+- **다음 행동:** 권리 자료별 확인·대체, V4 공개 통계 설정 검토, 과거 집계 오류 조사 및 다음 트리거 결과 관찰. 이미 통과한 콘텐츠 검수와 기술 시험은 반복하지 않는다.
+
+## 과거 체크포인트
+
 > **2026-11-26 최신:** 복구 브랜치에서 승인 과학 ZIP 2개·64문항 실제 원격 등록 확인. [approved/catalog.json](approved/catalog.json) 기준 29개·899문항. 기존 27개 런타임 패키지 SHA 불변 확인. 정본 등록 PR 및 899문항 렌더링 검증 진행 중; 게임 운영 미배포. 아래는 과거 이력.
 
 > **2026-11-22 최신 상태:** 아래 과거 상세 이력보다 본 표와 [approved/catalog.json](approved/catalog.json), [workflow/state.json](workflow/state.json)을 우선합니다.

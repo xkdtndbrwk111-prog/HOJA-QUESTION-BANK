@@ -1,8 +1,8 @@
 {
   "schemaVersion": "hoja-resume-v1",
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "branch": "main",
-  "activeWorkstream": "science-64",
+  "activeWorkstream": "korean-grade5-four-stories",
   "registeredApproved": {
     "units": 29,
     "questions": 899
@@ -19,7 +19,7 @@
       "status": "APPROVED_GITHUB_REGISTERED",
       "teacherApproval": "APPROVED_2026-11-22",
       "gitHubArtifact": "APPROVED_ZIPS_REGISTERED",
-      "gameDeployment": "NOT_DEPLOYED",
+      "gameDeployment": "PRODUCTION_GAS_VERSION_423_2026-11-27",
       "entry": "approved/math/manifest.json",
       "evidence": [
         "renderer/experiments/2026-11-22/MATH_187_LEGACY_TAGGING_REVIEW4.md",
@@ -110,7 +110,7 @@
       "status": "APPROVED_GITHUB_REGISTERED",
       "teacherApproval": "APPROVED_2026-11-21",
       "gitHubArtifact": "TWO_APPROVED_BINARY_ZIPS_REGISTERED",
-      "gameDeployment": "NOT_DEPLOYED",
+      "gameDeployment": "PRODUCTION_GAS_VERSION_423_2026-11-27",
       "entry": "approved/science/grade5/semester2/sci5-s2-heat-common/manifest.json",
       "evidence": [
         "docs/SCIENCE_APPROVED_R1_RECOVERY_20261122.md",
@@ -159,7 +159,7 @@
       "status": "APPROVED_R1_GITHUB_REGISTERED",
       "teacherApproval": "APPROVED_2026-11-22",
       "gitHubArtifact": "TWO_APPROVED_BINARY_ZIPS_AND_FINAL_REVIEW_HTML",
-      "gameDeployment": "NOT_DEPLOYED",
+      "gameDeployment": "PRODUCTION_GAS_VERSION_423_2026-11-27",
       "entry": "approved/social/grade6/semester2/manifest.json",
       "evidence": [
         "docs/SOC6_64_INDEPENDENT_REVIEW_CHECKLIST_20261122.md",
@@ -189,7 +189,7 @@
       "name": "국어 5학년 2학기 작품별 카트리지",
       "status": "APPROVED_GITHUB_REGISTERED",
       "teacherApproval": "APPROVED_2026-11-26",
-      "gameDeployment": "NOT_DEPLOYED",
+      "gameDeployment": "PRODUCTION_GAS_VERSION_423_2026-11-27",
       "entry": "approved/catalog.json",
       "facts": [
         "엄마에게 28 + 신규 세 작품 각 25 = 103문항",
@@ -214,7 +214,7 @@
       "CURRENT_WORK.md",
       "workflow/state.json"
     ],
-    "lastRecorded": "2026-11-26",
+    "lastRecorded": "2026-11-27",
     "notes": "실행 가능한 작업 완료 시 GitHub 원격 커밋; 자동 백그라운드 저장 아님"
   },
   "capacityAudit": {
@@ -435,6 +435,50 @@
     "zipRegisteredCount": 6,
     "browserQA": "HD_FHD_374_QUESTION_STATES_PASS",
     "actualDevice": "NOT_RUN",
-    "gameDeployment": "NOT_DEPLOYED"
+    "gameDeployment": "PRODUCTION_GAS_VERSION_423_2026-11-27"
+  },
+  "hoja15Release": {
+    "status": "PRODUCTION_DEPLOYED",
+    "date": "2026-11-27",
+    "units": 29,
+    "questions": 899,
+    "smqMergeCommit": "a2147bc0090c68cab43eeaf0362c5aa6dc735e58",
+    "questionBankMergeCommit": "0b3fa1855a72131729b7781a9136ee650b90af57",
+    "publicCatalogCommit": "45536a083912b14189115a34212e661f02b05664",
+    "publicCatalogDigest": "0e7620516e65df4090ad782ad3e851cd716daf3ef07d826ee887ce72f40d4212",
+    "deploymentId": "HOJA15-REMOTE-29-20261127-R1",
+    "productionGasScriptId": "1tZOPRd0aYzceL7Px3A_7LxwpDkkmByl_C1xMijQ97gHk-pt3EeztoSA-",
+    "productionGasVersion": 423,
+    "previousGasVersion": 422,
+    "studentDeploymentId": "AKfycbzoonnEeV0UPcaEFM843Ij4t2-1Qk_tl3lGdHwkJM8uIaDeEaLJly5zeLnwHxAX28AeRQ",
+    "studentUrl": "https://script.google.com/macros/s/AKfycbzoonnEeV0UPcaEFM843Ij4t2-1Qk_tl3lGdHwkJM8uIaDeEaLJly5zeLnwHxAX28AeRQ/exec",
+    "lastGoodFiles": [
+      "approved/catalog.json",
+      "game-runtime/active/v1/current.json",
+      "CURRENT_WORK.md",
+      "workflow/state.json"
+    ],
+    "validation": [
+      "SMQ PR #12 verify-and-assemble PASS 29/899",
+      "QBank PR #6 immutable publication and handoff checks PASS",
+      "anonymous public pointer/catalog/package digest PASS",
+      "isolated GAS live remote catalog and question PASS",
+      "production same-URL student solo/team/QR live PASS",
+      "production V423 bundle matches approved final source exactly",
+      "existing usage EVENT_LOG appended without wiping historical rows",
+      "existing runUsageRollupDailyU3S1 trigger preserved"
+    ],
+    "unfinished": [
+      "Source media/text rights verification remains HOLD for identified Korean/science materials; teacher deployment approval is not a rights clearance",
+      "Public ?view=stats shows NOT_CONFIGURED because V4 unified stats remains isolation-only",
+      "Historical 2026-11-25 usage rollup FAILED due preexisting duplicate event ID; not rerun or altered",
+      "Future next scheduled daily trigger run has not occurred yet"
+    ],
+    "nextActions": [
+      "Confirm rights of flagged source text and illustrations and record clearance or replacement",
+      "Investigate V4 public statistics configuration separately without changing preserved U3S data",
+      "Review historical failed rollup and observe next scheduled trigger result",
+      "If production regression emerges, restore existing student deployment to GAS version 422 and restore HEAD from preserved predeployment snapshot"
+    ]
   }
 }
