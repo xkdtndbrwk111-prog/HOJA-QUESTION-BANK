@@ -1,6 +1,6 @@
 {
  "schemaVersion": "hoja-game-runtime-packages-v1",
- "sourceCommit": "9573f91d2845a9667e2540df051f499d937dd94a",
+ "sourceCommit": "ea614cb6330584d8ee694b1c05e2abae5b175039",
  "packages": [
   {
    "cartridgeId": "eng5-ybm-kim-u10",
@@ -139,6 +139,12 @@
    "path": "game-runtime/approved-packages/v1/soc6-s2-u3-2-common.json",
    "bytes": 842675,
    "sha256": "3eb3a72902bcbfc5d1faf424e4a27729b8ed205f35f2bbd0222c69cfe0aeb1ee"
+  },
+  {
+   "cartridgeId": "kor5-s2-u6-mom",
+   "path": "game-runtime/approved-packages/v1/kor5-s2-u6-mom.json",
+   "bytes": 233313,
+   "sha256": "f31c9f079ff20b75db40899aeef0423a9dcbe144080c3ca90bad1875ddf77cea"
   }
  ]
 }
