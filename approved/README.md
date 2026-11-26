@@ -1,6 +1,6 @@
 # HOJA Question Bank — 교사 승인 정본 색인
 
-**2026-11-22 GitHub 등록 기준:** 23개 단원 · **732문항** 교사 승인 (영어 384 + 사회 161 + 수학 187). 과학 64문항 승인 ZIP은 별도 원격 등록 대기.
+**2026-11-26 GitHub 등록 기준:** 24개 단원 · **760문항** 교사 승인 (영어 384 + 사회 161 + 수학 187 + 국어 28). 과학 64문항 승인 ZIP은 별도 원격 등록 대기.
 
 | 교과·단원 | 문항 | 정본 | 내용 |
 |---|---:|---|---|
@@ -13,6 +13,8 @@
 | 사회 6-2 세계의 인구 분포 (3-1) | 32 | [r1](social/grade6/semester2/soc6-s2-u3-1-common/) | 그림6종, 교사 C 좌우4, effective rev4 |
 | 사회 6-2 지속가능한 지구촌 (3-2) | 32 | [r1](social/grade6/semester2/soc6-s2-u3-2-common/) | 그림9종, 교사 C 좌우7, effective rev4 |
 | 수학 5·6학년 2학기 4~6단원 (6개) | 187 | [r1](math/) | 19개 C형 배치 + 4문항 보기 줄바꿈 승인 |
+
+| 국어 5-2 6. 작품을 감상해요(엄마에게) (1개) | 28 | [r1](korean/grade5/semester2/kor5-s2-u6-mom/) | 삽화 9종, C형 좌우 12문항, 운영 미배포 |
 
 **정본의 `teacherApproval=APPROVED`는 실제 운영 배포와 별개**이며 모두 `gameDeployment=NOT_DEPLOYED`입니다. 승인 산출물의 ZIP 내 `effective/`와 `release/approval.json`을 우선 사용하세요. `source-candidate/` 또는 과거 검토용 HTML을 승인 화면으로 착각하지 마세요.
 

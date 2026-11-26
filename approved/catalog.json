@@ -1,17 +1,18 @@
 {
   "schemaVersion": "approved-catalog-v1",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-26",
   "policy": {
     "english": "publisher-and-author",
     "otherSubjects": "subject-only",
     "description": "영어는 출판사·저자별로 등록하며, 사회·수학·과학 등 다른 과목은 출판사 구분 없이 과목별로 등록합니다."
   },
   "summary": {
-    "approvedUnits": 23,
-    "approvedQuestions": 732,
+    "approvedUnits": 24,
+    "approvedQuestions": 760,
     "english": 384,
     "social": 161,
-    "math": 187
+    "math": 187,
+    "korean": 28
   },
   "englishByPublisher": {
     "cheonjae-ham": {
@@ -53,6 +54,14 @@
         "math/grade6/semester2/math6-s2-u6/"
       ],
       "manifest": "math/manifest.json",
+      "gameDeployment": "NOT_DEPLOYED"
+    },
+    "korean": {
+      "units": 1,
+      "questions": 28,
+      "paths": [
+        "korean/grade5/semester2/kor5-s2-u6-mom/"
+      ],
       "gameDeployment": "NOT_DEPLOYED"
     }
   },

@@ -1,0 +1,36 @@
+{
+  "id": "kor5-s2-u6-mom",
+  "releaseId": "kor5-s2-u6-mom-teacher-20261126-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-26",
+  "gameDeployment": "NOT_DEPLOYED",
+  "publicMediaRights": "HOLD_SOURCE_TEXT_RIGHTS_UNVERIFIED",
+  "questions": 28,
+  "types": {
+    "MCQ": 18,
+    "OX": 10,
+    "SHORT": 0
+  },
+  "UQ": {
+    "solo": 28,
+    "team": 28
+  },
+  "archive": "HOJA_KOR5_S2_U6_MOM_APPROVED_20261126_r1.zip",
+  "bytes": 377750,
+  "sha256": "879a15ab40fe8b74222abb8f6b8fe4dc272c7da06379add10e70660f7ea37992",
+  "effectiveCartridge": "effective/cartridge.json",
+  "reviewedPresentation": "presentation/renderer-data.html",
+  "reviewedPresentationSha256": "1b8db1c815a423ef8fd486539eb0b1d71e61cd48a31ea9dc35e170032e1ef16d",
+  "sourceCandidateSha256": "cc48e3bf1e7c78a5243ab5a3a23bd7aca29b5a1d8a673a51cab73b316eb84fca",
+  "layouts": {
+    "A": 16,
+    "C": 12,
+    "split": 12
+  },
+  "imageAssets": 9,
+  "notes": [
+    "교사 요청에 따라 기존 검수 문항·해설·이미지 보존",
+    "renderer-v2 데이터 파일은 실제 검수 HTML에서 사용된 데이터의 정본; UI 자체는 게임 공통 렌더러로 제공",
+    "승인 등록과 운영 배포 구분"
+  ]
+}
