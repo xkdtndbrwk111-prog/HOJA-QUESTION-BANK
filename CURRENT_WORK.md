@@ -1,6 +1,6 @@
 # HOJA 문제은행 — 현재 작업 체크포인트
 
-> **2026-11-26 최신:** [approved/catalog.json](approved/catalog.json) 기준 27개 카트리지 835문항. 국어 5학년 세 작품 75문항 승인 등록. 샬럿 q01 그림 제거 후 A형 확인. 기존 24개 보존. 원화 권리 확인, 나비/샬럿 독립 원문 검증, 운영 GAS 반영은 미완료. 이전 기록은 아래 보존.
+> **2026-11-26 최신:** 복구 브랜치에서 승인 과학 ZIP 2개·64문항 실제 원격 등록 확인. [approved/catalog.json](approved/catalog.json) 기준 29개·899문항. 기존 27개 런타임 패키지 SHA 불변 확인. 정본 등록 PR 및 899문항 렌더링 검증 진행 중; 게임 운영 미배포. 아래는 과거 이력.
 
 > **2026-11-22 최신 상태:** 아래 과거 상세 이력보다 본 표와 [approved/catalog.json](approved/catalog.json), [workflow/state.json](workflow/state.json)을 우선합니다.
 

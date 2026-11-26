@@ -4,6 +4,8 @@ import json
 import pathlib
 import sys
 import collections
+import hashlib
+import zipfile
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 def fail(msg):
@@ -22,7 +24,7 @@ def main():
     if s.get("activeWorkstream") not in {x["id"] for x in s["workstreams"]}:
         fail("unknown active workstream")
     ids = [w["id"] for w in s["workstreams"]]
-    if len(ids) != len(set(ids)) or set(ids) != {"math-187", "science-64", "renderer"}:
+    if len(ids) != len(set(ids)) or not {"math-187", "science-64", "renderer", "social-grade6-64", "korean-grade5-four-stories"}.issubset(set(ids)):
         fail("missing/duplicate workstreams")
     for w in s["workstreams"]:
         file_at(w["entry"])
@@ -54,6 +56,24 @@ def main():
         science_dir = ROOT / "approved/science"
         if science_dir.exists() and list(science_dir.rglob("*.zip")):
             fail("science ZIP now exists; verify and update checkpoint")
+    elif science["status"] == "APPROVED_GITHUB_REGISTERED":
+        expected = {
+            "sci5-s2-heat-common": "a503459e875d4565e888ce40878d279e9b3513c76e95711ff6f806a610186947",
+            "sci5-s2-u4-common": "7b711e6d2d29e77152b49958b9bfe22690e1b297a45edd3828cb56270b8b7fae",
+        }
+        for cid, digest in expected.items():
+            p = "approved/science/grade5/semester2/" + cid + "/"
+            m = json.loads(file_at(p + "manifest.json").read_text("utf-8"))
+            archive = file_at(p + m["archive"])
+            if hashlib.sha256(archive.read_bytes()).hexdigest() != digest or m["archiveSha256"] != digest:
+                fail("science archive mismatch: " + cid)
+            with zipfile.ZipFile(archive) as z:
+                if z.testzip() is not None or json.loads(z.read("release/approval.json"))["teacherApproval"] != "APPROVED":
+                    fail("science archive approval or CRC mismatch: " + cid)
+        if counts.get("science") != 64:
+            fail("science count missing")
+    else:
+        fail("unknown science checkpoint status")
     readme = file_at("CURRENT_WORK.md").read_text("utf-8")
     if s["activeWorkstream"] == "math-187" and "수학 187" not in readme:
         fail("human-readable checkpoint missing active work")
