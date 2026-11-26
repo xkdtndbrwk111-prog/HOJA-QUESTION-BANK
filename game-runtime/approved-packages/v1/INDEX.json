@@ -156,13 +156,13 @@
    "cartridgeId": "kor5-s2-u6-nabi",
    "path": "game-runtime/approved-packages/v1/kor5-s2-u6-nabi.json",
    "bytes": 168028,
-   "sha256": "973e4c369fb5d3c9f585681405877997e1ed8eea0f9f86e3345babc3ca492180"
+   "sha256": "414ae305980af8732cce5c9c319e839dd27f249f3a74115fcce7894c155ade07"
   },
   {
    "cartridgeId": "kor5-s2-u6-charlotte",
    "path": "game-runtime/approved-packages/v1/kor5-s2-u6-charlotte.json",
    "bytes": 152139,
-   "sha256": "7b8c1b64824697dbf220cdf31189eceed588450907d2328ef84f4005ed865724"
+   "sha256": "feadec0a615c1f40e675d8f0bd131e14acb5bdc546709a55c2abfed24cb38746"
   }
  ]
 }
