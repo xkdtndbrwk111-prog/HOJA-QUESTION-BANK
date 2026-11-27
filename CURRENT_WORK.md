@@ -1,5 +1,7 @@
 # HOJA 문제은행 — 현재 작업 체크포인트
 
+> **2026-11-27 해설 교정 후보 저장 (운영 미반영):** 국어 32개(엄마에게 25, 샬럿 2, 나비 5)와 영어 101개, 총 133개 해설의 before/after를 기존 runtime 8d809453에 대조했다. [국어 후보](workflow/candidates/2026-11-27/korean-explanations.json) · [영어 후보](workflow/candidates/2026-11-27/english-explanations.json). 엄마에게 q21·q27 교사 직접 교정 포함. 기존 원본 ZIP·패키지·발행 포인터·GAS 423 변경 없음. 다음: 승인 소스 revision, 정본 재생성 및 해설 외 불변 검증, 보호 PR, 신규 generation 실제 발행/운영 확인. 권리 HOLD와 원문 재확인 상태 보존.
+
 > **2026-11-27 운영 배포 완료:** 승인 정본 29단원·899문항을 HOJA 1.5 기존 학생 주소에 GAS 버전 423으로 배포. SMQ PR #12와 문제은행 PR #6이 보호된 main에 병합되었고, 공개 카탈로그 포인터의 커밋 `45536a083912b14189115a34212e661f02b05664`·다이제스트 `0e7620516e65df4090ad782ad3e851cd716daf3ef07d826ee887ce72f40d4212`를 운영 GAS가 수락했다. 단독·팀전 점수·QR 학생 참여·운영 이벤트 기록을 실제 접속으로 확인했다. 아래 2026-11-26 이하 기록은 **과거 이력**이며 배포 상태로 사용하지 않는다.
 
 - **마지막 정상 파일:** [approved/catalog.json](approved/catalog.json), 공개 발행 포인터 `game-runtime/active/v1/current.json`, 이 문서, [workflow/state.json](workflow/state.json). 운영 배포 근거는 [SMQ Issue #11](https://github.com/xkdtndbrwk111-prog/SMQ-Project-A/issues/11).
