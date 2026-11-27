@@ -480,5 +480,31 @@
       "Review historical failed rollup and observe next scheduled trigger result",
       "If production regression emerges, restore existing student deployment to GAS version 422 and restore HEAD from preserved predeployment snapshot"
     ]
+  },
+  "explanationCorrection": {
+    "status": "PATCH_PREPARED_NOT_DEPLOYED",
+    "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+    "baseGeneration": 1,
+    "scope": "EXPLANATION_ONLY",
+    "counts": {
+      "korean": 32,
+      "english": 108,
+      "total": 140,
+      "cartridges": 15
+    },
+    "patches": [
+      "docs/corrections/2026-11-27-korean-explanations.json",
+      "docs/corrections/2026-11-27-english-explanations.json"
+    ],
+    "inMemoryComparison": "PASS_140_QUESTION_3_FIELDS_EXACT_REVERT",
+    "teacherConfirmed": [
+      "kor5-s2-u6-mom:q21",
+      "kor5-s2-u6-mom:q27"
+    ],
+    "next": [
+      "Apply exact patch to canonical source and presentation data; preserve historical archives and rights/source status.",
+      "Rebuild packages via existing generator and compare all 29 packages; regenerate approval pins and publish protected PR.",
+      "Verify live GAS v423 receives new generation, without redeploying if unnecessary."
+    ]
   }
 }
