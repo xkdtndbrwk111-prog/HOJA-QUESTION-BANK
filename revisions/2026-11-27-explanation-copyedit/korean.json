@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "hoja-explanation-copyedit-candidate-v1",
+  "status": "TEACHER_REQUESTED_EDIT_NOT_PUBLISHED",
+  "runtimeBaseline": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "scope": "explanation only",
+  "entries": [
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q01",
+      "localId": "q01",
+      "before": "PPT 33쪽에서 ‘나’가 1950년 6월 25일에 처음 본 비행기를 잊을 수 없었다고 한 내용의 정답은 O입니다.",
+      "after": "‘나’는 1950년 6월 25일에 처음 본 비행기를 잊을 수 없다고 했습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q02",
+      "localId": "q02",
+      "before": "원본의 정답은 평안북도 용천군입니다.",
+      "after": "아빠는 평안북도 용천군에서 태어나셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q03",
+      "localId": "q03",
+      "before": "이 물음의 원본 정답은 마을 사람들이 파 둔 토굴입니다.",
+      "after": "총소리와 비행기 소리가 들릴 때 마을 사람들은 미리 파 둔 토굴에 숨었습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q04",
+      "localId": "q04",
+      "before": "할아버지와 할머니는 피난을 가지 않고 집을 지키려고 남으셨습니다. (PPT 77쪽)",
+      "after": "할아버지와 할머니는 피난을 가지 않고 집을 지키려고 남으셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q05",
+      "localId": "q05",
+      "before": "이 물음의 원본 정답은 버스를 세우면 피난민들이 서로 타려고 해 버스 안의 환자들이 위험해질 수 있다고 했기 때문에입니다.",
+      "after": "버스를 세우면 피난민들이 서로 타려고 해 버스 안의 환자들이 위험해질 수 있었기 때문입니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q06",
+      "localId": "q06",
+      "before": "원본의 정답은 아빠와 ‘나’입니다.",
+      "after": "할머니는 병원 버스에 아빠와 ‘나’를 태웠습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q07",
+      "localId": "q07",
+      "before": "원본의 정답은 다친 사람들을 치료했다입니다.",
+      "after": "전쟁 중 아빠는 다친 사람들을 치료하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q08",
+      "localId": "q08",
+      "before": "피난길에 엄마를 만났지만 결국 헤어졌다는 내용은 원본에서 O로 확인됩니다.",
+      "after": "‘나’는 피난길에 엄마를 만났지만 결국 헤어졌습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q10",
+      "localId": "q10",
+      "before": "이 물음의 원본 정답은 천막 다섯 개를 빌려 병원을 세우셨습니다입니다.",
+      "after": "아빠는 부산에 도착하자마자 천막 다섯 개를 빌려 병원을 세우셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q11",
+      "localId": "q11",
+      "before": "원본에서는 전쟁 중 아빠가 집에 자주 돌아와 가족과 함께 지냈다는 진술을 X로 표시합니다. 아빠는 다친 사람들을 치료하는 일을 하셨습니다. (PPT 45쪽)",
+      "after": "전쟁 중 아빠는 집에 자주 돌아오지 못하고 다친 사람들을 치료하는 일을 하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q12",
+      "localId": "q12",
+      "before": "이 물음의 원본 정답은 엄마가 만들어 주시던 만둣국입니다.",
+      "after": "‘나’는 혼자 밥을 먹을 때 엄마가 만들어 주시던 만둣국을 생각했습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q13",
+      "localId": "q13",
+      "before": "원본의 정답은 아이들이 만둣국을 맛있게 먹을 때입니다.",
+      "after": "엄마는 아이들이 만둣국을 맛있게 먹을 때 가장 행복하다고 하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q14",
+      "localId": "q14",
+      "before": "이 물음의 원본 정답은 사진, 봉선화 씨앗, 엄마가 부른 「봉선화」 녹음테이프입니다.",
+      "after": "엄마가 보내신 소포에는 사진, 봉선화 씨앗, 엄마가 부른 「봉선화」 녹음테이프가 들어 있었습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q16",
+      "localId": "q16",
+      "before": "원본의 정답은 아빠는 병원에 다시 출근하고, ‘나’는 학교에 갔다입니다.",
+      "after": "휴전 협정을 맺은 뒤 아빠는 병원에 다시 출근하고 ‘나’는 학교에 갔습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q17",
+      "localId": "q17",
+      "before": "이 물음의 원본 정답은 중요한 날에 입는 양복입니다.",
+      "after": "아빠는 사진을 찍으러 갈 때 중요한 날에 입는 양복을 입으셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q18",
+      "localId": "q18",
+      "before": "이 물음의 원본 정답은 어머니(엄마)입니다.",
+      "after": "아빠는 먼저 하늘나라에 가서 엄마를 기다리겠다고 하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q19",
+      "localId": "q19",
+      "before": "이 물음의 원본 정답은 할아버지와 할머니를 두고 갈 수 없었기 때문입니다.",
+      "after": "아빠는 할아버지와 할머니를 두고 갈 수 없었기 때문에 엄마에게 아이들을 데리고 먼저 남쪽으로 가라고 하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q20",
+      "localId": "q20",
+      "before": "이 물음의 원본 정답은 대동강입니다.",
+      "after": "병원 버스는 가족을 대동강까지 태워 주려고 했습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q21",
+      "localId": "q21",
+      "before": "원본 PPT 73쪽의 정답은 X입니다. 소포를 받은 날 아빠가 ‘나’를 안고 소리 내어 울었다는 진술은 맞지 않습니다. 구체적인 행동은 원문에서 확인해 보세요.",
+      "after": "그날 밤 아빠는 이불을 뒤집어쓰고 소리도 내지 않고 우셨습니다.",
+      "evidence": "2026-11-27 teacher supplied exact story fact"
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q22",
+      "localId": "q22",
+      "before": "병원 버스가 가족을 태우려고 집 앞에 왔다는 내용은 O입니다.",
+      "after": "병원 버스는 가족을 태우려고 집 앞에 왔습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q24",
+      "localId": "q24",
+      "before": "원본의 정답은 아빠의 옷입니다.",
+      "after": "‘나’가 들고 온 보따리에는 아빠의 옷이 들어 있었습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q25",
+      "localId": "q25",
+      "before": "이 물음의 원본 정답은 단정하게 머리를 잘랐습니다입니다.",
+      "after": "사진을 찍으러 가기 전에 아빠와 ‘나’는 단정하게 머리를 잘랐습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q26",
+      "localId": "q26",
+      "before": "원본의 정답은 엄마의 노래입니다.",
+      "after": "봉선화꽃이 가득한 옥상에서 ‘나’는 엄마의 노래를 들었습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q27",
+      "localId": "q27",
+      "before": "원본 PPT 85쪽의 정답은 X입니다. 비가 많이 내리던 날 돌아가셨다는 진술은 맞지 않습니다. 정확한 날의 모습은 원문에서 확인해 보세요.",
+      "after": "아빠는 1995년 12월 25일, 눈이 많이 내리던 날 돌아가셨습니다.",
+      "evidence": "2026-11-27 teacher supplied exact story fact"
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-mom",
+      "questionId": "kor5-s2-u6-mom:q28",
+      "localId": "q28",
+      "before": "이 물음의 원본 정답은 고향집 마당처럼 느껴졌습니다입니다.",
+      "after": "봉선화 씨앗을 심은 뒤 꽃이 피자 그곳이 고향집 마당처럼 느껴졌습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-charlotte",
+      "questionId": "kor5-s2-u6-charlotte:q16",
+      "localId": "q16",
+      "before": "제출 후보에 따르면 러비는 새 글자를 보고 또 다른 기적이라고 외쳤습니다.",
+      "after": "러비는 거미줄에 나타난 새 글자를 보고 또 다른 기적이라고 외쳤습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-charlotte",
+      "questionId": "kor5-s2-u6-charlotte:q24",
+      "localId": "q24",
+      "before": "제출 후보의 287쪽 선택지 검수 근거에 마사와 펀이 에디스의 과자 만들기를 돕는다고 기록되어 있습니다.",
+      "after": "마사와 펀은 농장에 찾아오는 손님들을 맞이하기 위해 에디스의 과자 만들기를 도왔습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-nabi",
+      "questionId": "kor5-s2-u6-nabi:q07",
+      "localId": "q07",
+      "before": "제출된 원문 근거 기록에는 경환이의 나비 표본이 학교 숙제였다고 되어 있습니다.",
+      "after": "경환이는 학교 숙제로 나비 표본을 만들기 위해 나비를 잡으려 했습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-nabi",
+      "questionId": "kor5-s2-u6-nabi:q14",
+      "localId": "q14",
+      "before": "제출 후보의 267쪽 근거에는 어머니가 바우의 침묵을 순종하는 것으로 여기고 아침을 차렸다고 되어 있습니다.",
+      "after": "어머니는 말이 없는 바우가 자신의 말을 따르는 줄 알고 아침을 차렸습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-nabi",
+      "questionId": "kor5-s2-u6-nabi:q18",
+      "localId": "q18",
+      "before": "제출 후보의 267쪽 근거에는 나비를 잡아 가지 않으면 밥도 주지 말고 집에 들어오지 말라는 아버지의 말이 기록되어 있습니다.",
+      "after": "아버지는 나비를 잡아 가지 않으면 밥도 주지 말고 집에 들어오지도 말라고 하셨습니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-nabi",
+      "questionId": "kor5-s2-u6-nabi:q19",
+      "localId": "q19",
+      "before": "제출 후보의 앞 이야기 근거에 따르면 서울로 진학한 사람은 경환이입니다.",
+      "after": "서울로 진학한 사람은 바우가 아니라 경환이입니다."
+    },
+    {
+      "cartridgeId": "kor5-s2-u6-nabi",
+      "questionId": "kor5-s2-u6-nabi:q24",
+      "localId": "q24",
+      "before": "제출 후보의 결말은 바우가 아버지를 부르는 장면에서 끝납니다. 경환이 집에 사과하거나 땅 문제가 해결된 장면은 제시되지 않습니다.",
+      "after": "이야기는 바우가 아버지를 부르는 장면에서 끝납니다. 경환이 집에 사과하거나 땅 문제가 해결되는 장면은 나오지 않습니다."
+    }
+  ]
+}
