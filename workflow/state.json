@@ -480,5 +480,34 @@
       "Review historical failed rollup and observe next scheduled trigger result",
       "If production regression emerges, restore existing student deployment to GAS version 422 and restore HEAD from preserved predeployment snapshot"
     ]
+  },
+  "explanationPolish20261127": {
+    "status": "CANDIDATE_NOT_PUBLISHED",
+    "sourceRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+    "baseGeneration": 1,
+    "teacherAuthorized": "2026-11-27",
+    "counts": {
+      "korean": 32,
+      "english": 101,
+      "total": 133,
+      "units": 15
+    },
+    "files": [
+      "workflow/explanation-polish-20261127-korean.json",
+      "workflow/explanation-polish-20261127-english.json"
+    ],
+    "checks": {
+      "exactOldExplanation": true,
+      "threeRuntimeFieldsMatched": true,
+      "nonExplanationInMemoryRoundTrip": true,
+      "sourceArchivesRegenerated": false,
+      "publication": false,
+      "liveGame": false
+    },
+    "next": [
+      "Apply exact edits to canonical approved source via official build pipeline, preserving existing source approvals and rights HOLD.",
+      "Rebuild runtime packages and compare all 899 questions excluding only the three explanation fields; verify unchanged packages and assets.",
+      "Update effective SHA and release manifest with teacher-approved edits, pass protected checks, publish a higher generation, verify production GAS v423 without code deployment."
+    ]
   }
 }
