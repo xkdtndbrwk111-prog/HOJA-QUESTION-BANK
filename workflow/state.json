@@ -2,7 +2,7 @@
   "schemaVersion": "hoja-resume-v1",
   "lastUpdated": "2026-11-27",
   "branch": "main",
-  "activeWorkstream": "korean-grade5-four-stories",
+  "activeWorkstream": "explanation-polish-20261127",
   "registeredApproved": {
     "units": 29,
     "questions": 899
@@ -204,6 +204,26 @@
       "evidence": [
         "approved/catalog.json",
         "approved/korean/grade5/semester2/kor5-s2-u6-charlotte/manifest.json"
+      ]
+    },
+    {
+      "id": "explanation-polish-20261127",
+      "name": "HOJA 1.5 해설 전용 교정",
+      "status": "CANDIDATE_NOT_PUBLISHED",
+      "entry": "workflow/candidates/2026-11-27/korean-explanations.json",
+      "evidence": [
+        "workflow/candidates/2026-11-27/english-explanations.json"
+      ],
+      "facts": [
+        "2026-11-27 교사 지시: 국어 해설 자연스럽게 교정, 영어 인용부호 정리, 문제·정답·보기·그림·태그·ID 보존.",
+        "운영 runtime 8d809453fc9470aefa74c4ad9f7357574f918e5c에서 133개 기존 해설과 rendererQuestion/originalQuestion 일치 확인; 국어 32개, 영어 101개 교정 후보. 영어 약어 정상 표기 2개 제외.",
+        "엄마에게 q21, q27은 교사 직접 교정 문장 반영. 기존 샬럿·나비 원문 재확인 및 권리 HOLD 변경 없음.",
+        "현 운영 generation 1 및 GAS 423 변경하지 않음. 전체 29/899 유지 예정."
+      ],
+      "next": [
+        "승인 소스에 해설 전용 수정 revision을 반영하고 원본 ZIP 보존. 정본 생성기로 패키지 재생성, 133개 교정 일치 및 해설 외 불변 비교.",
+        "보호 PR·정본 해시·발행 매니페스트 검증 후 신규 generation 발행 및 운영 GAS 423 실제 해설 반영 확인. GAS 본체 수정 불필요.",
+        "Issue #11에 시험 및 실제 발행 기록 추가."
       ]
     }
   ],

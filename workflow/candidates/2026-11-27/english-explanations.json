@@ -1,0 +1,715 @@
+{
+  "schemaVersion": "hoja-explanation-edit-candidate-v1",
+  "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "scope": "explanation only",
+  "status": "CANDIDATE_NOT_PUBLISHED",
+  "changes": [
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q02",
+      "questionId": "eng5-ybm-kim-u10:q02",
+      "before": "배가 아픈 증상(복통)은 stomachache이므로 I have a stomachache.가 정답입니다.",
+      "after": "배가 아픈 증상(복통)은 stomachache이므로 “I have a stomachache.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q06",
+      "questionId": "eng5-ybm-kim-u10:q06",
+      "before": "오한과 열이 나는 감기 증상은 cold이므로 I have a cold.가 알맞습니다.",
+      "after": "오한과 열이 나는 감기 증상은 cold이므로 “I have a cold.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q07",
+      "questionId": "eng5-ybm-kim-u10:q07",
+      "before": "아픈 곳이나 무슨 일이 있는지 물을 때는 What's wrong?이라고 말합니다.",
+      "after": "아픈 곳이나 무슨 일이 있는지 물을 때는 “What's wrong?”이라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q09",
+      "questionId": "eng5-ybm-kim-u10:q09",
+      "before": "Do you have ~?로 물었고 뒤에 I have a runny nose.라고 긍정했으므로 Yes, I do.가 알맞습니다.",
+      "after": "“Do you have ~?”로 물었고 뒤에 “I have a runny nose.”라고 긍정했으므로 “Yes, I do.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q10",
+      "questionId": "eng5-ybm-kim-u10:q10",
+      "before": "친구가 아프다고 말했을 때 '저런, 안됐구나.'라고 공감하는 표현은 That's too bad.입니다.",
+      "after": "친구가 아프다고 말했을 때 '저런, 안됐구나.'라고 공감하는 표현은 “That's too bad.”입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q11",
+      "questionId": "eng5-ybm-kim-u10:q11",
+      "before": "'잠을 좀 자.'라는 조언은 영어로 Get some sleep.입니다.",
+      "after": "'잠을 좀 자.'라는 조언은 영어로 “Get some sleep.”입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q12",
+      "questionId": "eng5-ybm-kim-u10:q12",
+      "before": "'따뜻한'은 영어로 warm이므로 Drink some warm water.가 정답입니다.",
+      "after": "'따뜻한'은 영어로 warm이므로 “Drink some warm water.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q13",
+      "questionId": "eng5-ybm-kim-u10:q13",
+      "before": "아픈 친구에게 진찰을 권하는 조언은 Go and see a doctor.입니다.",
+      "after": "아픈 친구에게 진찰을 권하는 조언은 “Go and see a doctor.”입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q14",
+      "questionId": "eng5-ybm-kim-u10:q14",
+      "before": "스파게티, 피자, 스테이크를 한꺼번에 많이 먹어 배가 아픈 상황이므로 '너무 많이 먹지 마.'라는 뜻의 Don't eat too much.가 알맞습니다.",
+      "after": "스파게티, 피자, 스테이크를 한꺼번에 많이 먹어 배가 아픈 상황이므로 '너무 많이 먹지 마.'라는 뜻의 “Don't eat too much.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q17",
+      "questionId": "eng5-ybm-kim-u10:q17",
+      "before": "주어(I) + 동사(have) + 관사(a) + 증상(cold) 순서로 배열하면 I have a cold.가 됩니다.",
+      "after": "주어(I) + 동사(have) + 관사(a) + 증상(cold) 순서로 배열하면 “I have a cold.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q24",
+      "questionId": "eng5-ybm-kim-u10:q24",
+      "before": "That's too bad.는 친구가 아프거나 안타까운 일을 겪었을 때 '저런, 안됐구나.'라고 공감하는 표현이므로 거짓입니다.",
+      "after": "“That's too bad.”는 친구가 아프거나 안타까운 일을 겪었을 때 '저런, 안됐구나.'라고 공감하는 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q27",
+      "questionId": "eng5-ybm-kim-u10:q27",
+      "before": "본문(p.150)에 He loves animals and looks after them very well. He can understand them.이라고 나와 있으므로 참입니다.",
+      "after": "본문(p.150)에 “He loves animals and looks after them very well. He can understand them.”이라고 나와 있으므로 참입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q30",
+      "questionId": "eng5-ybm-kim-u10:q30",
+      "before": "'잠을 좀 자.'는 Get some sleep.이므로 빈칸에는 sleep이 들어갑니다.",
+      "after": "'잠을 좀 자.'는 “Get some sleep.”이므로 빈칸에는 sleep이 들어갑니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q31",
+      "questionId": "eng5-ybm-kim-u10:q31",
+      "before": "아픈 곳이나 무슨 일이 있는지 물을 때는 What's wrong?이라고 씁니다.",
+      "after": "아픈 곳이나 무슨 일이 있는지 물을 때는 “What's wrong?”이라고 씁니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q32",
+      "questionId": "eng5-ybm-kim-u10:q32",
+      "before": "'감기'는 영어로 cold이므로 I have a cold.가 됩니다.",
+      "after": "'감기'는 영어로 cold이므로 “I have a cold.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u10",
+      "localId": "q33",
+      "questionId": "eng5-ybm-kim-u10:q33",
+      "before": "Are you okay?는 몸이 안 좋아 보이는 상대방에게 '괜찮니?'라고 묻는 표현이므로 참입니다.",
+      "after": "“Are you okay?”는 몸이 안 좋아 보이는 상대방에게 '괜찮니?'라고 묻는 표현이므로 참입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q04",
+      "questionId": "eng5-ybm-kim-u11:q04",
+      "before": "장소의 위치를 물을 때는 의문사 Where를 사용해 Where is the bank?라고 말합니다.",
+      "after": "장소의 위치를 물을 때는 의문사 Where를 사용해 “Where is the bank?”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q09",
+      "questionId": "eng5-ybm-kim-u11:q09",
+      "before": "'~ 옆에'를 나타내는 위치 표현은 next to이므로 It's next to the bank.가 정답입니다.",
+      "after": "'~ 옆에'를 나타내는 위치 표현은 next to이므로 “It's next to the bank.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q15",
+      "questionId": "eng5-ybm-kim-u11:q15",
+      "before": "It's + next to + the + 장소(bank) 순서로 배열하면 It's next to the bank.가 됩니다.",
+      "after": "It's + next to + the + 장소(bank) 순서로 배열하면 “It's next to the bank.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q16",
+      "questionId": "eng5-ybm-kim-u11:q16",
+      "before": "안내문에 It's next to the garden.이라고 나와 있으므로 Tree House는 정원(garden) 옆에 있습니다.",
+      "after": "안내문에 “It's next to the garden.”이라고 나와 있으므로 Tree House는 정원(garden) 옆에 있습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q17",
+      "questionId": "eng5-ybm-kim-u11:q17",
+      "before": "But don't give food to the ducks, please.는 '오리들에게 먹이를 주지 마세요.'라는 주의 사항입니다.",
+      "after": "“But don't give food to the ducks, please.”는 '오리들에게 먹이를 주지 마세요.'라는 주의 사항입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q27",
+      "questionId": "eng5-ybm-kim-u11:q27",
+      "before": "본문(p.164)에 You can read books and play games.라고 나와 있으므로 참입니다.",
+      "after": "본문(p.164)에 “You can read books and play games.”라고 나와 있으므로 참입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q33",
+      "questionId": "eng5-ybm-kim-u11:q33",
+      "before": "거리 그림에서 LIBRARY 건물이 MUSEUM 건물 바로 옆에 나란히 있으므로 It's next to the museum.이 정답입니다.",
+      "after": "거리 그림에서 LIBRARY 건물이 MUSEUM 건물 바로 옆에 나란히 있으므로 “It's next to the museum.”이 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u11",
+      "localId": "q34",
+      "questionId": "eng5-ybm-kim-u11:q34",
+      "before": "그림에서 남자아이가 가리키는 FLOWER SHOP은 교차로 오른쪽에 있으므로 Go straight and turn right.가 알맞습니다.",
+      "after": "그림에서 남자아이가 가리키는 FLOWER SHOP은 교차로 오른쪽에 있으므로 “Go straight and turn right.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q02",
+      "questionId": "eng5-ybm-kim-u12:q02",
+      "before": "사촌들을 방문하는 계획은 I'll visit my cousins.입니다. visit my grandparents는 조부모님 방문을 뜻합니다.",
+      "after": "사촌들을 방문하는 계획은 “I'll visit my cousins.”라고 표현합니다. visit my grandparents는 조부모님 방문을 뜻합니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q07",
+      "questionId": "eng5-ybm-kim-u12:q07",
+      "before": "미래의 계획을 물을 때는 조동사 will을 써서 What will you do this winter?라고 말합니다.",
+      "after": "미래의 계획을 물을 때는 조동사 will을 써서 “What will you do this winter?”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q10",
+      "questionId": "eng5-ybm-kim-u12:q10",
+      "before": "기대되는 마음을 표현할 때는 '기다릴 수가 없어(정말 기대돼).'라는 뜻의 I can't wait.를 씁니다.",
+      "after": "기대되는 마음을 표현할 때는 '기다릴 수가 없어(정말 기대돼).'라는 뜻의 “I can't wait.”를 씁니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q14",
+      "questionId": "eng5-ybm-kim-u12:q14",
+      "before": "조동사 will 뒤에는 동사원형(visit)이 먼저 오고 목적어(my cousins)가 이어지므로 I will visit my cousins.가 맞습니다.",
+      "after": "조동사 will 뒤에는 동사원형(visit)이 먼저 오고 목적어(my cousins)가 이어지므로 “I will visit my cousins.”가 맞습니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q16",
+      "questionId": "eng5-ybm-kim-u12:q16",
+      "before": "본문에 I'll go to college. I'll study trees and flowers.라고 나와 있으므로 대학에서 나무와 꽃을 공부하려고 합니다.",
+      "after": "본문에 “I'll go to college. I'll study trees and flowers.”라고 나와 있으므로 대학에서 나무와 꽃을 공부하려고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q24",
+      "questionId": "eng5-ybm-kim-u12:q24",
+      "before": "I can't wait.는 어떤 일이 너무 기다려지고 기대될 때 '정말 기대돼!'라고 말하는 긍정적 표현이므로 거짓입니다.",
+      "after": "“I can't wait.”는 어떤 일이 너무 기다려지고 기대될 때 '정말 기대돼!'라고 말하는 긍정적 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q30",
+      "questionId": "eng5-ybm-kim-u12:q30",
+      "before": "기대를 나타내는 표현은 I can't wait.이므로 빈칸에는 wait가 들어갑니다.",
+      "after": "기대를 나타내는 표현은 “I can't wait.”이므로 빈칸에는 wait가 들어갑니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q31",
+      "questionId": "eng5-ybm-kim-u12:q31",
+      "before": "미래의 계획을 물을 때는 조동사 will을 사용해 What will you do this winter?라고 씁니다.",
+      "after": "미래의 계획을 물을 때는 조동사 will을 사용해 “What will you do this winter?”라고 씁니다."
+    },
+    {
+      "cartridgeId": "eng5-ybm-kim-u12",
+      "localId": "q33",
+      "questionId": "eng5-ybm-kim-u12:q33",
+      "before": "I will play soccer with my friends.는 친구들과 축구를 하겠다는 계획이므로, 운동할 계획도 있다는 설명은 참입니다.",
+      "after": "“I will play soccer with my friends.”는 친구들과 축구를 하겠다는 계획이므로, 운동할 계획도 있다는 설명은 참입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "localId": "q11",
+      "questionId": "eng5-ham-u10:q11",
+      "before": "몇 시에 일어나는지 물을 때는 What time do you get up?이라고 합니다.",
+      "after": "몇 시에 일어나는지 물을 때는 “What time do you get up?”이라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u10",
+      "localId": "q25",
+      "questionId": "eng5-ham-u10:q25",
+      "before": "Really?는 예상 밖의 일과 시각 등을 듣고 놀람을 표현할 때 쓰는 자연스러운 말입니다.",
+      "after": "“Really?”는 예상 밖의 일과 시각 등을 듣고 놀람을 표현할 때 쓰는 자연스러운 말입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q11",
+      "questionId": "eng5-ham-u11:q11",
+      "before": "과목은 subject이므로 가장 좋아하는 과목을 물을 때는 What's your favorite subject?라고 합니다.",
+      "after": "과목은 subject이므로 가장 좋아하는 과목을 물을 때는 “What's your favorite subject?”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q13",
+      "questionId": "eng5-ham-u11:q13",
+      "before": "「My favorite subject + is + 과목 이름」 순서로 써서 My favorite subject is math.라고 합니다.",
+      "after": "「My favorite subject + is + 과목 이름」 순서로 써서 “My favorite subject is math.”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q15",
+      "questionId": "eng5-ham-u11:q15",
+      "before": "미술 그림이므로 My favorite subject is art.라고 답합니다.",
+      "after": "미술 그림이므로 “My favorite subject is art.”라고 답합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q16",
+      "questionId": "eng5-ham-u11:q16",
+      "before": "로봇을 만드는 것은 making robots이므로 I'm good at making robots.가 정답입니다.",
+      "after": "로봇을 만드는 것은 making robots이므로 “I'm good at making robots.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q19",
+      "questionId": "eng5-ham-u11:q19",
+      "before": "음악 연주를 잘한다고 말할 때는 I'm good at playing music.이라고 합니다.",
+      "after": "음악 연주를 잘한다고 말할 때는 “I'm good at playing music.”이라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q27",
+      "questionId": "eng5-ham-u11:q27",
+      "before": "색깔은 color, 파란색은 blue이므로 My favorite color is blue.가 정답입니다.",
+      "after": "색깔은 color, 파란색은 blue이므로 “My favorite color is blue.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u11",
+      "localId": "q28",
+      "questionId": "eng5-ham-u11:q28",
+      "before": "These are my favorite things.는 ‘이것들은 내가 가장 좋아하는 것들이야.’라는 뜻입니다.",
+      "after": "“These are my favorite things.”는 ‘이것들은 내가 가장 좋아하는 것들이야.’라는 뜻입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q08",
+      "questionId": "eng5-ham-u12:q08",
+      "before": "축구선수 그림이므로 I want to be a soccer player.가 정답입니다.",
+      "after": "축구선수 그림이므로 “I want to be a soccer player.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q11",
+      "questionId": "eng5-ham-u12:q11",
+      "before": "장래 희망을 물을 때는 What do you want to be?라고 합니다.",
+      "after": "장래 희망을 물을 때는 “What do you want to be?”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q12",
+      "questionId": "eng5-ham-u12:q12",
+      "before": "What do you want to be?는 장래 희망을 묻는 핵심 의문문입니다.",
+      "after": "“What do you want to be?”는 장래 희망을 묻는 핵심 의문문입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q14",
+      "questionId": "eng5-ham-u12:q14",
+      "before": "‘~이 되고 싶다’는 want 뒤에 to be를 붙여 I want to be a pianist.라고 합니다.",
+      "after": "‘~이 되고 싶다’는 want 뒤에 to be를 붙여 “I want to be a pianist.”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q15",
+      "questionId": "eng5-ham-u12:q15",
+      "before": "피아니스트 그림이므로 I want to be a pianist.라고 답합니다.",
+      "after": "피아니스트 그림이므로 “I want to be a pianist.”라고 답합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q19",
+      "questionId": "eng5-ham-u12:q19",
+      "before": "scientist는 자음 소리(/s/)로 시작하므로 an이 아니라 a를 써서 I want to be a scientist.라고 해야 합니다.",
+      "after": "scientist는 자음 소리(/s/)로 시작하므로 an이 아니라 a를 써서 “I want to be a scientist.”라고 해야 합니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q22",
+      "questionId": "eng5-ham-u12:q22",
+      "before": "교과서 핵심 표현은 I like + 동사-ing 형태이므로 I like playing the piano.가 정답입니다.",
+      "after": "교과서 핵심 표현은 I like + 동사-ing 형태이므로 “I like playing the piano.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng5-ham-u12",
+      "localId": "q32",
+      "questionId": "eng5-ham-u12:q32",
+      "before": "바이올리니스트가 되고 싶다고 말할 때는 I want to be a violinist.라고 합니다.",
+      "after": "바이올리니스트가 되고 싶다고 말할 때는 “I want to be a violinist.”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q01",
+      "questionId": "eng6-ybm-kim-u10:q01",
+      "before": "벚꽃과 아름다운 꽃이 핀 봄 풍경이므로 I like spring because I can see the beautiful flowers.가 정답입니다.",
+      "after": "벚꽃과 아름다운 꽃이 핀 봄 풍경이므로 “I like spring because I can see the beautiful flowers.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q02",
+      "questionId": "eng6-ybm-kim-u10:q02",
+      "before": "여름 바다에서 수영하는 그림이므로 I like summer because I can swim in the sea.가 알맞습니다.",
+      "after": "여름 바다에서 수영하는 그림이므로 “I like summer because I can swim in the sea.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q03",
+      "questionId": "eng6-ybm-kim-u10:q03",
+      "before": "알록달록한 단풍잎을 보는 가을 풍경이므로 I like autumn because I can see the colorful leaves.가 정답입니다.",
+      "after": "알록달록한 단풍잎을 보는 가을 풍경이므로 “I like autumn because I can see the colorful leaves.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q06",
+      "questionId": "eng6-ybm-kim-u10:q06",
+      "before": "좋아하는 계절을 물을 때는 What season do you like?라고 말합니다.",
+      "after": "좋아하는 계절을 물을 때는 “What season do you like?”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q08",
+      "questionId": "eng6-ybm-kim-u10:q08",
+      "before": "'캠핑을 가다'는 go camping이므로 I like autumn because I can go camping.이 정답입니다.",
+      "after": "'캠핑을 가다'는 go camping이므로 “I like autumn because I can go camping.”이 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q10",
+      "questionId": "eng6-ybm-kim-u10:q10",
+      "before": "친구가 '캠핑을 잘하는구나.'라고 칭찬해 주었을 때 '그렇게 말해 줘서 고마워.'라고 답하는 표현은 Thanks for saying that.입니다.",
+      "after": "친구가 '캠핑을 잘하는구나.'라고 칭찬해 주었을 때 '그렇게 말해 줘서 고마워.'라고 답하는 표현은 “Thanks for saying that.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q11",
+      "questionId": "eng6-ybm-kim-u10:q11",
+      "before": "전치사 for 뒤에는 동사에 -ing를 붙여 쓰므로 '도와줘서 고마워.'는 Thanks for helping me.가 됩니다.",
+      "after": "전치사 for 뒤에는 동사에 -ing를 붙여 쓰므로 '도와줘서 고마워.'는 “Thanks for helping me.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q24",
+      "questionId": "eng6-ybm-kim-u10:q24",
+      "before": "Thanks for helping me.는 '나를 도와줘서 고마워.'라는 감사 표현이므로 거짓입니다.",
+      "after": "“Thanks for helping me.”는 '나를 도와줘서 고마워.'라는 감사 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q26",
+      "questionId": "eng6-ybm-kim-u10:q26",
+      "before": "본문(p.150)에 Snow Queen was not happy with their smile.이라고 나와 있으므로 거짓입니다.",
+      "after": "본문(p.150)에 “Snow Queen was not happy with their smile.”이라고 나와 있으므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "localId": "q33",
+      "questionId": "eng6-ybm-kim-u10:q33",
+      "before": "Gerda arrived at Snow Land and met Kai again.는 Gerda가 Snow Land에서 Kai를 다시 만났다는 뜻이므로 O입니다.",
+      "after": "“Gerda arrived at Snow Land and met Kai again.”는 Gerda가 Snow Land에서 Kai를 다시 만났다는 뜻이므로 O입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q02",
+      "questionId": "eng6-ybm-kim-u11:q02",
+      "before": "턱을 괴고 한숨을 쉬며 지루해하는 모습이므로 This book looks boring.이 정답입니다.",
+      "after": "턱을 괴고 한숨을 쉬며 지루해하는 모습이므로 “This book looks boring.”이 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q03",
+      "questionId": "eng6-ybm-kim-u11:q03",
+      "before": "햇살이 가득하고 조명이 켜져 환한 방이므로 This room looks bright.가 정답입니다.",
+      "after": "햇살이 가득하고 조명이 켜져 환한 방이므로 “This room looks bright.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q08",
+      "questionId": "eng6-ybm-kim-u11:q08",
+      "before": "상대방의 의견이나 동의 여부를 물을 때는 What do you think?라고 말합니다.",
+      "after": "상대방의 의견이나 동의 여부를 물을 때는 “What do you think?”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q09",
+      "questionId": "eng6-ybm-kim-u11:q09",
+      "before": "상대방 의견에 동의할 때는 '나도 그렇게 생각해.'라는 뜻의 I think so, too.라고 답합니다.",
+      "after": "상대방 의견에 동의할 때는 '나도 그렇게 생각해.'라는 뜻의 “I think so, too.”라고 답합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q10",
+      "questionId": "eng6-ybm-kim-u11:q10",
+      "before": "A가 빵이 딱딱해 보인다(hard)고 했고 B가 I don't think so.라고 반대했으므로 반대 뜻인 soft를 써서 I think it looks soft.가 알맞습니다.",
+      "after": "A가 빵이 딱딱해 보인다(hard)고 했고 B가 “I don't think so.”라고 반대했으므로 반대 뜻인 soft를 써서 “I think it looks soft.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q14",
+      "questionId": "eng6-ybm-kim-u11:q14",
+      "before": "I think 뒤에 주어(it) + 동사(looks) + 형용사(bright) 순서로 배열해 I think it looks bright.가 됩니다.",
+      "after": "I think 뒤에 주어(it) + 동사(looks) + 형용사(bright) 순서로 배열해 “I think it looks bright.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q24",
+      "questionId": "eng6-ybm-kim-u11:q24",
+      "before": "I don't think so.는 '나는 그렇게 생각하지 않아.'라는 반대 표현이며, 동의할 때는 I think so, too.를 쓰므로 거짓입니다.",
+      "after": "“I don't think so.”는 '나는 그렇게 생각하지 않아.'라는 반대 표현이며, 동의할 때는 “I think so, too.”를 쓰므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q27",
+      "questionId": "eng6-ybm-kim-u11:q27",
+      "before": "본문(p.164)에 There is no right or wrong answer. What do you think?이라고 나와 있으므로 참입니다.",
+      "after": "본문(p.164)에 “There is no right or wrong answer. What do you think?”이라고 나와 있으므로 참입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q29",
+      "questionId": "eng6-ybm-kim-u11:q29",
+      "before": "책을 흥미롭게 읽는 모습을 보고 This book looks interesting.이라고 표현할 수 있습니다. 첫 글자 i와 그림을 함께 보고 알맞은 단어를 판단합니다.",
+      "after": "책을 흥미롭게 읽는 모습을 보고 “This book looks interesting.”이라고 표현할 수 있습니다. 첫 글자 i와 그림을 함께 보고 알맞은 단어를 판단합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q30",
+      "questionId": "eng6-ybm-kim-u11:q30",
+      "before": "'나도 그렇게 생각해.'는 I think so, too.이므로 빈칸에는 think가 들어갑니다.",
+      "after": "'나도 그렇게 생각해.'는 “I think so, too.”이므로 빈칸에는 think가 들어갑니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q33",
+      "questionId": "eng6-ybm-kim-u11:q33",
+      "before": "Animals need to live in quiet places.라는 문장이 제시되어 있으므로 글쓴이의 생각을 바르게 이해한 진술입니다. 정답은 O입니다.",
+      "after": "“Animals need to live in quiet places.”라는 문장이 제시되어 있으므로 글쓴이의 생각을 바르게 이해한 진술입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "localId": "q34",
+      "questionId": "eng6-ybm-kim-u11:q34",
+      "before": "They are bad for my health.는 비디오 게임에 반대하는 쪽의 근거로 제시되어 있습니다. 찬성 의견이라는 진술은 X입니다.",
+      "after": "“They are bad for my health.”는 비디오 게임에 반대하는 쪽의 근거로 제시되어 있습니다. 찬성 의견이라는 진술은 X입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q08",
+      "questionId": "eng6-ybm-kim-u12:q08",
+      "before": "Do you ~?로 물었고 뒤에 한옥을 정확히 설명했으므로 긍정 응답인 Yes, I do.가 알맞습니다.",
+      "after": "“Do you ~?”로 물었고 뒤에 한옥을 정확히 설명했으므로 긍정 응답인 “Yes, I do.”가 알맞습니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q09",
+      "questionId": "eng6-ybm-kim-u12:q09",
+      "before": "어떤 것에 대해 전혀 모른다고 표현할 때는 No, I don't. 뒤에 I have no idea.를 이어 말합니다.",
+      "after": "어떤 것에 대해 전혀 모른다고 표현할 때는 “No, I don't.” 뒤에 “I have no idea.”를 이어 말합니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q14",
+      "questionId": "eng6-ybm-kim-u12:q14",
+      "before": "관사(a) + traditional + Korean + 명사(house) 순서로 배열해 It is a traditional Korean house.가 됩니다.",
+      "after": "관사(a) + traditional + Korean + 명사(house) 순서로 배열해 “It is a traditional Korean house.”가 됩니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q21",
+      "questionId": "eng6-ybm-kim-u12:q21",
+      "before": "B는 한옥(hanok) 질문에는 Yes, I do.라고 답했고, 지게(jige) 질문에는 No, I don't. I have no idea.라고 답했습니다.",
+      "after": "B는 한옥(hanok) 질문에는 “Yes, I do.”라고 답했고, 지게(jige) 질문에는 “No, I don't. I have no idea.”라고 답했습니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q24",
+      "questionId": "eng6-ybm-kim-u12:q24",
+      "before": "I have no idea.는 '전혀 모르겠어.'라고 모름을 나타내는 표현이므로 거짓입니다.",
+      "after": "“I have no idea.”는 '전혀 모르겠어.'라고 모름을 나타내는 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q27",
+      "questionId": "eng6-ybm-kim-u12:q27",
+      "before": "본문(p.179)에 Just stand in front of Cloud Gate. You can see yourself and the city around you.라고 나와 있으므로 참입니다.",
+      "after": "본문(p.179)에 “Just stand in front of Cloud Gate. You can see yourself and the city around you.”라고 나와 있으므로 참입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q30",
+      "questionId": "eng6-ybm-kim-u12:q30",
+      "before": "'전혀 모르겠어.'는 I have no idea.이므로 빈칸에는 idea가 들어갑니다.",
+      "after": "'전혀 모르겠어.'는 “I have no idea.”이므로 빈칸에는 idea가 들어갑니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q33",
+      "questionId": "eng6-ybm-kim-u12:q33",
+      "before": "Puppy is bigger than a house. It is colorful and it cannot move.라는 내용과 일치하므로 O입니다.",
+      "after": "“Puppy is bigger than a house. It is colorful and it cannot move.”라는 내용과 일치하므로 O입니다."
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "localId": "q34",
+      "questionId": "eng6-ybm-kim-u12:q34",
+      "before": "I see.는 상대방의 설명을 듣고 '알겠어, 그렇구나.'라고 이해했음을 나타낼 때 쓰는 표현이므로 거짓입니다.",
+      "after": "“I see.”는 상대방의 설명을 듣고 '알겠어, 그렇구나.'라고 이해했음을 나타낼 때 쓰는 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q15",
+      "questionId": "eng6-ham-u10:q15",
+      "before": "화·목·토 총 3회 표시되어 있으므로 I exercise three times a week.입니다.",
+      "after": "화·목·토 총 3회 표시되어 있으므로 “I exercise three times a week.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q16",
+      "questionId": "eng6-ham-u10:q16",
+      "before": "월~금 총 5회 표시되어 있으므로 I go to the library five times a week.입니다.",
+      "after": "월~금 총 5회 표시되어 있으므로 “I go to the library five times a week.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q24",
+      "questionId": "eng6-ham-u10:q24",
+      "before": "조언하며 ‘~해야 한다’고 말할 때는 조동사 should를 써서 You should exercise more often.이라고 합니다.",
+      "after": "조언하며 ‘~해야 한다’고 말할 때는 조동사 should를 써서 “You should exercise more often.”이라고 합니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q27",
+      "questionId": "eng6-ham-u10:q27",
+      "before": "That's not good for you.는 ‘그건 너에게 좋지 않아.’라는 뜻으로 건강하지 않은 습관을 지적할 때 씁니다.",
+      "after": "“That's not good for you.”는 ‘그건 너에게 좋지 않아.’라는 뜻으로 건강하지 않은 습관을 지적할 때 씁니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q28",
+      "questionId": "eng6-ham-u10:q28",
+      "before": "Old habits die hard.는 오래된 습관은 쉽게 고치기 어렵다는 뜻으로 ‘세 살 버릇 여든까지 간다.’와 같습니다.",
+      "after": "“Old habits die hard.”는 오래된 습관은 쉽게 고치기 어렵다는 뜻으로 ‘세 살 버릇 여든까지 간다.’와 같습니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "localId": "q35",
+      "questionId": "eng6-ham-u10:q35",
+      "before": "채소를 먹지 않는다는 부정적 습관(don't eat vegetables)에는 칭찬(Good for you.)이 아니라 That's not good for you.로 답하는 것이 자연스럽습니다.",
+      "after": "채소를 먹지 않는다는 부정적 습관(don't eat vegetables)에는 칭찬(Good for you.)이 아니라 “That's not good for you.”로 답하는 것이 자연스럽습니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q12",
+      "questionId": "eng6-ham-u11:q12",
+      "before": "Do you ~?로 물었으므로 부정 대답은 No, I don't.로 조동사를 일치시켜야 합니다.",
+      "after": "“Do you ~?”로 물었으므로 부정 대답은 “No, I don't.”로 조동사를 일치시켜야 합니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q13",
+      "questionId": "eng6-ham-u11:q13",
+      "before": "Do you ~?에 대한 긍정 대답은 Yes, I do.입니다.",
+      "after": "“Do you ~?”에 대한 긍정 대답은 “Yes, I do.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q14",
+      "questionId": "eng6-ham-u11:q14",
+      "before": "전혀 모르고 있음을 표현할 때는 I have no idea.라고 말합니다.",
+      "after": "전혀 모르고 있음을 표현할 때는 “I have no idea.”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q16",
+      "questionId": "eng6-ham-u11:q16",
+      "before": "단수(1개)이므로 It's와 a Korean cookie로 수를 일치시켜 It's a Korean cookie.라고 씁니다.",
+      "after": "단수(1개)이므로 It's와 a Korean cookie로 수를 일치시켜 “It's a Korean cookie.”라고 씁니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q18",
+      "questionId": "eng6-ham-u11:q18",
+      "before": "복수이므로 They are Australian toys.라고 말합니다.",
+      "after": "복수이므로 “They are Australian toys.”라고 말합니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q21",
+      "questionId": "eng6-ham-u11:q21",
+      "before": "‘그것들은’은 복수 They are, ‘아름다운’은 beautiful이므로 They are very beautiful.이 정답입니다.",
+      "after": "‘그것들은’은 복수 They are, ‘아름다운’은 beautiful이므로 “They are very beautiful.”이 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q25",
+      "questionId": "eng6-ham-u11:q25",
+      "before": "바른 어순은 They help people at hospitals.입니다.",
+      "after": "바른 어순은 “They help people at hospitals.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "localId": "q34",
+      "questionId": "eng6-ham-u11:q34",
+      "before": "I have no idea.는 '전혀 모르겠어.'라는 뜻으로, 알지 못할 때 쓰는 표현이므로 거짓입니다.",
+      "after": "“I have no idea.”는 '전혀 모르겠어.'라는 뜻으로, 알지 못할 때 쓰는 표현이므로 거짓입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q15",
+      "questionId": "eng6-ham-u12:q15",
+      "before": "Did you ~?에 대한 부정 대답은 No, I didn't.입니다.",
+      "after": "“Did you ~?”에 대한 부정 대답은 “No, I didn't.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q16",
+      "questionId": "eng6-ham-u12:q16",
+      "before": "Did you ~?에 대한 긍정 대답은 Yes, I did.입니다.",
+      "after": "“Did you ~?”에 대한 긍정 대답은 “Yes, I did.”입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q17",
+      "questionId": "eng6-ham-u12:q17",
+      "before": "Did 뒤에는 동사원형 paint를 써야 하므로 Did you paint the wall?이 바른 문장입니다.",
+      "after": "Did 뒤에는 동사원형 paint를 써야 하므로 “Did you paint the wall?”이 바른 문장입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q19",
+      "questionId": "eng6-ham-u12:q19",
+      "before": "미나가 과거에 사진을 찍었으므로 과거형 took을 써서 Mina took pictures.라고 합니다.",
+      "after": "미나가 과거에 사진을 찍었으므로 과거형 took을 써서 “Mina took pictures.”라고 합니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q20",
+      "questionId": "eng6-ham-u12:q20",
+      "before": "Mina took pictures.가 정답입니다.",
+      "after": "“Mina took pictures.”가 정답입니다."
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "localId": "q25",
+      "questionId": "eng6-ham-u12:q25",
+      "before": "새집은 에이미가 만들었으므로 하나는 No, I didn't.라고 답하고 Amy made a nice birdhouse.라고 과거형으로 설명합니다.",
+      "after": "새집은 에이미가 만들었으므로 하나는 “No, I didn't.”라고 답하고 “Amy made a nice birdhouse.”라고 과거형으로 설명합니다."
+    }
+  ]
+}
