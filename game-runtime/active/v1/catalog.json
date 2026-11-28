@@ -2,7 +2,7 @@
  "schemaVersion": "hoja-active-cartridge-catalog-v1",
  "sourceRepo": "xkdtndbrwk111-prog/HOJA-QUESTION-BANK",
  "sourceCommit": "43df08f9a1edebb0ff4ed8c7c651cba005bb2f3c",
- "deploymentId": "HOJA15-REMOTE-29-20261127-R1",
+ "deploymentId": "HOJA15-REMOTE-29-20261127-R2",
  "entries": [
   {
    "cartridgeId": "eng5-ham-u10",
@@ -402,7 +402,7 @@
   },
   {
    "cartridgeId": "sci5-s2-heat-common",
-   "title": "초등학교 5학년 2학기 과학 열과 우리 생활 (3종 공통)",
+   "title": "열과 우리 생활",
    "subject": "science",
    "subjectLabel": "과학",
    "grade": 5,
@@ -420,7 +420,7 @@
   },
   {
    "cartridgeId": "sci5-s2-u4-common",
-   "title": "초등학교 5학년 2학기 과학 4단원 자원과 에너지 (3종 공통)",
+   "title": "자원과 에너지",
    "subject": "science",
    "subjectLabel": "과학",
    "grade": 5,
