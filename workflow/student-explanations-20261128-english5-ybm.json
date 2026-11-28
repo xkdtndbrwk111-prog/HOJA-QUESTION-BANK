@@ -139,7 +139,7 @@
           "localId": "q22",
           "questionId": "eng5-ybm-kim-u10:q22",
           "before": "p.155 문화 자료에 따르면 핀란드에서는 양파우유를, 오스트레일리아에서는 벌꿀 넣은 뜨거운 레몬차를 민간 감기 치료법으로 소개합니다.",
-          "after": "글에 소개된 민간요법 중 오스트레일리아에서는 벌꿀을 넣은 따뜻한 레몬차를 마셔요."
+          "after": "글에 소개된 민간요법 중 오스트레일리아에서는 벌꿀을 넣은 뜨거운 레몬차를 마셔요."
         },
         {
           "localId": "q24",
@@ -211,7 +211,7 @@
           "localId": "q03",
           "questionId": "eng5-ybm-kim-u11:q03",
           "before": "go straight는 '똑바로 가다', turn left는 '왼쪽으로 돌다', turn right는 '오른쪽으로 돌다'입니다.",
-          "after": "“turn left”는 왼쪽으로 돌다, “turn right”는 오른쪽으로 돌다라는 뜻이에요."
+          "after": "“turn left”는 ‘왼쪽으로 돌다’, “turn right”는 ‘오른쪽으로 돌다’라는 뜻이에요."
         },
         {
           "localId": "q04",
@@ -421,13 +421,13 @@
           "localId": "q04",
           "questionId": "eng5-ybm-kim-u12:q04",
           "before": "read history books는 '역사책을 읽다'이므로 전통 궁궐과 왕관을 떠올리며 책을 읽는 그림이 정답입니다.",
-          "after": "“read history books”는 역사책을 읽다라는 뜻이에요."
+          "after": "“read history books”는 ‘역사책을 읽다’라는 뜻이에요."
         },
         {
           "localId": "q05",
           "questionId": "eng5-ybm-kim-u12:q05",
           "before": "study math는 '수학을 공부하다'이므로 책상에서 도형·자·공책으로 공부하는 그림이 정답입니다.",
-          "after": "“study math”는 수학을 공부하다라는 뜻이에요."
+          "after": "“study math”는 ‘수학을 공부하다’라는 뜻이에요."
         },
         {
           "localId": "q06",
@@ -469,7 +469,7 @@
           "localId": "q12",
           "questionId": "eng5-ybm-kim-u12:q12",
           "before": "take violin lessons는 '바이올린 수업을 듣다', go skating은 '스케이트 타러 가다', visit my grandparents는 '조부모님을 방문하다'입니다.",
-          "after": "“take violin lessons”는 바이올린 수업을 듣다라는 뜻이에요."
+          "after": "“take violin lessons”는 ‘바이올린 수업을 듣다’라는 뜻이에요."
         },
         {
           "localId": "q13",
