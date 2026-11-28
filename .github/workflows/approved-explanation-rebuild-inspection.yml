@@ -12,6 +12,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+      - name: Check explanation correspondence
+        run: python3 tools/inspect_explanation_rebuild.py
       - name: Inspect source archive structures
         run: |
           python3 - <<'PY'
