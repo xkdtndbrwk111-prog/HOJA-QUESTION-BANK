@@ -78,7 +78,13 @@ for p in sorted(R.glob('approved/**/manifest.json')):
     m=read(p)
     if 'social' in p.parts:continue
     if 'approvedData' in m:
-        q=p.parent/m['approvedData'];write(q,patch(read(q),'explanation',source_seen))
+        q=p.parent/m['approvedData'];original=read(q)
+        for folder,count in m['unitCounts'].items():
+            unitfile=p.parent/folder/'questions.json'; prior=read(unitfile)
+            assert prior==[x for x in original if x['unit']==folder] and len(prior)==count
+        updated=patch(original,'explanation',source_seen);write(q,updated)
+        for folder,count in m['unitCounts'].items():
+            write(p.parent/folder/'questions.json',[x for x in updated if x['unit']==folder])
         h=p.parent/m['approvedPresentation'];h.write_bytes(html(h.read_bytes()))
         m['approvedDataSHA256']=sha(q.read_bytes())
         m['approvedPresentationSHA256']=sha(h.read_bytes())
