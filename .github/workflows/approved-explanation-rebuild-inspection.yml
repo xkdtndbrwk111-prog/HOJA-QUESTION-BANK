@@ -1,0 +1,33 @@
+name: Inspect approved explanation rebuild inputs
+on:
+  push:
+    branches: [work/approved-explanation-rebuild-20261128]
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Inspect source archive structures
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, zipfile, io
+          for p in pathlib.Path('approved').rglob('manifest.json'):
+              m=json.loads(p.read_text())
+              if 'archive' not in m or 'social' in p.parts: continue
+              with zipfile.ZipFile(p.parent/m['archive']) as z:
+                  print(str(p), [(n, z.getinfo(n).file_size) for n in z.namelist() if n.endswith('.json') or n.endswith('.zip')][:35])
+                  for n in z.namelist():
+                      if n in ('effective/cartridge.json','release/approval.json','effective/version.json','release/file-manifest.json','release/FILES_SHA256.json','SHA256SUMS.json'):
+                          j=json.loads(z.read(n))
+                          print(n, list(j)[:15])
+                          if n=='effective/cartridge.json': print('question fields:', list(j['questions'][0]))
+                      if n.endswith('.zip'):
+                          with zipfile.ZipFile(io.BytesIO(z.read(n))) as inner:
+                              print('nested', n, [x for x in inner.namelist() if x.endswith('.json')][:15])
+                          break
+          PY
