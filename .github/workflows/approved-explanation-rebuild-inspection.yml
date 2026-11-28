@@ -1,70 +1,64 @@
-name: Rebuild teacher-approved explanation sources and runtime
+name: Verify rebuilt HOJA explanation release
 on:
   push:
     branches: [work/approved-explanation-rebuild-20261128]
 permissions:
-  contents: write
+  contents: read
 jobs:
-  rebuild:
+  verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-      - name: Rebuild exact approved source and runtime packages
-        shell: bash
+          repository: xkdtndbrwk111-prog/HOJA-QUESTION-BANK
+          ref: 13f30c0c83591159c6879df216014c73d6469bfa
+          path: qbank-runtime
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          repository: xkdtndbrwk111-prog/HOJA-QUESTION-BANK
+          ref: 3573717a8af4a224f62bf51061267da8ce73632d
+          path: qbank-source
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          repository: xkdtndbrwk111-prog/SMQ-Project-A
+          ref: 6bb90c3bdf7a44822962b7ba36f6f5d41c7646b4
+          path: smq
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild and verify new source and package pins
         run: |
           set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git fetch origin main
-          test "$(git rev-parse origin/main)" = 865bfae4d9ae12d067a09b1e7ae00474f89a15f0
-          cp tools/apply_approved_explanations_20261128.py "$RUNNER_TEMP/apply.py"
-          git worktree add --detach "$RUNNER_TEMP/qbank" origin/main
-          cd "$RUNNER_TEMP/qbank"
-          python3 "$RUNNER_TEMP/apply.py"
-          python3 tools/verify_handoff.py
-          git add approved tools/verify_handoff.py workflow/state.json
-          git diff --cached --stat
-          git commit -m 'Apply teacher-approved explanations to canonical sources (738 questions)'
-          git clone --no-tags https://github.com/xkdtndbrwk111-prog/SMQ-Project-A.git "$RUNNER_TEMP/smq"
-          git -C "$RUNNER_TEMP/smq" checkout --detach 6bb90c3bdf7a44822962b7ba36f6f5d41c7646b4
-          builder="$RUNNER_TEMP/smq/experimental/usage-v4-unified/approved-catalog"
-          node "$builder/build_approved_index.mjs" --qbank "$PWD"
-          node "$builder/build_content_packages.mjs" --qbank "$PWD" --packages-out "$RUNNER_TEMP/packages"
-          python3 - <<'PY'
-          import json, pathlib, os, hashlib
-          old=pathlib.Path('game-runtime/approved-packages/v1')
-          new=pathlib.Path(os.environ['RUNNER_TEMP'])/'packages'/old
-          edits={}
-          a=json.loads(pathlib.Path('workflow/student-explanations-20261128-teacher-approval.json').read_text())
-          for p in a['candidateFiles']:
-              for u in json.loads(pathlib.Path(p).read_text())['units']:
-                  for e in u['edits']: edits[e['questionId']]=e
-          assert len(edits)==738
-          ix=json.loads((new/'INDEX.json').read_text())
-          assert len(ix['packages'])==29
-          assert set(p.name for p in old.glob('*.json'))==set(p.name for p in new.glob('*.json'))
-          count=changed=0
-          for i in ix['packages']:
-              p=pathlib.Path(i['path']).name
-              b=(new/p).read_bytes()
-              assert hashlib.sha256(b).hexdigest()==i['sha256'] and len(b)==i['bytes']
-              x=json.loads((old/p).read_bytes()); y=json.loads(b)
-              assert len(x['questions'])==len(y['questions'])
-              count+=len(x['questions'])
-              for q in x['questions']:
-                  e=edits.get(q['rendererQuestion']['questionId'])
-                  if e:
-                      assert all(v==e['before'] for v in (q['explanation'],q['rendererQuestion']['explanation'],q['originalQuestion']['explanation']))
-                      q['explanation']=q['rendererQuestion']['explanation']=q['originalQuestion']['explanation']=e['after']; changed+=1
-              assert x==y,('UNEXPECTED_RUNTIME_CHANGE',p)
-          assert count==899 and changed==738
-          print('RUNTIME_EXACT_DIFF_PASS',count,changed)
-          PY
-          cp "$RUNNER_TEMP/packages/game-runtime/approved-packages/v1/"*.json game-runtime/approved-packages/v1/
-          git add game-runtime/approved-packages/v1
-          git commit -m 'Regenerate all 29 immutable runtime packages; exact 738 explanation diff'
-          git push origin HEAD:refs/heads/work/teacher-approved-explanations-source-runtime-20261128
-          echo "SOURCE AND RUNTIME BRANCH PUSHED"
+          P=smq/experimental/usage-v4-unified/approved-catalog
+          node "$P/build_approved_index.mjs" --qbank qbank-source
+          node "$P/build_content_packages.mjs" --qbank qbank-source --packages-out "$RUNNER_TEMP/rebuilt"
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';import crypto from 'node:crypto';import assert from 'node:assert/strict';
+          const dir='smq/experimental/usage-v4-unified/approved-catalog/';
+          const idx=JSON.parse(fs.readFileSync(dir+'generated/approved-source-index.json'));
+          const report=JSON.parse(fs.readFileSync(dir+'generated/approved-content-report.json'));
+          const ix='game-runtime/approved-packages/v1/INDEX.json';
+          const p=JSON.parse(fs.readFileSync('qbank-runtime/'+ix));
+          assert.deepEqual(p,JSON.parse(fs.readFileSync(process.env.RUNNER_TEMP+'/rebuilt/'+ix)));
+          assert.equal(idx.approvalUnits,29);assert.equal(idx.approvalQuestions,899);
+          const manifest=JSON.parse(fs.readFileSync(dir+'deployment/hoja15-remote-release.json'));
+          const byId=new Map(idx.entries.map(e=>[e.cartridgeId,e]));
+          assert.equal(manifest.entries.length,29);
+          const units=p.packages.map(e=>{
+            const b=fs.readFileSync('qbank-runtime/'+e.path);assert.equal(crypto.createHash('sha256').update(b).digest('hex'),e.sha256);assert.deepEqual(b,fs.readFileSync(process.env.RUNNER_TEMP+'/rebuilt/'+e.path));
+            const d=JSON.parse(b);return {id:e.cartridgeId,payload:{questions:d.questions.map(q=>q.rendererQuestion),originalQuestions:d.questions.map(q=>q.originalQuestion),images:d.images,tags:d.tags,unitMeta:d.unitMeta}};
+          });
+          assert.equal(units.reduce((s,u)=>s+u.payload.questions.length,0),899);
+          console.log('SOURCE_PIN_SET '+JSON.stringify({sourceCommit:idx.sourceCommit,entries:idx.entries.map(e=>({cartridgeId:e.cartridgeId,effectiveSha256:e.effectiveSha256,mediaRights:e.mediaRights.status,questions:e.questionCount}))}));
+          fs.writeFileSync(process.env.RUNNER_TEMP+'/payloads.json',JSON.stringify(units));
+          JS
+          node smq/experimental/unified-quiz-renderer/compose_renderer.mjs "$RUNNER_TEMP/composed.html"
+      - name: Run existing four-viewport render gate
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+          python3 smq/experimental/usage-v4-unified/verify_f1b_render.py "$RUNNER_TEMP/payloads.json" "$RUNNER_TEMP/composed.html"
