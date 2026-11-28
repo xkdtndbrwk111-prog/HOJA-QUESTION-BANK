@@ -13,7 +13,7 @@
           "localId": "q01",
           "questionId": "eng5-ham-u10:q01",
           "before": "아침에 잠에서 일어나는 일과는 영어로 get up이라고 합니다.",
-          "after": "“get up”은 잠자리에서 일어나다라는 뜻이에요."
+          "after": "“get up”은 ‘잠자리에서 일어나다’라는 뜻이에요."
         },
         {
           "localId": "q02",
@@ -25,19 +25,19 @@
           "localId": "q03",
           "questionId": "eng5-ham-u10:q03",
           "before": "아침 식사를 하는 일과는 영어로 eat breakfast입니다.",
-          "after": "“eat breakfast”는 아침을 먹다라는 뜻이에요."
+          "after": "“eat breakfast”는 ‘아침을 먹다’라는 뜻이에요."
         },
         {
           "localId": "q04",
           "questionId": "eng5-ham-u10:q04",
           "before": "학교에 가는 일과는 영어로 go to school입니다.",
-          "after": "“go to school”은 학교에 가다라는 뜻이에요."
+          "after": "“go to school”은 ‘학교에 가다’라는 뜻이에요."
         },
         {
           "localId": "q05",
           "questionId": "eng5-ham-u10:q05",
           "before": "come home은 ‘집에 오다’라는 뜻이므로 집으로 돌아오는 그림이 정답입니다.",
-          "after": "“come home”은 집에 오다라는 뜻이에요. 집으로 돌아오는 그림을 고르면 돼요."
+          "after": "“come home”은 ‘집에 오다’라는 뜻이에요. 집으로 돌아오는 그림이 알맞아요."
         },
         {
           "localId": "q06",
@@ -49,7 +49,7 @@
           "localId": "q07",
           "questionId": "eng5-ham-u10:q07",
           "before": "study English는 ‘영어를 공부하다’라는 뜻이므로 A, B, C 영어 책과 공책으로 공부하는 그림이 알맞습니다.",
-          "after": "“study English”는 영어를 공부하다라는 뜻이에요."
+          "after": "“study English”는 ‘영어를 공부하다’라는 뜻이에요."
         },
         {
           "localId": "q08",
@@ -85,7 +85,7 @@
           "localId": "q13",
           "questionId": "eng5-ham-u10:q13",
           "before": "come home은 ‘집에 오다’이므로 몇 시에 집에 오는지 묻는 말입니다.",
-          "after": "“come home”은 집에 오다라는 뜻이에요. 몇 시에 집에 오는지를 묻는 말이에요."
+          "after": "“come home”은 ‘집에 오다’라는 뜻이에요. 몇 시에 집에 오는지를 묻는 말이에요."
         },
         {
           "localId": "q14",
@@ -109,7 +109,7 @@
           "localId": "q18",
           "questionId": "eng5-ham-u10:q18",
           "before": "go to school은 ‘학교에 가다’이므로 몇 시에 등교하는지 묻고 8시 30분에 등교한다고 답하는 대화와 일치합니다.",
-          "after": "“go to school”은 학교에 가다라는 뜻이에요. 대화에서는 8시 30분에 간다고 답해요."
+          "after": "“go to school”은 ‘학교에 가다’라는 뜻이에요. 대화에서는 8시 30분에 간다고 답해요."
         },
         {
           "localId": "q19",
@@ -133,7 +133,7 @@
           "localId": "q22",
           "questionId": "eng5-ham-u10:q22",
           "before": "밤 침실에서 잠든 모습(go to bed)과 벽시계가 9시 40분(9:40)을 가리키므로 문장과 정확히 일치합니다.",
-          "after": "“go to bed”는 잠자리에 들다라는 뜻이고, 시계는 9시 40분을 가리켜요."
+          "after": "“go to bed”는 ‘잠자리에 들다’라는 뜻이고, 시계는 9시 40분을 가리켜요."
         },
         {
           "localId": "q24",
@@ -151,7 +151,7 @@
           "localId": "q26",
           "questionId": "eng5-ham-u10:q26",
           "before": "in the morning은 아침에, in the afternoon은 오후에, in the evening은 저녁에라는 뜻입니다.",
-          "after": "“in the afternoon”은 오후에라는 뜻이에요. “in the morning”은 아침에, “in the evening”은 저녁에예요."
+          "after": "“in the afternoon”은 ‘오후에’라는 뜻이에요. 아침에는 “in the morning”, 저녁에는 “in the evening”이라고 해요."
         },
         {
           "localId": "q27",
@@ -223,7 +223,7 @@
           "localId": "q39",
           "questionId": "eng5-ham-u10:q39",
           "before": "‘잠자리에 들다’는 go to bed이므로 ‘나는 10시에 잠자리에 들어.’는 I go to bed at 10.입니다.",
-          "after": "“go to bed”는 잠자리에 들다라는 뜻이에요. “I go to bed at 10.”이라고 말해요."
+          "after": "“go to bed”는 ‘잠자리에 들다’라는 뜻이에요. “I go to bed at 10.”이라고 말해요."
         }
       ]
     },
@@ -301,7 +301,7 @@
           "localId": "q12",
           "questionId": "eng5-ham-u11:q12",
           "before": "‘가장 좋아하는’을 뜻하는 단어는 favorite입니다.",
-          "after": "“favorite”은 가장 좋아하는이라는 뜻이에요."
+          "after": "“favorite”은 ‘가장 좋아하는’이라는 뜻이에요."
         },
         {
           "localId": "q13",
