@@ -140,7 +140,7 @@ for p in sorted(R.glob('approved/**/manifest.json')):
     if 'science' in p.parts:science_hash[m['id']]=(sha(oldraw),sha(new))
     print('REBUILT',str(p),m[hashkey])
 assert source_seen==collections.Counter({k:1 for k in edits}),source_seen
-assert all(view_seen[k]==(1 if '-ham-' in k else 2) for k in edits),view_seen
+assert all(view_seen[k]==(1 if '-ham-' in k else 4 if k.startswith('sci5-') else 2) for k in edits),collections.Counter(view_seen.values())
 p=R/'approved/math/manifest.json';m=read(p)
 for u in m['units']:u['sha256']=math_hash[u['id']]
 m['reviewerSha256']=external[R/m['reviewer']][1];mark(m);write(p,m)
