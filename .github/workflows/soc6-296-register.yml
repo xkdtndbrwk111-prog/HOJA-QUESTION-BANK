@@ -1,0 +1,78 @@
+name: Register 296 teacher-approved social questions
+on:
+  push:
+    branches: [work/soc6-296-approved-20261128]
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Reconstruct approved source and regenerate immutable packages
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = fc232952d3b68166586769f61e9e7dad7223c8ed
+          git worktree add --detach "$RUNNER_TEMP/qbank" origin/main
+          mkdir -p "$RUNNER_TEMP/qbank/workflow/soc6-296-input"
+          cp workflow/soc6-296-input/*.js "$RUNNER_TEMP/qbank/workflow/soc6-296-input/"
+          cp tools/register_soc6_296_20261128.py "$RUNNER_TEMP/qbank/tools/"
+          cd "$RUNNER_TEMP/qbank"
+          python3 tools/register_soc6_296_20261128.py
+          python3 tools/verify_handoff.py
+          git add approved workflow tools/register_soc6_296_20261128.py
+          git diff --cached --stat
+          git commit -m 'Register five teacher-approved grade 6 social units, 296 questions'
+          git clone --no-tags https://github.com/xkdtndbrwk111-prog/SMQ-Project-A.git "$RUNNER_TEMP/smq"
+          git -C "$RUNNER_TEMP/smq" checkout --detach fdf15cb2611c26053285e20d261a5847d81adcd5
+          P="$RUNNER_TEMP/smq/experimental/usage-v4-unified/approved-catalog"
+          node "$P/build_approved_index.mjs" --qbank "$PWD"
+          node "$P/build_content_packages.mjs" --qbank "$PWD" --packages-out "$RUNNER_TEMP/packages"
+          python3 - <<'PY'
+          import json,pathlib,os,hashlib,zipfile
+          old=pathlib.Path('game-runtime/approved-packages/v1')
+          new=pathlib.Path(os.environ['RUNNER_TEMP'])/'packages'/old
+          ix=json.loads((new/'INDEX.json').read_text())
+          prior=json.loads((old/'INDEX.json').read_text())
+          assert len(ix['packages'])==34 and len(prior['packages'])==29
+          for e in prior['packages']:
+              name=pathlib.Path(e['path']).name
+              assert (old/name).read_bytes()==(new/name).read_bytes(),('old runtime drift',name)
+          report=json.loads(pathlib.Path('workflow/soc6-296-approval-report.json').read_text())
+          count=0
+          for e in ix['packages']:
+              name=pathlib.Path(e['path']).name;b=(new/name).read_bytes()
+              assert hashlib.sha256(b).hexdigest()==e['sha256'] and len(b)==e['bytes']
+              j=json.loads(b);count+=len(j['questions'])
+              if (old/name).exists():continue
+              a=next(x for x in report['units'] if x['id']==e['cartridgeId'])
+              assert len(j['questions'])==a['questions']
+              p=pathlib.Path('approved/social/grade6/semester2')/a['id']
+              m=json.loads((p/'manifest.json').read_text())
+              with zipfile.ZipFile(p/m['archive']) as z:
+                  cart=json.loads(z.read('effective/cartridge.json'))
+                  for q,c in zip(j['questions'],cart['questions']):
+                      r=q['rendererQuestion']
+                      assert r['questionId']==c['questionId'] and r['answer']==c['answer'] and r['explanation']==c['explanation']==q['explanation']
+                      assert r['prompt']==c['content'][0]['text'] and r['group']==c.get('groupId')
+                      if r.get('image'):
+                          assert j['tags'][r['id']]['layout']['preferredLayout']=='C'
+                          assert j['tags'][r['id']]['layout']['rendererHint']=='split'
+          assert count==1195
+          print('RUNTIME_INVENTORY_AND_OLD_BYTES_PASS 34 1195 29_UNCHANGED')
+          PY
+          cp "$RUNNER_TEMP/packages/game-runtime/approved-packages/v1/"*.json game-runtime/approved-packages/v1/
+          git add game-runtime/approved-packages/v1
+          git commit -m 'Generate immutable 34-unit runtime, preserving all previous 29 package bytes'
+          git push origin HEAD:refs/heads/work/soc6-296-source-runtime-20261128
+          echo "SOC6_SOURCE_RUNTIME_BRANCH_PUSHED"
