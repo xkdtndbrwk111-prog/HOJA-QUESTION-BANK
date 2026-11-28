@@ -1,0 +1,621 @@
+{
+  "schemaVersion": "hoja-explanation-edit-candidate-v1",
+  "status": "CANDIDATE_NOT_PUBLISHED",
+  "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "scope": "explanation only",
+  "reviewed": 99,
+  "units": [
+    {
+      "cartridgeId": "eng6-ham-u10",
+      "reviewed": 33,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ham-u10:q01",
+          "before": "양치질하는 습관은 영어로 brush my teeth입니다.",
+          "after": "이를 닦는 것은 영어로 “brush my teeth”라고 해요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ham-u10:q02",
+          "before": "이를 닦는 행동은 brush my teeth / brush your teeth입니다.",
+          "after": "내 이를 닦는다는 뜻의 표현은 “brush my teeth”예요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ham-u10:q03",
+          "before": "비누로 손을 씻는 습관은 wash my hands입니다.",
+          "after": "손을 씻는 것은 영어로 “wash my hands”라고 해요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ham-u10:q04",
+          "before": "채소를 먹는 습관은 eat vegetables입니다.",
+          "after": "“eat vegetables”는 채소를 먹는다는 뜻이에요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ham-u10:q05",
+          "before": "go to the library는 ‘도서관에 가다’이므로 도서관으로 가는 그림이 정답입니다.",
+          "after": "“go to the library”는 도서관에 간다는 뜻이에요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ham-u10:q06",
+          "before": "drink water는 ‘물을 마시다’이므로 물을 마시는 그림이 정답입니다.",
+          "after": "“I drink water every day.”는 매일 물을 마신다는 뜻이에요."
+        },
+        {
+          "localId": "q07",
+          "questionId": "eng6-ham-u10:q07",
+          "before": "줄넘기 등 운동을 하는 활동은 영어로 exercise이므로 참입니다.",
+          "after": "줄넘기처럼 운동하는 활동은 영어로 “exercise”라고 해요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ham-u10:q08",
+          "before": "‘운동하다’의 바른 철자는 e-x-e-r-c-i-s-e(exercise)입니다.",
+          "after": "운동하다는 영어로 “exercise”라고 써요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ham-u10:q09",
+          "before": "이를 닦다는 brush my teeth, 손을 씻다는 wash my hands입니다.",
+          "after": "이를 닦을 때는 “brush”, 손을 씻을 때는 “wash”를 써요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ham-u10:q10",
+          "before": "얼마나 자주 하는지 빈도를 물을 때는 How often do you ~?를 씁니다.",
+          "after": "얼마나 자주 채소를 먹는지 물을 때는 “How often do you eat vegetables?”라고 해요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ham-u10:q11",
+          "before": "빈도를 묻는 의문 표현은 How often입니다.",
+          "after": "“How often”은 얼마나 자주라는 뜻으로, 어떤 일을 하는 횟수를 물을 때 써요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ham-u10:q12",
+          "before": "twice는 두 번, a day는 하루에를 뜻하므로 twice a day는 ‘하루에 두 번’입니다.",
+          "after": "“twice”는 두 번, “a day”는 하루를 기준으로 한다는 뜻이에요. “twice a day”는 하루에 두 번이에요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ham-u10:q13",
+          "before": "일주일 중 수요일 1번만 표시되어 있으므로 once a week(일주일에 한 번)입니다.",
+          "after": "수요일에만 운동했으므로 “once a week”, 즉 일주일에 한 번이에요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ham-u10:q14",
+          "before": "기록표에 수요일 1회만 표시되어 있으므로 once a week(I exercise once a week.)가 정답입니다.",
+          "after": "일주일 동안 한 번 운동했으므로 “once a week”라고 답해요."
+        },
+        {
+          "localId": "q15",
+          "questionId": "eng6-ham-u10:q15",
+          "before": "화·목·토 총 3회 표시되어 있으므로 I exercise three times a week.입니다.",
+          "after": "화요일, 목요일, 토요일에 운동했으므로 “three times a week”예요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ham-u10:q16",
+          "before": "월~금 총 5회 표시되어 있으므로 I go to the library five times a week.입니다.",
+          "after": "월요일부터 금요일까지 다섯 번 도서관에 갔으므로 “five times a week”라고 해요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ham-u10:q18",
+          "before": "3회 이상은 「기수 + times + a + 기간」 형태로 써서 three times a day라고 합니다.",
+          "after": "하루에 세 번은 “three times a day”라고 해요. 세 번 이상은 숫자 뒤에 “times”를 붙여요."
+        },
+        {
+          "localId": "q19",
+          "questionId": "eng6-ham-u10:q19",
+          "before": "주어가 I이므로 ‘나의 손’을 뜻하는 소유격 my를 써서 I wash my hands라고 답합니다.",
+          "after": "“I”가 주어이므로 나의 손을 나타내는 “my hands”를 써요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ham-u10:q20",
+          "before": "I가 주어이므로 소유격 my가 들어갑니다.",
+          "after": "주어가 “I”일 때 나의 것을 나타내는 말은 “my”예요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ham-u10:q21",
+          "before": "「주어(I) + 동사(exercise) + 횟수(four times) + 기간(a week)」 순서로 씁니다.",
+          "after": "“I exercise four times a week.”는 일주일에 네 번 운동한다는 뜻이에요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ham-u10:q22",
+          "before": "좋은 습관을 듣고 칭찬할 때는 Good for you.(잘했어 / 대단해)라고 말합니다.",
+          "after": "“Good for you.”는 좋은 습관이나 행동을 칭찬할 때 쓰는 표현이에요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ham-u10:q24",
+          "before": "조언하며 ‘~해야 한다’고 말할 때는 조동사 should를 써서 You should exercise more often.이라고 합니다.",
+          "after": "“should”는 ‘~해야 한다’라는 뜻이에요. 더 자주 운동하라는 조언에 알맞아요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ham-u10:q27",
+          "before": "That's not good for you.는 ‘그건 너에게 좋지 않아.’라는 뜻으로 건강하지 않은 습관을 지적할 때 씁니다.",
+          "after": "“That's not good for you.”는 ‘그건 너에게 좋지 않아.’라는 뜻이에요."
+        },
+        {
+          "localId": "q28",
+          "questionId": "eng6-ham-u10:q28",
+          "before": "Old habits die hard.는 오래된 습관은 쉽게 고치기 어렵다는 뜻으로 ‘세 살 버릇 여든까지 간다.’와 같습니다.",
+          "after": "“Old habits die hard.”는 오래된 습관은 고치기 어렵다는 뜻이에요. ‘세 살 버릇 여든까지 간다’와 비슷해요."
+        },
+        {
+          "localId": "q29",
+          "questionId": "eng6-ham-u10:q29",
+          "before": "Dr. Smith는 \"You should eat vegetables every day.\"라고 조언했으므로 c3가 일치합니다.",
+          "after": "“You should eat vegetables every day.”는 매일 채소를 먹어야 한다는 조언이에요."
+        },
+        {
+          "localId": "q30",
+          "questionId": "eng6-ham-u10:q30",
+          "before": "\"But I exercise once a week. That's not good for me.\"에서 일주일에 한 번만 운동하는 습관을 고쳐야 함을 알 수 있습니다.",
+          "after": "민수는 일주일에 한 번만 운동한다고 했어요. 운동을 더 자주 해야 한다고 생각해요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ham-u10:q31",
+          "before": "\"I should exercise more often.\"에서 더 자주 해야 하는 활동은 운동입니다.",
+          "after": "“I should exercise more often.”은 더 자주 운동해야 한다는 뜻이에요."
+        },
+        {
+          "localId": "q32",
+          "questionId": "eng6-ham-u10:q32",
+          "before": "대화에서 'I eat fresh fruit and vegetables every day.'와 'I drink water often.'이라고 모두 말했으므로 c2가 정확히 일치합니다.",
+          "after": "주민은 신선한 과일과 채소를 매일 먹고 물도 자주 마신다고 했어요."
+        },
+        {
+          "localId": "q34",
+          "questionId": "eng6-ham-u10:q34",
+          "before": "월요일부터 금요일까지 5일만 표시되어 있으므로 every day(매일)가 아니라 five times a week입니다.",
+          "after": "월요일부터 금요일까지 다섯 번이므로 “every day”가 아니라 “five times a week”예요."
+        },
+        {
+          "localId": "q35",
+          "questionId": "eng6-ham-u10:q35",
+          "before": "채소를 먹지 않는다는 부정적 습관(don't eat vegetables)에는 칭찬(Good for you.)이 아니라 That's not good for you.로 답하는 것이 자연스럽습니다.",
+          "after": "채소를 먹지 않는 습관에는 “Good for you.”보다 “That's not good for you.”라는 말이 알맞아요."
+        },
+        {
+          "localId": "q36",
+          "questionId": "eng6-ham-u10:q36",
+          "before": "글에서 매일(every day) 하는 일은 물 마시기이고, 일주일에 세 번(three times a week) 하는 일은 운동이므로 활동과 빈도가 바뀌어 거짓입니다.",
+          "after": "소희는 물을 매일 마시고 운동은 일주일에 세 번 한다고 했어요."
+        },
+        {
+          "localId": "q37",
+          "questionId": "eng6-ham-u10:q37",
+          "before": "B는 'You should drink water more often.'이라고 했으므로 물을 더 자주 마셔야 한다는 조언입니다.",
+          "after": "“You should drink water more often.”은 물을 더 자주 마셔야 한다는 뜻이에요."
+        },
+        {
+          "localId": "q38",
+          "questionId": "eng6-ham-u10:q38",
+          "before": "B가 'You should drink water more often.'이라고 조언했으므로 더 자주 해야 할 행동은 물 마시기입니다.",
+          "after": "“drink water more often”은 물을 더 자주 마시라는 뜻이에요."
+        }
+      ]
+    },
+    {
+      "cartridgeId": "eng6-ham-u11",
+      "reviewed": 33,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ham-u11:q01",
+          "before": "투호(Tuho)는 한국의 전통 놀이이므로 a Korean game입니다.",
+          "after": "투호는 한국의 전통 놀이이므로 “a Korean game”이라고 해요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ham-u11:q02",
+          "before": "투호는 a Korean game으로 설명합니다.",
+          "after": "투호는 한국의 전통 놀이예요. 영어로 “a Korean game”이라고 설명해요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ham-u11:q03",
+          "before": "약과(yakgwa)는 한국의 전통 과자이므로 a Korean cookie입니다.",
+          "after": "약과는 한국의 전통 과자이므로 “a Korean cookie”라고 해요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ham-u11:q04",
+          "before": "농라(nón lá)는 베트남의 전통 모자이므로 a Vietnamese hat입니다.",
+          "after": "농라는 베트남의 전통 모자이므로 “a Vietnamese hat”이라고 해요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ham-u11:q05",
+          "before": "부메랑(boomerangs)은 호주의 전통 장난감(Australian toys)입니다.",
+          "after": "“Australian toys”는 호주의 장난감이라는 뜻이에요. 그림 속 부메랑이 알맞아요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ham-u11:q06",
+          "before": "African drums는 아프리카 전통 북(젬베)을 뜻합니다.",
+          "after": "“African drums”는 아프리카의 북이라는 뜻이에요. 그림 속 젬베가 이에 해당해요."
+        },
+        {
+          "localId": "q07",
+          "questionId": "eng6-ham-u11:q07",
+          "before": "인도의 전통 의상 사리(saris)는 영어로 Indian dresses라고 설명합니다.",
+          "after": "사리는 인도의 전통 의상이에요. “Indian dresses”라고 설명할 수 있어요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ham-u11:q08",
+          "before": "국가·지역에서 유래한 형용사는 고유 형용사이므로 항상 첫 글자를 대문자로 씁니다.",
+          "after": "나라나 지역에서 나온 말인 “Korean”, “Vietnamese” 등은 문장 중간에서도 첫 글자를 대문자로 써요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ham-u11:q09",
+          "before": "베트남 모자는 a Vietnamese hat, 인도 드레스는 Indian dresses입니다.",
+          "after": "베트남 모자는 “a Vietnamese hat”, 인도의 옷은 “Indian dresses”라고 해요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ham-u11:q10",
+          "before": "어떤 것에 대해 알고 있는지 물을 때는 Do you know anything about ~?라고 합니다.",
+          "after": "투호에 대해 아는 것이 있는지 묻는 말은 “Do you know anything about Tuho?”예요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ham-u11:q11",
+          "before": "‘~에 대해’를 뜻하는 전치사 about을 써서 Do you know anything about ~?라고 합니다.",
+          "after": "‘~에 대해’라는 뜻의 “about”을 써요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ham-u11:q12",
+          "before": "Do you ~?로 물었으므로 부정 대답은 No, I don't.로 조동사를 일치시켜야 합니다.",
+          "after": "“Do you ~?”라고 물었을 때 아니라고 답하면 “No, I don't.”라고 해요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ham-u11:q13",
+          "before": "Do you ~?에 대한 긍정 대답은 Yes, I do.입니다.",
+          "after": "“Do you ~?”라는 질문에 알고 있다고 답할 때는 “Yes, I do.”라고 해요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ham-u11:q14",
+          "before": "전혀 모르고 있음을 표현할 때는 I have no idea.라고 말합니다.",
+          "after": "“I have no idea.”는 ‘전혀 모르겠어.’라는 뜻이에요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ham-u11:q16",
+          "before": "단수(1개)이므로 It's와 a Korean cookie로 수를 일치시켜 It's a Korean cookie.라고 씁니다.",
+          "after": "약과 한 개를 설명하므로 “It's a Korean cookie.”라고 해요."
+        },
+        {
+          "localId": "q17",
+          "questionId": "eng6-ham-u11:q17",
+          "before": "부메랑이 2개(복수)이므로 They're(They are)와 복수명사 Australian toys로 수를 일치시킵니다.",
+          "after": "부메랑이 두 개이므로 “They're Australian toys.”처럼 복수 표현을 써요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ham-u11:q18",
+          "before": "복수이므로 They are Australian toys.라고 말합니다.",
+          "after": "여러 개를 설명할 때는 “They are Australian toys.”라고 해요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ham-u11:q20",
+          "before": "tasty는 음식의 맛을 묘사하는 형용사로 ‘맛있는’이라는 뜻입니다.",
+          "after": "“tasty”는 음식이 맛있다는 뜻이에요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ham-u11:q21",
+          "before": "‘그것들은’은 복수 They are, ‘아름다운’은 beautiful이므로 They are very beautiful.이 정답입니다.",
+          "after": "여러 개를 가리키는 “They are” 뒤에 아름답다는 뜻의 “very beautiful”을 써요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ham-u11:q22",
+          "before": "\"They tell fun stories to children, too.\"에서 아이들에게 재미있는 이야기를 들려준다는 사실을 알 수 있습니다.",
+          "after": "“They tell fun stories to children, too.”에서 로봇이 아이들에게 재미있는 이야기를 들려준다는 것을 알 수 있어요."
+        },
+        {
+          "localId": "q23",
+          "questionId": "eng6-ham-u11:q23",
+          "before": "글에는 청소(clean the house), 요리(cook), 음식 전달(bring food to sick people)이 언급되었으며 이야기를 쓴다(write stories)는 내용은 없습니다.",
+          "after": "글에는 청소, 요리, 병원에서 사람을 돕는 일이 나와요. 이야기를 직접 쓰는 일은 나오지 않아요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ham-u11:q24",
+          "before": "「주어(They) + 동사(help) + 목적어(people) + 장소(at hospitals)」 어순으로 씁니다.",
+          "after": "“They help people at hospitals.”는 그들이 병원에서 사람들을 돕는다는 뜻이에요."
+        },
+        {
+          "localId": "q25",
+          "questionId": "eng6-ham-u11:q25",
+          "before": "바른 어순은 They help people at hospitals.입니다.",
+          "after": "“They help people at hospitals.”처럼 누가 무엇을 하는지 말한 뒤 장소를 나타내요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ham-u11:q27",
+          "before": "clever는 ‘영리한, 똑똑한’이라는 뜻의 형용사입니다.",
+          "after": "“clever”는 ‘영리한’, ‘똑똑한’이라는 뜻이에요."
+        },
+        {
+          "localId": "q28",
+          "questionId": "eng6-ham-u11:q28",
+          "before": "글에서 약과는 \"It's very tasty.\"(맛있다), 젬베는 \"They are very fun.\"(재미있다)이라고 직접 밝혔습니다.",
+          "after": "약과는 “It's very tasty.”라고 했고, 젬베는 “They are very fun.”이라고 했어요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ham-u11:q31",
+          "before": "B는 \"I have no idea.\"(전혀 모름)라고 답했고, A는 \"It's an English game.\"(영국 놀이)이라고 설명했습니다.",
+          "after": "B는 “I have no idea.”라고 하며 모른다고 답했고, A는 영국 놀이(an English game)라고 설명했어요."
+        },
+        {
+          "localId": "q32",
+          "questionId": "eng6-ham-u11:q32",
+          "before": "English가 모음 소리(/ɪ/)로 시작하고 단수 명사 game이므로 an English game이 문법적으로 바릅니다.",
+          "after": "“English”는 모음 소리로 시작하므로 앞에 “an”을 써요."
+        },
+        {
+          "localId": "q33",
+          "questionId": "eng6-ham-u11:q33",
+          "before": "B가 \"No, I don't.\"로 모른다고 답하고 A가 \"It's a Vietnamese hat.\"으로 설명했으므로 참입니다.",
+          "after": "B는 “No, I don't.”라고 답했고 A는 베트남 모자라고 설명했어요."
+        },
+        {
+          "localId": "q34",
+          "questionId": "eng6-ham-u11:q34",
+          "before": "I have no idea.는 '전혀 모르겠어.'라는 뜻으로, 알지 못할 때 쓰는 표현이므로 거짓입니다.",
+          "after": "“I have no idea.”는 잘 알고 있다는 말이 아니라 전혀 모른다는 뜻이에요."
+        },
+        {
+          "localId": "q35",
+          "questionId": "eng6-ham-u11:q35",
+          "before": "여러 개(복수 명사 African drums)를 설명할 때는 It's가 아니라 They're(They are)를 써야 하므로 거짓입니다.",
+          "after": "여러 개의 북을 설명할 때는 “It's”가 아니라 “They're African drums.”라고 해요."
+        },
+        {
+          "localId": "q36",
+          "questionId": "eng6-ham-u11:q36",
+          "before": "글에서 로봇은 농구(basketball)를 하고 집을 청소한다(clean the house)고 했으므로 축구와 요리라는 설명은 거짓입니다.",
+          "after": "글에서 로봇은 농구를 하고 집을 청소한다고 했어요. 축구와 요리를 한다는 내용은 없어요."
+        },
+        {
+          "localId": "q37",
+          "questionId": "eng6-ham-u11:q37",
+          "before": "대화에서 'It's an African game. People play it with small stones.'라고 했으므로 작은 돌을 이용해 즐기는 아프리카 놀이입니다.",
+          "after": "대화에서는 mancala를 작은 돌을 사용하는 아프리카의 전통 놀이라고 설명해요."
+        },
+        {
+          "localId": "q38",
+          "questionId": "eng6-ham-u11:q38",
+          "before": "'People play it with small stones.'에서 작은 돌을 사용한다는 것을 알 수 있습니다.",
+          "after": "“small stones”는 작은 돌이라는 뜻이에요."
+        }
+      ]
+    },
+    {
+      "cartridgeId": "eng6-ham-u12",
+      "reviewed": 33,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ham-u12:q01",
+          "before": "거리를 청소한 일은 과거형으로 cleaned the street입니다.",
+          "after": "거리를 청소한 일은 과거형으로 “cleaned the street”라고 해요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ham-u12:q02",
+          "before": "거리를 청소한 일은 cleaned the street입니다.",
+          "after": "“cleaned the street”는 거리를 청소했다는 뜻이에요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ham-u12:q03",
+          "before": "퀴즈 대회에서 우승한 일은 won the quiz입니다.",
+          "after": "“won the quiz”는 퀴즈 대회에서 우승했다는 뜻이에요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ham-u12:q04",
+          "before": "벽에 그림을 그린 일은 painted the wall입니다.",
+          "after": "“painted the wall”은 벽을 칠하거나 벽에 그림을 그렸다는 뜻이에요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ham-u12:q05",
+          "before": "made a class album은 ‘학급 앨범을 만들었다’이므로 사진을 붙여 앨범을 만드는 그림이 정답입니다.",
+          "after": "“made a class album”은 학급 앨범을 만들었다는 뜻이에요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ham-u12:q06",
+          "before": "took pictures는 ‘사진을 찍었다’이므로 카메라로 사진을 찍는 그림이 정답입니다.",
+          "after": "“took pictures”는 사진을 찍었다는 뜻이에요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ham-u12:q08",
+          "before": "win은 불규칙 동사로 과거형이 won입니다.",
+          "after": "“win”의 과거형은 “won”이에요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ham-u12:q09",
+          "before": "write의 과거형은 불규칙 변화하여 wrote입니다.",
+          "after": "“write”의 과거형은 “wrote”예요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ham-u12:q10",
+          "before": "make의 과거형은 made, take의 과거형은 took입니다.",
+          "after": "“make”의 과거형은 “made”, “take”의 과거형은 “took”이에요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ham-u12:q11",
+          "before": "take의 과거형은 took입니다.",
+          "after": "사진을 찍다는 “take pictures”, 찍었다는 “took pictures”라고 해요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ham-u12:q12",
+          "before": "clean과 paint는 규칙 변화 동사로 -ed를 붙여 cleaned, painted로 씁니다.",
+          "after": "“clean”과 “paint”에 ed를 붙여 “cleaned”, “painted”로 나타내요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ham-u12:q13",
+          "before": "과거 의문문 Did you 뒤에는 과거형이 아니라 반드시 동사원형(take)을 써야 합니다.",
+          "after": "“Did you” 뒤에는 과거형이 아닌 동사의 기본형을 써요. 여기서는 “take”가 알맞아요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ham-u12:q14",
+          "before": "일반동사(win)의 과거 의문문은 문장 맨 앞에 Did를 씁니다.",
+          "after": "과거에 한 일을 물을 때는 문장 앞에 “Did”를 써요."
+        },
+        {
+          "localId": "q15",
+          "questionId": "eng6-ham-u12:q15",
+          "before": "Did you ~?에 대한 부정 대답은 No, I didn't.입니다.",
+          "after": "“Did you ~?”라고 물었을 때 아니라고 답하면 “No, I didn't.”라고 해요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ham-u12:q16",
+          "before": "Did you ~?에 대한 긍정 대답은 Yes, I did.입니다.",
+          "after": "“Did you ~?”라는 질문에 그렇다고 답할 때는 “Yes, I did.”라고 해요."
+        },
+        {
+          "localId": "q17",
+          "questionId": "eng6-ham-u12:q17",
+          "before": "Did 뒤에는 동사원형 paint를 써야 하므로 Did you paint the wall?이 바른 문장입니다.",
+          "after": "“Did” 뒤에는 동사의 기본형 “paint”를 써야 해요. “Did you paint the wall?”이 바른 문장이에요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ham-u12:q18",
+          "before": "남동생은 My brother, 거리를 청소했다(과거)는 cleaned the street입니다.",
+          "after": "“My brother cleaned the street.”는 내 남동생이 거리를 청소했다는 뜻이에요."
+        },
+        {
+          "localId": "q19",
+          "questionId": "eng6-ham-u12:q19",
+          "before": "미나가 과거에 사진을 찍었으므로 과거형 took을 써서 Mina took pictures.라고 합니다.",
+          "after": "어제 사진을 찍은 일이므로 “take”의 과거형 “took”을 써요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ham-u12:q20",
+          "before": "Mina took pictures.가 정답입니다.",
+          "after": "“Mina took pictures.”는 미나가 사진을 찍었다는 뜻이에요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ham-u12:q21",
+          "before": "‘우리는’은 We, ‘공부했다’는 studied, ‘놀았다’는 played, ‘함께’는 together입니다.",
+          "after": "“studied”는 공부했다, “played”는 놀았다, “together”는 함께라는 뜻이에요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ham-u12:q22",
+          "before": "forget은 ‘잊다’, beautiful times는 ‘아름다운 시간들’이므로 c1이 정답입니다.",
+          "after": "“can't forget”은 ‘잊을 수 없다’라는 뜻이에요. “beautiful times”는 아름다운 시간들을 말해요."
+        },
+        {
+          "localId": "q23",
+          "questionId": "eng6-ham-u12:q23",
+          "before": "wish good luck to ~는 ‘~에게 행운을 빌다’라는 뜻이므로 참입니다.",
+          "after": "“wish good luck to ~”는 누군가에게 행운을 빈다는 뜻이에요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ham-u12:q24",
+          "before": "\"Uju cleaned the park at the Earth Festival.\"에서 우주가 지구의 날 축제에서 공원을 청소했음을 알 수 있습니다.",
+          "after": "“Uju cleaned the park at the Earth Festival.”은 우주가 지구의 날 축제에서 공원을 청소했다는 뜻이에요."
+        },
+        {
+          "localId": "q25",
+          "questionId": "eng6-ham-u12:q25",
+          "before": "새집은 에이미가 만들었으므로 하나는 No, I didn't.라고 답하고 Amy made a nice birdhouse.라고 과거형으로 설명합니다.",
+          "after": "새집을 만든 사람은 에이미예요. 하나는 “No, I didn't.”라고 답해요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ham-u12:q27",
+          "before": "\"3. We cleaned the park together.\"에서 함께 공원을 청소했음을 알 수 있습니다.",
+          "after": "“We cleaned the park together.”에서 함께 공원을 청소했음을 알 수 있어요."
+        },
+        {
+          "localId": "q28",
+          "questionId": "eng6-ham-u12:q28",
+          "before": "생일 케이크를 만들었다는 과거 사실이므로 make의 과거형 made가 알맞습니다.",
+          "after": "케이크를 만든 것은 과거의 일이므로 “make”의 과거형 “made”를 써요."
+        },
+        {
+          "localId": "q29",
+          "questionId": "eng6-ham-u12:q29",
+          "before": "소년은 쿠키를 친구가 만들었다(\"My friend made the cookies.\")고 했고, 작가의 책을 읽었다(\"Yes, I did.\")고 답했으므로 c2가 일치합니다.",
+          "after": "소년은 친구가 쿠키를 만들었다고 했고 작가의 책을 읽었다고 답했어요."
+        },
+        {
+          "localId": "q30",
+          "questionId": "eng6-ham-u12:q30",
+          "before": "\"I always read your books in my bed.\"에서 침대에서 읽는다는 것을 알 수 있습니다.",
+          "after": "“I always read your books in my bed.”는 항상 침대에서 책을 읽는다는 뜻이에요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ham-u12:q31",
+          "before": "in my bed는 침대에서라는 뜻입니다.",
+          "after": "“in my bed”는 내 침대에서라는 뜻이에요."
+        },
+        {
+          "localId": "q32",
+          "questionId": "eng6-ham-u12:q32",
+          "before": "「주어(She) + 과거동사(made) + 목적어(a class album)」 어순으로 씁니다.",
+          "after": "“She made a class album.”은 그녀가 학급 앨범을 만들었다는 뜻이에요."
+        },
+        {
+          "localId": "q34",
+          "questionId": "eng6-ham-u12:q34",
+          "before": "write는 불규칙 동사이므로 writed가 아니라 wrote를 써서 'She wrote a book.'이라고 말해야 합니다.",
+          "after": "“write”의 과거형은 “writed”가 아니라 “wrote”예요. “She wrote a book.”이라고 해요."
+        },
+        {
+          "localId": "q35",
+          "questionId": "eng6-ham-u12:q35",
+          "before": "글에서 멋진 새집을 만든 사람은 에이미(Amy)이고, 멋진 사진을 찍은 사람은 모한과 톰(Mohan and Tom)이므로 인물과 활동이 바뀌어 거짓입니다.",
+          "after": "새집을 만든 사람은 에이미이고 사진을 찍은 사람은 모한과 톰이에요."
+        },
+        {
+          "localId": "q36",
+          "questionId": "eng6-ham-u12:q36",
+          "before": "'Amy made a nice birdhouse.'에서 에이미가 멋진 새집을 만들었다는 것을 알 수 있습니다.",
+          "after": "“Amy made a nice birdhouse.”는 에이미가 멋진 새집을 만들었다는 뜻이에요."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "hoja-explanation-review-report-v1",
+  "status": "CANDIDATE_NOT_PUBLISHED",
+  "activeGeneration": 2,
+  "activeCatalogCommit": "d60d9f50446d22261ac4a2ba4be81a4819b045d1",
+  "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "scope": "All current non-social runtime units; no changes to social or other fields",
+  "reviewedUnits": 24,
+  "reviewedQuestions": 738,
+  "changedQuestions": 738,
+  "exactOriginalExplanationFieldsMatched": 2214,
+  "avgBefore": 65.6,
+  "avgAfter": 47.1,
+  "stats": [
+    {
+      "name": "math",
+      "units": 6,
+      "questions": 187,
+      "beforeChars": 12588,
+      "afterChars": 8929,
+      "maxAfter": 88,
+      "sourceFieldsMatched": 561,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "science",
+      "units": 2,
+      "questions": 64,
+      "beforeChars": 5489,
+      "afterChars": 3287,
+      "maxAfter": 72,
+      "sourceFieldsMatched": 192,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "korean",
+      "units": 4,
+      "questions": 103,
+      "beforeChars": 6789,
+      "afterChars": 4390,
+      "maxAfter": 68,
+      "sourceFieldsMatched": 309,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "english5-ham",
+      "units": 3,
+      "questions": 102,
+      "beforeChars": 5594,
+      "afterChars": 4817,
+      "maxAfter": 100,
+      "sourceFieldsMatched": 306,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "english5-ybm",
+      "units": 3,
+      "questions": 92,
+      "beforeChars": 5852,
+      "afterChars": 4169,
+      "maxAfter": 80,
+      "sourceFieldsMatched": 276,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "english6-ham",
+      "units": 3,
+      "questions": 99,
+      "beforeChars": 5467,
+      "afterChars": 4648,
+      "maxAfter": 81,
+      "sourceFieldsMatched": 297,
+      "applyRestore": "PASS"
+    },
+    {
+      "name": "english6-ybm",
+      "units": 3,
+      "questions": 91,
+      "beforeChars": 6612,
+      "afterChars": 4508,
+      "maxAfter": 89,
+      "sourceFieldsMatched": 273,
+      "applyRestore": "PASS"
+    }
+  ],
+  "checks": {
+    "inventoryAndUniqueIDs": "PASS",
+    "allThreeExplanationFields": "PASS",
+    "applyAndRestoreFullPackageObject": "PASS",
+    "noUnwantedFormalEndingsOrInternalSourceReferences": "PASS",
+    "independentTextbookSourceAndImageReview": "NOT_RUN",
+    "actualGameRenderer": "NOT_RUN",
+    "canonicalApprovedSourceAndRuntimeRegeneration": "NOT_RUN",
+    "productionPublication": "NOT_PUBLISHED"
+  },
+  "notes": [
+    "Manual question, answer and explanation text review of all 738 pinned runtime questions; no independent textbook-page or image-pixel revalidation.",
+    "Earlier candidate PRs #9 #10 #11 overlap with this comprehensive candidate; do not combine blindly. Prior teacher-confirmed mom q21/q27 retained.",
+    "All changes are candidate records only. Source ZIPs and active runtime remain untouched; regenerate and verify approved source/runtime and obtain release approval before protected publication."
+  ]
+}

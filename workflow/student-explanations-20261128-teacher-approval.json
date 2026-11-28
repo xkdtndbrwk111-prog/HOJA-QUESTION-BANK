@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "hoja-teacher-explanation-approval-v1",
+  "approvalDate": "2026-11-28",
+  "teacherApproval": "APPROVED",
+  "approvalEvidence": "Teacher explicitly directed all reviewed non-social explanations to be registered as canonical: 전부 정본으로 올려",
+  "scope": "Explanation text only; 24 cartridges, 738 questions; all other data unchanged",
+  "approvedCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41",
+  "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "candidateFiles": [
+    "workflow/student-explanations-20261128-math.json",
+    "workflow/student-explanations-20261128-science.json",
+    "workflow/student-explanations-20261128-korean.json",
+    "workflow/student-explanations-20261128-english5-ham.json",
+    "workflow/student-explanations-20261128-english5-ybm.json",
+    "workflow/student-explanations-20261128-english6-ham.json",
+    "workflow/student-explanations-20261128-english6-ybm.json"
+  ],
+  "validationReport": "workflow/student-explanations-20261128-report.json",
+  "canonicalArchiveStatus": "PENDING_REBUILD",
+  "runtimeStatus": "NOT_PUBLISHED",
+  "publicationGate": "Preserve all existing release controls, rights statuses and original media. Rebuild approved source and runtime packages and verify before activating a new generation. Do not combine superseded overlapping proposals #9 #10 #11."
+}

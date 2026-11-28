@@ -1,0 +1,573 @@
+{
+  "schemaVersion": "hoja-explanation-edit-candidate-v1",
+  "status": "CANDIDATE_NOT_PUBLISHED",
+  "baseRuntimeCommit": "8d809453fc9470aefa74c4ad9f7357574f918e5c",
+  "scope": "explanation only",
+  "reviewed": 91,
+  "units": [
+    {
+      "cartridgeId": "eng6-ybm-kim-u10",
+      "reviewed": 30,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ybm-kim-u10:q01",
+          "before": "벚꽃과 아름다운 꽃이 핀 봄 풍경이므로 I like spring because I can see the beautiful flowers.가 정답입니다.",
+          "after": "그림에는 아름다운 꽃이 핀 봄 풍경이 나와요. “I like spring because I can see the beautiful flowers.”라고 말해요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ybm-kim-u10:q02",
+          "before": "여름 바다에서 수영하는 그림이므로 I like summer because I can swim in the sea.가 알맞습니다.",
+          "after": "여름에는 바다에서 수영할 수 있어요. “I like summer because I can swim in the sea.”가 알맞아요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ybm-kim-u10:q03",
+          "before": "알록달록한 단풍잎을 보는 가을 풍경이므로 I like autumn because I can see the colorful leaves.가 정답입니다.",
+          "after": "가을의 알록달록한 단풍잎은 “colorful leaves”라고 해요. 단풍을 볼 수 있어서 가을을 좋아한다는 문장이 알맞아요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ybm-kim-u10:q04",
+          "before": "winter는 겨울, play in the snow는 '눈 속에서 놀다'이므로 눈사람을 만드는 그림이 정답입니다.",
+          "after": "“winter”는 겨울, “play in the snow”는 눈 속에서 노는 것을 뜻해요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ybm-kim-u10:q05",
+          "before": "spring은 봄, see the beautiful flowers는 '아름다운 꽃을 보다'이므로 봄꽃이 핀 공원 그림이 정답입니다.",
+          "after": "“spring”은 봄이에요. 아름다운 꽃이 핀 그림이 문장과 잘 어울려요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ybm-kim-u10:q06",
+          "before": "좋아하는 계절을 물을 때는 What season do you like?라고 말합니다.",
+          "after": "좋아하는 계절을 묻는 말은 “What season do you like?”예요."
+        },
+        {
+          "localId": "q07",
+          "questionId": "eng6-ybm-kim-u10:q07",
+          "before": "'~이기 때문에'라는 이유를 연결할 때는 접속사 because를 씁니다(p.152 Build Language).",
+          "after": "이유를 말할 때는 ‘~이기 때문에’라는 뜻의 “because”를 써요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ybm-kim-u10:q08",
+          "before": "'캠핑을 가다'는 go camping이므로 I like autumn because I can go camping.이 정답입니다.",
+          "after": "캠핑을 가는 것은 영어로 “go camping”이라고 해요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ybm-kim-u10:q09",
+          "before": "p.152 Build Language에 제시된 대로 봄(spring)을 좋아하는 이유로 '날씨가 따뜻하고 화창해서(the weather is warm and sunny)'가 가장 자연스럽습니다.",
+          "after": "“the weather is warm and sunny”는 날씨가 따뜻하고 화창하다는 뜻이에요. 봄을 좋아하는 이유와 잘 어울려요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ybm-kim-u10:q10",
+          "before": "친구가 '캠핑을 잘하는구나.'라고 칭찬해 주었을 때 '그렇게 말해 줘서 고마워.'라고 답하는 표현은 Thanks for saying that.입니다.",
+          "after": "“Thanks for saying that.”은 ‘그렇게 말해 줘서 고마워.’라는 뜻이에요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ybm-kim-u10:q11",
+          "before": "전치사 for 뒤에는 동사에 -ing를 붙여 쓰므로 '도와줘서 고마워.'는 Thanks for helping me.가 됩니다.",
+          "after": "“Thanks for” 뒤에 동작을 나타낼 때는 “helping”처럼 동사에 ing를 붙여요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ybm-kim-u10:q12",
+          "before": "p.149 Sounds 'I like spring because the birds sing in the morning. Everything sounds great.'에서 spring, sing, morning, everything은 모두 -ing로 끝나지만 season은 아닙니다.",
+          "after": "“spring”, “sing”, “morning”은 ing로 끝나지만 “season”은 그렇지 않아요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ybm-kim-u10:q13",
+          "before": "'가을'은 끝에 묵음 n이 들어간 a-u-t-u-m-n(autumn)으로 씁니다.",
+          "after": "가을은 영어로 “autumn”이라고 써요. 마지막 n은 발음하지 않아요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ybm-kim-u10:q14",
+          "before": "이유 접속사 because 뒤에 주어(I) + 조동사(can) + 동사구(play in the snow) 순서로 배열합니다.",
+          "after": "“because” 뒤에는 이유를 나타내는 문장 “I can play in the snow”가 와요."
+        },
+        {
+          "localId": "q15",
+          "questionId": "eng6-ybm-kim-u10:q15",
+          "before": "기억을 잃기 전 Kai는 I like summer because I can swim in the sea.(바다에서 수영할 수 있어서 여름을 좋아해.)라고 말했습니다.",
+          "after": "Kai는 바다에서 수영할 수 있어서 여름을 좋아한다고 했어요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ybm-kim-u10:q16",
+          "before": "본문에 She took away Kai's memory.(기억을 빼앗았다.)와 Snow Queen took Kai to Snow Land.(Snow Land로 데려갔다.)라고 나와 있습니다.",
+          "after": "눈의 여왕은 Kai의 기억을 빼앗고 그를 Snow Land로 데려갔어요."
+        },
+        {
+          "localId": "q17",
+          "questionId": "eng6-ybm-kim-u10:q17",
+          "before": "본문(p.151)에서 기억이 돌아온 Kai는 자신을 구해 준 Gerda에게 Thanks for saving me, Gerda.(나를 구해 줘서 고마워.)라고 말했습니다.",
+          "after": "“Thanks for saving me, Gerda.”는 ‘나를 구해 줘서 고마워, Gerda.’라는 뜻이에요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ybm-kim-u10:q18",
+          "before": "(나) 원래 여름을 좋아하던 Kai가 기억을 빼앗겨 (다) 겨울이 좋다고 말했고, 이후 Snow Land에서 (가) Gerda가 울자 기억이 돌아왔습니다.",
+          "after": "Kai는 처음에 여름을 좋아했지만 기억을 잃은 뒤 겨울을 좋아했어요. 이후 Gerda가 울자 기억이 돌아왔어요."
+        },
+        {
+          "localId": "q19",
+          "questionId": "eng6-ybm-kim-u10:q19",
+          "before": "시에는 The weather is nice and warm.(날씨가 좋고 따뜻하다.)이라고 되어 있으므로 춥고 눈이 내린다는 3번은 일치하지 않습니다.",
+          "after": "“The weather is nice and warm.”은 날씨가 좋고 따뜻하다는 뜻이에요. 춥고 눈이 내린다는 내용은 아니에요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ybm-kim-u10:q20",
+          "before": "글에는 여름을 가장 좋아하며 바다 수영(swim in the sea)과 해변 놀이(play at the beach)를 좋아한다고 나와 있고, 스키 타기는 언급되지 않았습니다.",
+          "after": "글에는 바다에서 수영하거나 해변에서 노는 활동이 나와요. 스키를 탄다는 내용은 없어요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ybm-kim-u10:q21",
+          "before": "그림은 스키 타기가 아니라 눈 속에서 눈사람을 만들며 노는 모습이므로 play in the snow로 고쳐야 합니다.",
+          "after": "그림은 눈 속에서 노는 모습이므로 “go skiing”이 아니라 “play in the snow”가 알맞아요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ybm-kim-u10:q22",
+          "before": "p.155 문화 자료에 따르면 네덜란드는 쾨켄호프 꽃 축제, 태국은 로이끄라통, 캐나다는 퀘벡 윈터 카니발입니다.",
+          "after": "소개된 계절 축제 중 로이끄라통은 태국의 축제예요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ybm-kim-u10:q24",
+          "before": "Thanks for helping me.는 '나를 도와줘서 고마워.'라는 감사 표현이므로 거짓입니다.",
+          "after": "“Thanks for helping me.”는 도움을 거절하는 말이 아니라 ‘도와줘서 고마워.’라는 말이에요."
+        },
+        {
+          "localId": "q26",
+          "questionId": "eng6-ybm-kim-u10:q26",
+          "before": "본문(p.150)에 Snow Queen was not happy with their smile.이라고 나와 있으므로 거짓입니다.",
+          "after": "“was not happy”는 기뻐하지 않았다는 뜻이에요. 눈의 여왕은 두 사람의 미소를 보고 기뻐하지 않았어요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ybm-kim-u10:q27",
+          "before": "p.155에 눈 덮인 풍경과 함께 캐나다 퀘벡 윈터 카니발이 소개되어 있으므로 참입니다.",
+          "after": "캐나다의 퀘벡 윈터 카니발은 겨울에 열리는 축제예요."
+        },
+        {
+          "localId": "q29",
+          "questionId": "eng6-ybm-kim-u10:q29",
+          "before": "꽃이 피는 계절 '봄'은 영어로 spring입니다.",
+          "after": "꽃이 피는 봄은 영어로 “spring”이라고 해요."
+        },
+        {
+          "localId": "q30",
+          "questionId": "eng6-ybm-kim-u10:q30",
+          "before": "이유를 연결하는 접속사는 because입니다.",
+          "after": "이유를 연결할 때는 “because”를 써요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ybm-kim-u10:q31",
+          "before": "'계절'은 영어로 season입니다.",
+          "after": "계절은 영어로 “season”이라고 해요."
+        },
+        {
+          "localId": "q32",
+          "questionId": "eng6-ybm-kim-u10:q32",
+          "before": "p.143·155에서 배운 a로 시작하는 '가을' 영단어는 autumn입니다.",
+          "after": "가을은 영어로 “autumn”이라고 써요."
+        },
+        {
+          "localId": "q33",
+          "questionId": "eng6-ybm-kim-u10:q33",
+          "before": "Gerda arrived at Snow Land and met Kai again.는 Gerda가 Snow Land에서 Kai를 다시 만났다는 뜻이므로 O입니다.",
+          "after": "“met Kai again”은 Kai를 다시 만났다는 뜻이에요. Gerda는 Snow Land에서 Kai를 다시 만났어요."
+        }
+      ]
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u11",
+      "reviewed": 29,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ybm-kim-u11:q01",
+          "before": "눈을 반짝이며 즐겁게 책을 보는 모습이므로 '흥미로운, 재미있는'을 뜻하는 interesting이 정답입니다.",
+          "after": "“interesting”은 흥미롭고 재미있다는 뜻이에요. 즐겁게 책을 보는 모습에 잘 어울려요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ybm-kim-u11:q02",
+          "before": "턱을 괴고 한숨을 쉬며 지루해하는 모습이므로 This book looks boring.이 정답입니다.",
+          "after": "“boring”은 지루하다는 뜻이에요. “This book looks boring.”이라고 말할 수 있어요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ybm-kim-u11:q03",
+          "before": "햇살이 가득하고 조명이 켜져 환한 방이므로 This room looks bright.가 정답입니다.",
+          "after": "“bright”는 밝다는 뜻이에요. 햇살이 가득한 방은 “This room looks bright.”라고 해요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ybm-kim-u11:q04",
+          "before": "dark는 '어두운'이라는 뜻이므로 불이 꺼져 어두운 밤의 방 그림이 정답입니다.",
+          "after": "“dark”는 어둡다는 뜻이에요. 불이 꺼진 어두운 방이 알맞아요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ybm-kim-u11:q05",
+          "before": "dangerous는 '위험한'을 뜻하므로 바나나 껍질과 경고 표지판이 있는 절벽 그림이 정답입니다.",
+          "after": "“dangerous”는 위험하다는 뜻이에요. 가파른 절벽이 있는 그림에 잘 어울려요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ybm-kim-u11:q06",
+          "before": "헬멧과 보호대를 모두 갖추고 평탄한 길을 달리는 모습이므로 '안전한'을 뜻하는 safe가 알맞습니다.",
+          "after": "“safe”는 안전하다는 뜻이에요. 헬멧과 보호대를 착용한 그림에 잘 어울려요."
+        },
+        {
+          "localId": "q07",
+          "questionId": "eng6-ybm-kim-u11:q07",
+          "before": "soft(부드러운)의 반대말은 hard(딱딱한)이며, boring(지루한)의 반대말은 interesting(흥미로운)입니다.",
+          "after": "“soft”(부드러운)의 반대말은 “hard”(딱딱한)이고, “boring”(지루한)의 반대말은 “interesting”(흥미로운)이에요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ybm-kim-u11:q08",
+          "before": "상대방의 의견이나 동의 여부를 물을 때는 What do you think?라고 말합니다.",
+          "after": "“What do you think?”는 ‘너는 어떻게 생각하니?’라는 뜻으로 의견을 물을 때 써요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ybm-kim-u11:q09",
+          "before": "상대방 의견에 동의할 때는 '나도 그렇게 생각해.'라는 뜻의 I think so, too.라고 답합니다.",
+          "after": "“I think so, too.”는 ‘나도 그렇게 생각해.’라는 뜻으로 의견에 동의할 때 써요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ybm-kim-u11:q10",
+          "before": "A가 빵이 딱딱해 보인다(hard)고 했고 B가 I don't think so.라고 반대했으므로 반대 뜻인 soft를 써서 I think it looks soft.가 알맞습니다.",
+          "after": "A는 딱딱해 보인다고 했지만 B는 다르게 생각해요. “soft”는 부드럽다는 뜻이에요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ybm-kim-u11:q11",
+          "before": "주어 This ice cream은 3인칭 단수이므로 현재형 동사 look 뒤에 -s를 붙여 looks라고 씁니다(p.166 Build Language).",
+          "after": "“This ice cream”은 하나의 대상을 가리키므로 “look”에 s를 붙여 “looks”라고 써요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ybm-kim-u11:q12",
+          "before": "p.163 Sounds 'I think the cookbook looks interesting. It doesn't look boring.'에서 cookbook과 look에 -ook 철자와 소리가 들어 있습니다.",
+          "after": "“cookbook”에는 ook 철자와 그 소리가 들어 있어요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ybm-kim-u11:q13",
+          "before": "'위험한'의 바른 철자는 d-a-n-g-e-r-o-u-s(dangerous)입니다.",
+          "after": "위험하다는 뜻의 영어 단어는 “dangerous”예요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ybm-kim-u11:q14",
+          "before": "I think 뒤에 주어(it) + 동사(looks) + 형용사(bright) 순서로 배열해 I think it looks bright.가 됩니다.",
+          "after": "“I think” 뒤에 “it looks bright”를 이어 써서 의견을 나타내요."
+        },
+        {
+          "localId": "q15",
+          "questionId": "eng6-ybm-kim-u11:q15",
+          "before": "동물원이 시끄럽고 공간이 좁다는 것은 반대 입장의 근거이며, 찬성 글에서는 안전, 사육사의 돌봄·먹이·안전한 집, 좋은 운동 프로그램을 근거로 듭니다.",
+          "after": "찬성하는 글은 동물원의 안전, 사육사의 돌봄과 운동 프로그램을 근거로 들어요. 시끄럽고 좁다는 것은 반대 의견이에요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ybm-kim-u11:q16",
+          "before": "반대 글은 열악한 환경(bad conditions), 부족한 공간(don't have enough space), 조용하지 않음(not quiet)을 근거로 제시합니다.",
+          "after": "반대하는 글은 동물들이 좁고 시끄러운 환경에서 지낸다고 설명해요."
+        },
+        {
+          "localId": "q17",
+          "questionId": "eng6-ybm-kim-u11:q17",
+          "before": "They would be happier in nature.(동물들은 자연 속에서 더 행복할 것이다.)라고 나와 있으므로 자연(nature)이 정답입니다.",
+          "after": "“They would be happier in nature.”는 동물들이 자연 속에서 더 행복할 것이라는 뜻이에요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ybm-kim-u11:q18",
+          "before": "동물원이 안전하다(가)와 좋은 운동 프로그램이 있다(다)는 찬성(I think so, too.) 근거이고, (나)는 반대(I don't think so.) 근거입니다.",
+          "after": "안전하고 좋은 운동 프로그램이 있다는 (가)와 (다)는 찬성 의견의 근거예요."
+        },
+        {
+          "localId": "q19",
+          "questionId": "eng6-ybm-kim-u11:q19",
+          "before": "본문에 It's bad for my health.(건강에 좋지 않다.)와 I need to exercise.(운동이 필요하다.)라고 나와 있습니다.",
+          "after": "“It's bad for my health.”는 건강에 좋지 않다는 뜻이에요. 글쓴이는 운동이 필요하다고 했어요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ybm-kim-u11:q20",
+          "before": "반대 의견에 I think watching TV is not healthy.(건강에 좋지 않다.)라고 나와 있으므로 건강에 좋다는 4번은 일치하지 않습니다.",
+          "after": "반대하는 사람은 TV를 보는 것이 건강에 좋지 않다고 했어요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ybm-kim-u11:q21",
+          "before": "햇살과 스탠드로 환한 방 그림이므로 dark 대신 반대말인 bright로 고쳐야 합니다.",
+          "after": "“dark”는 ‘어두운’, “bright”는 ‘밝은’이라는 뜻이에요. 햇살이 가득한 방에는 “bright”가 알맞아요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ybm-kim-u11:q22",
+          "before": "p.169 문화 자료에 따르면 독일은 『모모』, 브라질은 『나의 라임 오렌지 나무』, 미국은 『작은 아씨들』입니다.",
+          "after": "소개된 세계의 명작 중 『작은 아씨들』은 미국의 소설이에요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ybm-kim-u11:q24",
+          "before": "I don't think so.는 '나는 그렇게 생각하지 않아.'라는 반대 표현이며, 동의할 때는 I think so, too.를 쓰므로 거짓입니다.",
+          "after": "“I don't think so.”는 동의하는 표현이 아니에요. 동의할 때는 “I think so, too.”라고 해요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ybm-kim-u11:q27",
+          "before": "본문(p.164)에 There is no right or wrong answer. What do you think?이라고 나와 있으므로 참입니다.",
+          "after": "“There is no right or wrong answer.”는 정해진 정답이 없다는 뜻이에요."
+        },
+        {
+          "localId": "q29",
+          "questionId": "eng6-ybm-kim-u11:q29",
+          "before": "책을 흥미롭게 읽는 모습을 보고 This book looks interesting.이라고 표현할 수 있습니다. 첫 글자 i와 그림을 함께 보고 알맞은 단어를 판단합니다.",
+          "after": "“interesting”은 흥미롭다는 뜻이에요. 즐겁게 책을 보는 그림과 첫 글자 i에 모두 어울려요."
+        },
+        {
+          "localId": "q30",
+          "questionId": "eng6-ybm-kim-u11:q30",
+          "before": "'나도 그렇게 생각해.'는 I think so, too.이므로 빈칸에는 think가 들어갑니다.",
+          "after": "‘나도 그렇게 생각해.’는 “I think so, too.”라고 해요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ybm-kim-u11:q31",
+          "before": "bright의 반대말은 dark(어두운)입니다.",
+          "after": "“bright”(밝은)의 반대말은 “dark”(어두운)예요."
+        },
+        {
+          "localId": "q33",
+          "questionId": "eng6-ybm-kim-u11:q33",
+          "before": "Animals need to live in quiet places.라는 문장이 제시되어 있으므로 글쓴이의 생각을 바르게 이해한 진술입니다. 정답은 O입니다.",
+          "after": "“Animals need to live in quiet places.”는 동물들이 조용한 곳에서 살아야 한다는 뜻이에요."
+        },
+        {
+          "localId": "q34",
+          "questionId": "eng6-ybm-kim-u11:q34",
+          "before": "They are bad for my health.는 비디오 게임에 반대하는 쪽의 근거로 제시되어 있습니다. 찬성 의견이라는 진술은 X입니다.",
+          "after": "건강에 좋지 않다는 말은 비디오 게임에 반대하는 사람의 의견이에요."
+        }
+      ]
+    },
+    {
+      "cartridgeId": "eng6-ybm-kim-u12",
+      "reviewed": 32,
+      "edits": [
+        {
+          "localId": "q01",
+          "questionId": "eng6-ybm-kim-u12:q01",
+          "before": "등에 지고 물건을 나르는 지게(jige)는 영어로 a traditional Korean carrier입니다.",
+          "after": "지게는 등에 지고 물건을 나르는 전통 도구예요. “a traditional Korean carrier”라고 해요."
+        },
+        {
+          "localId": "q02",
+          "questionId": "eng6-ybm-kim-u12:q02",
+          "before": "머리에 쓰는 전통 모자 갓(gat)은 영어로 a traditional Korean hat입니다.",
+          "after": "갓은 한국의 전통 모자이므로 “a traditional Korean hat”이라고 해요."
+        },
+        {
+          "localId": "q03",
+          "questionId": "eng6-ybm-kim-u12:q03",
+          "before": "기와지붕이 있는 전통 집 한옥(hanok)은 영어로 a traditional Korean house입니다.",
+          "after": "한옥은 한국의 전통 집이므로 “a traditional Korean house”라고 해요."
+        },
+        {
+          "localId": "q04",
+          "questionId": "eng6-ybm-kim-u12:q04",
+          "before": "traditional Korean music은 한국의 전통 음악인 판소리(pansori)를 설명하므로 소리꾼과 고수 그림이 정답입니다.",
+          "after": "“traditional Korean music”은 한국의 전통 음악이라는 뜻이에요. 판소리를 하는 그림이 알맞아요."
+        },
+        {
+          "localId": "q05",
+          "questionId": "eng6-ybm-kim-u12:q05",
+          "before": "a traditional Korean hat은 한국의 전통 모자인 갓(gat)을 뜻합니다.",
+          "after": "“a traditional Korean hat”은 한국의 전통 모자라는 뜻이에요. 갓 그림이 알맞아요."
+        },
+        {
+          "localId": "q06",
+          "questionId": "eng6-ybm-kim-u12:q06",
+          "before": "yunnori는 a traditional Korean board game, minhwa는 a traditional Korean painting, talchum은 a traditional Korean dance입니다.",
+          "after": "윷놀이는 한국의 전통 놀이예요. “a traditional Korean board game”으로 설명할 수 있어요."
+        },
+        {
+          "localId": "q07",
+          "questionId": "eng6-ybm-kim-u12:q07",
+          "before": "어떤 대상에 대해 알고 있는지 물을 때는 Do you know anything about ~?라고 말합니다.",
+          "after": "지게에 대해 아는 것이 있는지 물을 때는 “Do you know anything about jige?”라고 해요."
+        },
+        {
+          "localId": "q08",
+          "questionId": "eng6-ybm-kim-u12:q08",
+          "before": "Do you ~?로 물었고 뒤에 한옥을 정확히 설명했으므로 긍정 응답인 Yes, I do.가 알맞습니다.",
+          "after": "“Do you ~?”라고 물었을 때 안다고 답하면 “Yes, I do.”라고 해요."
+        },
+        {
+          "localId": "q09",
+          "questionId": "eng6-ybm-kim-u12:q09",
+          "before": "어떤 것에 대해 전혀 모른다고 표현할 때는 No, I don't. 뒤에 I have no idea.를 이어 말합니다.",
+          "after": "“I have no idea.”는 전혀 모르겠다는 뜻이에요."
+        },
+        {
+          "localId": "q10",
+          "questionId": "eng6-ybm-kim-u12:q10",
+          "before": "p.180 Build Language에서 보듯 music은 셀 수 없는 명사라 a를 붙이지 않고(It is traditional Korean music.), hat은 단수 가산 명사라 a를 붙입니다(It is a traditional Korean hat.).",
+          "after": "“music”은 셀 수 없는 명사라 앞에 a를 붙이지 않아요. 모자 한 개를 뜻하는 “hat” 앞에는 a를 붙여요."
+        },
+        {
+          "localId": "q11",
+          "questionId": "eng6-ybm-kim-u12:q11",
+          "before": "p.173 학습 팁 'know를 읽을 때 n 앞의 k는 발음하지 않아요.'처럼 k는 묵음입니다.",
+          "after": "“know”에서 첫 글자 k는 발음하지 않아요."
+        },
+        {
+          "localId": "q12",
+          "questionId": "eng6-ybm-kim-u12:q12",
+          "before": "p.177 Sounds 'The station is in good condition. It shows the Korean tradition.'에서 station, condition, tradition이 -tion으로 끝납니다.",
+          "after": "“tradition”은 tion으로 끝나는 단어예요."
+        },
+        {
+          "localId": "q13",
+          "questionId": "eng6-ybm-kim-u12:q13",
+          "before": "'전통적인'의 바른 철자는 tradition + al = t-r-a-d-i-t-i-o-n-a-l(traditional)입니다.",
+          "after": "전통적이라는 뜻의 영어 단어는 “traditional”이에요."
+        },
+        {
+          "localId": "q14",
+          "questionId": "eng6-ybm-kim-u12:q14",
+          "before": "관사(a) + traditional + Korean + 명사(house) 순서로 배열해 It is a traditional Korean house.가 됩니다.",
+          "after": "“It is a traditional Korean house.”는 한국의 전통 집이라는 뜻이에요. a 뒤에 traditional Korean house를 써요."
+        },
+        {
+          "localId": "q15",
+          "questionId": "eng6-ybm-kim-u12:q15",
+          "before": "공공 미술은 박물관 안이 아니라(not in a museum) 모든 사람을 위해 공원·정원·거리 등 야외(outside for everyone)에 있는 미술입니다.",
+          "after": "글에서는 공공 미술이 모두를 위해 공원이나 정원, 거리 같은 야외에 있다고 설명해요."
+        },
+        {
+          "localId": "q16",
+          "questionId": "eng6-ybm-kim-u12:q16",
+          "before": "본문에 Puppy sits in front of the Guggenheim Museum.(구겐하임 박물관 앞에 앉아 있다.)이라고 나와 있습니다.",
+          "after": "“in front of”는 ‘~ 앞에’라는 뜻이에요. Puppy는 구겐하임 박물관 앞에 있어요."
+        },
+        {
+          "localId": "q17",
+          "questionId": "eng6-ybm-kim-u12:q17",
+          "before": "Cloud Gate는 콩처럼 생겨 'The Bean'이라 불리며, 앞에 서면 자신의 모습과 주변 도시 풍경이 표면에 비쳐 보입니다.",
+          "after": "Cloud Gate는 콩처럼 생겨 The Bean이라고 불려요. 앞에 서면 자신과 주변 도시가 비쳐 보여요."
+        },
+        {
+          "localId": "q18",
+          "questionId": "eng6-ybm-kim-u12:q18",
+          "before": "스페인의 Puppy는 박물관 안(in the museum)이 아니라 구겐하임 박물관 앞(in front of the Guggenheim Museum) 야외에 있으므로 2번이 일치하지 않습니다.",
+          "after": "Puppy는 박물관 안이 아니라 구겐하임 박물관 앞에 있어요."
+        },
+        {
+          "localId": "q19",
+          "questionId": "eng6-ybm-kim-u12:q19",
+          "before": "글에는 탈춤이 선한 사람들과 사랑 이야기(good people and love)를 다루며 매우 재미있다(very funny)고 나와 있으므로 무섭고 슬픈 전쟁 이야기만 다룬다는 3번은 불일치합니다.",
+          "after": "글에서는 탈춤이 선한 사람과 사랑 이야기를 다루고 매우 재미있다고 설명해요."
+        },
+        {
+          "localId": "q20",
+          "questionId": "eng6-ybm-kim-u12:q20",
+          "before": "글쓴이는 어제 한옥을 방문했고(visited a hanok) 그곳에서 판소리를 보았다(watched pansori there)고 썼습니다.",
+          "after": "글쓴이는 어제 한옥을 방문해 그곳에서 판소리를 감상했다고 했어요."
+        },
+        {
+          "localId": "q21",
+          "questionId": "eng6-ybm-kim-u12:q21",
+          "before": "B는 한옥(hanok) 질문에는 Yes, I do.라고 답했고, 지게(jige) 질문에는 No, I don't. I have no idea.라고 답했습니다.",
+          "after": "B는 한옥에 대해서는 “Yes, I do.”, 지게에 대해서는 “No, I don't.”라고 답했어요."
+        },
+        {
+          "localId": "q22",
+          "questionId": "eng6-ybm-kim-u12:q22",
+          "before": "p.183 문화 자료에 따르면 스페인은 플라멩코, 필리핀은 티니클링, 칠레는 쿠에카가 전통 춤입니다.",
+          "after": "소개된 전통 춤 중 쿠에카는 칠레의 춤이에요."
+        },
+        {
+          "localId": "q24",
+          "questionId": "eng6-ybm-kim-u12:q24",
+          "before": "I have no idea.는 '전혀 모르겠어.'라고 모름을 나타내는 표현이므로 거짓입니다.",
+          "after": "“I have no idea.”는 잘 알고 있다는 말이 아니라 전혀 모르겠다는 뜻이에요."
+        },
+        {
+          "localId": "q27",
+          "questionId": "eng6-ybm-kim-u12:q27",
+          "before": "본문(p.179)에 Just stand in front of Cloud Gate. You can see yourself and the city around you.라고 나와 있으므로 참입니다.",
+          "after": "글에서는 Cloud Gate 앞에 서면 자신과 주변 도시 풍경을 볼 수 있다고 설명해요."
+        },
+        {
+          "localId": "q29",
+          "questionId": "eng6-ybm-kim-u12:q29",
+          "before": "지게는 물건을 나르는 운반 도구이므로 a traditional Korean carrier가 됩니다.",
+          "after": "“carrier”는 물건을 나르는 도구라는 뜻이에요. 지게를 설명할 때 써요."
+        },
+        {
+          "localId": "q30",
+          "questionId": "eng6-ybm-kim-u12:q30",
+          "before": "'전혀 모르겠어.'는 I have no idea.이므로 빈칸에는 idea가 들어갑니다.",
+          "after": "“I have no idea.”는 ‘전혀 모르겠어.’라는 뜻이므로 빈칸에는 “idea”가 들어가요."
+        },
+        {
+          "localId": "q31",
+          "questionId": "eng6-ybm-kim-u12:q31",
+          "before": "p.183 Final Check 완성 단어는 K-o-r-e-a(Korea)입니다.",
+          "after": "한국을 영어로 나타내는 이름은 “Korea”예요."
+        },
+        {
+          "localId": "q32",
+          "questionId": "eng6-ybm-kim-u12:q32",
+          "before": "'알다'를 뜻하는 동사는 묵음 k가 들어간 know입니다.",
+          "after": "‘알다’는 영어로 “know”라고 해요. 첫 글자 k는 발음하지 않아요."
+        },
+        {
+          "localId": "q33",
+          "questionId": "eng6-ybm-kim-u12:q33",
+          "before": "Puppy is bigger than a house. It is colorful and it cannot move.라는 내용과 일치하므로 O입니다.",
+          "after": "글에서는 Puppy가 집보다 크고 색이 다양하며 움직이지 않는다고 설명해요."
+        },
+        {
+          "localId": "q34",
+          "questionId": "eng6-ybm-kim-u12:q34",
+          "before": "I see.는 상대방의 설명을 듣고 '알겠어, 그렇구나.'라고 이해했음을 나타낼 때 쓰는 표현이므로 거짓입니다.",
+          "after": "“I see.”는 상대의 말을 듣고 ‘알겠어, 그렇구나.’라고 이해했음을 나타내는 말이에요."
+        },
+        {
+          "localId": "q35",
+          "questionId": "eng6-ybm-kim-u12:q35",
+          "before": "영어 글에 Puppy는 Bilbao(스페인), Cloud Gate는 Chicago(미국)에 있다고 나와 있으므로 정답은 c2입니다.",
+          "after": "Puppy는 스페인의 빌바오에 있고 Cloud Gate는 미국의 시카고에 있어요."
+        },
+        {
+          "localId": "q36",
+          "questionId": "eng6-ybm-kim-u12:q36",
+          "before": "183쪽 문화 퀴즈 'It's a traditional Spanish dance.'처럼 '춤'은 영어로 dance입니다.",
+          "after": "“dance”는 춤이라는 뜻이에요. 플라멩코는 “a traditional Spanish dance”로 설명해요."
+        }
+      ]
+    }
+  ]
+}
