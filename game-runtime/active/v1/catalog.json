@@ -1,8 +1,8 @@
 {
  "schemaVersion": "hoja-active-cartridge-catalog-v1",
  "sourceRepo": "xkdtndbrwk111-prog/HOJA-QUESTION-BANK",
- "sourceCommit": "3573717a8af4a224f62bf51061267da8ce73632d",
- "deploymentId": "HOJA15-REMOTE-29-20261128-R3",
+ "sourceCommit": "fdf6081715fd01b00389f4b64c08bfe5221bba4f",
+ "deploymentId": "HOJA15-REMOTE-34-20261128-R4",
  "entries": [
   {
    "cartridgeId": "eng5-ham-u10",
@@ -491,6 +491,96 @@
    "contentPath": "game-runtime/approved-packages/v1/soc5-s2-u3-2-common.json"
   },
   {
+   "cartridgeId": "soc6-s2-u1-1-common",
+   "title": "세계의 다양한 지형",
+   "subject": "social",
+   "subjectLabel": "사회",
+   "grade": 6,
+   "semester": 2,
+   "publisher": "공통(천재 김정인·비상 설규주 형성평가 재구성)",
+   "author": null,
+   "unit": 1,
+   "subunit": 1,
+   "questionCount": 65,
+   "effectiveSha256": "80e6721d3020273b402ef45a48617c194428b841c5521b7ed3359cab8f7f62dd",
+   "releaseId": "soc6-s2-u1-1-common-teacher-20261128-r1",
+   "deploymentStatus": "DEPLOYED",
+   "packageSha256": "f1ee3e9654259b052ee6d1f09df7c28c36769b69f3247c69a39d9ea51413c1b4",
+   "contentPath": "game-runtime/approved-packages/v1/soc6-s2-u1-1-common.json"
+  },
+  {
+   "cartridgeId": "soc6-s2-u1-2-common",
+   "title": "세계의 다양한 기후",
+   "subject": "social",
+   "subjectLabel": "사회",
+   "grade": 6,
+   "semester": 2,
+   "publisher": "공통(천재 김정인·비상 설규주 형성평가 재구성)",
+   "author": null,
+   "unit": 1,
+   "subunit": 2,
+   "questionCount": 72,
+   "effectiveSha256": "0507e25724b02b3237916d31c721b23cbbfc67b773203e2583c6e92ffe136b1d",
+   "releaseId": "soc6-s2-u1-2-common-teacher-20261128-r1",
+   "deploymentStatus": "DEPLOYED",
+   "packageSha256": "3f4fb9f5b376900f68101b2f866892d901b6878e0aac2ee76f70d75ae543c987",
+   "contentPath": "game-runtime/approved-packages/v1/soc6-s2-u1-2-common.json"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-1-common",
+   "title": "가계와 기업의 역할",
+   "subject": "social",
+   "subjectLabel": "사회",
+   "grade": 6,
+   "semester": 2,
+   "publisher": "공통(천재 김정인·비상 설규주 형성평가 재구성)",
+   "author": null,
+   "unit": 2,
+   "subunit": 1,
+   "questionCount": 47,
+   "effectiveSha256": "4bb91ad48e0ba8131bf1cd9e113ae12075eff08d91ba1b367531058dcf47eae8",
+   "releaseId": "soc6-s2-u2-1-common-teacher-20261128-r1",
+   "deploymentStatus": "DEPLOYED",
+   "packageSha256": "0d52bf7d88e5645af56c16b45a9c4e7b738778baa1dd23f9406ab80696d36692",
+   "contentPath": "game-runtime/approved-packages/v1/soc6-s2-u2-1-common.json"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-2-common",
+   "title": "우리나라의 경제 성장",
+   "subject": "social",
+   "subjectLabel": "사회",
+   "grade": 6,
+   "semester": 2,
+   "publisher": "공통(천재 김정인·비상 설규주 형성평가 재구성)",
+   "author": null,
+   "unit": 2,
+   "subunit": 2,
+   "questionCount": 59,
+   "effectiveSha256": "9de3729065960079e821346d23454e484928bccb7921a334de5a59c162de72e9",
+   "releaseId": "soc6-s2-u2-2-common-teacher-20261128-r1",
+   "deploymentStatus": "DEPLOYED",
+   "packageSha256": "5a01f7d3530e002a29edefab99970b9370cdf73c90b8028fed2a50452bd96c0e",
+   "contentPath": "game-runtime/approved-packages/v1/soc6-s2-u2-2-common.json"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-3-common",
+   "title": "세계의 무역",
+   "subject": "social",
+   "subjectLabel": "사회",
+   "grade": 6,
+   "semester": 2,
+   "publisher": "공통(천재 김정인·비상 설규주 형성평가 재구성)",
+   "author": null,
+   "unit": 2,
+   "subunit": 3,
+   "questionCount": 53,
+   "effectiveSha256": "e7b6f2d9814c857f2422f2b70d89b47c391c26754400cc59cd331518ba0f1780",
+   "releaseId": "soc6-s2-u2-3-common-teacher-20261128-r1",
+   "deploymentStatus": "DEPLOYED",
+   "packageSha256": "308642294c4b101416d2c03213693f2b7a027dfccc1bb4177c1611512600522e",
+   "contentPath": "game-runtime/approved-packages/v1/soc6-s2-u2-3-common.json"
+  },
+  {
    "cartridgeId": "soc6-s2-u3-1-common",
    "title": "초등 사회 6-2 3-1. 세계의 인구 분포 (3종 공통)",
    "subject": "social",
@@ -531,6 +621,6 @@
  "contentSource": {
   "kind": "GITHUB_RAW_PINNED_V1",
   "repo": "xkdtndbrwk111-prog/HOJA-QUESTION-BANK",
-  "commit": "13f30c0c83591159c6879df216014c73d6469bfa"
+  "commit": "c64b11712f24113e5149355ec0c2509cc07360f3"
  }
 }
