@@ -38,7 +38,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "눈을 반짝이며 즐겁게 책을 보는 모습이므로 '흥미로운, 재미있는'을 뜻하는 interesting이 정답입니다.",
+    "explanation": "“interesting”은 흥미롭고 재미있다는 뜻이에요. 즐겁게 책을 보는 모습에 잘 어울려요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u11:g01"
@@ -82,7 +82,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "턱을 괴고 한숨을 쉬며 지루해하는 모습이므로 This book looks boring.이 정답입니다.",
+    "explanation": "“boring”은 지루하다는 뜻이에요. “This book looks boring.”이라고 말할 수 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -126,7 +126,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "햇살이 가득하고 조명이 켜져 환한 방이므로 This room looks bright.가 정답입니다.",
+    "explanation": "“bright”는 밝다는 뜻이에요. 햇살이 가득한 방은 “This room looks bright.”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -170,7 +170,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "dark는 '어두운'이라는 뜻이므로 불이 꺼져 어두운 밤의 방 그림이 정답입니다.",
+    "explanation": "“dark”는 어둡다는 뜻이에요. 불이 꺼진 어두운 방이 알맞아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -214,7 +214,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "dangerous는 '위험한'을 뜻하므로 바나나 껍질과 경고 표지판이 있는 절벽 그림이 정답입니다.",
+    "explanation": "“dangerous”는 위험하다는 뜻이에요. 가파른 절벽이 있는 그림에 잘 어울려요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -258,7 +258,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "헬멧과 보호대를 모두 갖추고 평탄한 길을 달리는 모습이므로 '안전한'을 뜻하는 safe가 알맞습니다.",
+    "explanation": "“safe”는 안전하다는 뜻이에요. 헬멧과 보호대를 착용한 그림에 잘 어울려요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -302,7 +302,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "soft(부드러운)의 반대말은 hard(딱딱한)이며, boring(지루한)의 반대말은 interesting(흥미로운)입니다.",
+    "explanation": "“soft”(부드러운)의 반대말은 “hard”(딱딱한)이고, “boring”(지루한)의 반대말은 “interesting”(흥미로운)이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -355,7 +355,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "상대방의 의견이나 동의 여부를 물을 때는 What do you think?라고 말합니다.",
+    "explanation": "“What do you think?”는 ‘너는 어떻게 생각하니?’라는 뜻으로 의견을 물을 때 써요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -408,7 +408,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "상대방 의견에 동의할 때는 '나도 그렇게 생각해.'라는 뜻의 I think so, too.라고 답합니다.",
+    "explanation": "“I think so, too.”는 ‘나도 그렇게 생각해.’라는 뜻으로 의견에 동의할 때 써요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u11:g02"
@@ -461,7 +461,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "A가 빵이 딱딱해 보인다(hard)고 했고 B가 I don't think so.라고 반대했으므로 반대 뜻인 soft를 써서 I think it looks soft.가 알맞습니다.",
+    "explanation": "A는 딱딱해 보인다고 했지만 B는 다르게 생각해요. “soft”는 부드럽다는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -505,7 +505,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "주어 This ice cream은 3인칭 단수이므로 현재형 동사 look 뒤에 -s를 붙여 looks라고 씁니다(p.166 Build Language).",
+    "explanation": "“This ice cream”은 하나의 대상을 가리키므로 “look”에 s를 붙여 “looks”라고 써요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -549,7 +549,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "p.163 Sounds 'I think the cookbook looks interesting. It doesn't look boring.'에서 cookbook과 look에 -ook 철자와 소리가 들어 있습니다.",
+    "explanation": "“cookbook”에는 ook 철자와 그 소리가 들어 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -593,7 +593,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "'위험한'의 바른 철자는 d-a-n-g-e-r-o-u-s(dangerous)입니다.",
+    "explanation": "위험하다는 뜻의 영어 단어는 “dangerous”예요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -637,7 +637,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "I think 뒤에 주어(it) + 동사(looks) + 형용사(bright) 순서로 배열해 I think it looks bright.가 됩니다.",
+    "explanation": "“I think” 뒤에 “it looks bright”를 이어 써서 의견을 나타내요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -681,7 +681,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "동물원이 시끄럽고 공간이 좁다는 것은 반대 입장의 근거이며, 찬성 글에서는 안전, 사육사의 돌봄·먹이·안전한 집, 좋은 운동 프로그램을 근거로 듭니다.",
+    "explanation": "찬성하는 글은 동물원의 안전, 사육사의 돌봄과 운동 프로그램을 근거로 들어요. 시끄럽고 좁다는 것은 반대 의견이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -725,7 +725,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "반대 글은 열악한 환경(bad conditions), 부족한 공간(don't have enough space), 조용하지 않음(not quiet)을 근거로 제시합니다.",
+    "explanation": "반대하는 글은 동물들이 좁고 시끄러운 환경에서 지낸다고 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -769,7 +769,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "They would be happier in nature.(동물들은 자연 속에서 더 행복할 것이다.)라고 나와 있으므로 자연(nature)이 정답입니다.",
+    "explanation": "“They would be happier in nature.”는 동물들이 자연 속에서 더 행복할 것이라는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -813,7 +813,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "동물원이 안전하다(가)와 좋은 운동 프로그램이 있다(다)는 찬성(I think so, too.) 근거이고, (나)는 반대(I don't think so.) 근거입니다.",
+    "explanation": "안전하고 좋은 운동 프로그램이 있다는 (가)와 (다)는 찬성 의견의 근거예요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -857,7 +857,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "본문에 It's bad for my health.(건강에 좋지 않다.)와 I need to exercise.(운동이 필요하다.)라고 나와 있습니다.",
+    "explanation": "“It's bad for my health.”는 건강에 좋지 않다는 뜻이에요. 글쓴이는 운동이 필요하다고 했어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -901,7 +901,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "반대 의견에 I think watching TV is not healthy.(건강에 좋지 않다.)라고 나와 있으므로 건강에 좋다는 4번은 일치하지 않습니다.",
+    "explanation": "반대하는 사람은 TV를 보는 것이 건강에 좋지 않다고 했어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -945,7 +945,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "햇살과 스탠드로 환한 방 그림이므로 dark 대신 반대말인 bright로 고쳐야 합니다.",
+    "explanation": "“dark”는 ‘어두운’, “bright”는 ‘밝은’이라는 뜻이에요. 햇살이 가득한 방에는 “bright”가 알맞아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -989,7 +989,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "p.169 문화 자료에 따르면 독일은 『모모』, 브라질은 『나의 라임 오렌지 나무』, 미국은 『작은 아씨들』입니다.",
+    "explanation": "소개된 세계의 명작 중 『작은 아씨들』은 미국의 소설이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1008,7 +1008,7 @@
     "answer": {
       "value": false
     },
-    "explanation": "I don't think so.는 '나는 그렇게 생각하지 않아.'라는 반대 표현이며, 동의할 때는 I think so, too.를 쓰므로 거짓입니다.",
+    "explanation": "“I don't think so.”는 동의하는 표현이 아니에요. 동의할 때는 “I think so, too.”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1027,7 +1027,7 @@
     "answer": {
       "value": true
     },
-    "explanation": "본문(p.164)에 There is no right or wrong answer. What do you think?이라고 나와 있으므로 참입니다.",
+    "explanation": "“There is no right or wrong answer.”는 정해진 정답이 없다는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1046,7 +1046,7 @@
     "answer": {
       "text": "interesting"
     },
-    "explanation": "책을 흥미롭게 읽는 모습을 보고 This book looks interesting.이라고 표현할 수 있습니다. 첫 글자 i와 그림을 함께 보고 알맞은 단어를 판단합니다.",
+    "explanation": "“interesting”은 흥미롭다는 뜻이에요. 즐겁게 책을 보는 그림과 첫 글자 i에 모두 어울려요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u11:g01"
@@ -1065,7 +1065,7 @@
     "answer": {
       "text": "think"
     },
-    "explanation": "'나도 그렇게 생각해.'는 I think so, too.이므로 빈칸에는 think가 들어갑니다.",
+    "explanation": "‘나도 그렇게 생각해.’는 “I think so, too.”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u11:g02"
@@ -1084,7 +1084,7 @@
     "answer": {
       "text": "dark"
     },
-    "explanation": "bright의 반대말은 dark(어두운)입니다.",
+    "explanation": "“bright”(밝은)의 반대말은 “dark”(어두운)예요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1103,7 +1103,7 @@
     "answer": {
       "value": true
     },
-    "explanation": "Animals need to live in quiet places.라는 문장이 제시되어 있으므로 글쓴이의 생각을 바르게 이해한 진술입니다. 정답은 O입니다.",
+    "explanation": "“Animals need to live in quiet places.”는 동물들이 조용한 곳에서 살아야 한다는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1122,7 +1122,7 @@
     "answer": {
       "value": false
     },
-    "explanation": "They are bad for my health.는 비디오 게임에 반대하는 쪽의 근거로 제시되어 있습니다. 찬성 의견이라는 진술은 X입니다.",
+    "explanation": "건강에 좋지 않다는 말은 비디오 게임에 반대하는 사람의 의견이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null

@@ -58,8 +58,8 @@ def main():
             fail("science ZIP now exists; verify and update checkpoint")
     elif science["status"] == "APPROVED_GITHUB_REGISTERED":
         expected = {
-            "sci5-s2-heat-common": "a503459e875d4565e888ce40878d279e9b3513c76e95711ff6f806a610186947",
-            "sci5-s2-u4-common": "7b711e6d2d29e77152b49958b9bfe22690e1b297a45edd3828cb56270b8b7fae",
+            "sci5-s2-heat-common": "d93b83c83ebf562925489e119b46e45bd2672d2551a7b92b4e077a55c87cd10f",
+            "sci5-s2-u4-common": "889ea0ed0d0fbf47d376a0fec4e0fa479365164d575a84cdd2d863d9fb7a89dc",
         }
         for cid, digest in expected.items():
             p = "approved/science/grade5/semester2/" + cid + "/"
