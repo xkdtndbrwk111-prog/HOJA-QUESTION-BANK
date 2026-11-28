@@ -1,6 +1,6 @@
 {
  "schemaVersion": "hoja-game-runtime-packages-v1",
- "sourceCommit": "3573717a8af4a224f62bf51061267da8ce73632d",
+ "sourceCommit": "44397082fba88409ce7fd2ecec7c342a55046044",
  "packages": [
   {
    "cartridgeId": "eng5-ybm-kim-u10",
@@ -175,6 +175,36 @@
    "path": "game-runtime/approved-packages/v1/soc6-s2-u3-2-common.json",
    "bytes": 842675,
    "sha256": "3eb3a72902bcbfc5d1faf424e4a27729b8ed205f35f2bbd0222c69cfe0aeb1ee"
+  },
+  {
+   "cartridgeId": "soc6-s2-u1-1-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u1-1-common.json",
+   "bytes": 654035,
+   "sha256": "f1ee3e9654259b052ee6d1f09df7c28c36769b69f3247c69a39d9ea51413c1b4"
+  },
+  {
+   "cartridgeId": "soc6-s2-u1-2-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u1-2-common.json",
+   "bytes": 795102,
+   "sha256": "3f4fb9f5b376900f68101b2f866892d901b6878e0aac2ee76f70d75ae543c987"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-1-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u2-1-common.json",
+   "bytes": 389957,
+   "sha256": "0d52bf7d88e5645af56c16b45a9c4e7b738778baa1dd23f9406ab80696d36692"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-2-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u2-2-common.json",
+   "bytes": 585429,
+   "sha256": "5a01f7d3530e002a29edefab99970b9370cdf73c90b8028fed2a50452bd96c0e"
+  },
+  {
+   "cartridgeId": "soc6-s2-u2-3-common",
+   "path": "game-runtime/approved-packages/v1/soc6-s2-u2-3-common.json",
+   "bytes": 507291,
+   "sha256": "308642294c4b101416d2c03213693f2b7a027dfccc1bb4177c1611512600522e"
   }
  ]
 }
