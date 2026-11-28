@@ -1,0 +1,29 @@
+{
+  "id": "soc6-s2-u2-2-common",
+  "releaseId": "soc6-s2-u2-2-common-teacher-20261128-r1",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-28",
+  "gameDeployment": "NOT_DEPLOYED",
+  "sourceRevision": 6,
+  "effectiveRevision": 7,
+  "questions": 59,
+  "types": {
+    "MCQ": 40,
+    "OX": 15,
+    "SHORT": 4
+  },
+  "assets": 6,
+  "archive": "soc6-s2-u2-2-common-teacher-approved-20261128-r1.zip",
+  "archiveBytes": 558170,
+  "archiveSha256": "c247514eda326ece1e8f548f4497fe454749114d657e3a9f7e75920ffc5fbc17",
+  "gitBlobSha": "cf367d4d6d8ee48fe492a45459d53f313b4e5a39",
+  "sourceCandidateSha256": "0fc303520d870af7f9e97986b1f621f93a99be5c27f7143e11237e305742b5a3",
+  "sourceReviewDataSha256": "512764252099f10e392f3061a6aa40b1a19766265c37c7bb30fdef72417a6c22",
+  "effectiveCartridge": "effective/cartridge.json",
+  "effectiveAssets": "effective/assets/",
+  "reviewedPresentation": "presentation/renderer-data.html",
+  "reviewedPresentationSha256": "a27eaa7819b76e426ca12962f1960bf3c6177fe6ce117952dfcb2f6dbf81c5de",
+  "approvedLayout": "presentation/layout-preferences.json",
+  "publicMediaRights": "NOT_INDEPENDENTLY_AUDITED_GENERATED_OR_REDRAWN_MEDIA",
+  "liveGameTest": "NOT_RUN"
+}

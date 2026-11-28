@@ -4,8 +4,8 @@
   "branch": "main",
   "activeWorkstream": "korean-grade5-four-stories",
   "registeredApproved": {
-    "units": 29,
-    "questions": 899
+    "units": 34,
+    "questions": 1195
   },
   "teacherApprovedIncludingUnregistered": {
     "units": 29,
@@ -204,6 +204,28 @@
       "evidence": [
         "approved/catalog.json",
         "approved/korean/grade5/semester2/kor5-s2-u6-charlotte/manifest.json"
+      ]
+    },
+    {
+      "id": "social-grade6-296",
+      "name": "사회 6-2 1-1~2-3 296문항",
+      "status": "APPROVED_GITHUB_REGISTERED",
+      "entry": "workflow/soc6-296-approval-report.json",
+      "evidence": [
+        "workflow/soc6-296-approval-report.json",
+        "approved/social/grade6/semester2/soc6-s2-u1-1-common/manifest.json",
+        "approved/social/grade6/semester2/soc6-s2-u1-2-common/manifest.json",
+        "approved/social/grade6/semester2/soc6-s2-u2-1-common/manifest.json",
+        "approved/social/grade6/semester2/soc6-s2-u2-2-common/manifest.json",
+        "approved/social/grade6/semester2/soc6-s2-u2-3-common/manifest.json"
+      ],
+      "facts": [
+        "교사 승인 5단원 296문항; 검수 데이터와 원래 ZIP의 학생용 문항 데이터 전수 일치",
+        "이미지 40종, 그림 문제 71개 C 좌우 고정"
+      ],
+      "next": [
+        "정본 런타임 재생성 및 독립 렌더링 시험",
+        "권리 상태 보존, 활성 카탈로그 발행"
       ]
     }
   ],

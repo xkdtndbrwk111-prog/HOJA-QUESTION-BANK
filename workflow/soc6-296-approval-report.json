@@ -1,0 +1,100 @@
+{
+  "status": "APPROVED_SOURCE_RECONSTRUCTED",
+  "teacherApproval": "APPROVED",
+  "approvalDate": "2026-11-28",
+  "sourceReviewDataSha256": {
+    "landforms": "d56af7b81e1eeb179369fe55f36faa431db10f6939b35277912bd34cec0ae957",
+    "climate": "e0c29b4ca99c313d677b1add3dc18873ef839ea65e257db6335fb87bac54b1ac",
+    "economics": "512764252099f10e392f3061a6aa40b1a19766265c37c7bb30fdef72417a6c22"
+  },
+  "originalCandidateStudentFieldComparison": "296/296 matched locally",
+  "sourceAuditFiles": "not transferred; candidate ZIP digests retained",
+  "units": [
+    {
+      "id": "soc6-s2-u1-1-common",
+      "title": "세계의 다양한 지형",
+      "questions": 65,
+      "types": {
+        "MCQ": 39,
+        "OX": 23,
+        "SHORT": 3
+      },
+      "assets": 11,
+      "imageQuestionsSplit": 21,
+      "soloEffective": 42,
+      "teamEffective": 43,
+      "archiveSha256": "0267db57d51ebf3ca5e5cb0a82c1e7fe417f654cdb146e17a5a9db5fed700966",
+      "sourceCandidateSha256": "b79110469e3e10f718b18e390cf30d7a399156a02f559a9f6dbcbc6c179bcdf8"
+    },
+    {
+      "id": "soc6-s2-u1-2-common",
+      "title": "세계의 다양한 기후",
+      "questions": 72,
+      "types": {
+        "MCQ": 39,
+        "OX": 29,
+        "SHORT": 4
+      },
+      "assets": 13,
+      "imageQuestionsSplit": 18,
+      "soloEffective": 48,
+      "teamEffective": 49,
+      "archiveSha256": "725df313faf2193d9604e19dfd5998a449e33e5d74721c65ae7fd3739df38468",
+      "sourceCandidateSha256": "32851ddbc213a428942820796f377857b316d0b3da5591dc25c7fe4ffd79bb2d"
+    },
+    {
+      "id": "soc6-s2-u2-1-common",
+      "title": "가계와 기업의 역할",
+      "questions": 47,
+      "types": {
+        "MCQ": 32,
+        "OX": 12,
+        "SHORT": 3
+      },
+      "assets": 4,
+      "imageQuestionsSplit": 7,
+      "soloEffective": 30,
+      "teamEffective": 30,
+      "archiveSha256": "82b42c62d6a787cd60edeb37bcf21925f22bfe9e97ba85cea4d37f0f88f7908d",
+      "sourceCandidateSha256": "b06555fadf50c99e3fa7b74f2575a25c58a3989edc1ba442454a49c94830aa1b"
+    },
+    {
+      "id": "soc6-s2-u2-2-common",
+      "title": "우리나라의 경제 성장",
+      "questions": 59,
+      "types": {
+        "MCQ": 40,
+        "OX": 15,
+        "SHORT": 4
+      },
+      "assets": 6,
+      "imageQuestionsSplit": 10,
+      "soloEffective": 38,
+      "teamEffective": 38,
+      "archiveSha256": "c247514eda326ece1e8f548f4497fe454749114d657e3a9f7e75920ffc5fbc17",
+      "sourceCandidateSha256": "0fc303520d870af7f9e97986b1f621f93a99be5c27f7143e11237e305742b5a3"
+    },
+    {
+      "id": "soc6-s2-u2-3-common",
+      "title": "세계의 무역",
+      "questions": 53,
+      "types": {
+        "MCQ": 36,
+        "OX": 14,
+        "SHORT": 3
+      },
+      "assets": 6,
+      "imageQuestionsSplit": 15,
+      "soloEffective": 30,
+      "teamEffective": 30,
+      "archiveSha256": "7cbe599e1b359fba068ae0daac683d96a228a8d3d0f2d825d197a660c407f867",
+      "sourceCandidateSha256": "877b6c33f3245838ef16d4653354e38ce486cf1c05167ba19817d25a773df600"
+    }
+  ],
+  "questions": 296,
+  "assets": 40,
+  "imageQuestionsSplit": 71,
+  "actualBrowser": "NOT_RUN",
+  "publicMediaRights": "HOLD pending independent audit",
+  "runtime": "NOT_YET_BUILT"
+}
