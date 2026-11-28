@@ -1,8 +1,8 @@
 {
  "schemaVersion": "hoja-active-cartridge-catalog-v1",
  "sourceRepo": "xkdtndbrwk111-prog/HOJA-QUESTION-BANK",
- "sourceCommit": "43df08f9a1edebb0ff4ed8c7c651cba005bb2f3c",
- "deploymentId": "HOJA15-REMOTE-29-20261127-R2",
+ "sourceCommit": "3573717a8af4a224f62bf51061267da8ce73632d",
+ "deploymentId": "HOJA15-REMOTE-29-20261128-R3",
  "entries": [
   {
    "cartridgeId": "eng5-ham-u10",
@@ -16,10 +16,10 @@
    "unit": 10,
    "subunit": null,
    "questionCount": 36,
-   "effectiveSha256": "8d5aa7b8bce0dd23c617001d9fd08c11da65eb64d3e9df86e7dd04aa125ed227",
+   "effectiveSha256": "b7d8b4e8c5cbe17b3c59a740f9dcfa87fe9fe5d155a3e2055273308d7a7ddb66",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "18e03f4f1940417285e13558878b918a9530aafa0a9bd93b2ee0fc5d2663437a",
+   "packageSha256": "e27def41175833f69a76ef1826e3f97e0be99f27b5682dabd6aff7baa692bcf8",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ham-u10.json"
   },
   {
@@ -34,10 +34,10 @@
    "unit": 11,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "a9713a6b9df5dbc371ad7903ae212b3ad7557a5547ee37c55cdda7a4325ccdbc",
+   "effectiveSha256": "0bff3c8d5bc4e0dc0719cd453a7171b559f4140db87a41f91c962c62f9df5f83",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "4462f9b6a9752d6c6681fc6d3d3c4ad5ff0d452cd93257a2b8ef62f169ae64b0",
+   "packageSha256": "67ba7833820193b0f36df4194658090d54b6bc24bec18c86c0f4a69e62b152d4",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ham-u11.json"
   },
   {
@@ -52,10 +52,10 @@
    "unit": 12,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "813d3c5908114644f33962fcb89f4de15f0c55c3edfedaf1c56ac2189e35008f",
+   "effectiveSha256": "826b4c46f0496d020f6f570c6c364bb09f2b9348c08b723b7ea1ba8059487b16",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "0890f19c417cd22ecb09d4bc436cf65c80f00dbfd16ca2705113d147da77a2fc",
+   "packageSha256": "2f1d056ce2a203372fe065c6c79bf5c92f43f7dfb132c678001139b113a5519a",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ham-u12.json"
   },
   {
@@ -70,10 +70,10 @@
    "unit": 10,
    "subunit": null,
    "questionCount": 30,
-   "effectiveSha256": "e1b5c4e7ec3109b99af97c27ab0e3cfebf8c9755877fdb9b58ee11dc0af4b6b3",
+   "effectiveSha256": "e3165be108a28b4cf42d5aa5fc7a3068f387e8917af1cc1d0c50b6e91ce18b38",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "76df21166db3cc8b5eed203822004509c9015e4c5658e2a165d2ad17041bf298",
+   "packageSha256": "3aa16f1efba3f41acacf585eb94d36fb0771bbc63d8a412234ba7b514da5725c",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ybm-kim-u10.json"
   },
   {
@@ -88,10 +88,10 @@
    "unit": 11,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "3b9e0cae41cba379354e6e52dd7df38bb41b8f4729cde20ac79139b02e8ce04c",
+   "effectiveSha256": "1d0ba89701cb04aa2f578933a1545c499d429929e454d22f14c5d1cd5b625c34",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "ca0a29546a117d4151cc68069fc0b14923a96180ccf55f100a0a854b0a288365",
+   "packageSha256": "d3dc1ef6c4c9cf6c0c67ef3430a96afb6d52a45b0d591e401950888dcfe20e7e",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ybm-kim-u11.json"
   },
   {
@@ -106,10 +106,10 @@
    "unit": 12,
    "subunit": null,
    "questionCount": 29,
-   "effectiveSha256": "47d1f6a3504f7887ae5c24a29055ad47bda69c14118bd4a00544445a446222e1",
+   "effectiveSha256": "be1bff18a39bb9e17f1b362d66a8bde0f36a543cc834dbd7acc990c526f7be3c",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "7569707bc16d2298b5f5444c006559711ea4ca6e702f75d8ff0481e36f3f4858",
+   "packageSha256": "33137fde027ab8be091a3aea43159ae435fd87a2ec3ca3ecf6cff67ff45400ed",
    "contentPath": "game-runtime/approved-packages/v1/eng5-ybm-kim-u12.json"
   },
   {
@@ -124,10 +124,10 @@
    "unit": 10,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "cfadf777f5e79df61f06a8f2533757cd92cc1ffc1ceba1b23cec1f9026319907",
+   "effectiveSha256": "13dfaf3d3e2b848bdc756d257c10182422be5c9b3fbe25fee2889af59e47629d",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "49710daba9d0f0a4cb6d692d2b46e59516f3a7bbfdde086274165602d46f52ab",
+   "packageSha256": "f4e6ce58abfec87e1148ef73587a50c23b6caaf04306e7f51a756b186563836f",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ham-u10.json"
   },
   {
@@ -142,10 +142,10 @@
    "unit": 11,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "1a13eea859eb6349372fb807393000956d00b1478a0c6e450970444bf804df9a",
+   "effectiveSha256": "40a4378ee5d1bb49407d1b08b07e1cb6fdbd4aae4d198e5f0b82a1f2a5338362",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "d6645aff50910447a42f303719ee660db4ba06115d4b2c62ab3e1f4be99f6c65",
+   "packageSha256": "b58faeac80a97cd0016afa4b8944428f2ed94888cbf3318c3e015cb383791894",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ham-u11.json"
   },
   {
@@ -160,10 +160,10 @@
    "unit": 12,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "eef14cd78547833be25b6a06bb030a95e78a14da74e159cab97b6f2c5504e449",
+   "effectiveSha256": "4426ec3ef991757f88ae01f66a3b161fbeca5535a8ac68ba0ffac50bae249f72",
    "releaseId": "eng-ham-grade5-6-u10-12-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "ad91eb357c823120649e5443d16d09baf5cfc35714b95929620a3bd8763d59d4",
+   "packageSha256": "ec7f2b8d7d898d131ac45e8c4ecf1a91a5a405c92e0382aa73eb395016fb42f6",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ham-u12.json"
   },
   {
@@ -178,10 +178,10 @@
    "unit": 10,
    "subunit": null,
    "questionCount": 30,
-   "effectiveSha256": "97a1243becd6f6109a093bcf368be71b7ad576191f5dda048a1600dddd47fa8c",
+   "effectiveSha256": "203ab805b343c4c446952c5283a49756e34bb2bbb540284a22729dc382c9e561",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "cf69c88247999cb83843efa4c62abfd34036bddcefb2458bd881f4ca7d85e205",
+   "packageSha256": "fb0a4900d9c4d25bc5cf2eeb768c3a1b921da20f8380e0315a48681da21c0d14",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ybm-kim-u10.json"
   },
   {
@@ -196,10 +196,10 @@
    "unit": 11,
    "subunit": null,
    "questionCount": 29,
-   "effectiveSha256": "e327646a02ee243658a646d5679e11cd14e9d555184790262cee2b1dbc915077",
+   "effectiveSha256": "67c406b7e0ddd55609b05473fe74aff74539b8b8ab194bae54f1f2f09bd1b354",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "08c80b1672148b7557f6f18098a9be257bdb56926c26471e773d10e041622dfa",
+   "packageSha256": "9ec251e8ada4d189c5e3ef2dfd81b15b77690f7fed9557eb361d0cea794dc4a6",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ybm-kim-u11.json"
   },
   {
@@ -214,10 +214,10 @@
    "unit": 12,
    "subunit": null,
    "questionCount": 32,
-   "effectiveSha256": "8b7618efa9c6c9df69db166bd623c6e18027626ae85e3adef77a3d80901dc80d",
+   "effectiveSha256": "09d81facadee9dbc4e544409206888b3bba3c6e7b878b80a72fdf0e0c2d45043",
    "releaseId": "eng-ybm-kim-grade5-6-u10-12-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "4eccc8761a562d94bd0d95100aa0216714b95289486a79c6205299ead7f568f4",
+   "packageSha256": "ee04821c9f31752887f8bcb7bfecdc64c0c473bc64ba20b9ffafc5c6bdd70c2d",
    "contentPath": "game-runtime/approved-packages/v1/eng6-ybm-kim-u12.json"
   },
   {
@@ -232,10 +232,10 @@
    "unit": 5,
    "subunit": null,
    "questionCount": 25,
-   "effectiveSha256": "7d498b0cf10a63452de4fc4d3e7e72d3345280a062a437433ef95fe7aadd2a7f",
+   "effectiveSha256": "d4e7e3c2d740c3955ecfe6f2495756da9939ed3c3cf1f79293b4178eed971149",
    "releaseId": "kor5-s2-u5-sara-teacher-20261126-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "a5bc724e473fda508f790db09c9c529ad5e70bdba2863b437fca5ffa223d977a",
+   "packageSha256": "7e6aee48887049ec23522688aa84b72b40a56a5d2e25d37019ea1184b5f11698",
    "contentPath": "game-runtime/approved-packages/v1/kor5-s2-u5-sara.json"
   },
   {
@@ -250,10 +250,10 @@
    "unit": 6,
    "subunit": null,
    "questionCount": 25,
-   "effectiveSha256": "bf14ff916db4ceb4f99f97efc70a3519b230d7ca6426f5c18b2fa80a902e8422",
+   "effectiveSha256": "561ba17fb69318d70aa44357bf69604d02321da546e6c774ca2ccc67b89742ed",
    "releaseId": "kor5-s2-u6-charlotte-teacher-20261126-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "feadec0a615c1f40e675d8f0bd131e14acb5bdc546709a55c2abfed24cb38746",
+   "packageSha256": "661732368d747407f1c28b8ffae18a29934e255a5b6184648fd48f1c84bf2a6c",
    "contentPath": "game-runtime/approved-packages/v1/kor5-s2-u6-charlotte.json"
   },
   {
@@ -268,10 +268,10 @@
    "unit": 6,
    "subunit": null,
    "questionCount": 28,
-   "effectiveSha256": "4a8c698fb2eeb17f558fc0778959a52416188b63a8a250ad196c4abe1f446a0c",
+   "effectiveSha256": "7ccb21410f6f39c8b8a727c7545569be6ef81fab587dda062d94c412cd465af2",
    "releaseId": "kor5-s2-u6-mom-teacher-20261126-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "f31c9f079ff20b75db40899aeef0423a9dcbe144080c3ca90bad1875ddf77cea",
+   "packageSha256": "82da97d32639109ecf2afc2df0c72022f9eaf39562e969441d06626f129b0d41",
    "contentPath": "game-runtime/approved-packages/v1/kor5-s2-u6-mom.json"
   },
   {
@@ -286,10 +286,10 @@
    "unit": 6,
    "subunit": null,
    "questionCount": 25,
-   "effectiveSha256": "234ea4a775441f3d149804293986e41c858ee8b3f34e0aedc61e646d4d992f22",
+   "effectiveSha256": "dabf7958a0e9504e35a6f7d73391bcb784c8538f9fe123861ada41bd7e1e3934",
    "releaseId": "kor5-s2-u6-nabi-teacher-20261126-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "414ae305980af8732cce5c9c319e839dd27f249f3a74115fcce7894c155ade07",
+   "packageSha256": "c4564d463cd0ad6744978ae4a6b6b76e964029327ca03b6a60abdb055dff1644",
    "contentPath": "game-runtime/approved-packages/v1/kor5-s2-u6-nabi.json"
   },
   {
@@ -304,10 +304,10 @@
    "unit": 4,
    "subunit": null,
    "questionCount": 31,
-   "effectiveSha256": "c30d44e8dcbf0ab4a830762fa0d32609178dd76300ac1dae3e63bd2f8487855d",
+   "effectiveSha256": "3568b837100dabe8264c1d58a55c1ac6827129bdc26c6c075c3e644af5caad9a",
    "releaseId": "math5-s2-u4-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "2c6f99217ba352458638ebea1b2b2b2d5354f38704ee5cefdadd357fa7f4cea5",
+   "packageSha256": "91d17e253122dc8e44928091e36d5bd1246df2059af0720fc8fb070fec8d4215",
    "contentPath": "game-runtime/approved-packages/v1/math5-s2-u4.json"
   },
   {
@@ -322,10 +322,10 @@
    "unit": 5,
    "subunit": null,
    "questionCount": 33,
-   "effectiveSha256": "ef2872c9c4414f24297de3e24ed01c47b0d6d44a552c40b48632153cf5b01df0",
+   "effectiveSha256": "2b0eb820b07b4d74ea5ad0f1940bb6f3e02cc627463b1cca59ebb790e8b9b44b",
    "releaseId": "math5-s2-u5-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "31dfba3027efbe589f59d74392fbf72c16f2459561781a6f3edd38c0eca967b0",
+   "packageSha256": "7ecacad119957102bb9267cf606084492bd7d425deed0d79bec19deaec19a334",
    "contentPath": "game-runtime/approved-packages/v1/math5-s2-u5.json"
   },
   {
@@ -340,10 +340,10 @@
    "unit": 6,
    "subunit": null,
    "questionCount": 30,
-   "effectiveSha256": "1810a55da396b832c7e11c5f357fcbe3a4bd67e06119d355562510c2dff6e878",
+   "effectiveSha256": "c1e324187bb4a7e7cc5ec7887dedddc44f5c5836747fdbbfc4c403d0bc1d2893",
    "releaseId": "math5-s2-u6-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "4316c12b3c5c949673c98674aa5e328933c3d92a40ba0a2d0735a221c5d97a8d",
+   "packageSha256": "05f965ec855b9866b1f3c3f36afa63166c9d5778ba2b2b724234f13055630847",
    "contentPath": "game-runtime/approved-packages/v1/math5-s2-u6.json"
   },
   {
@@ -358,10 +358,10 @@
    "unit": 4,
    "subunit": null,
    "questionCount": 32,
-   "effectiveSha256": "0bd25c188f9c1c411ba72b2087115ab65ded5223ec0ce5cbf75e46a54b8f008e",
+   "effectiveSha256": "d9a7baddf29e00b34e40b56d31ba44ccc531886787e8c48a53b09db23723c9ac",
    "releaseId": "math6-s2-u4-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "867e0813da9d45a07c7b95026241f582add3e90ace98135317783253053039fb",
+   "packageSha256": "cea89081896dbeaa4cd143c63deea6b58aa73db08c4fc2de85c143622e6745d4",
    "contentPath": "game-runtime/approved-packages/v1/math6-s2-u4.json"
   },
   {
@@ -376,10 +376,10 @@
    "unit": 5,
    "subunit": null,
    "questionCount": 31,
-   "effectiveSha256": "558da21a65faa935e6242b17c4e67abb7161e42cf43c9d9763d29214c39693bd",
+   "effectiveSha256": "8bcbc150155de33e0fa533e70a8aed381adb2d5afe1ec884629ec8423ae0bbfe",
    "releaseId": "math6-s2-u5-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "5edcb3c021387bc0a330c4de5f55986060edc6431e9981317533e8ecc161a580",
+   "packageSha256": "965c80666cb7cb2667cc97283d405919027ba7e13703f7da907f255d020790fc",
    "contentPath": "game-runtime/approved-packages/v1/math6-s2-u5.json"
   },
   {
@@ -394,10 +394,10 @@
    "unit": 6,
    "subunit": null,
    "questionCount": 30,
-   "effectiveSha256": "83f8b35b1087d443605a686f9e2e649fdfd4956aa32453fab1f4ad6197929518",
+   "effectiveSha256": "f6137253030a4d619a8c8f48fe3f3a8564a8a822e30c3256eedbdc6a08848888",
    "releaseId": "math6-s2-u6-teacher-20261122-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "dd2dd8f663e51943155a192fd75915be2488c748692b9fc2368c6b23f2d20d3f",
+   "packageSha256": "896211d540f475697be1c263e57a4b5b17a783bc55d9eedbbf6b15b5dae2ee75",
    "contentPath": "game-runtime/approved-packages/v1/math6-s2-u6.json"
   },
   {
@@ -412,10 +412,10 @@
    "unit": 3,
    "subunit": null,
    "questionCount": 32,
-   "effectiveSha256": "84a430dbd68b6dd5513697e32775a7026ea922461bacd0a4f5d141a9b7e408f8",
+   "effectiveSha256": "dcfa78cffd583ae83c7ddcc7c2832f646560e957490c91c0c5c00da166791b65",
    "releaseId": "sci5-s2-heat-common-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "085a7d26a4f3b486b82cf74ad455651bbe1f0969cd65aa6719ddec4f8a042f78",
+   "packageSha256": "2742b9c63f357f5bcaf35dd0f288f03429efec5d64b825ced0bd8a275ac2b432",
    "contentPath": "game-runtime/approved-packages/v1/sci5-s2-heat-common.json"
   },
   {
@@ -430,10 +430,10 @@
    "unit": 4,
    "subunit": null,
    "questionCount": 32,
-   "effectiveSha256": "0195d07956baeada3b07c5f7a037f74bf407e4c4f5862f9281b25e3d0418c9a8",
+   "effectiveSha256": "b1399c1f0e92cfe5c4bb969822dd5c821821a03aaf94ac0ccf7beeddeb8c8210",
    "releaseId": "sci5-s2-u4-common-teacher-20261121-r1",
    "deploymentStatus": "DEPLOYED",
-   "packageSha256": "21bb7b74f657890d6df8ea3d3e22ea2f9cd6aeda05ab88c6974518dedb060c5a",
+   "packageSha256": "622cc11bb1d55e85963318f9b5e43b2901ff0425cff00edaeacb3bf87febeb56",
    "contentPath": "game-runtime/approved-packages/v1/sci5-s2-u4-common.json"
   },
   {
@@ -531,6 +531,6 @@
  "contentSource": {
   "kind": "GITHUB_RAW_PINNED_V1",
   "repo": "xkdtndbrwk111-prog/HOJA-QUESTION-BANK",
-  "commit": "8d809453fc9470aefa74c4ad9f7357574f918e5c"
+  "commit": "13f30c0c83591159c6879df216014c73d6469bfa"
  }
 }
