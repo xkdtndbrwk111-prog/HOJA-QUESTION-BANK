@@ -12,7 +12,7 @@
     "images": 36
   },
   "reviewer": "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html",
-  "reviewerSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5",
+  "reviewerSha256": "2452fe44727461a2d8768356c76c5077ecb25b772b997eb1aba802c222e48291",
   "teacherCPreferred": [
     "m5u5:q01",
     "m5u5:q10",
@@ -45,37 +45,43 @@
       "id": "math5-s2-u4",
       "questions": 31,
       "archive": "grade5/semester2/math5-s2-u4/HOJA_MATH5_S2_U4_APPROVED_20261122_r1.zip",
-      "sha256": "d5691d67f668c69d7983f2772e9e1fbe1cfec17fa50a9c7b852646803f252749"
+      "sha256": "1a56884651509ba4bcb1d9014c2ccb8c4a7afe617b52a76e08650d2825ed83d2"
     },
     {
       "id": "math5-s2-u5",
       "questions": 33,
       "archive": "grade5/semester2/math5-s2-u5/HOJA_MATH5_S2_U5_APPROVED_20261122_r1.zip",
-      "sha256": "aadc71d4c18aefe6d78d07845d02b93b62510e54a0028096ee8a12db8d664d43"
+      "sha256": "eec7ba27b964a6011ebbed294d50e60e00f950ca9f0d69ee7fdae5405bbbdd4f"
     },
     {
       "id": "math5-s2-u6",
       "questions": 30,
       "archive": "grade5/semester2/math5-s2-u6/HOJA_MATH5_S2_U6_APPROVED_20261122_r1.zip",
-      "sha256": "3d0d34cc213e71bfa87465e905b6cda0a02f4b7e4186dd421a2e7a1262bdc275"
+      "sha256": "64aa8638d773f06d0360b3bc506406f3944ef6eb168e8af4aa3e4563cdb1a081"
     },
     {
       "id": "math6-s2-u4",
       "questions": 32,
       "archive": "grade6/semester2/math6-s2-u4/HOJA_MATH6_S2_U4_APPROVED_20261122_r1.zip",
-      "sha256": "b9d3a7bf9b720df14c5092f9fb7ce84f2157d9d79b1d5dbf9ed908a76c22489e"
+      "sha256": "19004d797f3a13f258e5be566c45329f380428e6c325b368c4b9359627fbf62d"
     },
     {
       "id": "math6-s2-u5",
       "questions": 31,
       "archive": "grade6/semester2/math6-s2-u5/HOJA_MATH6_S2_U5_APPROVED_20261122_r1.zip",
-      "sha256": "76e6f36225f02128fdc82d4e0a2be8d7146cffbed77e6d949a04f2e0d4699906"
+      "sha256": "de934ebac590d1384b393b29ba4e3e7a9a38af497df0fde3d97f7df047f5645f"
     },
     {
       "id": "math6-s2-u6",
       "questions": 30,
       "archive": "grade6/semester2/math6-s2-u6/HOJA_MATH6_S2_U6_APPROVED_20261122_r1.zip",
-      "sha256": "75421b9313419f243cbc8c0613f8af55813781ad27ce015f1d7f16fd4b050cda"
+      "sha256": "3d2ba62c2cf5cc1b3c0cbde1018c6ad37d9e064fe3de52139673188e67dfeb19"
     }
-  ]
+  ],
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

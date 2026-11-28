@@ -17,11 +17,11 @@
     "team": 25
   },
   "archive": "kor5-s2-u5-sara-teacher-approved-20261126-r1.zip",
-  "bytes": 324052,
-  "sha256": "426d646aa358394809821d831f73b3a1be1ef3e4d9237511e70989161d2db99a",
+  "bytes": 178660,
+  "sha256": "a88d7b8ffa5231d002865b142f4d151ff05aecd24876fcb68912c1ac6e233a5e",
   "effectiveCartridge": "effective/cartridge.json",
   "reviewedPresentation": "presentation/renderer-data.html",
-  "reviewedPresentationSha256": "8f6771594aaa9221e8033434a81b1abafa2eba68678e67a97fbe7752ceb6193f",
+  "reviewedPresentationSha256": "63aff2da574d5e58d39ff19295ffb050afb3ca8f74f86cb972e4319d84bacde6",
   "layouts": {
     "A": 18,
     "C": 7,
@@ -32,5 +32,12 @@
     "교사 승인 rev3 데이터 보존; 샬럿 q01만 이미지와 태그 수정",
     "정식 소스 ZIP은 검수 HTML의 런타임 데이터에서 재구성",
     "원화 공개 재배포 권리 미확인; 운영 배포 보류"
-  ]
+  ],
+  "gitBlobSha": "f56fee28e4268eb368ac0b22b8fc10f6bbf7f4b2",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

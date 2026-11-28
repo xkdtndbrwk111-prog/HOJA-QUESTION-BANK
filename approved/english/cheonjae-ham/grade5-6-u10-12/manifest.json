@@ -27,8 +27,14 @@
     "SHORT"
   ],
   "archive": "HOJA_영어5_6학년_10_11_12단원_교사승인정본_20261121_r1.zip",
-  "archiveBytes": 1629959,
-  "archiveSha256": "dc1cad5e5cbf76b2d83d370fb29e2872cc109784543234bbf648ddca13dffdac",
-  "gitBlobSha": "512c456dbee02460958c037d62d48ad7d1ea7742",
-  "note": "The final HTML presentation v3 includes the q21 school/clock override; source cartridge ZIP files are preserved unchanged and are NOT by themselves ready for game deployment."
+  "archiveBytes": 1625802,
+  "archiveSha256": "5b945c288e359c2f67df3b295b85c06ed89d445230c79a65e8df66f4f62cb747",
+  "gitBlobSha": "58c8b559e088c42e3e15980bbd196ffad3df5c70",
+  "note": "The final HTML presentation v3 includes the q21 school/clock override; source cartridge ZIP files are preserved unchanged and are NOT by themselves ready for game deployment.",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

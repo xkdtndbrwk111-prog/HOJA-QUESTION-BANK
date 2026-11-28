@@ -17,11 +17,11 @@
     "team": 25
   },
   "archive": "kor5-s2-u6-nabi-teacher-approved-20261126-r1.zip",
-  "bytes": 276228,
-  "sha256": "26e042ab7dccac766dce2ccd2f135079c0fe4f70ea1021f2008377ef2d696d08",
+  "bytes": 135039,
+  "sha256": "14efdb10a4c75bba2eab7beb6d5df676cae91f52e16ff3649ac7fd7434ea224e",
   "effectiveCartridge": "effective/cartridge.json",
   "reviewedPresentation": "presentation/renderer-data.html",
-  "reviewedPresentationSha256": "2195b483e85cf40e485462f2a45d87552f71f18246ab5d5d2e51dff5f47176f3",
+  "reviewedPresentationSha256": "bb6caf9650cebe77965b2ee1d04d05df286d007c79e9f089501993fc5671ce31",
   "layouts": {
     "A": 19,
     "C": 6,
@@ -32,5 +32,12 @@
     "교사 승인 rev3 데이터 보존; 샬럿 q01만 이미지와 태그 수정",
     "정식 소스 ZIP은 검수 HTML의 런타임 데이터에서 재구성",
     "원화 공개 재배포 권리 미확인; 운영 배포 보류"
-  ]
+  ],
+  "gitBlobSha": "0db556bfb0ae298b9eefeda309a254b823510f65",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

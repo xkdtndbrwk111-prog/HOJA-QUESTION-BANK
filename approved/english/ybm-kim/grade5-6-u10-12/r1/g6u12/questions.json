@@ -38,7 +38,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "등에 지고 물건을 나르는 지게(jige)는 영어로 a traditional Korean carrier입니다.",
+    "explanation": "지게는 등에 지고 물건을 나르는 전통 도구예요. “a traditional Korean carrier”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u12:g01"
@@ -82,7 +82,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "머리에 쓰는 전통 모자 갓(gat)은 영어로 a traditional Korean hat입니다.",
+    "explanation": "갓은 한국의 전통 모자이므로 “a traditional Korean hat”이라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -126,7 +126,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "기와지붕이 있는 전통 집 한옥(hanok)은 영어로 a traditional Korean house입니다.",
+    "explanation": "한옥은 한국의 전통 집이므로 “a traditional Korean house”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -170,7 +170,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "traditional Korean music은 한국의 전통 음악인 판소리(pansori)를 설명하므로 소리꾼과 고수 그림이 정답입니다.",
+    "explanation": "“traditional Korean music”은 한국의 전통 음악이라는 뜻이에요. 판소리를 하는 그림이 알맞아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -214,7 +214,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "a traditional Korean hat은 한국의 전통 모자인 갓(gat)을 뜻합니다.",
+    "explanation": "“a traditional Korean hat”은 한국의 전통 모자라는 뜻이에요. 갓 그림이 알맞아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -258,7 +258,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "yunnori는 a traditional Korean board game, minhwa는 a traditional Korean painting, talchum은 a traditional Korean dance입니다.",
+    "explanation": "윷놀이는 한국의 전통 놀이예요. “a traditional Korean board game”으로 설명할 수 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -302,7 +302,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "어떤 대상에 대해 알고 있는지 물을 때는 Do you know anything about ~?라고 말합니다.",
+    "explanation": "지게에 대해 아는 것이 있는지 물을 때는 “Do you know anything about jige?”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -355,7 +355,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "Do you ~?로 물었고 뒤에 한옥을 정확히 설명했으므로 긍정 응답인 Yes, I do.가 알맞습니다.",
+    "explanation": "“Do you ~?”라고 물었을 때 안다고 답하면 “Yes, I do.”라고 해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -408,7 +408,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "어떤 것에 대해 전혀 모른다고 표현할 때는 No, I don't. 뒤에 I have no idea.를 이어 말합니다.",
+    "explanation": "“I have no idea.”는 전혀 모르겠다는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u12:g02"
@@ -452,7 +452,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "p.180 Build Language에서 보듯 music은 셀 수 없는 명사라 a를 붙이지 않고(It is traditional Korean music.), hat은 단수 가산 명사라 a를 붙입니다(It is a traditional Korean hat.).",
+    "explanation": "“music”은 셀 수 없는 명사라 앞에 a를 붙이지 않아요. 모자 한 개를 뜻하는 “hat” 앞에는 a를 붙여요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -496,7 +496,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "p.173 학습 팁 'know를 읽을 때 n 앞의 k는 발음하지 않아요.'처럼 k는 묵음입니다.",
+    "explanation": "“know”에서 첫 글자 k는 발음하지 않아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -540,7 +540,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "p.177 Sounds 'The station is in good condition. It shows the Korean tradition.'에서 station, condition, tradition이 -tion으로 끝납니다.",
+    "explanation": "“tradition”은 tion으로 끝나는 단어예요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -584,7 +584,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "'전통적인'의 바른 철자는 tradition + al = t-r-a-d-i-t-i-o-n-a-l(traditional)입니다.",
+    "explanation": "전통적이라는 뜻의 영어 단어는 “traditional”이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -628,7 +628,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "관사(a) + traditional + Korean + 명사(house) 순서로 배열해 It is a traditional Korean house.가 됩니다.",
+    "explanation": "“It is a traditional Korean house.”는 한국의 전통 집이라는 뜻이에요. a 뒤에 traditional Korean house를 써요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -672,7 +672,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "공공 미술은 박물관 안이 아니라(not in a museum) 모든 사람을 위해 공원·정원·거리 등 야외(outside for everyone)에 있는 미술입니다.",
+    "explanation": "글에서는 공공 미술이 모두를 위해 공원이나 정원, 거리 같은 야외에 있다고 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -716,7 +716,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "본문에 Puppy sits in front of the Guggenheim Museum.(구겐하임 박물관 앞에 앉아 있다.)이라고 나와 있습니다.",
+    "explanation": "“in front of”는 ‘~ 앞에’라는 뜻이에요. Puppy는 구겐하임 박물관 앞에 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -760,7 +760,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "Cloud Gate는 콩처럼 생겨 'The Bean'이라 불리며, 앞에 서면 자신의 모습과 주변 도시 풍경이 표면에 비쳐 보입니다.",
+    "explanation": "Cloud Gate는 콩처럼 생겨 The Bean이라고 불려요. 앞에 서면 자신과 주변 도시가 비쳐 보여요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -804,7 +804,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "스페인의 Puppy는 박물관 안(in the museum)이 아니라 구겐하임 박물관 앞(in front of the Guggenheim Museum) 야외에 있으므로 2번이 일치하지 않습니다.",
+    "explanation": "Puppy는 박물관 안이 아니라 구겐하임 박물관 앞에 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -848,7 +848,7 @@
     "answer": {
       "choiceId": "c3"
     },
-    "explanation": "글에는 탈춤이 선한 사람들과 사랑 이야기(good people and love)를 다루며 매우 재미있다(very funny)고 나와 있으므로 무섭고 슬픈 전쟁 이야기만 다룬다는 3번은 불일치합니다.",
+    "explanation": "글에서는 탈춤이 선한 사람과 사랑 이야기를 다루고 매우 재미있다고 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -892,7 +892,7 @@
     "answer": {
       "choiceId": "c4"
     },
-    "explanation": "글쓴이는 어제 한옥을 방문했고(visited a hanok) 그곳에서 판소리를 보았다(watched pansori there)고 썼습니다.",
+    "explanation": "글쓴이는 어제 한옥을 방문해 그곳에서 판소리를 감상했다고 했어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -936,7 +936,7 @@
     "answer": {
       "choiceId": "c1"
     },
-    "explanation": "B는 한옥(hanok) 질문에는 Yes, I do.라고 답했고, 지게(jige) 질문에는 No, I don't. I have no idea.라고 답했습니다.",
+    "explanation": "B는 한옥에 대해서는 “Yes, I do.”, 지게에 대해서는 “No, I don't.”라고 답했어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -980,7 +980,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "p.183 문화 자료에 따르면 스페인은 플라멩코, 필리핀은 티니클링, 칠레는 쿠에카가 전통 춤입니다.",
+    "explanation": "소개된 전통 춤 중 쿠에카는 칠레의 춤이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -999,7 +999,7 @@
     "answer": {
       "value": false
     },
-    "explanation": "I have no idea.는 '전혀 모르겠어.'라고 모름을 나타내는 표현이므로 거짓입니다.",
+    "explanation": "“I have no idea.”는 잘 알고 있다는 말이 아니라 전혀 모르겠다는 뜻이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1018,7 +1018,7 @@
     "answer": {
       "value": true
     },
-    "explanation": "본문(p.179)에 Just stand in front of Cloud Gate. You can see yourself and the city around you.라고 나와 있으므로 참입니다.",
+    "explanation": "글에서는 Cloud Gate 앞에 서면 자신과 주변 도시 풍경을 볼 수 있다고 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1037,7 +1037,7 @@
     "answer": {
       "text": "carrier"
     },
-    "explanation": "지게는 물건을 나르는 운반 도구이므로 a traditional Korean carrier가 됩니다.",
+    "explanation": "“carrier”는 물건을 나르는 도구라는 뜻이에요. 지게를 설명할 때 써요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u12:g01"
@@ -1056,7 +1056,7 @@
     "answer": {
       "text": "idea"
     },
-    "explanation": "'전혀 모르겠어.'는 I have no idea.이므로 빈칸에는 idea가 들어갑니다.",
+    "explanation": "“I have no idea.”는 ‘전혀 모르겠어.’라는 뜻이므로 빈칸에는 “idea”가 들어가요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": "eng6-ybm-kim-u12:g02"
@@ -1075,7 +1075,7 @@
     "answer": {
       "text": "Korea"
     },
-    "explanation": "p.183 Final Check 완성 단어는 K-o-r-e-a(Korea)입니다.",
+    "explanation": "한국을 영어로 나타내는 이름은 “Korea”예요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1094,7 +1094,7 @@
     "answer": {
       "text": "know"
     },
-    "explanation": "'알다'를 뜻하는 동사는 묵음 k가 들어간 know입니다.",
+    "explanation": "‘알다’는 영어로 “know”라고 해요. 첫 글자 k는 발음하지 않아요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1113,7 +1113,7 @@
     "answer": {
       "value": true
     },
-    "explanation": "Puppy is bigger than a house. It is colorful and it cannot move.라는 내용과 일치하므로 O입니다.",
+    "explanation": "글에서는 Puppy가 집보다 크고 색이 다양하며 움직이지 않는다고 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1132,7 +1132,7 @@
     "answer": {
       "value": false
     },
-    "explanation": "I see.는 상대방의 설명을 듣고 '알겠어, 그렇구나.'라고 이해했음을 나타낼 때 쓰는 표현이므로 거짓입니다.",
+    "explanation": "“I see.”는 상대의 말을 듣고 ‘알겠어, 그렇구나.’라고 이해했음을 나타내는 말이에요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1176,7 +1176,7 @@
     "answer": {
       "choiceId": "c2"
     },
-    "explanation": "영어 글에 Puppy는 Bilbao(스페인), Cloud Gate는 Chicago(미국)에 있다고 나와 있으므로 정답은 c2입니다.",
+    "explanation": "Puppy는 스페인의 빌바오에 있고 Cloud Gate는 미국의 시카고에 있어요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null
@@ -1195,7 +1195,7 @@
     "answer": {
       "text": "dance"
     },
-    "explanation": "183쪽 문화 퀴즈 'It's a traditional Spanish dance.'처럼 '춤'은 영어로 dance입니다.",
+    "explanation": "“dance”는 춤이라는 뜻이에요. 플라멩코는 “a traditional Spanish dance”로 설명해요.",
     "accepted": [],
     "source": "교과서 기반 후보",
     "group": null

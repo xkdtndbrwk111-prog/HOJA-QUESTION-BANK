@@ -17,8 +17,8 @@
   },
   "mediaAssets": 5,
   "archive": "HOJA_SCI5_S2_U4_COMMON_APPROVED_20261121_r1.zip",
-  "archiveBytes": 665332,
-  "archiveSha256": "7b711e6d2d29e77152b49958b9bfe22690e1b297a45edd3828cb56270b8b7fae",
+  "archiveBytes": 661112,
+  "archiveSha256": "889ea0ed0d0fbf47d376a0fec4e0fa479365164d575a84cdd2d863d9fb7a89dc",
   "sourceCandidate": "sci5-s2-u4-common-rev3-candidate-v0.3.0-rc9.1.zip",
   "sourceCandidateSha256": "e6142ff7904dbf9de01ba8a8979ee4ff4e7e40cc6c5afd6eb35c5a3e36587a0c",
   "effectiveCartridge": "effective/cartridge.json",
@@ -27,5 +27,13 @@
   "reviewRendererVersion": "v0.1.0-preview.2 science approved presentation",
   "liveGameTest": "NOT_RUN",
   "actualElectronicBoardTest": "NOT_RUN",
-  "notes": "Content approved; game not deployed. Outer approval evidence is release/approval.json, while effective/cartridge.json preserves source reviewStatus pending."
+  "notes": "Content approved; game not deployed. Outer approval evidence is release/approval.json, while effective/cartridge.json preserves source reviewStatus pending.",
+  "reviewedPresentationSha256": "ab398a6313df72e5c92a9250f27ddf1b98e2c8a4d40752b71a35ec8606913341",
+  "gitBlobSha": "e1305057cb66868271e3eca10a260d210d018d3d",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

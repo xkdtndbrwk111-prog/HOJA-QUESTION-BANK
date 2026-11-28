@@ -33,5 +33,13 @@
     "Existing HD24/FHD63 warning flags",
     "No complete 4K sweep",
     "Not connected to operating game"
-  ]
+  ],
+  "approvedDataSHA256": "569a15cc9c5f898642def5c0cf55714d678af3f648d942e5642686ff4008d558",
+  "approvedPresentationSHA256": "f8527b894ddd646fd8791b5a4ecbf0cba35ccf16f4113e9a151b3df93aa34830",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

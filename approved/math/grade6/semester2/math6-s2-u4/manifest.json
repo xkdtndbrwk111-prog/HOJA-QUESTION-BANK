@@ -13,13 +13,19 @@
   },
   "assets": 5,
   "archive": "HOJA_MATH6_S2_U4_APPROVED_20261122_r1.zip",
-  "archiveBytes": 119040,
-  "archiveSha256": "b9d3a7bf9b720df14c5092f9fb7ce84f2157d9d79b1d5dbf9ed908a76c22489e",
-  "gitBlobSha": "e31acf18987df29afec5fad9a4a7a3971f292de2",
+  "archiveBytes": 118914,
+  "archiveSha256": "19004d797f3a13f258e5be566c45329f380428e6c325b368c4b9359627fbf62d",
+  "gitBlobSha": "46f26b7586576ac427e73de267a1906bd1de8bc4",
   "effectiveCartridge": "effective/cartridge.json",
   "effectiveAssets": "effective/assets/",
   "approvedRenderTags": "presentation/render-tags.approved.json",
   "displayPreferences": "presentation/layout-preferences.json",
   "reviewedPresentation": "approved/math/grade5-6/semester2/HOJA_MATH_187_APPROVED_REVIEW_UI4_20261122.html",
-  "reviewedPresentationSha256": "a85650c87ee93b6a2ed24c79f8dfa4df950c26d5ddfccbaf35f0c9ee02d669a5"
+  "reviewedPresentationSha256": "2452fe44727461a2d8768356c76c5077ecb25b772b997eb1aba802c222e48291",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }

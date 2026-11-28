@@ -16,11 +16,11 @@
     "team": 28
   },
   "archive": "HOJA_KOR5_S2_U6_MOM_APPROVED_20261126_r1.zip",
-  "bytes": 377750,
-  "sha256": "879a15ab40fe8b74222abb8f6b8fe4dc272c7da06379add10e70660f7ea37992",
+  "bytes": 249756,
+  "sha256": "3ca4605fa9e5771a2dd848980ea05df854718c369d33d725de6aa832683d4305",
   "effectiveCartridge": "effective/cartridge.json",
   "reviewedPresentation": "presentation/renderer-data.html",
-  "reviewedPresentationSha256": "1b8db1c815a423ef8fd486539eb0b1d71e61cd48a31ea9dc35e170032e1ef16d",
+  "reviewedPresentationSha256": "05ae817151493ede37cd92c4c923ea7d0ccf969e7769fed294b32fc1a58fd538",
   "sourceCandidateSha256": "cc48e3bf1e7c78a5243ab5a3a23bd7aca29b5a1d8a673a51cab73b316eb84fca",
   "layouts": {
     "A": 16,
@@ -32,5 +32,12 @@
     "교사 요청에 따라 기존 검수 문항·해설·이미지 보존",
     "renderer-v2 데이터 파일은 실제 검수 HTML에서 사용된 데이터의 정본; UI 자체는 게임 공통 렌더러로 제공",
     "승인 등록과 운영 배포 구분"
-  ]
+  ],
+  "gitBlobSha": "2a1d77f6c4db5a68c8ab359ac3a63e406bdf6e3b",
+  "explanationRevision": {
+    "approvedDate": "2026-11-28",
+    "scope": "explanations only",
+    "approvalRecord": "workflow/student-explanations-20261128-teacher-approval.json",
+    "priorCandidateCommit": "c3d87ab8c14e3f917f002e2c43f2560d5e301e41"
+  }
 }
