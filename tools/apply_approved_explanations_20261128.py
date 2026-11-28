@@ -85,7 +85,9 @@ for p in sorted(R.glob('approved/**/manifest.json')):
         mark(m);write(p,m);continue
     if 'archive' not in m:continue
     a=p.parent/m['archive'];oldraw=a.read_bytes()
-    assert sha(oldraw)==m['archiveSha256']
+    hashkey='archiveSha256' if 'archiveSha256' in m else 'sha256'
+    sizekey='archiveBytes' if 'archiveBytes' in m else 'bytes'
+    assert sha(oldraw)==m[hashkey] and len(oldraw)==m[sizekey]
     old=unpack(oldraw);d=old.copy(); ap=json.loads(d['release/approval.json'])
     if 'effective/cartridge.json' in d:
         n='effective/cartridge.json'; cart=json.loads(d[n]);patch(cart['questions'],'explanation',source_seen);d[n]=jb(cart)
@@ -132,11 +134,11 @@ for p in sorted(R.glob('approved/**/manifest.json')):
     d['release/approval.json']=jb(mark(ap))
     update_table(d,old)
     new=pack(d);a.write_bytes(new)
-    m['archiveSha256']=sha(new);m['archiveBytes']=len(new);m['gitBlobSha']=blob(new)
+    m[hashkey]=sha(new);m[sizekey]=len(new);m['gitBlobSha']=blob(new)
     mark(m);write(p,m)
     if 'math' in p.parts:math_hash[m['id']]=m['archiveSha256']
     if 'science' in p.parts:science_hash[m['id']]=(sha(oldraw),sha(new))
-    print('REBUILT',str(p),m['archiveSha256'])
+    print('REBUILT',str(p),m[hashkey])
 assert source_seen==collections.Counter({k:1 for k in edits}),source_seen
 assert all(view_seen[k]==(1 if '-ham-' in k else 2) for k in edits),view_seen
 p=R/'approved/math/manifest.json';m=read(p)
